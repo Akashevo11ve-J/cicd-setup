@@ -5,9 +5,8 @@ import os
 from datetime import datetime
 from pymongo import MongoClient
 
-SERVER_IP     = os.environ.get("SERVER_IP")
-EXPLORE_BASE  = f"http://{SERVER_IP}:7041"
-PRACTICE_BASE = f"http://{SERVER_IP}:7042"
+EXPLORE_BASE  = "https://development.evo11ve.ai/explore"
+PRACTICE_BASE = "https://development.evo11ve.ai/practice"
 
 MONGO_URL  = os.environ.get("MONGO_DB_URI")
 test_col   = MongoClient(MONGO_URL)["db"]["test_git"]
