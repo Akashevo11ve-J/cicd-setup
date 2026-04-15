@@ -1,0 +1,308 @@
+chapter_no,key_ideas,subject,grade,chapter_name
+1,The Structure and States of Matter,Physics,10,States of Matter
+1,Kinetic Particle Theory,Physics,10,States of Matter
+1,Changes of State,Physics,10,States of Matter
+1,Effects of Temperature and Pressure on Gases,Physics,10,States of Matter
+1,Diffusion,Physics,10,States of Matter
+10,Properties of Metals,Physics,10,Metals
+10,Reactivity of Metals,Physics,10,Metals
+10,Displacement Reactions,Physics,10,Metals
+10,Identifying Metal Ions,Physics,10,Metals
+10,Extraction of Metals,Physics,10,Metals
+10,Metal Corrosion and Prevention,Physics,10,Metals
+10,Alloys,Physics,10,Metals
+11,"Water: Properties, Pollution, and Treatment",Physics,10,Chemistry of the environment
+11,Artificial Fertilisers,Physics,10,Chemistry of the environment
+11,The Air and Its Composition,Physics,10,Chemistry of the environment
+11,Atmospheric Pollution and Climate Change,Physics,10,Chemistry of the environment
+12,Alkanes,Physics,10,Organic chemistry 1
+12,Chemical Properties of Alkanes,Physics,10,Organic chemistry 1
+12,Alkenes,Physics,10,Organic chemistry 1
+12,Chemical Properties of Alkenes,Physics,10,Organic chemistry 1
+12,Polymers and Addition Polymerisation,Physics,10,Organic chemistry 1
+12,Environmental Issues with Plastics,Physics,10,Organic chemistry 1
+13,Alcohols,Physics,10,Organic chemistry 2
+13,Manufacture of Ethanol,Physics,10,Organic chemistry 2
+13,Carboxylic Acids,Physics,10,Organic chemistry 2
+13,Esters,Physics,10,Organic chemistry 2
+13,Condensation Polymers,Physics,10,Organic chemistry 2
+13,Natural Polyamides (Proteins),Physics,10,Organic chemistry 2
+14,Apparatus for Measurement,Physics,10,Experimental techniques and chemical analysis
+14,Separating Mixtures,Physics,10,Experimental techniques and chemical analysis
+14,Purity of Substances,Physics,10,Experimental techniques and chemical analysis
+14,Qualitative Analysis,Physics,10,Experimental techniques and chemical analysis
+2,Elements,Physics,10,"Atoms, Elements and Compounds"
+2,Molecules,Physics,10,"Atoms, Elements and Compounds"
+2,Compounds,Physics,10,"Atoms, Elements and Compounds"
+2,Oxidation and Reduction (Redox Reactions),Physics,10,"Atoms, Elements and Compounds"
+2,Mixtures,Physics,10,"Atoms, Elements and Compounds"
+2,Inside Atoms (Atomic Structure),Physics,10,"Atoms, Elements and Compounds"
+2,Ions,Physics,10,"Atoms, Elements and Compounds"
+2,Isotopes,Physics,10,"Atoms, Elements and Compounds"
+2,Relative Atomic Mass,Physics,10,"Atoms, Elements and Compounds"
+2,Arrangement of Electrons in Atoms (Electronic Configuration),Physics,10,"Atoms, Elements and Compounds"
+3,Ionic Bonding,Physics,10,Bonding and Structure
+3,Redox Reactions and Oxidation Numbers,Physics,10,Bonding and Structure
+3,Covalent Bonding,Physics,10,Bonding and Structure
+3,Properties and Structures of Covalent and Ionic Compounds,Physics,10,Bonding and Structure
+3,Metallic Bonding,Physics,10,Bonding and Structure
+3,"Allotropy and Giant Structures (Diamond, Graphite, Fullerene, Glasses & Ceramics)",Physics,10,Bonding and Structure
+4,Relative Atomic and Molecular Mass,Physics,10,Stoichiometry – Chemical Calculations
+4,"The Mole, Avogadro's Constant, and Moles in Calculations",Physics,10,Stoichiometry – Chemical Calculations
+4,"Moles in Compounds, Gases, and Solutions",Physics,10,Stoichiometry – Chemical Calculations
+4,Calculating Formulae (Empirical and Molecular),Physics,10,Stoichiometry – Chemical Calculations
+4,Moles and Chemical Equations,Physics,10,Stoichiometry – Chemical Calculations
+4,"Percentage Yield, Composition, and Purity",Physics,10,Stoichiometry – Chemical Calculations
+5,Electricity and Chemistry,Physics,10,Electrochemistry
+5,Electrolysis of Lead(II) Bromide,Physics,10,Electrochemistry
+5,Electrolysis of Aluminium Oxide,Physics,10,Electrochemistry
+5,Electrolysis of Aqueous Solutions,Physics,10,Electrochemistry
+5,Electrolysis of Copper(II) Sulfate and Purification of Copper,Physics,10,Electrochemistry
+5,Fuel Cells,Physics,10,Electrochemistry
+5,Electroplating,Physics,10,Electrochemistry
+6,Substances from Petroleum,Physics,10,Chemical Energetics
+6,Fossil Fuels,Physics,10,Chemical Energetics
+6,Fuels and Combustion,Physics,10,Chemical Energetics
+6,Alternative Energy Sources,Physics,10,Chemical Energetics
+6,Exothermic and Endothermic Reactions,Physics,10,Chemical Energetics
+6,Enthalpy Change and Bond Energies,Physics,10,Chemical Energetics
+7,Physical and Chemical Changes,Physics,10,Chemical Reactions
+7,Factors Affecting Rate of Reaction,Physics,10,Chemical Reactions
+7,Collision Theory,Physics,10,Chemical Reactions
+7,Measuring Rate of Reaction,Physics,10,Chemical Reactions
+7,Effect of Surface Area,Physics,10,Chemical Reactions
+7,Effect of Concentration and Pressure,Physics,10,Chemical Reactions
+7,Effect of Temperature,Physics,10,Chemical Reactions
+7,Catalysts and Enzymes,Physics,10,Chemical Reactions
+7,Reversible Reactions and Equilibrium,Physics,10,Chemical Reactions
+7,Industrial Chemical Manufacture (Haber and Contact Processes),Physics,10,Chemical Reactions
+8,Properties of Acids and Alkalis,Physics,10,"Acids, bases and salts"
+8,Oxides and Neutralisation Reactions,Physics,10,"Acids, bases and salts"
+8,Preparation of Soluble Salts,Physics,10,"Acids, bases and salts"
+8,Preparation of Insoluble Salts,Physics,10,"Acids, bases and salts"
+8,Testing for Anions,Physics,10,"Acids, bases and salts"
+8,Water of Crystallisation,Physics,10,"Acids, bases and salts"
+8,Titration and Calculations,Physics,10,"Acids, bases and salts"
+9,Development of the Periodic Table,Physics,10,The Periodic Table
+9,Electronic Configuration and the Periodic Table,Physics,10,The Periodic Table
+9,Group I – The Alkali Metals,Physics,10,The Periodic Table
+9,Group VII – The Halogens,Physics,10,The Periodic Table
+9,Group VIII – The Noble Gases,Physics,10,The Periodic Table
+9,Transition Elements,Physics,10,The Periodic Table
+9,The Position of Hydrogen,Physics,10,The Periodic Table
+1,Physical quantities and measurement techniques,Physics,10,"Motion, forces and energy"
+1,Motion,Physics,10,"Motion, forces and energy"
+1,Mass and weight,Physics,10,"Motion, forces and energy"
+1,Density,Physics,10,"Motion, forces and energy"
+1,Forces,Physics,10,"Motion, forces and energy"
+1,Momentum,Physics,10,"Motion, forces and energy"
+1,"Energy, work and power",Physics,10,"Motion, forces and energy"
+1,Pressure,Physics,10,"Motion, forces and energy"
+2,Kinetic Particle Model of Matter,Physics,10,Thermal physics
+2,Thermal Properties and Temperature,Physics,10,Thermal physics
+2,Transfer of Thermal Energy,Physics,10,Thermal physics
+3,General properties of waves,Physics,10,Waves
+3,Light,Physics,10,Waves
+3,Electromagnetic spectrum,Physics,10,Waves
+3,Sound,Physics,10,Waves
+4,Simple phenomena of magnetism,Physics,10,Electricity and magnetism
+4,Electrical quantities,Physics,10,Electricity and magnetism
+4,Electric circuits,Physics,10,Electricity and magnetism
+4,Electrical safety,Physics,10,Electricity and magnetism
+4,Electromagnetic effects,Physics,10,Electricity and magnetism
+5,The Nuclear Model of the Atom,Physics,10,Nuclear physics
+5,Radioactivity,Physics,10,Nuclear physics
+6,The Earth and Moon System,Physics,10,Space physics
+6,The Solar System,Physics,10,Space physics
+6,Stars and the Universe,Physics,10,Space physics
+1,Square numbers and cube numbers,Math,10,Number
+1,Multiples of whole numbers,Math,10,Number
+1,Factors of whole numbers,Math,10,Number
+1,Prime numbers,Math,10,Number
+1,Prime factorisation,Math,10,Number
+1,Finding the HCF and LCM,Math,10,Number
+1,Rational and irrational numbers,Math,10,Number
+10,Units of measurement,Math,10,Applying number and using calculators
+10,Converting between metric units,Math,10,Applying number and using calculators
+10,Time,Math,10,Applying number and using calculators
+10,Currency conversions,Math,10,Applying number and using calculators
+10,Using a calculator efficiently,Math,10,Applying number and using calculators
+11,The language of algebra,Math,10,Algebraic representation and formulas
+11,Substitution into formulas,Math,10,Algebraic representation and formulas
+11,Rearranging formulas,Math,10,Algebraic representation and formulas
+11,More complicated formulas,Math,10,Algebraic representation and formulas
+12,Simplifying expressions,Math,10,Algebraic manipulation
+12,Expanding brackets,Math,10,Algebraic manipulation
+12,Factorisation,Math,10,Algebraic manipulation
+12,Multiplying two brackets,Math,10,Algebraic manipulation
+12,Expanding three brackets,Math,10,Algebraic manipulation
+12,Quadratic factorisation,Math,10,Algebraic manipulation
+12,Algebraic fractions,Math,10,Algebraic manipulation
+13,Solving linear equations,Math,10,Equations and inequalities
+13,Setting up equations,Math,10,Equations and inequalities
+13,Solving quadratic equations by factorisation,Math,10,Equations and inequalities
+13,Solving quadratic equations by the quadratic formula,Math,10,Equations and inequalities
+13,Solving quadratic equations by completing the square,Math,10,Equations and inequalities
+13,Fractional equations,Math,10,Equations and inequalities
+13,Simultaneous equations,Math,10,Equations and inequalities
+13,Linear and non-linear simultaneous equations,Math,10,Equations and inequalities
+13,Representing inequalities,Math,10,Equations and inequalities
+13,Solving inequalities,Math,10,Equations and inequalities
+14,Conversion graphs,Math,10,Graphs in practical situations
+14,Travel graphs,Math,10,Graphs in practical situations
+14,Speed-time graphs,Math,10,Graphs in practical situations
+14,Curved graphs,Math,10,Graphs in practical situations
+15,Drawing straight-line graphs,Math,10,Straight-line graphs
+15,The equation y = mx + c,Math,10,Straight-line graphs
+15,More about straight-line graphs,Math,10,Straight-line graphs
+15,Solving equations graphically,Math,10,Straight-line graphs
+15,Parallel lines,Math,10,Straight-line graphs
+15,Points and lines,Math,10,Straight-line graphs
+15,Perpendicular lines,Math,10,Straight-line graphs
+16,Quadratic graphs,Math,10,Graphs of functions
+16,Solving equations graphically,Math,10,Graphs of functions
+16,Turning points on a quadratic graph,Math,10,Graphs of functions
+16,Reciprocal graphs,Math,10,Graphs of functions
+16,More graphs,Math,10,Graphs of functions
+16,Square root graphs,Math,10,Graphs of functions
+16,Exponential graphs,Math,10,Graphs of functions
+16,Estimating gradients,Math,10,Graphs of functions
+17,Patterns in number sequences,Math,10,Number sequences
+17,The nth term of a sequence,Math,10,Number sequences
+17,General rules from patterns,Math,10,Number sequences
+17,Further sequences,Math,10,Number sequences
+18,Using indices,Math,10,Indices
+18,Negative indices,Math,10,Indices
+18,Multiplying and dividing with indices,Math,10,Indices
+18,Fractional indices,Math,10,Indices
+19,Direct proportion,Math,10,Proportion
+19,Inverse proportion,Math,10,Proportion
+2,Equivalent fractions,Math,10,"Fractions, decimals and percentages"
+2,Fractions and decimals,Math,10,"Fractions, decimals and percentages"
+2,Recurring decimals,Math,10,"Fractions, decimals and percentages"
+2,"Converting percentages, fractions and decimals",Math,10,"Fractions, decimals and percentages"
+2,Calculating a percentage,Math,10,"Fractions, decimals and percentages"
+2,Increasing or decreasing quantities by a percentage,Math,10,"Fractions, decimals and percentages"
+2,One quantity as a percentage of another,Math,10,"Fractions, decimals and percentages"
+2,Simple interest and compound interest,Math,10,"Fractions, decimals and percentages"
+2,A formula for compound interest,Math,10,"Fractions, decimals and percentages"
+2,Reverse percentage,Math,10,"Fractions, decimals and percentages"
+20,Graphical inequalities,Math,10,Regions
+20,More than one inequality,Math,10,Regions
+21,Function Notation,Math,10,Functions
+21,Domain and Range,Math,10,Functions
+21,Inverse Functions,Math,10,Functions
+21,Composite Functions,Math,10,Functions
+22,The gradient of a curve,Math,10,Differentiation
+22,More complex curves,Math,10,Differentiation
+22,Turning points,Math,10,Differentiation
+23,Angle facts,Math,10,Angle properties
+23,Parallel lines,Math,10,Angle properties
+23,Angles in a triangle,Math,10,Angle properties
+23,Angles in a quadrilateral,Math,10,Angle properties
+23,Regular polygons,Math,10,Angle properties
+23,Irregular polygons,Math,10,Angle properties
+23,Tangents and diameters,Math,10,Angle properties
+23,Angles in a circle,Math,10,Angle properties
+23,Cyclic quadrilaterals,Math,10,Angle properties
+23,Alternate segment theorem,Math,10,Angle properties
+24,Measuring and drawing angles,Math,10,Geometrical terms and relationships
+24,Bearings,Math,10,Geometrical terms and relationships
+24,Nets,Math,10,Geometrical terms and relationships
+24,Congruent shapes,Math,10,Geometrical terms and relationships
+24,Similar shapes,Math,10,Geometrical terms and relationships
+24,Areas of similar shapes,Math,10,Geometrical terms and relationships
+24,Areas and volumes of similar solids,Math,10,Geometrical terms and relationships
+25,Constructing shapes,Math,10,Geometrical constructions
+25,Scale drawings,Math,10,Geometrical constructions
+26,Pythagoras' theorem,Math,10,Trigonometry
+26,Trigonometric ratios,Math,10,Trigonometry
+26,Calculating angles,Math,10,Trigonometry
+26,"Using sine, cosine and tangent functions",Math,10,Trigonometry
+26,Which ratio to use,Math,10,Trigonometry
+26,Exact values of trigonometric functions,Math,10,Trigonometry
+26,Applications of trigonometric ratios,Math,10,Trigonometry
+26,Problems in three dimensions,Math,10,Trigonometry
+26,Sine and cosine of obtuse angles,Math,10,Trigonometry
+26,The sine rule and the cosine rule,Math,10,Trigonometry
+26,Using sine to find the area of a triangle,Math,10,Trigonometry
+26,"Sine, cosine and tangent of any angle",Math,10,Trigonometry
+27,Perimeter and Area of a Rectangle,Math,10,Mensuration
+27,Area of a Triangle,Math,10,Mensuration
+27,Area of a Parallelogram,Math,10,Mensuration
+27,Area of a Trapezium,Math,10,Mensuration
+27,Circumference and Area of a Circle,Math,10,Mensuration
+27,Surface Area and Volume of a Cuboid,Math,10,Mensuration
+27,Volume and Surface Area of a Prism,Math,10,Mensuration
+27,Volume and Surface Area of a Cylinder,Math,10,Mensuration
+27,Sectors and Arcs,Math,10,Mensuration
+27,Volume of a Pyramid,Math,10,Mensuration
+27,Volume and Surface Area of a Cone,Math,10,Mensuration
+27,Volume and Surface Area of a Sphere,Math,10,Mensuration
+28,Lines of symmetry,Math,10,Symmetry
+28,Rotational symmetry,Math,10,Symmetry
+28,Symmetry of special shapes in two dimensions,Math,10,Symmetry
+28,Symmetry in three dimensions,Math,10,Symmetry
+28,Symmetry in circles,Math,10,Symmetry
+29,Translations,Math,10,Transformations
+29,Reflections,Math,10,Transformations
+29,Rotations,Math,10,Transformations
+29,Enlargements,Math,10,Transformations
+29,Combined Transformations,Math,10,Transformations
+3,Order of operations,Math,10,The four operations
+3,Choosing the correct operation,Math,10,The four operations
+3,Finding a fraction of a quantity,Math,10,The four operations
+3,Adding and subtracting fractions,Math,10,The four operations
+3,Multiplying and dividing fractions,Math,10,The four operations
+30,Introduction to vectors,Math,10,Vectors
+30,Using vectors,Math,10,Vectors
+30,The magnitude of a vector,Math,10,Vectors
+31,Frequency tables,Math,10,Statistical representation
+31,Pictograms,Math,10,Statistical representation
+31,Bar charts,Math,10,Statistical representation
+31,Pie charts,Math,10,Statistical representation
+31,Scatter diagrams,Math,10,Statistical representation
+31,Histograms,Math,10,Statistical representation
+32,The Mode,Math,10,Statistical measures
+32,The Median,Math,10,Statistical measures
+32,The Mean,Math,10,Statistical measures
+32,The Range,Math,10,Statistical measures
+32,Which average to use,Math,10,Statistical measures
+32,Stem-and-leaf diagrams,Math,10,Statistical measures
+32,Using frequency tables,Math,10,Statistical measures
+32,Grouped data,Math,10,Statistical measures
+33,The probability scale,Math,10,Probability
+33,Calculating probabilities,Math,10,Probability
+33,Probability that an event will not happen,Math,10,Probability
+33,Probability in practice,Math,10,Probability
+33,Using Venn diagrams,Math,10,Probability
+33,Probability notation,Math,10,Probability
+33,Sample space diagrams,Math,10,Probability
+33,Tree diagrams,Math,10,Probability
+33,Conditional probability,Math,10,Probability
+4,Introduction to Negative Numbers and the Number Line,Math,10,Negative numbers
+4,Everyday Use of Negative Numbers,Math,10,Negative numbers
+4,Adding and Subtracting with Negative Numbers,Math,10,Negative numbers
+4,Multiplying and Dividing with Negative Numbers,Math,10,Negative numbers
+5,Squares and square roots,Math,10,Powers and roots
+5,Cubes and cube roots,Math,10,Powers and roots
+5,More powers and roots,Math,10,Powers and roots
+5,Exponential growth and decay,Math,10,Powers and roots
+6,Inequalities,Math,10,Ordering and set notation
+6,Sets and Venn diagrams,Math,10,Ordering and set notation
+6,More about Venn diagrams,Math,10,Ordering and set notation
+7,Ratio,Math,10,"Ratio, proportion and rate"
+7,Speed,Math,10,"Ratio, proportion and rate"
+7,Rates,Math,10,"Ratio, proportion and rate"
+7,Proportion,Math,10,"Ratio, proportion and rate"
+8,Rounding whole numbers,Math,10,Estimation and limits of accuracy
+8,Rounding decimals,Math,10,Estimation and limits of accuracy
+8,Significant figures,Math,10,Estimation and limits of accuracy
+8,Estimating answers to calculations,Math,10,Estimation and limits of accuracy
+8,Upper and lower bounds,Math,10,Estimation and limits of accuracy
+8,Upper and lower bounds for calculations,Math,10,Estimation and limits of accuracy
+9,Standard form,Math,10,Standard form and surds
+9,Calculating with standard form,Math,10,Standard form and surds
+9,Standard form without a calculator,Math,10,Standard form and surds
+9,Surds,Math,10,Standard form and surds
+9,Rationalising the denominator,Math,10,Standard form and surds

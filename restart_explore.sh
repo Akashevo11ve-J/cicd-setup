@@ -24,14 +24,13 @@ srilankan_explore_mode_v1:app \
 --loop uvloop \
 --http httptools \
 > explore.log 2>&1 &
-
+nohup /home/ubuntu/anaconda3/envs/myenv/bin/uvicorn srilankan_practice_mode_v2:app --host 0.0.0.0 --port 7042 --workers 2 --loop uvloop --http httptools > practice.log 2>&1 &
 sleep 2
 
 # Verify
 echo ""
 echo "✅ Running processes:"
-ps aux | grep '[u]vicorn.*srilankan_explore_mode_v1'
-
+ps aux | grep -E '[u]vicorn|[g]unicorn|main.py'
 echo ""
 echo "🌐 Port check:"
 netstat -tuln | grep 7041
