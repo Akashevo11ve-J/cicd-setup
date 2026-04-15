@@ -3,10 +3,10 @@ name: API Test and Deploy
 on:
   push:
     branches:
-      - live-dev
+      - main
 
 permissions:
-  contents: write  # needed for git revert + push
+  contents: write
 
 jobs:
 
@@ -31,7 +31,7 @@ jobs:
 
       - name: Save test logs
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: test-logs
           path: test-results.log
@@ -57,7 +57,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download test logs
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: test-logs
 
@@ -92,7 +92,7 @@ jobs:
           server_port: 465
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "Tests PASSED - Pull and Restart Manually"
+          subject: "✅ Tests PASSED - Pull and Restart Manually"
           to: ${{ secrets.NOTIFY_EMAIL }}
           from: CI Bot <${{ secrets.MAIL_USERNAME }}>
           body: |
