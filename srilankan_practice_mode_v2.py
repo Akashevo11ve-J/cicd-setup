@@ -10,7 +10,6 @@ from typing import List, Dict, Optional, Union, Any
 import os
 import pandas as pd
 from pinecone import Pinecone
-from key import KEY
 import openai
 from openai import AsyncOpenAI
 import logging
@@ -68,7 +67,6 @@ db = client["db"]
 collection = db["practice_session"]
 collection_practicehistory = db["practice_history"]
 
-os.environ["OPENAI_API_KEY"] = KEY
 openai.api_key = os.environ["OPENAI_API_KEY"]
 client = AsyncOpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
