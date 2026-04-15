@@ -96,10 +96,4 @@ jobs:
           to: ${{ secrets.NOTIFY_EMAIL }}
           from: CI Bot <${{ secrets.MAIL_USERNAME }}>
           body: |
-            All API tests passed on live-dev.
-
-            Do these steps on your server:
-
-            cd /home/ubuntu/cicd-setup
-            git pull origin live-dev
-            bash restart_explore.sh
+            All API tests passed on.
