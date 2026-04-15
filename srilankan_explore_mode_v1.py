@@ -82,10 +82,6 @@ db = client[DB_NAME]
 collection = db.explore_chat_history
 
 
-# Set up Claude API Key
-#os.environ["ANTHROPIC_API_KEY"] = "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"
-
-
 # Claude client
 claude_client = AsyncAnthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
