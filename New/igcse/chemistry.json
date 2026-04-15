@@ -1,0 +1,760 @@
+[
+  {
+    "grade": 10,
+    "subject": "chemistry",
+    "board": "IGCSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "States of matter",
+        "topics": [
+          "1.1 Solids, liquids and gases",
+          {
+            "1.2 The kinetic particle theory of matter": [
+              "Main points of the theory",
+              "Explaining the states of matter",
+              "Particle arrangement in solids and crystal structure",
+              "Particle arrangement in liquids",
+              "Particle arrangement in gases"
+            ],
+            "description": "This theory explains the physical properties of matter based on the idea that all matter is composed of tiny, constantly moving particles. It posits that particle motion increases with temperature and that these particles are held together by forces of attraction. The theory is used to model the arrangement and movement of particles in solids (vibrating in fixed, regular positions), liquids (moving randomly while remaining close), and gases (moving rapidly and randomly, far apart from each other)."
+          },
+          {
+            "1.3 Changes of state": [
+              "Melting and melting point",
+              "Evaporation and boiling point",
+              "Condensation and freezing",
+              "Heating and cooling curves",
+              "Effect of impurities on melting points"
+            ],
+            "description": "This topic covers the physical transitions between the three states of matter. It explains processes like melting, boiling, evaporation, condensation, and freezing in terms of particle energy and intermolecular forces. Key concepts include melting point and boiling point, where the temperature of a pure substance remains constant during the change. The use of heating and cooling curves to visualize these transitions is also discussed."
+          },
+          "1.4 The effects of temperature and pressure on the volume of a gas",
+          {
+            "1.5 Diffusion": [
+              "Diffusion in gases and liquids",
+              "Rate of diffusion and relative molecular mass"
+            ],
+            "description": "Diffusion is the process by which particles spread out to fill available space, driven by their random motion as described by the kinetic particle theory. The process occurs much faster in gases than in liquids due to the higher speed and greater separation of gas particles. The rate of diffusion of a gas is inversely related to its mass; lighter particles diffuse more quickly than heavier particles at the same temperature."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Atoms, elements and compounds",
+        "topics": [
+          {
+            "2.1 Elements": [
+              "Properties of metals and non-metals",
+              "Atoms – the smallest particles",
+              "Molecules"
+            ],
+            "description": "Introduces elements as pure substances made of one type of atom. It classifies elements into metals and non-metals based on their physical properties like state, malleability, appearance, density, and conductivity. It also covers the concept of atoms as the smallest particles, their chemical symbols, and how atoms can join to form diatomic or monatomic molecules."
+          },
+          {
+            "2.2 Compounds": [
+              "Oxidation and Reduction",
+              "Formulae",
+              "Balancing chemical equations"
+            ],
+            "description": "Defines compounds as pure substances formed when elements chemically combine. This section explains chemical changes and introduces key redox concepts: oxidation (gain of oxygen), reduction (loss of oxygen), redox reactions, oxidising agents, and reducing agents. It also covers the writing and interpretation of chemical formulae and the process of balancing chemical equations with state symbols."
+          },
+          {
+            "2.3 Mixtures": [
+              "The difference between mixtures and compounds"
+            ],
+            "description": "Defines a mixture as containing multiple substances that are not chemically bonded. It focuses on the key distinctions between mixtures and compounds, comparing their composition, formation process, properties, and the methods used for separating their components."
+          },
+          {
+            "2.4 Inside atoms": [
+              "Sub-atomic particles (protons, neutrons, electrons)",
+              "The nucleus and electron shells",
+              "Proton number and mass number",
+              "Ions",
+              "Isotopes",
+              "Relative atomic mass",
+              "The arrangement of electrons in atoms"
+            ],
+            "description": "Explores the structure of the atom, detailing the properties (relative mass and charge) of sub-atomic particles: protons, neutrons, and electrons. It explains the atomic model with a central nucleus and surrounding electron shells. Key definitions and concepts include proton number (Z), mass number (A), the formation of ions (cations and anions), isotopes as atoms with different numbers of neutrons, relative atomic mass (Ar), and the rules for determining electronic configuration for the first 20 elements."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Bonding and structure",
+        "topics": [
+          {
+            "3.1 Ionic bonding": [
+              "Ionic structures",
+              "Properties of ionic compounds",
+              "Formulae of ionic substances"
+            ],
+            "description": "Explores the formation of ionic bonds through the transfer of electrons from metal to non-metal atoms, creating oppositely charged ions held together by strong electrostatic forces in a giant ionic lattice. This section covers the resulting properties, such as high melting points and electrical conductivity in molten or aqueous states, and explains how to determine chemical formulae from ion charges."
+          },
+          {
+            "Redox Reactions": [
+              "Oxidation and Reduction",
+              "Oxidation Number",
+              "Oxidising and Reducing Agents"
+            ],
+            "description": "Introduces redox reactions in the context of electron transfer. Oxidation is defined as the loss of electrons or an increase in oxidation number, while reduction is the gain of electrons or a decrease in oxidation number. The roles of oxidising agents (which get reduced) and reducing agents (which get oxidised) are also explained."
+          },
+          {
+            "3.2 Covalent bonding": [
+              "Covalent structures",
+              "Properties of covalent compounds"
+            ],
+            "description": "Details the formation of covalent bonds by sharing electron pairs between non-metal atoms to achieve stable noble gas configurations. It covers single, double, and triple bonds and distinguishes between simple molecular structures (with weak intermolecular forces) and giant covalent structures (with strong covalent bonds throughout)."
+          },
+          {
+            "Different forms of carbon": [
+              "Diamond",
+              "Graphite"
+            ],
+            "description": "Discusses the allotropes of carbon, focusing on graphite and diamond. It contrasts the layered structure of graphite, which makes it soft and an electrical conductor, with the rigid three-dimensional tetrahedral network of diamond, which accounts for its extreme hardness and inability to conduct electricity, relating these structures to their distinct uses."
+          },
+          {
+            "3.3 Metallic bonding": [
+              "Properties of metals"
+            ],
+            "description": "Describes metallic bonding as the electrostatic attraction between a regular lattice of positive metal ions and a 'sea' of delocalised electrons. This model explains key properties of metals, including their ability to conduct electricity, malleability (can be hammered into shape), and ductility (can be drawn into wires)."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Stoichiometry – chemical calculations",
+        "topics": [
+          {
+            "4.1 Relative atomic mass": [
+              "Relative atomic mass (Ar)",
+              "Relative molecular mass (Mr)",
+              "Relative formula mass (Mr)",
+              "Reacting masses"
+            ],
+            "description": "Introduces the concept of relative atomic mass (Ar) based on the carbon-12 scale. It explains how to calculate relative molecular mass (Mr) for molecules and relative formula mass (Mr) for ionic compounds by summing the relative atomic masses of their constituent atoms. This section also covers using these values to determine reacting masses in chemical equations."
+          },
+          {
+            "4.2 Calculating moles": [
+              "The mole and the Avogadro constant",
+              "Moles and elements",
+              "Molar mass"
+            ],
+            "description": "Defines the mole (mol) as the unit for the amount of substance and introduces the Avogadro constant (6.02 x 10^23 particles). It covers the relationship between the mass of an element, the number of moles, and its molar mass, enabling calculations involving these quantities."
+          },
+          {
+            "4.3 Moles and compounds": [
+              "Moles and gases",
+              "Avogadro’s Law",
+              "Moles and solutions",
+              "Concentration (g/dm³ and mol/dm³)"
+            ],
+            "description": "Extends the mole concept to compounds and covers calculations for different states of matter. For gases, it introduces the molar gas volume at room temperature and pressure (r.t.p.) and Avogadro's Law. For solutions, it defines concentration in both g/dm³ and mol/dm³ and provides methods for calculating moles, volume, and concentration."
+          },
+          {
+            "4.4 Calculating formulae": [
+              "Identifying an unknown compound",
+              "Empirical formula",
+              "Molecular formula"
+            ],
+            "description": "Focuses on determining the chemical formulae of compounds from experimental mass or percentage composition data. It defines the empirical formula as the simplest whole-number ratio of atoms and the molecular formula as the actual number of atoms in one molecule, and explains the steps to calculate both."
+          },
+          {
+            "4.5 Moles and chemical equations": [
+              "Law of conservation of mass",
+              "Calculations with solids, gases, and solutions",
+              "Percentage yield",
+              "Percentage composition",
+              "Percentage purity",
+              "Limiting and excess reactants"
+            ],
+            "description": "Applies mole concepts to balanced chemical equations to perform stoichiometric calculations for solids, gases, and solutions. This topic covers the Law of conservation of mass and introduces methods for calculating percentage yield, percentage purity, and percentage composition. It also explains how to identify the limiting reactant in a reaction to determine the maximum amount of product formed."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Electrochemistry",
+        "topics": [
+          {
+            "Topic Name": "5.1 Electricity and chemistry",
+            "Subtopics": [
+              "Definition of Electrolysis",
+              "Electrolytes and Non-electrolytes",
+              "Components of an Electrolytic Cell (Electrodes, Anode, Cathode)",
+              "Movement of Ions (Cations and Anions) and Electrons"
+            ],
+            "description": "Introduces the fundamental concepts of electrolysis, defining it as the decomposition of an ionic compound by electricity. It explains the roles of the electrolyte, the anode (positive electrode), and the cathode (negative electrode). The topic details the transfer of charge through the movement of ions in the electrolyte and electrons in the external circuit."
+          },
+          {
+            "Topic Name": "5.2 Electrolysis of lead(II) bromide",
+            "Subtopics": [
+              "Conditions for Electrolysis (Molten State)",
+              "Products at the Cathode and Anode",
+              "Ionic Half-Equations",
+              "Oxidation and Reduction at Electrodes"
+            ],
+            "description": "Uses the electrolysis of molten lead(II) bromide as a key example to illustrate the principles of electrolysis of a binary compound. It describes the formation of lead metal at the cathode (reduction) and bromine gas at the anode (oxidation), and introduces the construction of ionic half-equations for these processes."
+          },
+          {
+            "Topic Name": "5.3 Electrolysis of aluminium oxide",
+            "Subtopics": [
+              "Extraction from Bauxite Ore",
+              "The Hall–Héroult process",
+              "Role of Molten Cryolite",
+              "Reactions at the Carbon Electrodes",
+              "Recycling of Aluminium"
+            ],
+            "description": "Details the industrial extraction of aluminium from its purified ore (alumina) via the Hall–Héroult process. It explains why molten cryolite is used to lower the melting point and save energy. The topic covers the ionic equations at the graphite cathode and anode, the issue of anodes burning away, and the economic and environmental importance of recycling aluminium."
+          },
+          {
+            "Topic Name": "5.4 Electrolysis of aqueous solutions",
+            "Subtopics": [
+              "Electrolysis of dilute sulfuric acid (Decomposition of Water)",
+              "Electrolysis of concentrated aqueous sodium chloride",
+              "Rules for Preferential Discharge of Ions",
+              "The Chlor-alkali Industry"
+            ],
+            "description": "Explains the principles of electrolysis when water is present, focusing on the preferential discharge of ions at the electrodes. It examines the electrolysis of dilute sulfuric acid to produce hydrogen and oxygen, and the electrolysis of concentrated brine to produce chlorine, hydrogen, and sodium hydroxide, which is the basis for the chlor-alkali industry."
+          },
+          {
+            "Topic Name": "5.5 Electrolysis of copper(II) sulfate aqueous solution",
+            "Subtopics": [
+              "Electrolysis with Inert (Graphite) Electrodes",
+              "Purification of Copper using Active Electrodes",
+              "Formation of Anode Slime"
+            ],
+            "description": "Covers the electrolysis of aqueous copper(II) sulfate. It contrasts the products formed using inert electrodes (copper and oxygen) with the process of electrolytic refining of copper, which uses an impure copper anode and a pure copper cathode to achieve high purity copper."
+          },
+          {
+            "Topic Name": "5.6 Fuel cells",
+            "Subtopics": [
+              "Principle of the Hydrogen-Oxygen Fuel Cell",
+              "Electrode Reactions",
+              "Advantages and Disadvantages of Fuel Cells"
+            ],
+            "description": "Introduces the concept of a fuel cell for converting chemical energy directly into electrical energy. It focuses on the hydrogen-oxygen fuel cell, describing the reactions at the anode and cathode that produce electricity with water as the only byproduct. It also compares the advantages and disadvantages of fuel cells with conventional petrol engines."
+          },
+          {
+            "Topic Name": "5.7 Electroplating",
+            "Subtopics": [
+              "Purpose of Electroplating (Appearance and Corrosion Resistance)",
+              "The Electroplating Process Setup"
+            ],
+            "description": "Defines electroplating as the process of coating an object with a thin layer of another metal using electrolysis. It explains the purposes of electroplating, such as improving appearance and preventing corrosion, and describes the basic setup of a plating bath, where the object to be plated is the cathode."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Chemical energetics",
+        "topics": [
+          {
+            "6.1 Substances from petroleum": [
+              "Oil refining",
+              "Fractional distillation",
+              "Fractions of petroleum (Refinery gas, Gasoline, Naphtha, Kerosene, Diesel oil, Fuel oil, Lubricating fraction, Bitumen)"
+            ],
+            "description": "This topic explains that petroleum (crude oil) is a mixture of hydrocarbons. It details the process of oil refining, where fractional distillation is used to separate petroleum into various useful fractions. The separation is based on the different boiling points of hydrocarbons, which correlate to their molecular size or chain length. The properties of these fractions, such as volatility and viscosity, and their specific uses are also described."
+          },
+          {
+            "6.2 Fossil fuels": [
+              "Formation of Coal",
+              "Formation of Petroleum and Natural Gas"
+            ],
+            "description": "This section defines coal, petroleum, and natural gas as fossil fuels. It describes their formation over millions of years from the remains of ancient organic matter (plants and animals) under conditions of high temperature and pressure."
+          },
+          {
+            "6.3 What is a fuel?": [
+              "Definition and Combustion",
+              "Properties of a perfect fuel",
+              "Uses of Fossil Fuels"
+            ],
+            "description": "Defines a fuel as a substance used as a source of energy, typically released through combustion. It outlines the characteristics of an ideal fuel and discusses the major uses of fossil fuels, particularly in the production of electricity in power stations, for heating, and as feedstock for the chemical industry."
+          },
+          {
+            "6.4 Alternative sources to fossil fuels": [
+              "Nuclear",
+              "Hydroelectric",
+              "Biomass and biogas",
+              "Hydrogen",
+              "Wind",
+              "Tidal",
+              "Wave",
+              "Geothermal",
+              "Solar"
+            ],
+            "description": "This section introduces the concept that fossil fuels are non-renewable resources. It lists various alternative and renewable sources of energy that can be utilized to meet future energy demands."
+          },
+          {
+            "6.5 Exothermic and endothermic reactions": [
+              "Exothermic Reactions",
+              "Endothermic Reactions",
+              "Bond Breaking and Bond Making",
+              "Bond Energy",
+              "Enthalpy Change of Reaction (ΔH)",
+              "Activation Energy (Ea)",
+              "Reaction Pathway Diagrams"
+            ],
+            "description": "This topic defines and differentiates between exothermic reactions, which release thermal energy to the surroundings (negative ΔH), and endothermic reactions, which absorb thermal energy (positive ΔH). It explains that energy changes in reactions are due to the energy absorbed to break chemical bonds in reactants and the energy released when forming new bonds in products. Key concepts like enthalpy change (ΔH), activation energy (Ea), and the interpretation of reaction pathway diagrams are covered, along with calculations using bond energy data."
+          },
+          "Enthalpy change of combustion",
+          "Enthalpy change of neutralisation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Chemical reactions",
+        "topics": [
+          "7.1 Reactions",
+          "Collision theory",
+          {
+            "Topic Name": "7.2 Factors that affect the rate of a reaction",
+            "Subtopics": [
+              "Surface area",
+              "Concentration",
+              "Pressure of gases",
+              "Temperature",
+              "Catalysts"
+            ],
+            "description": "Explains the five main ways to alter the rate of a chemical reaction. It covers how increasing the surface area of solids, concentration of solutions, or pressure of gases leads to more frequent collisions. Increasing temperature gives particles more kinetic energy, resulting in more frequent and energetic collisions. Catalysts work by providing an alternative reaction pathway with a lower activation energy, increasing the number of successful collisions."
+          },
+          "7.3 Enzymes",
+          "7.4 Reversible reactions and equilibrium",
+          {
+            "Topic Name": "7.5 Ammonia – an important nitrogen-containing chemical",
+            "Subtopics": [
+              "The Haber process",
+              "Obtaining nitrogen",
+              "Obtaining hydrogen",
+              "Making ammonia",
+              "Equilibrium"
+            ],
+            "description": "Details the industrial production of ammonia using the Haber process. This section explains how nitrogen is obtained from the fractional distillation of liquid air and hydrogen from the steam re-forming of methane. It specifies the reaction conditions (450°C, 20000 kPa, iron catalyst) and introduces the concept of dynamic equilibrium, explaining how conditions are optimized based on Le Chatelier's principle to maximize ammonia yield."
+          },
+          {
+            "Topic Name": "7.6 Industrial manufacture of sulfuric acid – the Contact process",
+            "Subtopics": [
+              "Production of sulfur dioxide",
+              "Conversion of sulfur dioxide to sulfur trioxide",
+              "Formation of sulfuric acid"
+            ],
+            "description": "Outlines the stages of the Contact process for manufacturing sulfuric acid. The process begins with producing sulfur dioxide by burning sulfur. This is followed by the key reversible step where sulfur dioxide and oxygen react over a vanadium(V) oxide catalyst to form sulfur trioxide. The conditions (450°C, 200 kPa) are optimized for this exothermic reaction. Finally, sulfur trioxide is reacted with water to produce sulfuric acid."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Acids, bases and salts",
+        "topics": [
+          {
+            "8.1 Acids and alkalis": [
+              "Indicators and the pH scale",
+              "The Brønsted–Lowry theory",
+              "The relative strengths of acids and bases",
+              "Strong and weak acids",
+              "Neutralisation reactions"
+            ],
+            "description": "This section introduces acids and alkalis, their common properties, and the use of indicators like litmus and universal indicator to determine acidity via the pH scale. It covers the Brønsted–Lowry theory, which defines acids as proton donors and bases as proton acceptors. The distinction between strong and weak acids is explained based on their degree of dissociation in water. Finally, it defines neutralisation as the reaction between an acid and a base, typically forming water, and introduces the concept of an ionic equation for this reaction."
+          },
+          {
+            "8.2 Formation of salts": [
+              "General solubility rules",
+              "Types of oxides"
+            ],
+            "description": "Defines a salt as a compound formed when the hydrogen ions of an acid are replaced by metal ions or the ammonium ion. It provides a set of general solubility rules for common salts like nitrates, chlorides, sulfates, and carbonates. The section also classifies oxides into acidic (non-metal oxides), basic (metal oxides), and amphoteric (e.g., zinc oxide, aluminium oxide)."
+          },
+          {
+            "8.3 Methods of preparing soluble salts": [
+              "Acid + metal",
+              "Acid + carbonate",
+              "Acid + alkali (soluble base)",
+              "Acid + insoluble base"
+            ],
+            "description": "Details four general laboratory methods for preparing soluble salts. The methods involve reacting an acid with an excess of a suitable reactant: a less reactive metal (like magnesium or zinc), an insoluble carbonate, or an insoluble base (metal oxide). The fourth method is titration, used for reacting an acid with a soluble base (alkali)."
+          },
+          "Reaction of a base with ammonium salts",
+          {
+            "8.4 Preparing insoluble salts": [
+              "Precipitation"
+            ],
+            "description": "Explains the preparation of insoluble salts using the method of precipitation. This involves mixing solutions of two different soluble salts, which react to form an insoluble salt (the precipitate) and another soluble salt. The process is summarized by an ionic equation."
+          },
+          {
+            "8.5 Testing for different salts": [
+              "Testing for a sulfate (SO42−)",
+              "Testing for a chloride (Cl−), a bromide (Br−) or an iodide (I−)",
+              "Testing for a carbonate",
+              "Testing for a nitrate"
+            ],
+            "description": "Describes the standard chemical tests used to identify common anions in a salt. This includes using acidified barium chloride to test for sulfates, acidified silver nitrate to test for halides (chloride, bromide, iodide), adding acid to test for carbonates (which produces carbon dioxide), and using sodium hydroxide with aluminium foil to test for nitrates (which produces ammonia)."
+          },
+          {
+            "8.6 Water of crystallisation": [
+              "Hydrated and anhydrous substances",
+              "Reversible reactions with hydrated salts",
+              "Calculation of water of crystallisation"
+            ],
+            "description": "Introduces the concept of water of crystallisation, defining hydrated salts (which incorporate water into their crystal structure) and anhydrous salts (which do not). The reversible reaction of blue hydrated copper(II) sulfate turning into white anhydrous copper(II) sulfate upon heating is used as a key example and as a chemical test for water. A method for calculating the percentage by mass of water in a hydrated salt is also presented."
+          },
+          {
+            "Titration": [
+              "Titration method",
+              "Titration calculations"
+            ],
+            "description": "Provides a detailed guide to the practical technique of titration for determining the concentration of an unknown acid or alkali solution. It outlines the step-by-step procedure, including the use of a burette, pipette, and indicator. The section also covers the calculations required to find the concentration, using the mole concept and the formula relating the concentrations and volumes of the reactants."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "The Periodic Table",
+        "topics": [
+          {
+            "9.1 Development of the Periodic Table": [
+              "Mendeleev's Periodic Table",
+              "Groups and Periods",
+              "The Modern Periodic Table",
+              "Metals, Non-metals and Metalloids",
+              "Trends Across a Period"
+            ],
+            "description": "This section covers the historical development of the Periodic Table by Dmitri Mendeleev, who arranged elements by atomic weight and similar properties. It defines vertical columns as groups and horizontal rows as periods. The modern table arranges elements by increasing proton number. It also explains the classification of elements into metals, non-metals, and metalloids, and the trends observed when moving across a period, such as the change from metallic to non-metallic character."
+          },
+          "9.2 Electronic configuration and the Periodic Table",
+          {
+            "9.3 Group I – the alkali metals": [
+              "Physical Properties (Conductors, soft, low density, shiny, low melting points)",
+              "Chemical Properties and Reactions (with oxygen, water, halogens)",
+              "Trend in Reactivity"
+            ],
+            "description": "Details the properties of Group I elements like lithium, sodium, and potassium. They are soft, highly reactive metals with low densities. They react vigorously with oxygen, water (forming alkaline hydroxides and hydrogen), and halogens. Reactivity increases down the group because the single outer electron is further from the nucleus and easier to lose."
+          },
+          {
+            "Group II – the alkaline earth metals": [
+              "Physical Properties (Harder than Group I, silvery-grey)",
+              "Chemical Properties and Reactions (with oxygen, water)",
+              "Trend in Reactivity"
+            ],
+            "description": "Describes the properties of Group II metals such as magnesium and calcium. They are harder and less reactive than Group I metals but still reactive. They burn in oxygen to form white oxides and react with water to form hydroxides and hydrogen. Similar to Group I, reactivity increases down the group."
+          },
+          {
+            "9.4 Group VII – the halogens": [
+              "Physical Properties (Coloured, diatomic molecules, change of state)",
+              "Chemical Properties and Reactions (with hydrogen, metals)",
+              "Displacement reactions",
+              "Trend in Reactivity",
+              "Uses of the halogens"
+            ],
+            "description": "Focuses on the non-metal elements in Group VII like chlorine, bromine, and iodine. They exist as diatomic molecules, and their colours darken and state changes from gas to solid down the group. They react with metals to form halides and with hydrogen to form hydrogen halides. A more reactive halogen will displace a less reactive one from its compound. Reactivity decreases down the group as it becomes harder for the larger atoms to gain an electron."
+          },
+          {
+            "9.5 Group VIII – the noble gases": [
+              "Properties (Colourless, monatomic, unreactive)",
+              "Electronic Configuration and Stability"
+            ],
+            "description": "Covers the elements in Group VIII (or 0), such as helium, neon, and argon. They are unreactive, monatomic gases because they have a stable electronic configuration with a full outer shell of electrons. This stability is why other elements tend to react to achieve a similar electron arrangement."
+          },
+          {
+            "9.6 Transition elements": [
+              "Physical Properties (Hard, strong, high density, high melting points)",
+              "Chemical Properties (Less reactive, form coloured compounds, catalytic activity, variable oxidation states)"
+            ],
+            "description": "Describes the block of metals between Groups II and III, including iron, copper, and zinc. They are characterized by being hard, strong, and dense with high melting points. They are less reactive than Group I and II metals, form brightly coloured compounds, act as catalysts, and can form ions with variable oxidation numbers (e.g., Fe2+ and Fe3+)."
+          },
+          "9.7 The position of hydrogen"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Metals",
+        "topics": [
+          "10.1 Properties of metals",
+          {
+            "10.2 Metal reactions": [
+              "The reactivity series",
+              "Reaction with acid",
+              "Reaction with air/oxygen",
+              "Reaction with cold water/steam"
+            ],
+            "description": "Explores the chemical reactions of metals with dilute acid, air (oxygen), and water or steam. The vigor of these reactions is used to establish an order of reactivity known as the reactivity series. More reactive metals tend to lose electrons more readily to form positive ions."
+          },
+          {
+            "10.3 Reactivity of metals and their uses": [
+              "Uses of reactive and unreactive metals",
+              "Displacement reactions"
+            ],
+            "description": "Discusses how a metal's position in the reactivity series influences its practical applications. It also explains displacement reactions, where a more reactive metal displaces a less reactive metal from a solution of its salt, which is a type of redox reaction."
+          },
+          {
+            "10.4 Identifying metal ions": [
+              "Precipitation of metal hydroxides"
+            ],
+            "description": "Details the method of identifying metal ions in solution by adding an alkali like sodium hydroxide. This results in the formation of insoluble metal hydroxide precipitates, which often have characteristic colors and may be soluble or insoluble in excess alkali."
+          },
+          {
+            "10.5 Extraction of metals": [
+              "Metal ores",
+              "Extraction methods based on reactivity",
+              "Extraction of iron"
+            ],
+            "description": "Covers the extraction of metals from their naturally occurring ores. The method used depends on the metal's reactivity: electrolysis for very reactive metals and reduction with carbon for metals like iron and zinc. The extraction of iron from hematite in a blast furnace using coke and limestone is described in detail."
+          },
+          {
+            "10.6 Metal corrosion": [
+              "Rusting of iron",
+              "Rust prevention",
+              "Painting",
+              "Oiling/greasing",
+              "Coating with plastic",
+              "Galvanising",
+              "Sacrificial protection"
+            ],
+            "description": "Explains corrosion, with a focus on the rusting of iron, which requires both oxygen and water. Various methods to prevent rusting are described, including barrier methods (painting, plastic coating), galvanising (coating with zinc), and sacrificial protection (using a more reactive metal)."
+          },
+          {
+            "10.7 Alloys": [
+              "Properties and uses of alloys",
+              "Structure of alloys"
+            ],
+            "description": "Defines alloys as mixtures of a metal with other elements. It explains that alloys are often harder and stronger than pure metals because the different-sized atoms disrupt the regular lattice structure, preventing layers from sliding over each other. Common alloys like brass, bronze, and steel are discussed."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Chemistry of the environment",
+        "topics": [
+          {
+            "11.1 Water": [
+              "The water cycle",
+              "Uses of water in the home and in industry",
+              "Properties of pure water",
+              "Tests for the presence of water",
+              "The unique properties of water",
+              "Hydrogen bonding",
+              {
+                "Water pollution and treatment": [
+                  "Sources of pollutants: gases, nitrates, phosphates, metal compounds, sewage, plastic waste",
+                  "Water treatment process: filtration and chlorination"
+                ]
+              }
+            ],
+            "description": "This section covers the importance of water, its circulation via the water cycle, and its various uses. It details the unique physical properties of water, explained by hydrogen bonding, and describes chemical tests for its presence using anhydrous copper(II) sulfate and cobalt(II) chloride paper. It also discusses the major sources of water pollution and outlines the stages of water purification for safe consumption, including screening, coagulation, filtration, and chlorination."
+          },
+          {
+            "11.2 Artificial fertilisers": [
+              "Production of ammonium nitrate",
+              "Examples of nitrogenous fertilisers",
+              "NPK fertilisers",
+              "The nitrogen cycle",
+              {
+                "Problems with fertilisers": [
+                  "Leaching",
+                  "Eutrophication"
+                ]
+              }
+            ],
+            "description": "Focuses on the production and application of artificial fertilisers, essential for modern agriculture. It covers the composition of nitrogenous and NPK fertilisers and their role within the nitrogen cycle. The environmental consequences of fertiliser overuse, specifically leaching into waterways leading to eutrophication, are also explained."
+          },
+          {
+            "11.3 The air": [
+              "The composition of the atmosphere",
+              "The carbon cycle",
+              "Photosynthesis",
+              "Sources of carbon dioxide in the air"
+            ],
+            "description": "Details the composition of clean, dry air, primarily consisting of nitrogen and oxygen, with smaller amounts of noble gases and carbon dioxide. This topic explains the carbon cycle and the process of photosynthesis, which are crucial for maintaining the balance of gases in the atmosphere."
+          },
+          {
+            "11.4 Atmospheric pollution": [
+              "Pollutants from motor vehicles and industry",
+              "Catalytic converters",
+              "Photochemical smog",
+              "Acid rain",
+              "Flue gas desulfurisation (FGD)",
+              {
+                "Global warming": [
+                  "The greenhouse effect",
+                  "Role of greenhouse gases: carbon dioxide and methane",
+                  "Strategies to reduce global warming"
+                ]
+              },
+              "Some uses of the gases from the air"
+            ],
+            "description": "Addresses the sources and impacts of major air pollutants such as carbon monoxide, sulfur dioxide, nitrogen oxides, and particulates from fossil fuel combustion. It explains mitigation technologies like catalytic converters and flue gas desulfurisation. The section also covers the mechanism of the greenhouse effect, its link to global warming and climate change, and discusses potential solutions and alternative fuels."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Organic chemistry 1",
+        "topics": [
+          "Introduction to Organic Compounds",
+          {
+            "12.1 Alkanes": [
+              "Homologous Series",
+              "Saturated Hydrocarbons",
+              "Displayed and Structural Formulae",
+              "General Formula (CnH2n+2)",
+              "Naming the Alkanes",
+              "Structural Isomerism"
+            ],
+            "description": "Introduces alkanes as a homologous series of saturated hydrocarbons containing only single carbon-carbon bonds. It covers their general formula, naming conventions based on the number of carbon atoms, trends in physical properties, and the concept of structural isomerism where compounds like butane (C4H10) can have different structures."
+          },
+          {
+            "12.2 The chemical behaviour of alkanes": [
+              "Combustion",
+              "Substitution Reactions with Halogens",
+              "Photochemical Reactions",
+              "The ozone hole problem",
+              "Methane – another greenhouse gas"
+            ],
+            "description": "Details the chemical properties of alkanes, which are generally unreactive. Their main reactions are combustion, making them useful fuels, and substitution with halogens like chlorine in the presence of UV light (a photochemical reaction). The environmental impact of methane as a greenhouse gas and chlorofluorocarbons (CFCs) on the ozone layer is also discussed."
+          },
+          {
+            "12.3 Alkenes": [
+              "Unsaturated Hydrocarbons",
+              "General Formula (CnH2n)",
+              "Naming the Alkenes",
+              "Structural Isomerism in Alkenes",
+              "Where do we get alkenes from? (Catalytic Cracking)"
+            ],
+            "description": "Introduces alkenes as a homologous series of unsaturated hydrocarbons, characterized by a carbon-carbon double covalent bond. This section covers their general formula, naming (ending in -ene), structural isomerism (e.g., but-1-ene and but-2-ene), and their industrial production by cracking large alkane molecules."
+          },
+          {
+            "12.4 The chemical behaviour of alkenes": [
+              "Addition Reactions",
+              "Hydrogenation",
+              "Hydration",
+              "Halogenation – a test for unsaturated compounds"
+            ],
+            "description": "Focuses on the characteristic addition reactions of alkenes due to their reactive double bond. This includes hydrogenation (adding hydrogen to form alkanes), hydration (adding steam to produce alcohols like ethanol), and halogenation. The reaction with bromine solution, which decolourises it, serves as a chemical test for unsaturation."
+          },
+          {
+            "12.5 Polymers": [
+              "Addition Polymerisation",
+              "Monomers and Polymers",
+              "Poly(ethene)",
+              "Other Addition Polymers (PVC and PTFE)",
+              "Environmental challenges of plastics"
+            ],
+            "description": "Explains how small alkene molecules (monomers) join together to form very large molecules called polymers in a process known as addition polymerisation. It provides examples such as poly(ethene), PVC, and PTFE, along with their properties and uses. The section concludes by addressing the significant environmental problems caused by non-biodegradable plastic waste, including landfill issues, ocean pollution, and the release of toxic gases from burning."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Organic chemistry 2",
+        "topics": [
+          "13.1 Functional groups",
+          {
+            "13.2 Alcohols (R–OH)": [
+              "Properties and Naming of Alcohols",
+              "Combustion of Ethanol",
+              "Oxidation of Ethanol",
+              "Manufacture of Ethanol: Fermentation",
+              "Manufacture of Ethanol: Hydration of ethene",
+              "Uses of Ethanol"
+            ],
+            "description": "Introduces the alcohol homologous series with the general formula CnH2n+1OH and the –OH functional group. It covers naming conventions (including isomers like propan-1-ol and propan-2-ol), physical properties like high boiling points due to polarity and hydrogen bonding, and chemical reactions such as combustion and oxidation into carboxylic acids. The two primary methods for manufacturing ethanol, fermentation of glucose and hydration of ethene, are detailed and compared, along with the uses of ethanol as a solvent and a fuel."
+          },
+          {
+            "13.3 Carboxylic acids": [
+              "Properties and Naming of Carboxylic Acids",
+              "Reactions of Carboxylic Acids with Metals, Bases, and Carbonates"
+            ],
+            "description": "This section focuses on the carboxylic acid homologous series, which has the general formula CnH2n+1COOH and the –COOH functional group. It explains their characteristics as weak acids and details their typical reactions with metals to produce a salt and hydrogen, with bases in neutralization reactions to form a salt and water, and with carbonates to yield a salt, water, and carbon dioxide."
+          },
+          {
+            "13.4 Esters": [
+              "Formation of Esters (Esterification)",
+              "Naming and Structure of Esters",
+              "Properties and Uses of Esters",
+              "Fats and Oils as Natural Esters"
+            ],
+            "description": "Explains the formation of esters through the esterification reaction, where a carboxylic acid and an alcohol react in the presence of an acid catalyst. The topic covers the naming and structure of esters, their characteristic pleasant smells, and their applications in perfumes and food flavourings. It also notes that fats and oils are naturally occurring esters."
+          },
+          {
+            "13.5 Condensation polymers": [
+              "Condensation Polymerisation",
+              "Polyamides (Nylon) and the Amide Link",
+              "Polyesters (PET) and the Ester Link"
+            ],
+            "description": "This topic differentiates condensation polymerisation from addition polymerisation, highlighting that it involves the reaction of two different monomers and the elimination of a small molecule like water. It provides detailed examples of synthetic polymers, including the formation of nylon (a polyamide) with its characteristic amide link, and PET (a polyester) with its ester link."
+          },
+          {
+            "13.6 Natural polyamides": [
+              "Proteins as Natural Condensation Polymers",
+              "Amino Acids as Monomers",
+              "The Peptide Link"
+            ],
+            "description": "This section identifies proteins as natural polyamides formed via condensation polymerisation. It describes the structure of their monomers, amino acids, which contain both an amine group (–NH2) and a carboxylic acid group (–COOH). The process of forming the peptide link (amide link) to create long protein chains is explained."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "14 Experimental techniques and chemical analysis",
+        "topics": [
+          {
+            "14.1 Apparatus used for measurement in chemistry": [
+              "Measurement of time",
+              "Measurement of temperature",
+              "Measurement of mass",
+              "Measurement of volume of liquids",
+              "Acid-base titration",
+              "Measurement of volume of gases"
+            ],
+            "description": "This section details the common apparatus for laboratory measurements. It covers the use of stopwatches for time, thermometers for temperature, electronic balances for mass, and various glassware like measuring cylinders, burettes, and pipettes for liquid volumes. The use of a gas syringe for measuring gas volumes is also explained, with an emphasis on correct reading techniques to avoid parallax error."
+          },
+          {
+            "14.2 Separating mixtures": [
+              {
+                "Separating solid/liquid mixtures": [
+                  "Filtration",
+                  "Decanting",
+                  "Centrifuging",
+                  "Evaporation",
+                  "Crystallisation",
+                  "Simple distillation"
+                ]
+              },
+              {
+                "Separating liquid/liquid mixtures": [
+                  "Immiscible liquids (using a separating funnel)",
+                  "Miscible liquids (Fractional distillation)"
+                ]
+              },
+              "Separating solid/solid mixtures",
+              "Solvent extraction",
+              {
+                "Chromatography": [
+                  "Paper chromatography",
+                  "Rf values",
+                  "Locating agents"
+                ]
+              },
+              "Criteria for purity"
+            ],
+            "description": "Covers various techniques to separate mixtures based on the physical properties of their components. Methods include filtration for insoluble solids, evaporation and crystallisation for soluble solids, simple and fractional distillation for liquids with different boiling points, and chromatography for separating soluble substances. The concept of purity is defined chemically, with melting point, boiling point, and chromatography used as methods to assess it."
+          },
+          {
+            "14.3 Qualitative analysis": [
+              "Appearance or smell",
+              "Flame colours",
+              {
+                "Tests for aqueous cations": [
+                  "Effect of adding dilute sodium hydroxide solution",
+                  "Effect of adding dilute ammonia solution"
+                ]
+              },
+              "Tests for aqueous anions",
+              "Tests for gases"
+            ],
+            "description": "This section introduces qualitative analysis, the identification of elements and ions in a sample. It outlines key observational tests such as appearance and flame tests for metal cations. It details systematic tests for cations (Al³⁺, Ca²⁺, Cr³⁺, Cu²⁺, Fe²⁺, Fe³⁺, Zn²⁺, NH₄⁺) using sodium hydroxide and aqueous ammonia. It also provides standard tests for anions (carbonate, halides, nitrate, sulfate, sulfite) and common laboratory gases (hydrogen, oxygen, carbon dioxide, ammonia, chlorine, etc.)."
+          }
+        ]
+      }
+    ]
+  }
+]

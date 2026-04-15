@@ -1,0 +1,1442 @@
+[
+  {
+    "grade": 11,
+    "subject": "accountancy",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Introduction to Accounting",
+        "topics": [
+          {
+            "1.1 Meaning of Accounting": [
+              "1.1.1 Economic Events",
+              "1.1.2 Identification, Measurement, Recording and Communication",
+              "1.1.3 Organisation",
+              "1.1.4 Interested Users of Information"
+            ],
+            "description": "This section defines accounting as the process of identifying, measuring, recording, and communicating economic information. It covers key definitions from the AICPA and AAA and breaks down the accounting process into four main aspects: understanding economic events (internal and external), the steps of identification, measurement, recording, and communication, the concept of an organisation as a business entity, and the various interested users of accounting information (internal and external)."
+          },
+          "History and Development of Accounting",
+          "1.2 Accounting as a Source of Information",
+          {
+            "Branches of Accounting": [
+              "Financial accounting",
+              "Cost Accounting",
+              "Management Accounting"
+            ],
+            "description": "Explains the specialized branches of accounting that have developed due to economic and technological advancements. Financial accounting focuses on recording transactions to determine profit/loss and financial position for external reporting. Cost accounting analyzes expenditures to ascertain and control the costs of products or services. Management accounting provides information internally to assist management in decision-making, planning, and controlling operations."
+          },
+          {
+            "1.2.1 Qualitative Characteristics of Accounting Information": [
+              "Reliability",
+              "Relevance",
+              "Understandability",
+              "Comparability"
+            ],
+            "description": "Details the attributes that make accounting information useful for decision-making. Reliability ensures the information is dependable, verifiable, and free from bias. Relevance means the information is timely and influences decisions. Understandability requires that the information is presented clearly. Comparability allows users to compare an entity's performance over time and against other entities."
+          },
+          {
+            "1.3 Objectives of Accounting": [
+              "1.3.1 Maintenance of Records of Business Transactions",
+              "1.3.2 Calculation of Profit and Loss",
+              "1.3.3 Depiction of Financial Position",
+              "1.3.4 Providing Accounting Information to its Users"
+            ],
+            "description": "Outlines the primary goals of accounting. These include maintaining a systematic record of all business transactions, calculating the net profit or loss for a period by preparing a profit and loss account, determining the financial position through the balance sheet, and communicating this financial information to various internal and external users for decision-making."
+          },
+          "1.4 Role of Accounting",
+          {
+            "1.5 Basic Terms in Accounting": [
+              "1.5.1 Entity",
+              "1.5.2 Transaction",
+              "1.5.3 Assets",
+              "1.5.4 Liabilities",
+              "1.5.5 Capital",
+              "1.5.6 Sales",
+              "1.5.7 Revenues",
+              "1.5.8 Expenses",
+              "1.5.9 Expenditure",
+              "1.5.10 Profit",
+              "1.5.11 Gain",
+              "1.5.12 Loss",
+              "1.5.13 Discount",
+              "1.5.14 Voucher",
+              "1.5.15 Goods",
+              "1.5.16 Drawings",
+              "1.5.17 Purchases",
+              "1.5.18 Stock",
+              "1.5.19 Debtors",
+              "1.5.20 Creditors"
+            ],
+            "description": "This section defines the fundamental terminology used in the language of accounting. It explains core concepts such as Entity, Transaction, Assets (current and non-current), Liabilities (current and non-current), Capital, Sales, Revenues, Expenses, Expenditure (revenue and capital), Profit, Gain, Loss, Discount (trade and cash), Voucher, Goods, Drawings, Purchases, Stock, Debtors, and Creditors."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Theory Base of Accounting",
+        "topics": [
+          "Introduction to the need for a theory base of accounting",
+          "2.1 Generally Accepted Accounting Principles (GAAP)",
+          {
+            "2.2 Basic Accounting Concepts": [
+              "2.2.1 Business Entity Concept",
+              "2.2.2 Money Measurement Concept",
+              "2.2.3 Going Concern Concept",
+              "2.2.4 Accounting Period Concept",
+              "2.2.5 Cost Concept",
+              "2.2.6 Dual Aspect Concept",
+              "2.2.7 Revenue Recognition (Realisation) Concept",
+              "2.2.8 Matching Concept",
+              "2.2.9 Full Disclosure Concept",
+              "2.2.10 Consistency Concept",
+              "2.2.11 Conservatism Concept",
+              "2.2.12 Materiality Concept",
+              "2.2.13 Objectivity Concept"
+            ],
+            "description": "Explains the fundamental ideas and basic assumptions that form the foundation of financial accounting theory and practice. These concepts include treating the business as a separate entity from its owner, recording only transactions expressible in monetary terms, assuming the business will continue indefinitely (Going Concern), dividing the business's life into regular accounting periods, recording assets at their historical cost, recognizing the dual effect of every transaction (Dual Aspect), specifying when revenue is recognized, matching expenses with the revenues they generate, disclosing all material facts, applying principles consistently, adopting a prudent approach (Conservatism), focusing on material facts, and maintaining objectivity through verifiable evidence."
+          },
+          {
+            "2.3 Systems of Accounting": [
+              "Double entry system",
+              "Single entry system"
+            ],
+            "description": "Describes the two primary systems for recording transactions. The Double Entry System, based on the dual aspect principle, records both effects of every transaction and is considered a complete, accurate, and reliable system. The Single Entry System is an incomplete method where not all accounts are maintained, primarily used by small businesses for its simplicity."
+          },
+          {
+            "2.4 Basis of Accounting": [
+              "Cash basis",
+              "Accrual basis"
+            ],
+            "description": "Discusses the timing of recognizing revenue and costs. Under the cash basis, entries are made only when cash is received or paid. Under the accrual basis, revenues and costs are recognized in the period they occur, regardless of when cash is exchanged, which aligns with the matching principle."
+          },
+          {
+            "2.5 Accounting Standards": [
+              "Need for Accounting Standards",
+              "Benefits of Accounting Standards",
+              "Limitations of Accounting Standards"
+            ],
+            "description": "Defines Accounting Standards as authoritative written policy documents issued by bodies like ICAI to ensure uniformity, consistency, and transparency in financial reporting. The section covers the necessity of standards for comparability and reliability, their benefits in eliminating variations and enhancing disclosures, and their limitations, such as potential rigidity."
+          },
+          {
+            "Goods and Services Tax (One Country One Tex)": [
+              "CGST, SGST, and IGST",
+              "Characteristics of Goods and Services Tax",
+              "Advantages"
+            ],
+            "description": "Provides an overview of GST as a destination-based tax on the consumption of goods and services. It explains the dual structure with Central (CGST), State (SGST), and Integrated (IGST) components. The section also outlines the key characteristics of GST, such as being a single comprehensive tax, and its advantages, like removing the cascading effect of taxes and widening the tax base."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Recording of Transactions-I",
+        "topics": [
+          {
+            "3.1 Business Transactions and Source Document": [
+              "Source Document or Voucher",
+              "3.1.1 Preparation of Accounting Vouchers"
+            ],
+            "description": "Explains that business transactions are evidenced by source documents like cash memos, invoices, and bills. These documents form the basis for preparing accounting vouchers, which can be classified into Transaction Vouchers, Compound Vouchers (Debit and Credit Vouchers), and Complex/Journal Vouchers. The essential elements of a voucher are also listed."
+          },
+          {
+            "3.2 Accounting Equation": [
+              "A = L + C (Assets = Liabilities + Capital)",
+              "The Balance Sheet Equation",
+              "Effect of Transactions on the Equation"
+            ],
+            "description": "Introduces the fundamental accounting equation, Assets = Liabilities + Capital, which is also called the Balance Sheet Equation. It signifies that the assets of a business are always equal to the total of its liabilities and owner's capital. The topic demonstrates how various business transactions affect the components of the equation while ensuring it always remains in balance."
+          },
+          {
+            "3.3 Using Debit and Credit": [
+              "The T-account format",
+              "3.3.1 Rules of Debit and Credit"
+            ],
+            "description": "Explains the concepts of debit (Dr.) for the left side and credit (Cr.) for the right side of an account, often represented in a T-account format. It details the fundamental rules for recording changes in different types of accounts: Assets, Liabilities, Capital, Expenses/Losses, and Revenues/Gains."
+          },
+          {
+            "3.4 Books of Original Entry": [
+              "Journal Proper",
+              "Cash book",
+              "Other day books (Purchases, Sales, Returns, etc.)"
+            ],
+            "description": "Introduces the concept of the Journal as the book of original entry where transactions are first recorded in chronological order. It explains the process of 'journalising' (recording in the journal) and 'posting' (transferring to the ledger), and lists the subdivisions of the journal."
+          },
+          {
+            "3.4.1 Journal": [
+              "Format of the Journal",
+              "Narration",
+              "Simple Journal Entry",
+              "Compound Journal Entry"
+            ],
+            "description": "Details the specific format of a journal, including columns for Date, Particulars, Ledger Folio (L.F.), Debit Amount, and Credit Amount. It also defines 'narration' as a brief description of the transaction and differentiates between simple entries (one debit, one credit) and compound entries (multiple debits or credits)."
+          },
+          "Accounting Entries under Goods and Services Tax",
+          {
+            "3.5 The Ledger": [
+              "Utility of the Ledger",
+              "Format of a Ledger Account",
+              "Distinction between Journal and Ledger",
+              "3.5.1 Classification of Ledger Accounts"
+            ],
+            "description": "Describes the ledger as the principal book of the accounting system, containing a collection of all individual accounts. The topic covers the utility of a ledger for analysis, its standard format, key differences from a journal, and the classification of ledger accounts into permanent (Assets, Liabilities, Capital) and temporary (Revenue, Expense) accounts."
+          },
+          {
+            "3.6 Posting from Journal": [
+              "Step 1: Locate the account in the ledger",
+              "Step 2: Enter the date",
+              "Step 3: Write the name of the corresponding account in 'Particulars'",
+              "Step 4: Enter the journal folio (J.F.) number",
+              "Step 5: Enter the amount"
+            ],
+            "description": "Defines posting as the process of transferring entries from the books of original entry (journal) to the respective accounts in the ledger. It outlines the systematic, step-by-step procedure for transferring debit and credit entries from the journal to the correct sides of the ledger accounts."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Recording of Transactions-II",
+        "topics": [
+          "Introduction to Special Journals (Subsidiary Books)",
+          {
+            "4.1 Cash Book": [
+              "4.1.1 Single Column Cash Book",
+              "4.1.2 Double Column Cash Book",
+              "4.1.3 Petty Cash Book",
+              "4.1.4 Balancing of Cash Book"
+            ],
+            "description": "Explains the Cash Book, a special journal that also serves as the ledger for cash and bank accounts. It covers the Single Column Cash Book for cash transactions, the Double Column Cash Book for both cash and bank transactions including concepts like contra entries, overdrafts, and dishonour of cheques. It also details the Petty Cash Book for managing small expenses using the Imprest system and explains the process of balancing the cash book."
+          },
+          "4.2 Purchases (Journal) Book",
+          {
+            "4.3 Purchases Return (Journal) Book": [
+              "Debit and Credit Notes"
+            ],
+            "description": "This section covers the recording of goods returned to suppliers which were originally purchased on credit. It explains the use of a Debit Note as the primary source document for recording entries in the Purchases Return Book."
+          },
+          "4.4 Sales (Journal) Book",
+          "4.5 Sales Return (Journal) Book",
+          "Analytical Purchases Book and Sales Book (with GST)",
+          {
+            "4.6 Journal Proper": [
+              "1. Opening Entry",
+              "2. Adjustment Entries",
+              "3. Rectification entries",
+              "4. Transfer entries",
+              "5. Other entries"
+            ],
+            "description": "The Journal Proper is the book of original entry for transactions that cannot be recorded in any other special purpose book. It is used for recording opening entries, adjustment entries (like outstanding expenses), rectification of errors, transfer entries (like closing entries), and other miscellaneous transactions such as the credit purchase of assets, goods withdrawn for personal use, and dishonour of bills of exchange."
+          },
+          "4.7 Balancing the Accounts"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Bank Reconciliation Statement",
+        "topics": [
+          "5.1 Need for Reconciliation",
+          {
+            "5.1.1 Timing Differences": [
+              "Cheques issued by the bank but not yet presented for payment",
+              "Cheques paid into the bank but not yet collected",
+              "Direct debits made by the bank on behalf of the customer",
+              "Amounts directly deposited in the bank account",
+              "Interest and dividends collected by the bank",
+              "Direct payments made by the bank on behalf of the customers",
+              "Cheques deposited/bills discounted dishonoured"
+            ],
+            "description": "Details the discrepancies arising from the time lag between when a transaction is recorded in the cash book and when it is processed by the bank. This includes issued cheques not yet paid, deposited cheques not yet cleared, direct bank debits for charges, direct deposits by customers, bank collections of interest/dividends, payments made by the bank on standing instructions, and dishonoured cheques or bills."
+          },
+          {
+            "5.1.2 Differences Caused by Errors": [
+              "Errors committed in recording transaction by the firm",
+              "Errors committed in recording transactions by the bank"
+            ],
+            "description": "Covers differences that occur due to mistakes, such as omissions or incorrect recording of transactions, made either by the business in its cash book or by the bank in the passbook."
+          },
+          {
+            "5.2 Preparation of Bank Reconciliation Statement": [
+              "Preparation of bank reconciliation statement without adjusting cash book balance",
+              "Preparation of bank reconciliation statement after adjusting cash book balance"
+            ],
+            "description": "Outlines the two primary methods for preparing a Bank Reconciliation Statement. The chapter focuses on the method that does not require prior adjustment of the cash book balance."
+          },
+          {
+            "5.2.1 Preparation of Bank Reconciliation Statement without adjusting Cash Book Balance": [
+              "Dealing with favourable balances",
+              "Dealing with overdrafts"
+            ],
+            "description": "Explains the procedure for preparing a BRS by taking the balance as per the cash book or passbook as a starting point. It covers the treatment for both positive (favourable) balances and negative (overdraft) balances."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Trial Balance and Rectification of Errors",
+        "topics": [
+          "6.1 Meaning of Trial Balance",
+          {
+            "6.2 Objectives of Preparing the Trial Balance": [
+              "6.2.1 To Ascertain the Arithmetical Accuracy of Ledger Accounts",
+              "6.2.2 To Help in Locating Errors",
+              "6.2.3 To Help in the Preparation of the Financial Statements"
+            ],
+            "description": "Explains the primary purposes of a trial balance, which are to check the arithmetical accuracy of ledger postings, assist in finding accounting errors, and serve as the basis for preparing the final financial statements like the Profit & Loss account and Balance Sheet."
+          },
+          {
+            "6.3 Preparation of Trial Balance": [
+              "6.3.1 Totals method",
+              "6.3.2 Balances Method",
+              "6.3.3 Totals-cum-balances Method"
+            ],
+            "description": "Outlines three methods for preparing a trial balance. The Totals Method uses the total of debit and credit sides of each ledger account. The Balances Method, which is most common, uses the net balance of each account. The Totals-cum-balances Method is a combination of both."
+          },
+          "6.4 Significance of Agreement of Trial Balance",
+          {
+            "6.4.1 Classification of Errors": [
+              "6.4.2 Errors of Commission",
+              "6.4.3 Errors of Omission",
+              "6.4.4 Errors of Principle",
+              "6.4.5 Compensating Errors"
+            ],
+            "description": "Categorizes accounting errors into four main types. Errors of Commission are clerical mistakes in posting, totaling, or balancing. Errors of Omission involve transactions being partially or completely left out. Errors of Principle are violations of accounting rules, like misclassifying capital and revenue items. Compensating Errors are multiple independent errors that cancel out each other's effect on the trial balance."
+          },
+          "6.5 Searching of Errors",
+          {
+            "6.6 Rectification of Errors": [
+              "6.6.1 Rectification of Errors which do not Affect the Trial Balance",
+              "6.6.2 Rectification of Errors Affecting Trial Balance",
+              "Suspense Account",
+              "6.6.3 Rectification of Errors in the Next Accounting Year"
+            ],
+            "description": "Details the process of correcting accounting errors. It differentiates between two-sided errors (not affecting the trial balance) and one-sided errors (affecting the trial balance). It introduces the Suspense Account as a temporary account to hold the difference in the trial balance until one-sided errors are located and rectified. It also covers the procedure for correcting errors found in a subsequent accounting period."
+          },
+          "Guiding Principles of Rectification of Errors"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Depreciation, Provisions and Reserves",
+        "topics": [
+          {
+            "7.1 Depreciation": [
+              "7.1.1 Meaning of Depreciation",
+              "7.1.2 Features of Depreciation"
+            ],
+            "description": "Introduces depreciation as the decline in the value of fixed assets due to usage, time, or obsolescence. It highlights the features of depreciation, such as it being a permanent, continuing, and gradual shrinkage in book value, an expired cost, and a non-cash expense."
+          },
+          {
+            "7.2 Depreciation and other Similar Terms": [
+              "7.2.1 Depletion",
+              "7.2.2 Amortisation"
+            ],
+            "description": "Differentiates depreciation from related concepts. Depletion is used for the extraction of natural resources like mines and quarries. Amortisation refers to writing off the cost of intangible assets like patents, copyrights, and goodwill over a specified period."
+          },
+          {
+            "7.3 Causes of Depreciation": [
+              "7.3.1 Wear and Tear due to Use or Passage of Time",
+              "7.3.2 Expiration of Legal Rights",
+              "7.3.3 Obsolescence",
+              "7.3.4 Abnormal Factors"
+            ],
+            "description": "Details the primary reasons for the decline in asset value. This includes physical deterioration from use (wear and tear), expiry of legal rights (patents, leases), becoming outdated due to technological changes (obsolescence), and damage from abnormal events like accidents or natural disasters."
+          },
+          {
+            "7.4 Need for Depreciation": [
+              "7.4.1 Matching of Costs and Revenue",
+              "7.4.2 Consideration of Tax",
+              "7.4.3 True and Fair Financial Position",
+              "7.4.4 Compliance with Law"
+            ],
+            "description": "Explains the importance of providing for depreciation in accounting. Key reasons include matching the cost of an asset with the revenue it generates, its status as a tax-deductible expense, ensuring the balance sheet presents a true and fair view of assets, and complying with legal and accounting standards."
+          },
+          {
+            "7.5 Factors Affecting the Amount of Depreciation": [
+              "7.5.1 Cost of Asset",
+              "7.5.2 Estimated Net Residual Value",
+              "7.5.3 Depreciable Cost",
+              "7.5.4 Estimated Useful Life"
+            ],
+            "description": "Outlines the three main parameters required to calculate depreciation: the historical cost of the asset (including acquisition and installation costs), its estimated net residual or salvage value, and its estimated economic or commercial useful life."
+          },
+          {
+            "7.6 Methods of Calculating Depreciation Amount": [
+              "7.6.1 Straight Line Method",
+              "7.6.2 Written Down Value Method"
+            ],
+            "description": "Covers the two main methods for calculating depreciation. The Straight Line Method (SLM) allocates an equal amount of depreciation each year. The Written Down Value (WDV) or Reducing Balance Method applies a fixed percentage to the decreasing book value of the asset, resulting in a higher depreciation charge in the earlier years."
+          },
+          {
+            "7.7 Straight Line Method and Written Down Method: A Comparative Analysis": [
+              "7.7.1 Basis of Charging Depreciation",
+              "7.7.2 Annual Charge of Depreciation",
+              "7.7.3 Total Charge Against Profit and Loss Account on Account of Depreciation and Repair Expenses",
+              "7.7.4 Recognition by Income Tax Law",
+              "7.7.5 Suitability"
+            ],
+            "description": "Compares the SLM and WDV methods on various criteria, including the basis of calculation (original cost vs. book value), the pattern of the annual charge (constant vs. declining), recognition by tax authorities, and suitability for different types of assets."
+          },
+          {
+            "7.8 Methods of Recording Depreciation": [
+              "7.8.1 Charging Depreciation to Asset account",
+              "7.8.2 Creating Provision for Depreciation Account/Accumulated Depreciation Account"
+            ],
+            "description": "Describes two approaches for recording depreciation entries. The first method involves directly debiting the depreciation expense and crediting the asset account. The second method creates a separate 'Provision for Depreciation' (or 'Accumulated Depreciation') account, allowing the asset to be maintained at its original cost on the balance sheet."
+          },
+          {
+            "7.9 Disposal of Asset": [
+              "7.9.1 Use of Asset Disposal Account"
+            ],
+            "description": "Explains the accounting procedures for when an asset is sold or discarded. This section covers the calculation of profit or loss on disposal and introduces the 'Asset Disposal Account' as a method to consolidate all related transactions, such as original cost, accumulated depreciation, and sale proceeds."
+          },
+          "7.10 Effect of any Addition or Extension to the Existing Asset",
+          {
+            "7.11 Provisions": [
+              "7.11.1 Accounting Treatment for Provisions"
+            ],
+            "description": "Defines provisions as amounts charged against revenue for a known liability where the amount cannot be determined with certainty (e.g., provision for doubtful debts, provision for repairs). It details the accounting treatment and necessity of creating provisions to ascertain true net profit."
+          },
+          {
+            "7.12 Reserves": [
+              "7.12.1 Difference between Reserve and Provision",
+              "7.12.2 Types of Reserves",
+              "7.12.3 Difference between Revenue and Capital Reserve",
+              "7.12.4 Importance of Reserves"
+            ],
+            "description": "Defines reserves as an appropriation of profit retained to strengthen the financial position of the business. The section distinguishes reserves from provisions, classifies reserves into types (General, Specific, Revenue, Capital), and explains their importance for growth, expansion, or meeting future contingencies."
+          },
+          "7.13 Secret Reserve"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Financial Statements - I",
+        "topics": [
+          "8.1 Stakeholders and their Information Requirements",
+          {
+            "8.2 Distinction between Capital and Revenue": [
+              "8.2.1 Expenditure",
+              "8.2.2 Receipts",
+              "8.2.3 Importance of Distinction between Capital and Revenue"
+            ],
+            "description": "Explains the fundamental difference between capital and revenue items. It covers types of expenditures like capital, revenue, and deferred revenue, and types of receipts such as capital and revenue receipts. The section emphasizes the importance of this distinction for the correct preparation of financial statements."
+          },
+          "8.3 Financial Statements",
+          {
+            "8.4 Trading and Profit and Loss Account": [
+              "8.4.1 Relevant Items in Trading and Profit and Loss Account",
+              "8.4.2 Closing Entries",
+              "8.4.3 Concept of Gross Profit and Net Profit",
+              "8.4.4 Cost of Goods Sold and Closing Stock–Trading Account Revisited"
+            ],
+            "description": "Details the preparation and purpose of the Trading and Profit and Loss Account. This includes identifying items for the debit side (opening stock, purchases, direct expenses) and credit side (sales, other incomes), the process of making closing entries, understanding the calculation of Gross Profit and Net Profit, and computing the Cost of Goods Sold."
+          },
+          "8.5 Operating Profit (EBIT)",
+          {
+            "8.6 Balance Sheet": [
+              "8.6.1 Preparing Balance Sheet",
+              "8.6.2 Relevant Items in the Balance Sheet",
+              "8.6.3 Marshalling and Grouping of Assets and Liabilities"
+            ],
+            "description": "Focuses on the Balance Sheet, which shows the financial position of a business. It covers the preparation process, details of relevant items like Current Assets, Current Liabilities, Fixed Assets, Intangible Assets, Investments, Long-term Liabilities, and Capital. It also explains the concepts of marshalling (arranging in order of liquidity or permanence) and grouping of assets and liabilities."
+          },
+          "8.7 Opening Entry"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Financial Statements - II 9",
+        "topics": [
+          "9.1 Need for Adjustments",
+          {
+            "Common Items Requiring Adjustments": [
+              "1. Closing stock",
+              "2. Outstanding/expenses",
+              "3. Prepaid/Unexpired expenses",
+              "4. Accrued income",
+              "5. Income received in advance",
+              "6. Depreciation",
+              "7. Bad debts",
+              "8. Provision for doubtful debts",
+              "9. Provision for discount on debtors",
+              "10. Manager’s commission",
+              "11. Interest on capital"
+            ],
+            "description": "Explains the necessity of making adjustments based on the accrual basis of accounting to ensure financial statements reflect a true and fair view. This involves accounting for expenses on an incurred basis and revenues on an earned basis, leading to adjustments for items like outstanding expenses, prepaid expenses, accrued incomes, depreciation, and provisions for potential losses."
+          },
+          "9.2 Closing Stock",
+          "9.3 Outstanding Expenses",
+          "9.4 Prepaid Expenses",
+          "9.5 Accrued Income",
+          "9.6 Income Received in Advance",
+          "9.7 Depreciation",
+          "9.8 Bad Debts",
+          "9.9 Provision for Bad and Doubtful Debts",
+          "9.10 Provision for Discount on Debtors",
+          "9.11 Manager’s Commission",
+          "9.12 Interest on Capital"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 12,
+    "subject": "accountancy",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Accounting for Partnership: Basic Concepts",
+        "topics": [
+          {
+            "1.1 Nature of Partnership": [
+              "Two or More Persons",
+              "Agreement",
+              "Business",
+              "Mutual Agency",
+              "Sharing of Profit",
+              "Liability of Partners"
+            ],
+            "description": "Defines partnership according to the Indian Partnership Act 1932. It details the essential features of a partnership, which include the requirement of at least two persons, the existence of an agreement, a lawful business purpose, the concept of mutual agency where each partner acts as an agent for the firm, the sharing of profits and losses, and the unlimited liability of partners for the firm's debts."
+          },
+          {
+            "1.2 Partnership Deed": [
+              "Contents of the Partnership Deed"
+            ],
+            "description": "Explains the Partnership Deed as the written agreement containing the terms of the partnership. It lists common clauses found in a deed, such as names and addresses of the firm and partners, capital contributions, profit-sharing ratio, interest rates on capital and drawings, salaries or commissions payable to partners, and procedures for admission, retirement, or dissolution of the firm."
+          },
+          {
+            "1.2.1 Provisions of Partnership Act Relevant for Accounting": [
+              "Profit Sharing Ratio",
+              "Interest on Capital",
+              "Interest on Drawings",
+              "Interest on Loan",
+              "Remuneration for Firm’s Work"
+            ],
+            "description": "Outlines the rules from the Indian Partnership Act, 1932, that apply in the absence of a partnership deed. Key provisions include equal sharing of profits and losses, no interest on capital or drawings, no salary or remuneration for partners, and an interest rate of 6% per annum on loans provided by partners to the firm."
+          },
+          "1.3 Special Aspects of Partnership Accounts",
+          {
+            "1.4 Maintenance of Capital Accounts of Partners": [
+              "Fixed Capital Method",
+              "Fluctuating Capital Method"
+            ],
+            "description": "Describes the two methods for maintaining partners' capital accounts. In the Fixed Capital Method, the capital balance remains unchanged, and all adjustments (profit, drawings, interest) are recorded in a separate Partner's Current Account. In the Fluctuating Capital Method, all transactions are recorded directly in the Capital Account, causing its balance to change."
+          },
+          "1.4.1 Distinction between Fixed and Fluctuating Capital Accounts",
+          {
+            "1.5 Distribution of Profit among Partners": [
+              "1.5.1 Profit and Loss Appropriation Account",
+              "1.5.2 Interest on Capital",
+              "1.5.3 Interest on Drawings"
+            ],
+            "description": "Covers the process of distributing profits and losses among partners. This involves preparing a Profit and Loss Appropriation Account to show adjustments like interest on capital, interest on drawings, salaries, and commissions. It details the calculation methods for interest on capital (including for additional capital and withdrawals) and interest on drawings under various scenarios (monthly, quarterly, and irregular withdrawals)."
+          },
+          "1.6 Guarantee of Profit to a Partner",
+          {
+            "1.7 Past Adjustments": [
+              "Through Profit and Loss Adjustment Account",
+              "Directly in Partners’ Capital Accounts"
+            ],
+            "description": "Explains how to rectify errors or omissions (like interest on capital or drawings) discovered after the final accounts have been prepared and profits distributed. Adjustments can be made either through a Profit and Loss Adjustment Account or by passing a single adjusting journal entry directly in the partners' capital accounts to reflect the net effect of the corrections."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Reconstitution of a Partnership Firm – Admission of a Partner",
+        "topics": [
+          {
+            "2.1 Modes of Reconstitution of a Partnership Firm": [
+              "Admission of a new partner",
+              "Change in the profit sharing ratio among the existing partners",
+              "Retirement of an existing partner",
+              "Death of a partner"
+            ],
+            "description": "Explains the different ways a partnership agreement can be changed, leading to the reconstitution of the firm. This includes admitting a new partner, altering profit-sharing ratios, and the departure of a partner through retirement or death."
+          },
+          {
+            "2.2 Admission of a New Partner": [
+              "New profit sharing ratio",
+              "Sacrificing ratio",
+              "Valuation and adjustment of goodwill",
+              "Revaluation of assets and Reassessment of liabilities",
+              "Distribution of accumulated profits (reserves)",
+              "Adjustment of partners’ capitals"
+            ],
+            "description": "Details the process and accounting implications of admitting a new partner. It covers the two main rights acquired by the new partner (share in assets and profits) and lists the six key adjustments required in the firm's accounts."
+          },
+          "2.3 New Profit Sharing Ratio",
+          "2.4 Sacrificing Ratio",
+          {
+            "2.5 Goodwill": [
+              "2.5.1 Meaning of Goodwill",
+              "2.5.2 Factors Affecting the Value of Goodwill",
+              "2.5.3 Need for Valuation of Goodwill"
+            ],
+            "description": "Defines goodwill as the monetary value of a firm's reputation and its ability to earn super profits. This section outlines the factors that influence goodwill's value (nature of business, location, management efficiency, etc.) and the circumstances requiring its valuation."
+          },
+          {
+            "2.5.4 Methods of Valuation of Goodwill": [
+              "2.5.4.1 Average Profits Method",
+              "2.5.4.2 Super Profits Method",
+              "2.5.4.3 Capitalisation Method"
+            ],
+            "description": "Describes the three primary methods for calculating the value of goodwill. The Average Profits Method uses past average profits. The Super Profits Method is based on the excess of actual profits over normal profits. The Capitalisation Method involves capitalising either average profits or super profits to determine goodwill."
+          },
+          {
+            "2.5.5 Treatment of Goodwill": [
+              "2.5.5.1 When the new Partner brings goodwill in cash",
+              "When the new partner does not bring goodwill in cash, partly or fully",
+              "When goodwill already exists in books",
+              "Applicability of Accounting Standard 26: Intangible Assets",
+              "2.5.5.2 Hidden Goodwill"
+            ],
+            "description": "Covers the accounting entries for goodwill during a partner's admission. It details various scenarios, including when the new partner pays a premium in cash, when they cannot, and how to handle pre-existing goodwill. It also explains the concept of hidden goodwill and the relevance of AS 26."
+          },
+          "2.6 Adjustment for Accumulated Profits and Losses",
+          "2.7 Revaluation of Assets and Reassessment of Liabilities",
+          "2.8 Adjustment of Capitals",
+          "2.9 Change in Profit Sharing Ratio among the Existing Partners"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Reconstitution of a Partnership Firm – Retirement/Death of a Partner",
+        "topics": [
+          "3.1 Ascertaining the Amount Due to Retiring/Deceased Partner",
+          "3.2 New Profit Sharing Ratio",
+          "3.3 Gaining Ratio",
+          {
+            "3.4 Treatment of Goodwill": [
+              "3.4.1 When goodwill does not appear in the books",
+              "3.4.2 Hidden Goodwill"
+            ],
+            "description": "Explains the accounting treatment for goodwill upon a partner's retirement or death. The retiring/deceased partner is compensated for their share of goodwill by the continuing partners in their gaining ratio. It also covers the concept of Hidden Goodwill, where an excess lump sum payment to the outgoing partner is treated as their share of goodwill."
+          },
+          "3.5 Adjustment for Revaluation of Assets and Liabilities",
+          {
+            "3.6 Adjustment of Accumulated Profits and Losses": [
+              "For transfer of accumulated profits (reserves)",
+              "For transfer of accumulated losses",
+              "When Partner Retires in the Middle of the Year"
+            ],
+            "description": "Covers the distribution of accumulated profits (like General Reserve) and losses among all partners, including the outgoing one, in their old profit sharing ratio. It also details methods for calculating the outgoing partner's share of profit from the date of the last balance sheet to the date of retirement or death, which can be based on time (last year's profit) or turnover (sales)."
+          },
+          {
+            "3.7 Disposal of Amount Due to Retiring Partner": [
+              "When retiring partner is paid cash in full",
+              "When retiring partners’ whole amount is treated as loan",
+              "When retiring partner is partly paid in cash and the remaining amount treated as loan",
+              "When Loan account is settled by paying in instalment"
+            ],
+            "description": "Details the methods for settling the final amount payable to a retiring partner. The payment can be made in a lump sum, transferred to the partner's loan account to be paid later, or a combination of both. When paid in installments from the loan account, interest is calculated on the outstanding balance."
+          },
+          {
+            "3.8 Adjustment of Partners’ Capitals": [
+              "When the capital of the new firm as decided by the partners is specified",
+              "When the total capital of new firm is not specified",
+              "When the amount payable to retiring partner will be contributed by continuing partners"
+            ],
+            "description": "Explains the process where remaining partners may decide to adjust their capital accounts to align with their new profit-sharing ratio. This involves determining the total capital of the new firm and then calculating each partner's required capital. Any surplus is withdrawn by the partner, and any deficit is brought in as additional capital."
+          },
+          "3.9 Death of a Partner"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Dissolution of Partnership Firm",
+        "topics": [
+          "Introduction to Dissolution of a Firm (Section 39)",
+          {
+            "4.1 Dissolution of Partnership": [
+              "Change in existing profit sharing ratio among partners",
+              "Admission of a new partner",
+              "Retirement of a partner",
+              "Death of a partner",
+              "Insolvency of a partner",
+              "Completion of the venture, if partnership is formed for that",
+              "Expiry of the period of partnership, if partnership is for a specific period of time"
+            ],
+            "description": "This section explains the various ways a partnership can be dissolved, which signifies a change in the relationship among partners without necessarily terminating the firm's business. It covers situations like admission, retirement, death, or change in profit sharing ratio."
+          },
+          {
+            "4.2 Dissolution of a Firm": [
+              "1. Dissolution by Agreement",
+              "2. Compulsory Dissolution",
+              "3. On the happening of certain contingencies",
+              "4. Dissolution by Notice",
+              "5. Dissolution by Court"
+            ],
+            "description": "Describes the different modes for the dissolution of a partnership firm, which leads to the complete cessation of business. The modes include dissolution by mutual agreement, compulsory dissolution (due to insolvency or business becoming illegal), upon the occurrence of specific events, by giving notice in a partnership at will, and by an order from the court."
+          },
+          "Distinction between Dissolution of Partnership and Dissolution of Firm",
+          {
+            "4.3 Settlement of Accounts": [
+              "Treatment of Losses (Section 48)",
+              "Application of Assets (Section 48)",
+              "Private Debts and Firm’s Debts (Section 49)",
+              "Inability of a Partner to Contribute Towards Deficiency (Garner vs. Murray case)"
+            ],
+            "description": "Details the rules provided in the Partnership Act 1932 for the settlement of accounts when a firm is dissolved. This includes the procedure for paying off losses, the order of application of assets to pay third-party debts and partners' dues, the rules governing firm's debts and partners' private debts, and the principle for handling a partner's insolvency."
+          },
+          {
+            "4.4 Accounting Treatment": [
+              "Realisation Account",
+              {
+                "4.4.1 Journal Entries": [
+                  "1. For transfer of assets",
+                  "2. For transfer of liabilities",
+                  "3. For sale of assets",
+                  "4. For an asset taken over by a partner",
+                  "5. For payment of liabilities",
+                  "6. For a liability which a partner takes responsibility to discharge",
+                  "7. For settlement with the creditor through transfer of assets",
+                  "8. For payment of realisation expenses",
+                  "9. For agreed remuneration to a partner for dissolution work",
+                  "10. For realisation of any unrecorded assets",
+                  "11. For settlement of any unrecorded liability",
+                  "12. For transfer of profit and loss on realisation",
+                  "13. For settlement of loan by a firm to a partner",
+                  "14. For transfer of accumulated profits",
+                  "15. For transfer of fictitious assets",
+                  "16. For payment of loans due to partners",
+                  "17. For settlement of partners’ accounts"
+                ]
+              }
+            ],
+            "description": "This section covers the accounting procedures required to close the books of a dissolved firm. It focuses on the preparation of a Realisation Account to ascertain the net profit or loss from the disposal of assets and payment of liabilities. A comprehensive list of journal entries for all possible transactions during the dissolution process is provided."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_1",
+        "title": "Accounting for Share Capital",
+        "topics": [
+          "Introduction to Company and Share Capital",
+          {
+            "1.1 Features of a Company": [
+              "Body Corporate",
+              "Separate Legal Entity",
+              "Limited Liability",
+              "Perpetual Succession",
+              "Common Seal",
+              "Transferability of Shares",
+              "May Sue or be Sued"
+            ],
+            "description": "Explains the fundamental characteristics of a company, distinguishing it from other business forms. Key features include being a legal entity separate from its members, having limited liability for shareholders, continuous existence regardless of changes in membership (perpetual succession), an official signature (common seal), and the ability for its shares to be transferred."
+          },
+          {
+            "1.2 Kinds of Companies": [
+              "On the basis of Liability: Companies Limited by Shares, Companies Limited by Guarantee, Unlimited Companies",
+              "On the basis of Number of Members: Public Company, Private Company, One Person Company (OPC)"
+            ],
+            "description": "Classifies companies based on two criteria: the liability of their members and the number of members. Liability-based types are limited by shares, limited by guarantee, or unlimited. Number-based types are categorized as Public, Private, or One Person Companies (OPC), each with specific regulations regarding membership and share transfer."
+          },
+          "1.3 Share Capital of a Company",
+          {
+            "1.3.1 Categories of Share Capital": [
+              "Authorised Capital",
+              "Issued Capital",
+              "Subscribed Capital",
+              "Called up Capital",
+              "Paid up Capital",
+              "Uncalled Capital",
+              "Reserve Capital"
+            ],
+            "description": "Details the classification of a company's share capital from an accounting perspective. It covers Authorised (or Nominal) Capital as the maximum amount a company can issue, Issued Capital which is offered to the public, Subscribed Capital that is taken up by the public, and further breakdowns into Called-up, Paid-up, Uncalled, and Reserve Capital."
+          },
+          {
+            "1.4 Nature and Classes of Shares": [
+              "1.4.1 Preference Shares",
+              "1.4.2 Equity Shares"
+            ],
+            "description": "Defines a share as a unit of a company's total capital and discusses the two main types of shares a company can issue as per The Companies Act, 2013. It explains Preference Shares, which carry preferential rights to dividends and repayment of capital, and Equity Shares (or ordinary shares), which represent the residual ownership."
+          },
+          {
+            "1.5 Issue of Shares": [
+              "Issue of Prospectus",
+              "Receipt of Applications",
+              "Allotment of Shares",
+              "Minimum Subscription"
+            ],
+            "description": "Outlines the procedural steps for issuing shares to the public. The process involves issuing a prospectus as an invitation, receiving applications with application money, and finally, the allotment of shares. The concept of 'Minimum Subscription', which is 90% of the issue size as per SEBI guidelines, is also explained."
+          },
+          {
+            "1.6 Accounting Treatment": [
+              "Accounting On application",
+              "Accounting On allotment",
+              "Accounting On Calls",
+              "Applications Supported by Blocked Amount (ASBA)"
+            ],
+            "description": "Covers the journal entries and accounting procedures for the issue of shares. It details the entries required at each stage: receipt of application money, transfer to capital on allotment, making calls for further installments, and handling refunds. It also introduces the ASBA process for IPO applications."
+          },
+          "1.6.1 Calls in Arrears",
+          "1.6.2 Calls in Advance",
+          {
+            "1.6.3 Over Subscription": [
+              "Accept some applications in full and reject others",
+              "Make a pro-rata allotment to all applicants",
+              "A combination of rejection and pro-rata allotment"
+            ],
+            "description": "Explains the situation where applications received for shares exceed the number of shares offered. It describes the three alternative methods directors can use for allotment: outright rejection, proportionate (pro-rata) allotment, or a hybrid approach combining both."
+          },
+          "1.6.4 Under Subscription",
+          "1.6.5 Issue of Shares at a Premium",
+          "1.6.6 Issue of Shares at a Discount",
+          "1.6.7 Issue of Shares for Consideration other than Cash",
+          "Private Placement of Shares",
+          {
+            "Employees Stock Option Plan (ESOP)": [
+              "Grant and Grant Date",
+              "Vesting, Vesting Date, and Vesting Period",
+              "Exercise, Exercise Period, and Exercise Price",
+              "Value of Option"
+            ],
+            "description": "Describes the ESOP, a plan where a company offers its shares to employees at a price lower than the market value. It defines key terms associated with ESOPs, such as Grant (offering the option), Vesting (the process of earning the right to buy shares), and Exercise (the act of purchasing the shares)."
+          },
+          {
+            "1.7 Forfeiture of Shares": [
+              "Forfeiture of Shares issued at Par",
+              "Forfeiture of Shares issued at a Premium"
+            ],
+            "description": "Details the process of forfeiture, which is the cancellation of shares when a shareholder fails to pay allotment or call money. It explains the accounting treatment, which involves debiting the Share Capital account with the called-up amount and crediting the unpaid calls and the Share Forfeiture account with the amount already received. The section also covers the specific accounting entries when shares issued at a premium are forfeited."
+          },
+          "1.7.1 Reissue of Forfeited Shares",
+          "Buy-back of Shares"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Issue and Redemption of Debentures",
+        "topics": [
+          {
+            "2.1 Meaning of Debentures": [
+              "Debenture",
+              "Bond"
+            ],
+            "description": "Defines a debenture as a written instrument acknowledging a debt under the company's common seal, containing a contract for repayment and interest. It also explains that the term 'Bond' is often used interchangeably with 'debenture'."
+          },
+          {
+            "2.2 Distinction between Shares and Debentures": [
+              "Ownership",
+              "Return",
+              "Repayment",
+              "Voting Rights",
+              "Security",
+              "Convertibility"
+            ],
+            "description": "Highlights the key differences between shares (representing owned capital) and debentures (representing borrowed capital). The points of comparison include ownership status, type of return (dividend vs. interest), repayment terms, voting rights, security against assets, and convertibility options."
+          },
+          {
+            "2.3 Types of Debentures": [
+              "2.3.1 From the Point of view of Security",
+              "2.3.2 From the Point of view of Tenure",
+              "2.3.3 From the Point of view of Convertibility",
+              "2.3.4 From Coupon Rate Point of view",
+              "2.3.5 From the view Point of Registration"
+            ],
+            "description": "Classifies debentures based on five criteria: Security (Secured vs. Unsecured), Tenure (Redeemable vs. Irredeemable/Perpetual), Convertibility (Convertible vs. Non-Convertible), Coupon Rate (Specific vs. Zero Coupon), and Registration (Registered vs. Bearer)."
+          },
+          {
+            "2.4 Issue of Debentures": [
+              "2.4.1 Issue of Debentures for Cash",
+              "2.4.2 Issue of Debentures at a Discount",
+              "2.4.3 Debentures issued at Premium"
+            ],
+            "description": "Covers the accounting procedures for issuing debentures for cash. This section explains the journal entries for debentures issued at par (face value), at a discount (below face value), and at a premium (above face value), whether the amount is collected in a lump sum or in installments."
+          },
+          "2.5 Over Subscription",
+          "2.6 Issue of Debentures for Consideration other than Cash",
+          {
+            "2.7 Issue of Debentures as a Collateral Security": [
+              "First Method",
+              "Second Method"
+            ],
+            "description": "Explains the concept of issuing debentures as secondary or additional security for a loan. It details two accounting methods: the first method involves no journal entry but a note in the balance sheet, while the second method records the issue by creating a 'Debenture Suspense Account'."
+          },
+          {
+            "2.8 Terms of Issue of Debentures": [
+              "Issued at par and redeemable at par",
+              "Issued at discount and redeemable at par",
+              "Issued at a premium and redeemable at par",
+              "Issued at par and redeemable at a premium",
+              "Issued at a discount and redeemable at a premium",
+              "Issued at a premium and redeemable at a premium"
+            ],
+            "description": "Details the accounting treatment for six common scenarios based on the terms of issue and redemption. It covers journal entries for each case, including the accounting for 'Loss on Issue of Debentures' when debentures are redeemable at a premium."
+          },
+          {
+            "2.9 Interest on Debentures": [
+              "2.9.1 Accounting Treatment"
+            ],
+            "description": "Covers the accounting for interest paid on debentures, which is a charge against profit. This includes the procedure for deducting Tax Deducted at Source (TDS) and the journal entries required for recording interest due, payment to debentureholders, and transferring the interest expense to the Statement of Profit and Loss."
+          },
+          "2.10 Writing off Discount/Loss on Issue of Debentures",
+          {
+            "2.11 Redemption of Debentures": [
+              "Payment in lump sum",
+              "Payment in instalments",
+              "Purchase in the open market",
+              "By conversion into shares or new debentures"
+            ],
+            "description": "Introduces the concept of redemption, which is the repayment of debenture liability. It outlines four primary methods for redemption and discusses important considerations such as the timing and sources of funds, including legal requirements for creating a Debenture Redemption Reserve (DRR) and making Debenture Redemption Investments (DRI)."
+          },
+          {
+            "2.12 Redemption by Payment in Lump Sum": [
+              "Redemption at par",
+              "Redemption at premium"
+            ],
+            "description": "Details the journal entries for redeeming debentures by paying the entire amount at maturity in a single payment, covering scenarios where redemption is at par or at a premium."
+          },
+          "2.12.2 Redemption by Payment in Instalments",
+          "2.13 Redemption by Purchase in Open Market",
+          "2.14 Redemption by Conversion"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Financial Statements of a Company",
+        "topics": [
+          "3.1 Meaning of Financial Statements",
+          {
+            "3.2 Nature of Financial Statements": [
+              "1. Recorded Facts",
+              "2. Accounting Conventions",
+              "3. Postulates",
+              "4. Personal Judgements"
+            ],
+            "description": "Explains that financial statements are prepared based on recorded historical facts, follow established accounting conventions and postulates like going concern, but also involve personal judgements in areas like depreciation and provisions for doubtful debts."
+          },
+          {
+            "3.3 Objectives of Financial Statements": [
+              "To provide information about economic resources and obligations of a business",
+              "To provide information about the earning capacity of the business",
+              "To provide information about cash flows",
+              "To judge effectiveness of management",
+              "Information about activities of business affecting the society",
+              "Disclosing accounting policies"
+            ],
+            "description": "Details the primary goals of financial statements, which include informing users about a company's financial position, performance (earning capacity), and cash flows to aid in economic decision-making, and to assess management's effectiveness."
+          },
+          {
+            "3.4 Types of Financial Statements (As per Schedule III, Companies Act 2013)": [
+              {
+                "Form of Balance Sheet (Part I of Schedule III)": [
+                  "I. EQUITY AND LIABILITIES",
+                  "II. ASSETS",
+                  "Important Features of Presentation",
+                  "Rounding-off Rule for figures"
+                ],
+                "description": "Outlines the vertical format and major headings for a company's Balance Sheet as prescribed by the Companies Act, 2013. It includes the classification of items into Equity and Liabilities, and Assets, with a mandatory distinction between current and non-current items."
+              },
+              {
+                "Explanation of Key Balance Sheet Items": [
+                  "Shareholders Fund (Share Capital, Reserves and Surplus, Money received against Share Warrants)",
+                  "Current and Non-current Classification",
+                  "Share application money pending allotment",
+                  "Borrowings (Long-term, Short-term)",
+                  "Trade payables",
+                  "Proposed Dividend",
+                  "Provisions",
+                  "Fixed assets",
+                  "Investments",
+                  "Inventories",
+                  "Trade receivables",
+                  "Cash and cash equivalent"
+                ],
+                "description": "Provides detailed guidelines for classifying and disclosing specific items within the Balance Sheet, such as the components of Shareholders' Funds, criteria for current/non-current distinction, and the treatment of provisions and borrowings."
+              },
+              {
+                "3.4.2 Form and content of Statement of Profit and Loss (Part II of Schedule III)": [
+                  "I Revenue from operations",
+                  "II Other income",
+                  "IV Expenses (Cost of materials consumed, Purchases of stock-in-trade, Changes in inventories, Employee benefits expense, Finance costs, Depreciation and amortisation expense, Other expenses)",
+                  "V Profit before tax"
+                ],
+                "description": "Presents the prescribed format for the Statement of Profit and Loss, detailing the sequence and components required to calculate profit. This includes revenues earned and a categorical breakdown of all expenses incurred during the period."
+              }
+            ]
+          },
+          {
+            "3.5 Uses and Importance of Financial Statements": [
+              "Report on stewardship function",
+              "Basis for fiscal policies",
+              "Basis for granting of credit",
+              "Basis for prospective investors",
+              "Guide to the value of the investment already made",
+              "Aids trade associations in helping their members",
+              "Helps stock exchanges"
+            ],
+            "description": "Describes the significance of financial statements for various stakeholders like shareholders, creditors, government, and investors. They are used for performance evaluation, credit analysis, investment decisions, and policy making."
+          },
+          {
+            "3.6 Limitations of Financial Statements": [
+              "Do not reflect current situation",
+              "Assets may not realise",
+              "Bias",
+              "Aggregate information",
+              "Vital information missing",
+              "No qualitative information",
+              "They are only interim reports"
+            ],
+            "description": "Highlights the inherent weaknesses of financial statements, such as their reliance on historical costs, the influence of personal judgment, the omission of non-monetary qualitative information, and their aggregate nature, which can limit their usefulness."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Analysis of Financial Statements",
+        "topics": [
+          "4.1 Meaning of Analysis of Financial Statements",
+          {
+            "4.2 Significance of Analysis of Financial Statements": [
+              "Finance manager",
+              "Top management",
+              "Trade payables",
+              "Lenders",
+              "Investors",
+              "Labour unions",
+              "Others"
+            ],
+            "description": "Explains the importance and usefulness of financial analysis for various stakeholders. It details how finance managers use it for decision-making and control, top management for performance evaluation, trade payables and lenders for assessing creditworthiness and solvency, investors for profitability analysis, and labour unions for wage negotiations."
+          },
+          {
+            "4.3 Objectives of Analysis of Financial Statements": [
+              "To assess the current profitability and operational efficiency",
+              "To ascertain the relative importance of different components of the financial position",
+              "To identify the reasons for change in the profitability/financial position",
+              "To judge the ability of the firm to repay its debt and assessing the short-term as well as the long-term liquidity position"
+            ],
+            "description": "Outlines the primary goals of financial analysis, which include evaluating a firm's performance and financial health, understanding changes in its financial position, assessing its liquidity and solvency to meet debt obligations, and forecasting future prospects for investment decisions."
+          },
+          {
+            "4.4 Tools of Analysis of Financial Statements": [
+              "1. Comparative Statements",
+              "2. Common Size Statements",
+              "3. Trend Analysis",
+              "4. Ratio Analysis",
+              "5. Cash Flow Analysis"
+            ],
+            "description": "Introduces the most commonly used techniques for financial analysis. These include Comparative Statements (horizontal analysis), Common Size Statements (vertical analysis), Trend Analysis for studying changes over time, Ratio Analysis for establishing significant relationships between financial items, and Cash Flow Analysis for tracking the movement of cash."
+          },
+          "4.5 Comparative Statements",
+          "4.6 Common Size Statement",
+          {
+            "4.7 Limitations of Financial Analysis": [
+              "Financial analysis does not consider price level changes.",
+              "Financial analysis may be misleading without the knowledge of the changes in accounting procedure followed by a firm.",
+              "Financial analysis is just a study of reports of the company.",
+              "Monetary information alone is considered in financial analysis while non-monetary aspects are ignored.",
+              "The financial statements are prepared on the basis of accounting concept, as such, it does not reflect the current position."
+            ],
+            "description": "Discusses the drawbacks of financial analysis, highlighting that it is based on historical data, ignores the impact of price level changes, can be affected by changes in accounting policies and window dressing, overlooks non-monetary factors, and is influenced by personal judgment."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Accounting Ratios",
+        "topics": [
+          "5.1 Meaning of Accounting Ratios",
+          "5.2 Objectives of Ratio Analysis",
+          "5.3 Advantages of Ratio Analysis",
+          {
+            "5.4 Limitations of Ratio Analysis": [
+              "Limitations of Accounting Data",
+              "Ignores Price-level Changes",
+              "Ignore Qualitative or Non-monetary Aspects",
+              "Variations in Accounting Practices",
+              "Forecasting",
+              "Lack of standardised definitions",
+              "Lack of universally accepted standard levels",
+              "Ratios based on unrelated figures"
+            ],
+            "description": "Discusses the limitations of ratio analysis, which stem from the inherent weaknesses of financial statements and the ratios themselves. Key issues include reliance on historical data, ignoring price-level changes and qualitative factors, variations in accounting practices, and the lack of universal standards for ideal ratios."
+          },
+          {
+            "5.5 Types of Ratios": [
+              "Traditional classification (Statement of Profit and Loss Ratios, Balance Sheet Ratios, Composite Ratios)",
+              "Functional classification (Liquidity Ratios, Solvency Ratios, Activity Ratios, Profitability Ratios)"
+            ],
+            "description": "Classifies accounting ratios into two main categories. Traditional classification is based on the financial statements from which data is drawn. Functional classification, the more common method, groups ratios by their purpose, such as assessing liquidity, solvency, activity, or profitability."
+          },
+          {
+            "5.6 Liquidity Ratios": [
+              "5.6.1 Current Ratio",
+              "5.6.2 Quick or Liquid Ratio (Acid-Test Ratio)"
+            ],
+            "description": "Covers ratios designed to measure the short-term solvency of a business, which is its ability to meet current obligations. The main ratios discussed are the Current Ratio and the Quick (or Liquid) Ratio."
+          },
+          {
+            "5.7 Solvency Ratios": [
+              "5.7.1 Debt-Equity Ratio",
+              "5.7.2 Debt to Capital Employed Ratio",
+              "5.7.3 Proprietary Ratio",
+              "5.7.4 Total Assets to Debt Ratio",
+              "5.7.5 Interest Coverage Ratio"
+            ],
+            "description": "Explains ratios used to assess a business's long-term financial stability and its ability to service long-term debt. This section details the calculation and significance of ratios like Debt-Equity, Total Assets to Debt, Proprietary, and Interest Coverage Ratio."
+          },
+          {
+            "5.8 Activity (or Turnover) Ratio": [
+              "5.8.1 Inventory Turnover Ratio",
+              "5.8.2 Trade Receivables Turnover Ratio",
+              "5.8.3 Trade Payable Turnover Ratio",
+              "5.8.4 Net Assets or Capital Employed Turnover Ratio",
+              "Fixed Assets Turnover Ratio",
+              "Working Capital Turnover Ratio"
+            ],
+            "description": "Details ratios that measure the efficiency and speed with which a company uses its assets to generate revenue. These ratios, also known as efficiency or performance ratios, include inventory turnover, trade receivables turnover, trade payables turnover, and various asset turnover ratios."
+          },
+          {
+            "5.9 Profitability Ratios": [
+              "5.9.1 Gross Profit Ratio",
+              "5.9.2 Operating Ratio",
+              "5.9.3 Operating Profit Ratio",
+              "5.9.4 Net Profit Ratio",
+              "5.9.5 Return on Capital Employed or Investment (ROI)",
+              "5.9.6 Return on Shareholders’ Funds (Return on Net Worth - RONW)",
+              "5.9.7 Earnings per Share (EPS)",
+              "5.9.8 Book Value per Share",
+              "5.9.9 Dividend Payout Ratio",
+              "5.9.10 Price / Earning Ratio (P/E Ratio)"
+            ],
+            "description": "Focuses on ratios that analyze the earning capacity and overall financial performance of a business. This includes various profit margin ratios (Gross, Operating, Net), return on investment ratios (ROI, RONW), and ratios important for shareholders like EPS, Book Value per Share, and P/E Ratio."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Cash Flow Statement 6",
+        "topics": [
+          "6.1 Objectives of Cash Flow Statement",
+          "6.2 Benefits of Cash Flow Statement",
+          "6.3 Cash and Cash Equivalents",
+          "6.4 Cash Flows",
+          {
+            "6.5 Classification of Activities for the Preparation of Cash Flow Statement": [
+              "6.5.1 Cash from Operating Activities",
+              "6.5.2 Cash from Investing Activities",
+              "6.5.3 Cash from Financing Activities",
+              {
+                "6.5.4 Treatment of Some Peculiar Items": [
+                  "Extraordinary items",
+                  "Interest and Dividend",
+                  "Taxes on Income and Gains",
+                  "Non-cash Transactions"
+                ],
+                "description": "Details the specific accounting treatment and classification for non-regular items. This includes extraordinary items (like losses from natural disasters), the handling of interest and dividends for financial vs. non-financial companies, the classification of income taxes, and the exclusion of non-cash investing and financing transactions from the cash flow statement."
+              }
+            ],
+            "description": "As per Accounting Standard-3 (AS-3), this section explains the mandatory classification of an enterprise's cash flows into three distinct categories: operating, investing, and financing activities. It defines each category and provides clear examples of cash inflows and outflows for each, which helps in assessing the impact of these activities on the company's financial position."
+          },
+          {
+            "6.6 Ascertaining Cash Flow from Operating Activities": [
+              "Proposed Dividend",
+              "6.6.1 Indirect Method"
+            ],
+            "description": "Explains the methods for calculating cash flow from operating activities, focusing on the Direct Method (disclosing gross receipts and payments) and the Indirect Method (adjusting net profit/loss). It provides a detailed breakdown of the Indirect Method, including adjustments for non-cash items, non-operating items, working capital changes, and the treatment of proposed dividends."
+          },
+          "6.7 Ascertainment of Cash Flow from Investing and Financing Activities",
+          "6.8 Preparation of Cash Flow Statement"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "OVERVIEW OF COMPUTERISED ACCOUNTING SYSTEM",
+        "topics": [
+          "Introduction",
+          "1.1 COMPUTERISED ACCOUNTING SYSTEM",
+          "Data and Information",
+          {
+            "1.2 COMPONENTS OF CAS": [
+              "Business transactions are analysed",
+              "The transactions are recorded in the journal",
+              "Journal entries are posted to the ledger accounts",
+              "A trial balance is prepared from balances of accounts",
+              "Accounts are reviewed and the necessary adjustments made",
+              "Adjustments are posted in the ledger to prepare adjusted trial balance",
+              "Financial Statements are prepared"
+            ],
+            "description": "This section outlines the phases of the accounting cycle, which involves identifying, measuring, and communicating financial information. It details the steps from analyzing transactions to preparing the final financial statements like the balance sheet and profit and loss account, which can be processed using computers."
+          },
+          {
+            "1.3 SALIENT FEATURES OF CAS": [
+              "1.3.1 SIMPLE AND INTEGRATED",
+              "1.3.2 TRANSPARENCY AND CONTROL",
+              "1.3.3 ACCURACY AND SPEED",
+              "1.3.4 SCALABILITY",
+              "1.3.5 RELIABILITY"
+            ],
+            "description": "Describes the essential characteristics required for a Computerised Accounting System (CAS) software. These features include integration of all business operations, transparency in day-to-day activities, accuracy and speed in data entry and reporting, scalability to match business size, and reliability of financial information."
+          },
+          {
+            "1.4 GROUPING OF ACCOUNTS": [
+              "Accounting Equation",
+              "EQUITY AND LIABILITIES",
+              "ASSETS",
+              "REVENUES",
+              "EXPENSES"
+            ],
+            "description": "Explains the classification of accounting data based on the fundamental accounting equation: Assets = Liabilities + Capital + (Revenues – Expenses). It details the main groups into which all accounts are categorized for proper financial reporting."
+          },
+          {
+            "1.4.1 CODIFICATION OF ACCOUNTS": [
+              "Method of Codification",
+              "1.4.1.1 Sequential Codes",
+              "1.4.1.2 Block Codes",
+              "1.4.1.3 Mnemonic Codes"
+            ],
+            "description": "Introduces the concept of using codes as identification marks for accounts to maintain a hierarchical structure. It explains different coding methods like sequential codes (consecutive assignment), block codes (assigning sub-ranges to groups), and mnemonic codes (using alphabets or abbreviations)."
+          },
+          "1.4.2 METHODOLOGY TO DEVELOP CODING STRUCTURE AND CODING",
+          "1.5 USING SOFTWARE OF CAS",
+          {
+            "SECURITY FEATURES OF CAS SOFTWARE": [
+              "Password Security",
+              "Data Audit",
+              "Data Vault"
+            ],
+            "description": "Details the security measures inherent in accounting software to ensure data safety and confidentiality. This includes password security to control access, data audit to track changes, and data vault (encryption) to protect information from unauthorized interpretation."
+          },
+          "1.6 ADVANTAGES OF CAS",
+          "1.7 LIMITATIONS OF CAS",
+          {
+            "1.8 ACCOUNTING INFORMATION SYSTEM (AIS)": [
+              "1.8.1 CASH AND BANK SUB-SYSTEM",
+              "1.8.2 SALES AND ACCOUNTS RECEIVABLE SUB-SYSTEM",
+              "1.8.3 INVENTORY SUB-SYSTEM",
+              "1.8.4 PURCHASE AND ACCOUNTS PAYABLE SUB-SYSTEM",
+              "1.8.5 PAYROLL ACCOUNTING SUB-SYSTEM",
+              "1.8.6 FIXED ASSETS ACCOUNTING SUB-SYSTEM",
+              "1.8.7 EXPENSE ACCOUNTING SUB-SYSTEM",
+              "1.8.8 TAX ACCOUNTING SUB-SYSTEM",
+              "1.8.9 FINAL ACCOUNTS SUB-SYSTEM",
+              "1.8.10 COSTING SUB-SYSTEM",
+              "1.8.11 BUDGET SUB-SYSTEM",
+              "1.8.12 MANAGEMENT INFORMATION SYSTEM"
+            ],
+            "description": "Describes the various integrated sub-systems that make up an Accounting Information System. Each sub-system handles a specific business function, such as managing cash, sales, inventory, purchases, payroll, fixed assets, expenses, taxes, final accounts, costing, budgeting, and generating management reports for decision-making."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "SPREADSHEET",
+        "topics": [
+          "Introduction",
+          {
+            "2.1 BASIC CONCEPTS OF SPREADSHEET": [
+              "Workbook and Worksheet",
+              "Rows, Columns, and Cells",
+              "Cell Reference (Relative, Absolute, Mixed)",
+              "Navigating In The Worksheet",
+              "Values and the value rule",
+              "what-if scenarios"
+            ],
+            "description": "Introduces the core components of a spreadsheet file, known as a workbook, which contains multiple worksheets. It defines rows, columns, and their intersection point, the cell. Explains cell addressing, different types of cell references (relative, absolute, mixed), keyboard navigation, entering values, and using spreadsheets for 'what-if' analysis."
+          },
+          {
+            "Formulas and Core Functions": [
+              "2.1.1 LABELS",
+              "2.1.2 FORMULAS",
+              "Order of mathematical (expression) operations rules",
+              "2.1.3 FUNCTIONS (SUM, AVERAGE, COUNT)",
+              "Naming Cells and Ranges",
+              "IF Functions",
+              "Nested IF Functions"
+            ],
+            "description": "Covers the essential building blocks for calculations. Differentiates text entries (labels) from calculations (formulas). Explains the hierarchy of mathematical operations. Introduces built-in functions, the concept of naming cell ranges for readability, and the use of conditional logic with IF and nested IF functions."
+          },
+          {
+            "2.1.4 OTHER USEFUL FUNCTIONS": [
+              "2.1.4.1 Date and Time Function (TODAY, NOW, DAY)",
+              "2.1.4.2 Mathematical Function (SUMIF, ROUND, COUNTIF)",
+              "2.1.4.3 Text Manipulation Function (TEXT, CONCATENATE)",
+              "2.1.4.4 Logical Function (AND, OR)",
+              "2.1.4.5 Lookup and References Function (LOOKUP, VLOOKUP, HLOOKUP)",
+              "2.1.2.6 Financial Functions (ACCRINT, CUMIPMT, PV, FV, PMT, RATE, NPV)"
+            ],
+            "description": "Provides an overview of several key function categories. This includes functions for working with dates, advanced math, text manipulation, logic, data retrieval (VLOOKUP, HLOOKUP), and financial calculations (PV, FV, PMT, NPV)."
+          },
+          {
+            "2.2 DATA ENTRY, TEXT MANAGEMENT AND CELL FORMATTING": [
+              "2.2.1 DATA ENTRY",
+              "2.2.2 DATA VALIDATION",
+              "2.2.3 DATA VALIDATION FORM"
+            ],
+            "description": "Focuses on methods for inputting and managing data. Covers techniques for fast data entry like data fill and importing from external sources. Explains data validation to restrict entries and ensure accuracy using dropdown lists, limits, and formulas. Also introduces the use of data input forms."
+          },
+          {
+            "2.3 DATA FORMATTING": [
+              "2.3.1 FORMATTING TOOLS",
+              "Number formatting",
+              "Changing cell colours",
+              "Adding text formatting",
+              "Conditional Formatting",
+              "Merging a range of Cells",
+              "Formatting a Table",
+              "Adding Headers and Footers"
+            ],
+            "description": "Details tools to enhance the visual presentation of a spreadsheet. This includes formatting numbers as currency or percentages, applying cell colors and borders, changing text fonts and alignment, using conditional formatting to highlight data, merging cells, applying predefined table styles, and adding headers and footers for printing."
+          },
+          {
+            "2.4 OUTPUT REPORTS": [
+              "2.4.1 DEFINING THE PRINT AREA",
+              "Printing Ranges of Cells"
+            ],
+            "description": "Explains how to prepare and print spreadsheet data. Covers setting and clearing a specific print area on a worksheet and printing selected, non-contiguous ranges of cells."
+          },
+          {
+            "2.5 PREPARATION OF REPORTS USING PIVOT TABLE": [
+              "2.5.1 ONE-VARIABLE DATA TABLE",
+              "2.5.2 TWO-VARIABLE DATA TABLE",
+              "2.5.3 PIVOT TABLES"
+            ],
+            "description": "Introduces powerful tools for data analysis and reporting. Explains how to create one-variable and two-variable data tables for sensitivity analysis. Details the process of creating PivotTables to summarize, cross-tabulate, and analyze large datasets interactively."
+          },
+          {
+            "2.6. COMMON ERRORS (MESSAGES) IN SPREADSHEET": [
+              "Correct a ##### error",
+              "Correct a #DIV/0! Error",
+              "Correct a #N/A error",
+              "Correct a #NAME? Error",
+              "Correct #NULL! Error",
+              "Correct#NUM! Error",
+              "Correct a #REF! Error",
+              "Correct a #VALUE! Error"
+            ],
+            "description": "Provides a guide to understanding and resolving common formula errors. It explains the causes and potential solutions for errors like #####, #DIV/0!, #N/A, #NAME?, #NULL!, #NUM!, #REF!, and #VALUE!."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "USE OF SPREADSHEET IN BUSINESS APPLICATIONS",
+        "topics": [
+          "Introduction",
+          {
+            "3.1 PAYROLL ACCOUNTING": [
+              {
+                "3.1.1 PAYROLL COMPONENTS": [
+                  "EARNINGS (Basic Pay, Grade Pay, Dearness Allowance, HRA, etc.)",
+                  "DEDUCTIONS (Professional Tax, Provident Fund, TDS, Loan Recovery, etc.)"
+                ],
+                "description": "Details the various elements constituting an employee's salary. It is divided into 'EARNINGS', which includes components like Basic Pay (BP), Dearness Allowance (DA), and House Rent Allowance (HRA), and 'DEDUCTIONS', covering statutory items like Provident Fund (PF), Tax Deduction at Source (TDS), and other recoveries."
+              },
+              {
+                "3.1.2 ELEMENTS USED IN PAYROLL CALCULATION": [
+                  "Basic Pay Earned (BPE)",
+                  "Dearness Allowance (DA)",
+                  "House Rent Allowance (HRA)",
+                  "Transport Allowance (TRA)",
+                  "Total Earnings (TE)",
+                  "Provident Fund (PF)",
+                  "Tax Deduction at Source (TDS)",
+                  "Recovery of Loan Instalments (LOAN)",
+                  "Total Deductions (TD)",
+                  "Number of Effective Days Present (NOEDP)",
+                  "Net Salary (NS)"
+                ],
+                "description": "Outlines the specific formulas and elements required for payroll computation. This includes calculating earned basic pay, various allowances, total earnings, different types of deductions, and finally arriving at the net salary payable to an employee."
+              },
+              "3.1.2.1 Template Design"
+            ],
+            "description": "This topic explains the application of spreadsheets for managing employee salaries. It covers the fundamental components of payroll, formulas for calculating each element, and designing a spreadsheet template to automate the process from gross salary to net pay."
+          },
+          {
+            "3.2 ASSET ACCOUNTING": [
+              "3.2.1 INTRODUCTION",
+              {
+                "3.2.2 COMPUTERISED ASSET ACCOUNTING": [
+                  "Asset Categories (Goodwill, Land, Building, Plant and Machinery, etc.)",
+                  "3.2.2.1 Straight Line Method (SLM)",
+                  "3.2.2.2 Written Down Value (WDV) Method",
+                  "3.2.2.3 Schedule Forming Part of the Balance Sheet"
+                ],
+                "description": "Focuses on performing asset accounting using a spreadsheet. It covers different asset categories and the computation of depreciation using two primary methods: the Straight Line Method (SLM) with the SLN function, and the Written Down Value (WDV) or Declining Balance (DB) method with the DB function. It also includes preparing the fixed asset schedule for the balance sheet."
+              }
+            ],
+            "description": "Discusses the use of spreadsheets for managing fixed assets and calculating depreciation. It introduces asset types, the concept of depreciation, and provides detailed steps for computerized calculation methods and reporting formats."
+          },
+          {
+            "3.3 LOAN REPAYMENT SCHEDULE": [
+              "3.3.1 LOAN",
+              {
+                "3.3.1.1 Calculating Interest and Repayments of Loan": [
+                  "Using the PMT Function",
+                  "Parameters of the PMT function (Rate, Nper, Pv, Fv, Type)"
+                ],
+                "description": "Details the process of computing loan repayment installments. The primary focus is on using Excel's built-in PMT function and understanding its parameters, such as interest rate (Rate), number of periods (Nper), and present value (Pv), to calculate periodic payments."
+              }
+            ],
+            "description": "Explains how to create a loan repayment schedule using a spreadsheet. It defines the core components of a loan and demonstrates the use of Excel's financial function, PMT, to calculate the periodic installment amount required to repay a loan."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "GRAPHS AND CHARTS FOR BUSINESS DATA",
+        "topics": [
+          "Introduction",
+          "4.1 GRAPHS AND CHARTS",
+          {
+            "4.2 BASICS STEPS FOR GRAPHS/CHARTS/DIAGRAMS USING EXCEL": [
+              "Step - 1: Enter data in a worksheet",
+              "Step - 2: Select data and chart type",
+              {
+                "4.2.1 ELEMENTS OF A CHART/GRAPH": [
+                  "The chart area",
+                  "The plot area",
+                  "The data points, data markers, and data series",
+                  "The horizontal (category) and vertical (value) axis",
+                  "The legend",
+                  "Chart and axes titles",
+                  "A data label"
+                ],
+                "description": "This section defines the fundamental components of a chart, including the overall chart area, the plot area where data is graphed, data points representing values, the X and Y axes for categories and values, the legend for identifying data series, and descriptive titles and labels."
+              },
+              {
+                "4.2.2 FORMATTING OF CHART": [
+                  "4.2.2.1 Formatting the Chart (using design option)",
+                  "4.2.2.2 Changing the format of a selected chart element",
+                  "Changing the shape style, outline, and effects",
+                  "Changing the text format and using WordArt",
+                  "4.2.2.3 Changing the layout of the chart element"
+                ],
+                "description": "Covers the customization of a chart's appearance using the Chart Tools tabs. This includes changing the chart type, layout, and style from the Design tab, and modifying individual element formats like colors, fills, outlines, and text styles using the Format and Layout tabs."
+              },
+              {
+                "4.2.3 CHANGE THE CHART TYPE": [
+                  "Steps for creating a Pie Chart"
+                ],
+                "description": "Explains how to convert a chart from one type to another, for example, from a column chart to a pie chart. It details the specific conditions for using pie charts (one positive data series) and provides a step-by-step guide to create and format them."
+              },
+              "4.2.4 RESIZING OF CHART/GRAPH",
+              {
+                "4.2.5 2D - 3D CHARTS/GRAPHS": [
+                  "2-D Charts (X and Y axis)",
+                  "3-D Charts (X, Y, and Z axis)",
+                  "Radar charts",
+                  "Doughnut charts"
+                ],
+                "description": "Discusses the dimensions of charts, distinguishing between 2-D charts with horizontal and vertical axes, and 3-D charts that add a depth (Z) axis. It also introduces specialized charts like Radar charts for comparing aggregate values and Doughnut charts for showing parts of a whole across multiple series."
+              }
+            ],
+            "description": "This section provides a practical guide to creating and customizing charts in MS Excel. It starts with the basic steps of data entry and chart creation, then details the various elements of a chart, extensive formatting options, how to change chart types, resizing, and understanding different chart dimensions and types."
+          },
+          {
+            "4.3 ADVANTAGES IN USING GRAPH/CHART": [
+              "Help to Explore",
+              "Help to Present",
+              "Help to Convince"
+            ],
+            "description": "Outlines the key benefits of using graphs and charts for business data. It explains how visual representations help in exploring data relationships, presenting information concisely, and persuading an audience by making complex data easier to understand."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1162 @@
+MATHEMATICS CURRICULUM STRUCTURE
+==================================================
+Grade 6
+==================================================
+Grade 6
+Chapter 1: Circles
+## Circles
+## Identifying Circular Objects
+## Drawing Circles
+## Circle Properties
+## Circle Designs and Patterns
+## Circle Activities
+## Circle Applications
+Chapter 2: Place Value
+## Place Value
+## Hindu-Arabic Number System
+## Number Periods and Zones
+## Reading and Writing Numbers
+## Place Value Applications
+## Additional Number Naming Systems
+Chapter 3: Mathematical Operations on Whole numbers
+## Mathematical Operations on Whole Numbers
+## Operations with 10, 100, and 1000
+## Advanced Division Methods
+## Numerical Place Values
+## Problem-Solving Applications
+## Mathematical Properties and Rules
+Chapter 4: Time
+## Time Measurement
+## Reading 12-Hour Clock
+## 24-Hour Clock System
+## Date Standards
+## Time Unit Relationships
+## Time Calculations
+## Time Applications
+Chapter 5: Number line
+## Number Line
+## Negative Numbers
+## Integers
+## Comparison of Integers
+## Finding Integers Between Non-consecutive Integers
+Chapter 6: Estimation and Rounding off
+## Estimation
+## Rounding Off
+## Exercises
+## Miscellaneous Applications
+Chapter 7: Angles
+## Angles
+## Types of Angles
+## Activities and Exercises
+## Practical Applications
+## Measurement Methods
+Chapter 8: Directions
+## Directions
+## Sub Directions
+## The Horizontal and Vertical
+## Tools and Instruments
+## Applications and Examples
+Chapter 9: Fractions
+## Fractions
+## Denominator and Numerator
+## Equivalent Fractions
+## Comparison of Fractions
+## Addition and Subtraction of Fractions
+## Fractions of Collections
+## Problem Solving with Fractions
+Chapter 10: Selection
+## Selection
+## Animal Classification
+## Number Classification
+## Food Classification
+## Character Classification
+## Transportation Classification
+## Mathematical Groups
+## Grouping Principles
+Chapter 11: Factors and Multiples
+## Factors and Multiples
+## Multiplicity and Multiples
+## Divisibility
+## Problem Solving
+## Number Properties
+Grade 6
+Chapter 12: Rectilinear Plane Figures
+## Rectilinear Plane Figures
+## Types of Quadrilaterals
+## Properties of Plane Figures
+## Practical Applications
+Chapter 13: Decimals
+## Decimals
+## Comparison of Decimals
+## Addition of Decimals
+## Subtraction of Decimals
+## Number Representation
+## Problem Solving
+Chapter 14: Types of Numbers and Number Patterns
+## Types of Numbers
+## Number Patterns
+## Properties and Rules
+Chapter 15: Length
+## Length
+## Measuring Tools
+## Unit Relationships
+## Perimeter
+## Length Calculations
+Chapter 16: Liquid Measurements
+## Liquid Measurements
+## Mathematical Operations with Liquid Measurements
+## Practical Applications
+## Working with Mixed Units
+## Estimation and Approximation
+## Unit Relationships
+## Problem Solving
+Chapter 17: Solids
+## Solids
+## Cube
+## Cuboid
+## Regular Tetrahedron
+## Compound Solids
+Chapter 18: Algebraic Symbols
+## Algebraic Symbols
+## Known and Unknown Terms
+## Variables
+## Exercises and Practice
+## Mathematical Expressions
+Chapter 19: Constructing Algebraic Expressions and Substitution
+## Constructing Algebraic Expressions
+## Substitution
+## Practice Exercises
+## Summary and Key Concepts
+Chapter 20: Mass
+## Mass
+## Measuring Instruments
+## Converting Units
+## Addition of Masses
+## Subtraction of Masses
+## Problem Solving
+## Mathematical Operations
+## Standards and Measurements
+Chapter 21: Ratio
+## Ratio
+## Equivalent Ratios
+## Simplest Form of Ratio
+## Rate
+## Mixed Applications
+## Exercises
+Chapter 22: Data Collection and Representation
+## Data Collection and Representation
+## Picture Graphs
+## Data Analysis Methods
+## Practical Applications
+Chapter 23: Data Interpretation
+## Data Interpretation in Tables
+## Data Interpretation in Picture Graphs
+## Types of Data Analysis
+## Methods of Data Representation
+## Practical Applications
+## Summary Points
+Chapter 24: Indices
+## Indices
+## Writing Numbers Using Indices
+## Representing Numbers as Powers
+## Applications and Exercises
+## Properties and Rules
+Chapter 25: Area
+## Area
+## Area Measurement Methods
+## Area Concepts
+## Practical Applications
+## Activities and Exercises
+Grade 7
+==================================================
+Grade 7
+Chapter 1: Symmetry
+## Symmetry
+## Bilateral Symmetry
+## Drawing Symmetric Figures
+## Creating Symmetric Designs
+## Properties of Symmetric Figures
+Chapter 2: Sets
+## Sets
+## Elements of Sets
+## Writing Sets
+## Methods of Set Representation
+## Set Properties
+## Set Examples and Applications
+## Venn Diagrams
+Chapter 3: Operations On whole numbers
+## Operations on Whole Numbers
+## Mathematical Operations on Two Whole Numbers
+## Order of Mathematical Operations
+## Simplifying Numerical Expressions
+## Expressions with Brackets
+## Convention Rules for Expression Simplification
+## Practice Examples
+## Exercise Problems
+Chapter 4a: Factors and Multiples (Part I)
+## Factors and Multiples (Part I)
+## Divisibility Rules
+## Testing Divisibility
+## Exercises and Applications
+Chapter 4b: Factors and Multiples (Part II)
+## Factors and Multiples
+## Prime Factors
+## Highest Common Factor (HCF)
+## Least Common Multiple (LCM)
+## Problem Solving
+Chapter 5: Indices
+## Indices
+## Powers with Algebraic Symbols
+## Finding Value by Substitution
+## Rules and Properties
+## Index Form Conversion
+## Exercises and Practice
+Chapter 6: Time
+## Time Units
+## Leap Years
+## Time Period Calculations
+## Standard Time Relationships
+## Calendar System
+## Time Period Applications
+Chapter 7: Parallel Straight Lines
+## Straight Line Segment
+## Parallel Straight Lines
+## Perpendicular Distance
+## Drawing Parallel Lines
+## Drawing Rectilinear Plane Figures
+## Construction Methods
+## Properties of Parallel Lines
+Chapter 8: Directed Numbers
+## Directed Numbers
+## Addition of Integers Using Number Line
+## Adding Integers Without Number Line
+## Adding General Directed Numbers
+## Applications
+## Rules for Directed Number Operations
+Chapter 9: Angles
+## Angles
+## Naming Angles
+## Measuring Angles
+## Drawing Angles
+## Classification of Angles
+## Measuring and Drawing Reflex Angles
+Chapter 10a: Fractions (Part I)
+## Fractions
+## Representing Mixed Numbers as Improper Fractions
+## Converting Improper Fractions to Mixed Numbers
+## Comparison of Fractions
+## Comparison of Mixed Numbers
+## Practical Applications
+Chapter 10b: Fractions (Part II)
+## Addition of Fractions
+## Subtraction of Fractions
+## Problem Solving Techniques
+## Practice Exercises
+## Rules and Guidelines
+Chapter 11: Decimals
+## Decimals
+## Writing Fractions as Decimal Numbers
+## Writing Decimal Numbers as Fractions
+## Multiplying Decimal Numbers
+## Dividing Decimal Numbers
+## Converting Units
+Chapter 12: Algebraic Expressions
+## Algebraic Expressions
+## Constructing Expressions with Unknown Terms
+## Simplifying Terms
+## Substituting Values
+## Applications
+## Properties and Rules
+Grade 7
+Chapter 13: Mass
+## Units of Mass
+## Addition of Masses
+## Subtraction of Masses
+## Multiplication of Masses
+## Division of Masses
+## Mass Estimation
+## Mass Calculations
+## Nutrient Mass Analysis
+## Mass in Packaging
+## Transportation Mass Limits
+Chapter 14a: Rectilinear plane figures I
+## Polygons
+## Convex and Concave Polygons
+## Regular Polygons
+## Properties and Rules
+## Exercises and Applications
+Chapter 14b: Rectilinear plane figures II
+## Rectilinear Plane Figures (Part II)
+## Activities and Exercises
+## Summary Points
+Chapter 15: Equations and formulae
+## Equations and Formulae
+## Simple Equations
+## Formulae
+## Substituting Values
+## Exercise Problems
+Chapter 16: Length
+## Length Units
+## Addition of Length Measurements
+## Subtraction of Length Measurements
+## Multiplication of Length Measurements
+## Division of Length Measurements
+## Perimeter
+## Summary
+Chapter 17: Area
+## Area
+## Area Formulae
+## Composite Plane Figures
+## Area Estimation
+## Area Problem Solving
+## Review and Practice
+Chapter 18: Circles
+## Circles
+## Circle Components
+## Circle Properties
+## Circle Construction Methods
+## Circle Measurements
+## Circle Applications
+Chapter 19: Volume
+## Volume
+## Properties of Cube and Cuboid
+## Volume Calculation Methods
+## Volume Units and Measurement
+## Volume Problem Solving
+## Volume Applications
+Chapter 20: Liquid measurements
+## Liquid Measurements
+## Multiplication of Liquid Quantities
+## Division of Liquid Quantities
+## Practice Exercises
+## Summary Points
+Chapter 21: Ratios
+## Ratios and Equivalent Ratios
+## Dividing in a Ratio
+## Finding Values When One Term is Known
+## Real-World Applications
+## Methods and Techniques
+Chapter 22: Percentages
+## Percentages
+## Introduction to Percentage Concept
+## Representing Fractions as Percentages
+## Decimal Numbers as Percentages
+## Practical Applications
+Chapter 23: Cartesian plane
+## Cartesian Plane
+## Identifying Locations
+## Structure of Cartesian Plane
+## Point Identification
+## Plotting Points
+## Practical Applications
+Chapter 24: Construction of rectilinear plane figures
+## Construction of Rectilinear Plane Figures
+## Straight Line Segment Construction
+## Equilateral Triangle Construction
+## Regular Hexagon Construction
+## Geometric Tools and Methods
+## Practical Applications
+Chapter 25: Solids
+## Solids
+## Construction and Modeling
+## Geometric Properties
+## Euler's Relationship
+## Practical Applications
+Chapter 26: Data representation and interpretation
+## Data Representation
+## Data Interpretation
+## Graph Components
+## Practical Applications
+## Graph Construction
+Chapter 27: Scale diagrams
+## Scale Diagrams
+## The Scale of a Scale Diagram
+## Drawing Scale Diagrams
+## Obtaining Actual Measurements from Scale Diagrams
+## Summary
+Chapter 28: Tessellation
+## Tessellation
+## Pure Tessellation
+## Semi-pure Tessellation
+## Creating Tessellation Designs
+## Activities and Exercises
+## Mathematical Properties
+Chapter 29: Likelihood of an event occurring
+## Likelihood of an Event Occurring
+## Experiments and Outcomes
+## Likelihood of Obtaining Possible Outcomes
+## Key Concepts Summary
+Grade 8
+==================================================
+Grade 8
+Chapter 1: Number Patterns
+## Number Patterns and Terms
+## General Term (nth term) of Number Patterns
+## Even Number Patterns
+## Odd Number Patterns
+## Square Numbers
+## Triangular Numbers
+## Pattern vs Set Properties
+## Problem Solving Applications
+Chapter 2: Perimeter
+## Perimeter
+## Perimeter of Composite Rectilinear Plane Figures
+## Practice Problems
+## Review Exercises
+Chapter 3: Angles
+## Angles
+## Complementary and Supplementary Angles
+## Adjacent Angles
+## Vertically Opposite Angles
+## Angle Problems and Applications
+Chapter 4: Directed Numbers
+## Directed Numbers
+## Adding Directed Numbers
+## Subtracting Directed Numbers
+## Multiplying Directed Numbers
+## Dividing Directed Numbers
+Chapter 5: Algebraic Expressions
+## Algebraic Expressions
+## Multiplying Algebraic Expressions
+## Simplifying Algebraic Expressions
+## Value Substitution
+## Word Problems
+## Properties of Algebraic Operations
+## Applications
+Chapter 6: Solids
+## Solids
+## Octahedron
+## Dodecahedron
+## Icosahedron
+## Euler's Relationship for Solids
+## Platonic Solids
+## Summary Table Properties
+Chapter 7: Factors
+## Highest Common Factor (HCF)
+## Writing Algebraic Expressions as Products
+## Writing Expressions with Negative Factors
+## Advanced Factoring Concepts
+## Practice and Applications
+Chapter 8: Square Root
+## Square Numbers
+## Square Root
+## Units Place Patterns
+## Tens Place Rules
+## Methods for Finding Square Roots
+## Special Properties
+## Applications
+Chapter 9: Mass
+## Units Used to Measure Mass
+## Converting Between Units
+## Addition of Masses
+## Subtraction of Masses
+## Multiplication of Masses
+## Division of Masses
+## Problem Solving
+Chapter 10: Indices
+## Indices
+## Expressing Power of Product as Product of Powers
+## Products of Powers as Power of Product
+## Power of Negative Integers
+## Exercises and Applications
+## Summary
+Chapter 11: Symmetry
+## Symmetry
+## Rotational Symmetry
+## Properties of Geometric Figures
+## Relationships between Symmetry Types
+## Mathematical Rules and Conditions
+## Practical Applications
+Chapter 12: Triangles and Quadrilaterals
+## Triangles
+## Exterior Angles of Triangles
+## Quadrilaterals
+## Angle Properties
+## Problem Solving
+Chapter 13: Fractions (Part I)
+## Fractions I
+## Multiplying a Fraction by a Whole Number
+## Multiplying a Fraction by a Fraction
+## Multiplying a Fraction by a Mixed Number
+## Multiplying a Mixed Number by a Mixed Number
+## Practice and Applications
+Chapter 14: Fractions (Part II)
+## Reciprocal of a Number
+## Dividing a Fraction by a Whole Number
+## Dividing a Whole Number by a Fraction
+## Dividing a Fraction by a Fraction
+## Dividing a Whole Number by a Mixed Number
+## Dividing a Mixed Number by a Whole Number
+## Dividing a Fraction by a Mixed Number
+## Dividing a Mixed Number by a Fraction
+## Dividing a Mixed Number by a Mixed Number
+Grade 8
+Chapter 15: Decimal Numbers
+## Decimal Numbers
+## Multiplying Decimal Numbers
+## Dividing Decimal Numbers
+## Word Problems and Applications
+## Methods and Techniques
+## Practice Exercises
+Chapter 16: Ratios
+## Ratios
+## Ratio Representations
+## Dividing in Given Ratios
+## Continued Ratios
+## Business Applications
+## Practical Applications
+Chapter 17: Equations
+## Equations
+## Construction of Simple Equations
+## Solving Methods
+## Equation Properties
+## Applications
+Chapter 18: Percentages
+## Expressing Fractions as Percentages
+## Expressing Percentages as Fractions
+## Ratios and Percentages
+## Calculating Percentages from Given Quantities
+## Finding Quantities from Percentages
+## Finding Total Amounts from Partial Quantities
+## Mixed Applications
+Chapter 19: Sets
+## Sets
+## Set Notation
+## Number of Elements in a Set
+## Null Set
+## Set Examples and Applications
+## Practice and Exercises
+## Set Notation Rules
+Chapter 20: Area
+## Area
+## Area of Composite Plane Figures
+## Surface Area of Cubes and Cuboids
+## Area Measurement Applications
+## Review Exercises and Practice
+Chapter 21: Time
+## Time
+## Longitudes
+## Local Time
+## Standard Time and Time Zones
+## International Date Line (IDL)
+## Special Time Considerations
+Chapter 22: Volume and Capacity
+## Volume
+## Capacity
+## Review Exercises
+## Formulas & Relationships
+## Activities
+Chapter 23: Circles
+## Circles
+## Arcs
+## Segments
+## Sectors
+## Activities
+## Exercises
+Chapter 24: Location of a Place
+## Location of a Place
+## Direction Measurements
+## Illustrating Location Sketches
+## Practical Applications
+## Summary Concepts
+Chapter 25: The Number line and Cartesian Plane
+## The Number Line
+## Cartesian Plane
+## Straight Lines on Cartesian Plane
+## Inequalities on Number Line
+## Coordinate Geometry
+## Number Systems
+Chapter 26: Construction of triangles
+## Construction of Triangles
+## Geometric Triangle Properties
+## Construction Methods and Tools
+## Practice Exercises
+## Summary Components
+Chapter 27: Data Representation and Interpretation
+## Data Representation in Stem and Leaf Diagrams
+## Statistical Measures
+## Data Analysis and Interpretation
+## Practical Applications
+Chapter 28: Scale Diagrams
+## Scale Diagrams
+## Calculating Actual Lengths from Scale Diagrams
+## Drawing Scale Diagrams
+## Working with Scale Measurements
+## Scale Applications
+## Problem Solving with Scales
+Chapter 29: Probability
+## Probability
+## Random Experiments
+## Experimental Probability
+## Theoretical Probability
+## Properties of Probability
+## Probability Applications
+Chapter 30: Tessellation
+## Tessellation
+## Regular Tessellation
+## Semi-regular Tessellation
+## Practical Applications
+## Geometric Requirements
+Grade 9
+==================================================
+Grade 9
+Chapter 1: Number Patterns
+## Number Patterns
+## General Term of Number Patterns
+## Developing Number Sequence
+## Expression for General Term (Tn)
+## Mathematical Problem Solving
+## Properties of Number Patterns
+Chapter 2: Binary Numbers
+## Binary Numbers
+## Binary Number Operations
+## Binary Number Applications
+## Number System Concepts
+## Exercises & Practice
+Chapter 3: Fractions
+## Fractions
+## Simplifying Expressions with "of"
+## BODMAS Rule for Fractions
+## Problem Solving
+Chapter 4: Percentages
+## Profit and Loss
+## Profit Percentage and Loss Percentage
+## Discounts and Commissions
+## Summary Formulas
+## Practice Exercises
+Chapter 5: Algebraic Expressions
+## Algebraic Expressions
+## Substitution
+## Product of Binomial Expressions
+## Review Exercises
+## Practical Applications
+## Miscellaneous Exercises
+Chapter 6: Factors of Algebraic Expressions
+## Factors of Algebraic Expressions
+## Factors of Algebraic Expressions with Four Terms
+## Factors of Trinomial Quadratic Expressions
+## Factors of Expressions as Difference of Two Squares
+## Miscellaneous Topics
+Chapter 7: Axioms
+## Axioms in Mathematics
+## The Five Fundamental Axioms
+## Geometric Applications
+## Algebraic Applications
+## Problem Types
+## Mathematical Reasoning
+Chapter 8: Angles related to straight lines and parallel lines
+## Angles Related to Straight Lines
+## Corresponding, Alternate and Allied Angles
+## Angles Related to Parallel Lines
+## Theorems and Applications
+## Properties of Angles in Geometric Figures
+Chapter 9: Liquid Measurements
+## Liquid Measurements
+## Volume Units Relationships
+## Container Volume Calculations
+## Practical Applications
+## Problem Solving
+## Review Exercises
+Grade 9
+Chapter 10: Direct proportion
+## Direct Proportion
+## Foreign Currency
+## Problem Types Covered
+## Practice Exercises
+Chapter 11: The Calculator
+## The Calculator
+## Scientific Calculator Keys and Functions
+## Using the % Key
+## Using the x² Key
+## Using the Square Root Key
+## Calculator Operation Guidelines
+Chapter 12: Indices
+## Indices
+## Negative Indices
+## Zero Index
+## Power of a Power
+## Laws of Indices
+Chapter 13: Rounding off and Scientific Notation
+## Rounding off and Scientific Notation
+## Scientific Notation
+## Converting Scientific Notation
+## Rounding Off Numbers
+## Decimal Rounding
+## Applications
+Chapter 14: Loci and Constructions
+## Loci
+## Constructions
+## Angles
+## Geometric Constructions
+## Applications
+Chapter 15: Equations
+## Linear Equations
+## Solving Linear Equations with Two Types of Brackets
+## Linear Equations Containing Fractions
+## Solving Simultaneous Linear Equations
+## Problem Solving Methods
+## Practice Exercises
+Chapter 16: Angles of a triangle
+## Angles of a Triangle
+## Interior Angles of a Triangle
+## Exterior Angles of a Triangle
+## Angle Relationships
+## Problem Solving Applications
+## Summary and Key Theorems
+Chapter 17: Formulae
+## Formulae
+## Subject Changes in Formulae
+## Substitution in Formulae
+## Mathematical Examples & Applications
+## Practice Exercises
+Chapter 18: Circumference of circle
+## Circumference of a Circle
+## Measuring Circle Circumference
+## Circle Formulas and Properties
+## Applications and Problem Solving
+## Review Concepts
+Chapter 19: Pythagorean relation
+## Pythagorean Relation
+## Pythagorean Theorem Application
+## Geometric Problems
+## Real World Applications
+## Exercise Types
+Chapter 20: Graphs
+Topics file not found
+Grade 9
+Chapter 21: Inequalities
+## Inequalities
+## Properties of Inequalities
+## Application Problems
+## Number Line Representations
+## Solution Sets
+## Real-World Applications
+Chapter 22: Sets
+## Sets
+## Finite and Infinite Sets
+## Universal Sets and Subsets
+## Set Operations
+## Complement of Sets
+## Venn Diagrams
+## Special Cases
+## Applications
+Chapter 23: Area
+## Area
+## Area of a Parallelogram
+## Area of a Trapezium
+## Area of a Circle
+## Summary
+Chapter 24: Probability
+## Random Experiments
+## Sample Space
+## Equally Likely Outcomes
+## Probability
+## Types of Experiments
+## Applications of Probability
+Chapter 25: Angles of polygon
+## Angles of a Polygon
+## Sum of Interior Angles
+## Sum of Exterior Angles
+## Regular Polygons
+## Problem-Solving Applications
+Chapter 26: Algebraic fractions
+## Algebraic Fractions
+## Review Exercise Components
+## Adding/Subtracting Algebraic Fractions with Equal Integral Denominators
+## Adding/Subtracting Algebraic Fractions with Unequal Integral Denominators
+## Adding/Subtracting Algebraic Fractions with Same Algebraic Denominator
+## Simplifying Algebraic Fractions with Algebraic Expressions
+Chapter 27: Scale diagrams
+## Scale Diagrams
+## Clinometer
+## Scale Diagrams in Horizontal Plane
+## Problem-Solving with Scale Diagrams
+## Map Reading and Navigation
+Chapter 28: Data representation and interpretation
+## Data Representation and Interpretation
+## Ungrouped Frequency Distribution
+## Grouped Frequency Distribution
+## Modal Class and Median Class
+## Statistical Calculations
+## Data Analysis Methods
+Grade 10
+==================================================
+Grade 10
+Chapter 1: Perimeter
+## Perimeter of Plane Figures
+## Sectors of a Circle
+## Arc Length Calculations
+## Perimeter of Sectors
+## Compound Figures with Sectors
+## Applications
+## Problem Solving Methods
+## Special Cases
+Chapter 2: Square Root
+## Square Root
+## Division Method for Square Roots
+## Application Problems
+## Exercises
+## Number Patterns
+Chapter 3: Fractions
+## Fractions
+## Operations with Fractions
+## Applications of Fractions
+## Further Applications of Fractions
+## Problem Solving
+Chapter 4: Binomial Expressions
+## Binomial Expressions
+## Squares of Binomial Expressions
+## Review & Practice
+## Numerical Applications
+## Miscellaneous Applications
+Chapter 5: Congruence of Triangles
+## Congruence of Plane Figures
+## Congruence of Triangles
+## Cases of Triangle Congruence
+## Applications of Triangle Congruence
+## Exercises
+Chapter 6: Area
+## Areas of Plane Figures
+## Area of Sector of Circle
+## Compound Plane Figures
+## Problem Types
+## Applications
+Chapter 7: Factors of Quadratic Expressions
+## Factors of Quadratic Expressions
+## Factors of Algebraic Expressions
+## Factors of Difference of Two Squares
+## Advanced Factoring Techniques
+## Applications
+## Special Cases and Extensions
+Chapter 8: Triangles I
+## Interior and Exterior Angles of a Triangle
+## Formal Proof of Exterior Angle Theorem
+## Interior Angles of a Triangle
+## Formal Proof of Interior Angles Sum
+## Problem Solving Applications
+## Exercise Problems
+Chapter 9: Triangles II
+## Triangles II
+## Formal Proof of Isosceles Triangle Theorem
+## Converse of Isosceles Triangle Theorem
+## Special Cases and Properties
+## Problem Solving Applications
+## Exercise Problems
+Chapter 10: Inverse Proportions
+## Ratios
+## Inverse Proportions
+## Algebraic Representation of Inverse Proportions
+## Applications
+## Practice Problems
+Chapter 11: Data Representation
+## Data Representation
+## Representing Data in Pie Charts
+## Extracting Information from Pie Charts
+## Practice Examples
+## Technical Skills
+Chapter 12: Least Common Multiple of Algebraic Expressions
+## Least Common Multiple of Algebraic Expressions
+## LCM of Algebraic Terms
+## LCM of Complex Algebraic Expressions
+## Special Cases in Algebraic LCM
+## Application Problems
+Chapter 13: Algebraic Fractions
+## Algebraic Fractions
+## Simplifying Fractions with Unequal Algebraic Terms
+## Simplifying Fractions with Unequal Binomial Expressions
+## Practice Exercises
+Chapter 14: Percentages
+## Percentages
+## Taxes
+## Interest
+## Mathematical Problem Solving
+## Financial Concepts
+Chapter 15: Equations
+## Equations
+## Simultaneous Equations
+## Quadratic Equations
+## Practice Problems
+Chapter 16: Parallelograms I
+## Parallelograms
+## Properties of Parallelograms
+## Theorems
+## Construction and Problem Solving
+## Exercises
+Chapter 17: Parallelograms II
+## Parallelograms II
+## Special Types of Parallelograms
+### Rectangle
+### Square
+### Rhombus
+## Proofs and Exercises
+## Construction Activities
+Chapter 18: Sets
+## Sets
+## Regions in a Venn Diagram
+## Relationship between Numbers of Elements in Sets
+## Problem Solving with Sets
+Grade 10
+Chapter 19: Logarithms I
+## Indices
+## Logarithms I
+## Laws of Logarithms
+## Exercise Topics
+## Historical Context
+Chapter 20: Logarithms II
+## Logarithms II
+## Antilogarithm
+## Multiplying and Dividing Using Logarithms
+## Calculator Usage
+## Exercises and Applications
+Chapter 21: Graphs
+## Graphs of Linear Functions (y = mx + c)
+## Graph Functions of Form y = ax²
+## Graph Functions of Form y = ax² + b
+## Finding Intervals and Roots
+## Vertical Displacement of Graphs
+## Applications and Mixed Practice
+Chapter 22: Rate
+## Speed
+## Distance-Time Graphs
+## Volume and Time
+## Rate of Change
+## Problem Types
+Chapter 23: Formulae
+## Formulae
+## Changing Subject of Formulae
+## Substitution
+## Review Exercises
+## Applications
+Chapter 24: Arithmetic Progressions
+## Arithmetic Progressions
+## nth Term of Arithmetic Progression
+## Sum of the First n Terms
+## Problem Solving Types
+## Miscellaneous Applications
+## Special Cases
+## Practice Problems
+Chapter 25: Algebraic Inequalities
+## Algebraic Inequalities
+## Linear Inequalities
+## Regions and Inequalities
+## Inequalities of Form y ⋚ x
+## Compound Inequalities
+## Applications
+Chapter 26: Frequency Distributions
+## Frequency Distributions
+## Grouped Data
+## Mean Calculation Methods
+## Statistical Applications
+## Data Interpretation
+## Practical Problems
+Chapter 27: Chords of a Circle
+## Chords of a Circle
+## Line from Center to Chord Midpoint
+## Perpendicular from Center to Chord
+## Proofs and Riders
+## Problem Sets
+## Special Cases and Applications
+Chapter 28: Constructions
+## Construction of Basic Loci
+## Construction of Triangles
+## Constructions Related to Parallel Lines
+## Practice Exercises
+## Activities
+Chapter 29: Surface Area and Volume
+## Surface Area and Volume
+## Cylinders
+## Prisms
+## Volume
+## Practical Applications
+Chapter 30: Probability
+## Probability
+## Events and Their Properties
+## Probability Representation Methods
+## Probability Rules and Formulas
+## Applications of Probability
+## Conditional Probability
+## Problem Solving Methods
+Chapter 31: Angles in a Circle
+## Angles in a Circle
+## Angles in the Same Segment
+## Angles in a Semicircle
+## Proving Riders and Applications
+## Exercises and Problem Solving
+## Geometric Theory and Properties
+Chapter 32: Scale Diagrams
+## Scale Diagrams
+## Clinometer
+## Scale Drawings in Vertical Plane
+## Scale Calculations
+## Exercise Problems
+## Logarithms Tables
+## Technical Terms & Definitions
+## Course Structure
+Grade 11
+==================================================
+Grade 11
+Chapter 1: Real Numbers
+## Real Numbers
+## Surds
+## Decimal Representations
+## Number Properties
+Chapter 2: Indices and Logarithms I
+## Indices
+## Laws of Logarithms
+## Applications and Problem Solving
+## Properties and Rules
+Chapter 3: Indices and Logarithms II
+## Indices and Logarithms II
+## Logarithms of Decimal Numbers Less Than One
+## Addition and Subtraction of Logarithms
+## Finding Powers and Roots Using Logarithms
+## Using a Calculator
+## Applications of Logarithms
+## Practice Exercises
+Chapter 4: Surface Area of Solids
+## Surface Area of Solids
+## Practical Applications
+## Mathematical Concepts
+## Formulas and Calculations
+## Exercise Problems
+Chapter 5: Volume of Solids
+## Volume of Solids
+## Square Based Right Pyramid
+## Right Circular Cone
+## Sphere
+## Summary and Applications
+## Practice Exercises
+Chapter 6: Binomial Expressions
+## Binomial Expressions
+## Cube of Binomial Expressions
+## Methods of Cube Expansion
+## Examples and Applications
+## Practice Problems
+Chapter 7: Algebraic Fractions
+## Algebraic Fractions
+## Multiplying Algebraic Fractions
+## Dividing Algebraic Fractions
+## Practice Exercises
+Chapter 8: Areas of Plane Figures between Parallel Lines
+## Areas of Plane Figures between Parallel Lines
+## Parallelograms and Triangles on Same Base between Parallel Lines
+## Areas of Parallelograms and Triangles on Same Base
+## Triangles on Same Base between Parallel Lines
+## Miscellaneous Applications
+Grade 11
+Chapter 9: Percentages
+## Percentages
+## Review Exercise
+## Capital vs Recurrent Expenses
+## Interest Calculation Methods
+## Compound Interest
+## Practical Applications
+## Exercises and Problem Solving
+Chapter 10: Share Market
+## Share Market
+## Shares
+## Dividends
+## Trading in Stock Market
+## Capital Gains & Returns
+## Investment Strategies
+## Financial Calculations
+## Market Operations
+Chapter 11: The Midpoint Theorem
+## The Midpoint Theorem
+## Converse of Midpoint Theorem
+## Exercises and Applications
+## Geometric Constructions
+## Advanced Applications
+Chapter 12: Graphs
+## Graphs
+## Solving Simultaneous Equations Graphically
+## Quadratic Functions (y = ax² + bx + c)
+## Quadratic Functions in Special Forms
+## Graph Analysis Skills
+## Applications
+Chapter 13: Equations
+## Solving Simultaneous Equations
+## Solving Quadratic Equations by Factoring
+## Solving Quadratic Equations by Completing the Square
+## Solving Quadratic Equations Using the Quadratic Formula
+## Miscellaneous Applications
+Chapter 14: Equiangular Triangles
+## Ratios of Lengths
+## Dividing Triangle Sides by Parallel Lines
+## Similar Figures and Equiangular Triangles
+## Proving Triangle Theorems
+## Calculations with Similar Triangles
+## Exercises and Applications
+## Miscellaneous Topics
+Chapter 15: Data representation and Interpretation
+## Data Representation and Interpretation
+## Histogram
+## Frequency Polygon
+## Cumulative Frequency Curve
+## Quartiles and Interquartile Range
+## Data Analysis Applications
+Chapter 16: Geometric Progressions
+## Geometric Progressions
+## nth Term Formula
+## Sum of n Terms
+## Problem Solving
+## Exercise Sections
+Grade 11
+Chapter 17: Pythagoras' Theorem
+## Pythagoras' Theorem
+## Further Applications of Pythagoras' Theorem
+## Pythagorean Triples
+## Miscellaneous Applications
+## Exercises and Practice
+Chapter 18: Trigonometry
+## Right Angled Triangles
+## Trigonometric Ratios
+## Standard Angles (30°, 45°, 60°)
+## Using Trigonometric Tables
+## Angles in Vertical Plane
+## Angles in Horizontal Plane
+## Calculator Usage
+## Applications and Problem Solving
+Chapter 19: Matrices
+## Matrices
+## Matrix Order
+## Matrix Operations
+## Special Matrices
+## Matrix Properties
+## Matrix Applications
+## Matrix Multiplication Methods
+Chapter 20: Inequalities
+## Inequalities
+## Solving Problems Using Inequalities
+## Number Line Representation
+## Exercise Sets
+Chapter 21: Cyclic Quadrilaterals
+## Cyclic Quadrilaterals
+## Exterior and Interior Angles
+## Theorems and Proofs
+## Problem Solving
+## Geometric Constructions
+Chapter 22: Tangents
+## Tangents
+## Tangents Drawn to a Circle from an External Point
+## Angles in the Alternate Segment
+## Related Problems and Applications
+## Exercise Problems
+Chapter 23: Constructions
+## Constructions Related to Straight Lines and Angles
+## Construction of Circles Related to Triangles
+## Construction of Tangents to Circles
+## Exercise Problems
+Chapter 24: Sets
+## Venn Diagrams
+## Set Notation Representation
+## Problem Solving with Sets
+## Applications
+## Set Calculations
+## Data Representation
+Chapter 25: Probability
+## Probability
+## Grid/Cartesian Plane Method
+## Tree Diagrams
+## Exercise Problems
+## Practice Applications

@@ -1,0 +1,305 @@
+[
+  {
+    "grade": 10,
+    "subject": "math",
+    "board": "IGCSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "chapter_number": 1,
+        "title": "Number",
+        "topics": [
+          "Square numbers and cube numbers",
+          "Multiples of whole numbers",
+          "Factors of whole numbers",
+          "Prime numbers",
+          "Prime factorisation",
+          "Finding the HCF and LCM",
+          "Rational and irrational numbers"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "chapter_number": 2,
+        "title": "Fractions decimals and percentages",
+        "topics": [
+          "Equivalent fractions",
+          "Fractions and decimals",
+          "Recurring decimals",
+          "Converting percentages, fractions and decimals",
+          "Calculating a percentage",
+          "Increasing or decreasing quantities by a percentage",
+          "One quantity as a percentage of another",
+          "Simple interest and compound interest",
+          "A formula for compound interest",
+          "Reverse percentage"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "chapter_number": 3,
+        "title": "The four operations",
+        "topics": [
+          "Order of operations",
+          "Choosing the correct operation",
+          "Finding a fraction of a quantity",
+          "Adding and subtracting fractions",
+          "Multiplying and dividing fractions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "chapter_number": 4,
+        "title": "Negative numbers",
+        "topics": [
+          "Introduction to negative numbers",
+          "Everyday use of negative numbers",
+          "The number line",
+          "Adding and subtracting with negative numbers",
+          "Multiplying and dividing with negative numbers"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "chapter_number": 5,
+        "title": "Powers and roots",
+        "topics": [
+          "Squares and square roots",
+          "Cubes and cube roots",
+          "More powers and roots",
+          "Exponential growth and decay"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "chapter_number": 6,
+        "title": "Ordering and set notation",
+        "topics": [
+          "Inequalities",
+          "Sets and Venn diagrams",
+          "More about Venn diagrams"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "chapter_number": 7,
+        "title": "Ratio, proportion and rate",
+        "topics": [
+          "Ratio",
+          "Speed",
+          "Rates",
+          "Proportion"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "chapter_number": 8,
+        "title": "Estimation and limits of accuracy",
+        "topics": [
+          "Rounding whole numbers",
+          "Rounding decimals",
+          "Significant figures",
+          "Estimating answers to calculations",
+          "Upper and lower bounds",
+          "Upper and lower bounds for calculations"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "chapter_number": 9,
+        "title": "Standard form and surds",
+        "topics": [
+          "Standard form",
+          "Calculating with standard form",
+          "Standard form without a calculator",
+          "Surds",
+          "Rationalising the denominator"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "chapter_number": 10,
+        "title": "Applying number and using calculators",
+        "topics": [
+          "Units of measurement",
+          "Converting between metric units",
+          "Time",
+          "Currency conversions",
+          "Using a calculator efficiently"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "chapter_number": 11,
+        "title": "Algebraic representation and formulas",
+        "topics": [
+          "The language of algebra",
+          "Substitution into formulas",
+          "Rearranging formulas",
+          "More complicated formulas"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "chapter_number": 12,
+        "title": "Algebraic manipulation",
+        "topics": [
+          "Simplifying expressions",
+          "Expanding brackets",
+          "Factorisation",
+          "Multiplying two brackets: 1",
+          "Multiplying two brackets: 2",
+          "Quadratic factorisation",
+          "Algebraic fractions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "chapter_number": 13,
+        "title": "Equations and inequalities",
+        "topics": [
+          "Solving linear equations",
+          "Setting up equations",
+          "Solving quadratic equationsby factorisation",
+          "Solving quadratic equations by the quadratic formula",
+          "Solving quadratic equations by completing the square",
+          "Fractional equations",
+          "Simultaneous equations",
+          "Linear and non-linear simultaneous equations",
+          "Representing inequalities",
+          "Solving inequalities"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "chapter_number": 14,
+        "title": "Graphs in practical situations",
+        "topics": [
+          "Conversion graphs",
+          "Travel graphs",
+          "Speed-time graphs",
+          "Curved graphs"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "chapter_number": 15,
+        "title": "Straight-line graphs",
+        "topics": [
+          "Drawing straight-line graphs",
+          "The equation y = mx + c",
+          "More about straight-line graphs",
+          "Solving equations graphically",
+          "Parallel lines",
+          "Points and lines",
+          "Perpendicular lines"
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "chapter_number": 16,
+        "title": "Graphs of functions",
+        "topics": [
+          "Quadratic graphs",
+          "Solving equations graphically",
+          "Turning points on a quadratic graph",
+          "Reciprocal graphs",
+          "More graphs",
+          "Square root graphs",
+          "Exponential graphs",
+          "Estimating gradients"
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "chapter_number": 17,
+        "title": "Number sequences",
+        "topics": [
+          "Patterns in number sequences",
+          "The nth term of a sequence",
+          "General rules from patterns",
+          "Further sequences"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "chapter_number": 18,
+        "title": "Indices",
+        "topics": [
+          "Using indices",
+          "Negative indices",
+          "Multiplying and dividing with indices",
+          "Fractional indices"
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "chapter_number": 19,
+        "title": "Proportion",
+        "topics": [
+          "Direct proportion",
+          "Inverse proportion"
+        ]
+      },
+      {
+        "chapter_id": "chapter_20",
+        "chapter_number": 20,
+        "title": "Regions",
+        "topics": [
+          "Graphical inequalities",
+          "More than one inequality"
+        ]
+      },
+      {
+        "chapter_id": "chapter_21",
+        "chapter_number": 21,
+        "title": "Functions",
+        "topics": [
+          "Function notation",
+          "Domain and range",
+          "Inverse functions",
+          "Composite functions",
+          "More about composite functions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_22",
+        "chapter_number": 22,
+        "title": "Differentiation",
+        "topics": [
+          "The gradient of a curve",
+          "More complex curves",
+          "Turning points"
+        ]
+      },
+      {
+        "chapter_id": "chapter_23",
+        "chapter_number": 23,
+        "title": "Angle properties",
+        "topics": [
+          "Angle facts",
+          "Parallel lines",
+          "Angles in a triangle",
+          "Angles in a quadrilateral",
+          "Regular polygons",
+          "Irregular polygons",
+          "Tangents and diameters",
+          "Angles in a circle",
+          "Cyclic quadrilaterals",
+          "Alternate segment theorem"
+        ]
+      },
+      {
+        "chapter_id": "chapter_24",
+        "chapter_number": 24,
+        "title": "Geometrical terms and relationships",
+        "topics": [
+          "Measuring and drawing angles",
+          "Bearings",
+          "Nets",
+          "Congruent shapes"
+        ]
+      }
+    ]
+  }
+]

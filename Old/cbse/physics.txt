@@ -1,0 +1,895 @@
+This is the physics curriculum for Grade 6-12 for CBSE. 
+
+
+<Grade6>
+{
+  "chapter_7": {
+    "title": "Motion and Measurement of Distances",
+    "topics": [
+      "Story of Transport",
+      "Invention of the Wheel",
+      "How to Measure Distance",
+      "Standard Units of Measurement",
+      "Correct Measurement Techniques",
+      "Measuring Length of Curved Line",
+      "Types of Motion",
+      {
+        "Rectilinear Motion": [
+          "Examples of Straight-Line Motion"
+        ]
+      },
+      {
+        "Circular Motion": [
+          "Examples of Circular Paths"
+        ]
+      }
+    ]
+  },
+  "chapter_8": {
+    "title": "Light, Shadows and Reflections",
+    "topics": [
+      "What is Light?",
+      "Luminous and Non-Luminous Objects",
+      "Transparent, Opaque, and Translucent Objects",
+      "What are Shadows?",
+      "Pinhole Camera",
+      "Reflection of Light",
+      {
+        "Activity on Mirrors and Reflections": [
+          "Using a Torch and Mirror"
+        ]
+      }
+    ]
+  },
+  "chapter_9": {
+    "title": "Electricity and Circuits",
+    "topics": [
+      "Electric Cell",
+      "Torch Bulb and Filament",
+      "Electric Circuit",
+      "Switches",
+      "Conductors and Insulators",
+      {
+        "Making a Simple Electric Circuit": [
+          "Connecting Bulbs and Cells"
+        ]
+      }
+    ]
+  },
+  "chapter_10": {
+    "title": "Fun with Magnets",
+    "topics": [
+      "Discovery of Magnets",
+      "Magnetic and Non-Magnetic Materials",
+      "Poles of Magnets",
+      "Finding Directions Using Magnets",
+      "Attraction and Repulsion Between Magnets",
+      {
+        "Making Your Own Magnet": [
+          "Simple Methods to Magnetize Objects"
+        ]
+      }
+    ]
+  }
+}
+
+</Grade6>
+
+<Grade7>
+{
+  "chapter_3": {
+    "title": "Heat",
+    "topics": [
+      "Hot and Cold",
+      "Measuring Temperature",
+      {
+        "Types of Thermometers": [
+          "Clinical Thermometer",
+          "Laboratory Thermometer"
+        ]
+      },
+      "Transfer of Heat",
+      {
+        "Methods of Heat Transfer": [
+          "Conduction",
+          "Convection",
+          "Radiation"
+        ]
+      },
+      {
+        "Applications of Heat Transfer": [
+          "Sea Breeze",
+          "Land Breeze"
+        ]
+      }
+    ]
+  },
+  "chapter_9": {
+    "title": "Motion and Time",
+    "topics": [
+      "Types of Motion",
+      "Speed and Measurement of Time",
+      "Units of Speed",
+      {
+        "Measurement of Time": [
+          "Simple Pendulum",
+          "Oscillatory Motion"
+        ]
+      },
+      "Distance-Time Graph",
+      {
+        "Graphs": [
+          "Line Graphs",
+          "Speed Calculation"
+        ]
+      }
+    ]
+  },
+  "chapter_10": {
+    "title": "Electric Current and its Effects",
+    "topics": [
+      "Symbols of Electric Components",
+      "Electric Circuits",
+      {
+        "Heating Effect of Electric Current": [
+          "Examples and Applications",
+          "Electric Bulb",
+          "Electric Heater"
+        ]
+      },
+      {
+        "Magnetic Effect of Electric Current": [
+          "Electromagnets",
+          "Miniature Circuit Breakers (MCB)"
+        ]
+      },
+      "Electric Fuses"
+    ]
+  },
+  "chapter_11": {
+    "title": "Light",
+    "topics": [
+      "Light Travels in a Straight Line",
+      "Reflection of Light",
+      {
+        "Types of Mirrors": [
+          "Plane Mirror",
+          "Concave Mirror",
+          "Convex Mirror"
+        ]
+      },
+      {
+        "Uses of Mirrors": [
+          "Doctors and Dentists",
+          "Automobile Side Mirrors"
+        ]
+      },
+      {
+        "Lenses": [
+          "Convex Lens",
+          "Concave Lens",
+          "Real and Virtual Images"
+        ]
+      }
+    ]
+  }
+}
+
+</Grade7>
+
+<Grade8>
+{
+  "chapter_8": {
+    "title": "Force and Pressure",
+    "topics": [
+      "What is Force?",
+      "Force as a Push or Pull",
+      {
+        "Effects of Force": [
+          "Change in State of Motion",
+          "Change in Shape of Objects"
+        ]
+      },
+      {
+        "Types of Forces": [
+          "Contact Forces",
+          "Muscular Force",
+          "Friction"
+        ]
+      },
+      "Non-Contact Forces (Gravitational, Magnetic, Electrostatic)",
+      "Pressure and its Applications",
+      "Pressure in Fluids",
+      "Atmospheric Pressure"
+    ]
+  },
+  "chapter_9": {
+    "title": "Friction",
+    "topics": [
+      "What is Friction?",
+      "Factors Affecting Friction",
+      {
+        "Types of Friction": [
+          "Static Friction",
+          "Sliding Friction",
+          "Rolling Friction"
+        ]
+      },
+      "Friction: A Necessary Evil",
+      "Ways to Increase and Decrease Friction",
+      "Fluid Friction"
+    ]
+  },
+  "chapter_10": {
+    "title": "Sound",
+    "topics": [
+      "Production of Sound",
+      "Sound is Produced by Vibrating Objects",
+      {
+        "Types of Vibrations": [
+          "Free Vibrations",
+          "Forced Vibrations"
+        ]
+      },
+      "Propagation of Sound",
+      "Medium Required for Sound",
+      "Speed of Sound in Different Media",
+      "Reflection of Sound (Echoes)",
+      "Structure of the Human Ear"
+    ]
+  },
+  "chapter_12": {
+    "title": "Some Natural Phenomena",
+    "topics": [
+      "Lightning and its Causes",
+      "The Electric Charge",
+      {
+        "Charging by Friction": [
+          "Positive and Negative Charges",
+          "Transfer of Charge"
+        ]
+      },
+      "Lightning Safety",
+      "Earthquakes: Causes and Effects",
+      "Seismograph and Earthquake Safety"
+    ]
+  },
+  "chapter_13": {
+    "title": "Light",
+    "topics": [
+      "Reflection of Light",
+      "Laws of Reflection",
+      "Formation of Images by Plane Mirrors",
+      {
+        "Spherical Mirrors": [
+          "Concave and Convex Mirrors",
+          "Uses of Spherical Mirrors"
+        ]
+      },
+      "Refraction of Light",
+      "Lenses: Convex and Concave",
+      "Dispersion of Light",
+      "The Human Eye and Defects of Vision"
+    ]
+  }
+}
+
+</Grade8>
+
+<Grade9>
+{
+  "Chapters": [
+    {
+      "Chapter 7": {
+        "title": "Motion",
+        "topics": [
+          "Describing Motion",
+          "Motion Along a Straight Line",
+          "Uniform and Non-Uniform Motion",
+          "Speed and Velocity",
+          "Rate of Motion",
+          "Acceleration",
+          "Distance-Time Graphs",
+          "Velocity-Time Graphs",
+          "Equations of Motion",
+          "Uniform Circular Motion"
+        ]
+      }
+    },
+    {
+      "Chapter 8": {
+        "title": "Force and Laws of Motion",
+        "topics": [
+          "Concept of Force",
+          "Balanced and Unbalanced Forces",
+          "First Law of Motion",
+          "Inertia and Mass",
+          "Second Law of Motion",
+          "Momentum",
+          "Third Law of Motion",
+          "Conservation of Momentum"
+        ]
+      }
+    },
+    {
+      "Chapter 9": {
+        "title": "Gravitation",
+        "topics": [
+          "Gravitational Force",
+          "Universal Law of Gravitation",
+          "Free Fall",
+          "Mass and Weight",
+          "Acceleration Due to Gravity",
+          "Gravitational Potential Energy",
+          "Equations of Motion for Free Fall",
+          "Thrust and Pressure",
+          "Buoyancy",
+          "Archimedes’ Principle",
+          "Relative Density"
+        ]
+      }
+    },
+    {
+      "Chapter 10": {
+        "title": "Work and Energy",
+        "topics": [
+          "Work Done by a Force",
+          "Energy",
+          "Forms of Energy",
+          "Kinetic Energy",
+          "Potential Energy",
+          "Law of Conservation of Energy",
+          "Power",
+          "Commercial Unit of Energy"
+        ]
+      }
+    },
+    {
+      "Chapter 11": {
+        "title": "Sound",
+        "topics": [
+          "Production of Sound",
+          "Propagation of Sound",
+          "Sound Waves",
+          "Characteristics of a Sound Wave",
+          "Speed of Sound in Different Media",
+          "Reflection of Sound",
+          "Echo",
+          "Reverberation",
+          "Applications of Multiple Reflection of Sound",
+          "Range of Hearing",
+          "Ultrasound",
+          "SONAR"
+        ]
+      }
+    }
+  ]
+}
+
+</Grade9>
+
+<Grade10>
+{
+  "Chapters": [
+    {
+      "Chapter 9": {
+        "title": "Light – Reflection and Refraction",
+        "topics": [
+          "Reflection of Light",
+          "Laws of Reflection",
+          "Spherical Mirrors",
+          "Concave and Convex Mirrors",
+          "Image Formation by Spherical Mirrors",
+          "Mirror Formula and Magnification",
+          "Refraction of Light",
+          "Laws of Refraction",
+          "Refractive Index",
+          "Refraction through a Glass Slab",
+          "Refraction by Spherical Lenses",
+          "Lens Formula and Magnification",
+          "Power of a Lens"
+        ]
+      }
+    },
+    {
+      "Chapter 10": {
+        "title": "The Human Eye and the Colourful World",
+        "topics": [
+          "Structure of the Human Eye",
+          "Power of Accommodation",
+          "Defects of Vision and their Correction",
+          "Myopia, Hypermetropia, and Presbyopia",
+          "Refraction of Light through a Prism",
+          "Dispersion of Light",
+          "Atmospheric Refraction",
+          "Scattering of Light"
+        ]
+      }
+    },
+    {
+      "Chapter 11": {
+        "title": "Electricity",
+        "topics": [
+          "Electric Current and Circuit",
+          "Ohm’s Law",
+          "Factors Affecting Resistance",
+          "Resistivity of Materials",
+          "Series and Parallel Combinations of Resistors",
+          "Heating Effect of Electric Current",
+          "Electric Power"
+        ]
+      }
+    },
+    {
+      "Chapter 12": {
+        "title": "Magnetic Effects of Electric Current",
+        "topics": [
+          "Magnetic Field and Field Lines",
+          "Magnetic Field due to a Current-Carrying Conductor",
+          "Right-Hand Thumb Rule",
+          "Magnetic Field due to a Current through a Circular Loop",
+          "Magnetic Field due to a Current in a Solenoid",
+          "Force on a Current-Carrying Conductor in a Magnetic Field",
+          "Electric Motor",
+          "Electromagnetic Induction",
+          "Fleming’s Right-Hand Rule",
+          "Electric Generator",
+          "Domestic Electric Circuits"
+        ]
+      }
+    }
+  ]
+}
+
+</Grade10>
+
+<Grade11>
+{
+  "Chapters": [
+    {
+      "Chapter 1": {
+        "title": "Units and Measurements",
+        "topics": [
+          "Introduction",
+          "The International System of Units",
+          "Significant Figures",
+          "Dimensions of Physical Quantities",
+          "Dimensional Formulae and Dimensional Equations",
+          "Dimensional Analysis and Its Applications"
+        ]
+      }
+    },
+    {
+      "Chapter 2": {
+        "title": "Motion in a Straight Line",
+        "topics": [
+          "Introduction",
+          "Instantaneous Velocity and Speed",
+          "Acceleration",
+          "Kinematic Equations for Uniformly Accelerated Motion"
+        ]
+      }
+    },
+    {
+      "Chapter 3": {
+        "title": "Motion in a Plane",
+        "topics": [
+          "Introduction",
+          "Scalars and Vectors",
+          "Multiplication of Vectors by Real Numbers",
+          "Addition and Subtraction of Vectors – Graphical Method",
+          "Resolution of Vectors",
+          "Vector Addition – Analytical Method",
+          "Motion in a Plane",
+          "Motion in a Plane with Constant Acceleration",
+          "Projectile Motion",
+          "Uniform Circular Motion"
+        ]
+      }
+    },
+    {
+      "Chapter 4": {
+        "title": "Laws of Motion",
+        "topics": [
+          "Introduction",
+          "Aristotle’s Fallacy",
+          "The Law of Inertia",
+          "Newton’s First Law of Motion",
+          "Newton’s Second Law of Motion",
+          "Newton’s Third Law of Motion",
+          "Conservation of Momentum",
+          "Equilibrium of a Particle",
+          "Common Forces in Mechanics",
+          "Circular Motion",
+          "Solving Problems in Mechanics"
+        ]
+      }
+    },
+    {
+      "Chapter 5": {
+        "title": "Work, Energy and Power",
+        "topics": [
+          "Introduction",
+          "Notions of Work and Kinetic Energy: The Work-Energy Theorem",
+          "Work",
+          "Kinetic Energy",
+          "Work Done by a Variable Force",
+          "The Work-Energy Theorem for a Variable Force",
+          "The Concept of Potential Energy",
+          "The Conservation of Mechanical Energy",
+          "The Potential Energy of a Spring",
+          "Power",
+          "Collisions"
+        ]
+      }
+    },
+    {
+      "Chapter 6": {
+        "title": "System of Particles and Rotational Motion",
+        "topics": [
+          "Introduction",
+          "Centre of Mass",
+          "Motion of Centre of Mass",
+          "Linear Momentum of a System of Particles",
+          "Vector Product of Two Vectors",
+          "Angular Velocity and Its Relation with Linear Velocity",
+          "Torque and Angular Momentum",
+          "Equilibrium of a Rigid Body",
+          "Moment of Inertia",
+          "Kinematics of Rotational Motion About a Fixed Axis",
+          "Dynamics of Rotational Motion About a Fixed Axis",
+          "Angular Momentum in Case of Rotations About a Fixed Axis"
+        ]
+      }
+    },
+    {
+      "Chapter 7": {
+        "title": "Gravitation",
+        "topics": [
+          "Introduction",
+          "Kepler’s Laws",
+          "Universal Law of Gravitation",
+          "The Gravitational Constant",
+          "Acceleration Due to Gravity of the Earth",
+          "Acceleration Due to Gravity Below and Above the Surface of Earth",
+          "Gravitational Potential Energy",
+          "Escape Speed",
+          "Earth Satellites",
+          "Energy of an Orbiting Satellite"
+        ]
+      }
+    },
+    {
+      "Chapter 8": {
+        "title": "Mechanical Properties of Solids",
+        "topics": [
+          "Introduction",
+          "Stress and Strain",
+          "Hooke’s Law",
+          "Stress-Strain Curve",
+          "Elastic Moduli",
+          "Applications of Elastic Behaviour of Materials"
+        ]
+      }
+    },
+    {
+      "Chapter 9": {
+        "title": "Mechanical Properties of Fluids",
+        "topics": [
+          "Introduction",
+          "Pressure",
+          "Streamline Flow",
+          "Bernoulli’s Principle",
+          "Viscosity",
+          "Surface Tension"
+        ]
+      }
+    },
+    {
+      "Chapter 10": {
+        "title": "Thermal Properties of Matter",
+        "topics": [
+          "Introduction",
+          "Temperature and Heat",
+          "Measurement of Temperature",
+          "Ideal-Gas Equation and Absolute Temperature",
+          "Thermal Expansion",
+          "Specific Heat Capacity",
+          "Calorimetry",
+          "Change of State",
+          "Heat Transfer",
+          "Newton’s Law of Cooling"
+        ]
+      }
+    },
+    {
+      "Chapter 11": {
+        "title": "Thermodynamics",
+        "topics": [
+          "Introduction",
+          "Thermal Equilibrium",
+          "Zeroth Law of Thermodynamics",
+          "Heat, Internal Energy and Work",
+          "First Law of Thermodynamics",
+          "Specific Heat Capacity",
+          "Thermodynamic State Variables and Equation of State",
+          "Thermodynamic Processes",
+          "Second Law of Thermodynamics",
+          "Reversible and Irreversible Processes",
+          "Carnot Engine"
+        ]
+      }
+    },
+    {
+      "Chapter 12": {
+        "title": "Kinetic Theory",
+        "topics": [
+          "Introduction",
+          "Molecular Nature of Matter",
+          "Behaviour of Gases",
+          "Kinetic Theory of an Ideal Gas",
+          "Law of Equipartition of Energy",
+          "Specific Heat Capacity",
+          "Mean Free Path"
+        ]
+      }
+    },
+    {
+      "Chapter 13": {
+        "title": "Oscillations",
+        "topics": [
+          "Introduction",
+          "Periodic and Oscillatory Motions",
+          "Simple Harmonic Motion",
+          "Simple Harmonic Motion and Uniform Circular Motion",
+          "Velocity and Acceleration in Simple Harmonic Motion",
+          "Force Law for Simple Harmonic Motion",
+          "Energy in Simple Harmonic Motion",
+          "The Simple Pendulum"
+        ]
+      }
+    },
+    {
+      "Chapter 14": {
+        "title": "Waves",
+        "topics": [
+          "Introduction",
+          "Transverse and Longitudinal Waves",
+          "Displacement Relation in a Progressive Wave",
+          "The Speed of a Travelling Wave",
+          "The Principle of Superposition of Waves",
+          "Reflection of Waves",
+          "Beats"
+        ]
+      }
+    }
+  ]
+}
+
+
+</Grade11>
+
+<Grade12>
+{
+  "Chapters": [
+    {
+      "Chapter 1": {
+        "title": "Electric Charges and Fields",
+        "topics": [
+          "Introduction",
+          "Electric Charge",
+          "Conductors and Insulators",
+          "Basic Properties of Electric Charge",
+          "Coulomb’s Law",
+          "Forces between Multiple Charges",
+          "Electric Field",
+          "Electric Field Lines",
+          "Electric Flux",
+          "Electric Dipole",
+          "Dipole in a Uniform External Field",
+          "Continuous Charge Distribution",
+          "Gauss’s Law",
+          "Applications of Gauss’s Law"
+        ]
+      }
+    },
+    {
+      "Chapter 2": {
+        "title": "Electrostatic Potential and Capacitance",
+        "topics": [
+          "Introduction",
+          "Electrostatic Potential",
+          "Potential due to a Point Charge",
+          "Potential due to an Electric Dipole",
+          "Potential due to a System of Charges",
+          "Equipotential Surfaces",
+          "Potential Energy of a System of Charges",
+          "Potential Energy in an External Field",
+          "Electrostatics of Conductors",
+          "Dielectrics and Polarisation",
+          "Capacitors and Capacitance",
+          "The Parallel Plate Capacitor",
+          "Effect of Dielectric on Capacitance",
+          "Combination of Capacitors",
+          "Energy Stored in a Capacitor"
+        ]
+      }
+    },
+    {
+      "Chapter 3": {
+        "title": "Current Electricity",
+        "topics": [
+          "Introduction",
+          "Electric Current",
+          "Electric Currents in Conductors",
+          "Ohm’s Law",
+          "Drift of Electrons and the Origin of Resistivity",
+          "Limitations of Ohm’s Law",
+          "Resistivity of Various Materials",
+          "Temperature Dependence of Resistivity",
+          "Electrical Energy, Power",
+          "Cells, emf, Internal Resistance",
+          "Cells in Series and in Parallel",
+          "Kirchhoff’s Rules",
+          "Wheatstone Bridge"
+        ]
+      }
+    },
+    {
+      "Chapter 4": {
+        "title": "Moving Charges and Magnetism",
+        "topics": [
+          "Introduction",
+          "Magnetic Force",
+          "Motion in a Magnetic Field",
+          "Magnetic Field due to a Current Element, Biot-Savart Law",
+          "Magnetic Field on the Axis of a Circular Current Loop",
+          "Ampere’s Circuital Law",
+          "The Solenoid",
+          "Force between Two Parallel Currents, the Ampere",
+          "Torque on Current Loop, Magnetic Dipole",
+          "The Moving Coil Galvanometer"
+        ]
+      }
+    },
+    {
+      "Chapter 5": {
+        "title": "Magnetism and Matter",
+        "topics": [
+          "Introduction",
+          "The Bar Magnet",
+          "Magnetism and Gauss’s Law",
+          "Magnetisation and Magnetic Intensity",
+          "Magnetic Properties of Materials"
+        ]
+      }
+    },
+    {
+      "Chapter 6": {
+        "title": "Electromagnetic Induction",
+        "topics": [
+          "Introduction",
+          "The Experiments of Faraday and Henry",
+          "Magnetic Flux",
+          "Faraday’s Law of Induction",
+          "Lenz’s Law and Conservation of Energy",
+          "Motional Electromotive Force",
+          "Inductance",
+          "AC Generator"
+        ]
+      }
+    },
+    {
+      "Chapter 7": {
+        "title": "Alternating Current",
+        "topics": [
+          "Introduction",
+          "AC Voltage Applied to a Resistor",
+          "Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+          "AC Voltage Applied to an Inductor",
+          "AC Voltage Applied to a Capacitor",
+          "AC Voltage Applied to a Series LCR Circuit",
+          "Power in AC Circuit: The Power Factor",
+          "Transformers"
+        ]
+      }
+    },
+    {
+      "Chapter 8": {
+        "title": "Electromagnetic Waves",
+        "topics": [
+          "Introduction",
+          "Displacement Current",
+          "Electromagnetic Waves",
+          "Electromagnetic Spectrum"
+        ]
+      }
+    },
+    {
+      "Chapter 9": {
+        "title": "Ray Optics and Optical Instruments",
+        "topics": [
+          "Introduction",
+          "Reflection of Light by Spherical Mirrors",
+          "Refraction",
+          "Total Internal Reflection",
+          "Refraction at Spherical Surfaces and by Lenses",
+          "Refraction through a Prism",
+          "Optical Instruments"
+        ]
+      }
+    },
+    {
+      "Chapter 10": {
+        "title": "Wave Optics",
+        "topics": [
+          "Introduction",
+          "Huygens Principle",
+          "Refraction and Reflection of Plane Waves using Huygens Principle",
+          "Coherent and Incoherent Addition of Waves",
+          "Interference of Light Waves and Young’s Experiment",
+          "Diffraction",
+          "Polarisation"
+        ]
+      }
+    },
+    {
+      "Chapter 11": {
+        "title": "Dual Nature of Radiation and Matter",
+        "topics": [
+          "Introduction",
+          "Electron Emission",
+          "Photoelectric Effect",
+          "Experimental Study of Photoelectric Effect",
+          "Photoelectric Effect and Wave Theory of Light",
+          "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+          "Particle Nature of Light: The Photon",
+          "Wave Nature of Matter"
+        ]
+      }
+    },
+    {
+      "Chapter 12": {
+        "title": "Atoms",
+        "topics": [
+          "Introduction",
+          "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+          "Atomic Spectra",
+          "Bohr Model of the Hydrogen Atom",
+          "The Line Spectra of the Hydrogen Atom",
+          "DE Broglie’s Explanation of Bohr’s Second Postulate of Quantisation"
+        ]
+      }
+    },
+    {
+      "Chapter 13": {
+        "title": "Nuclei",
+        "topics": [
+          "Introduction",
+          "Atomic Masses and Composition of Nucleus",
+          "Size of the Nucleus",
+          "Mass-Energy and Nuclear Binding Energy",
+          "Nuclear Force",
+          "Radioactivity",
+          "Nuclear Energy"
+        ]
+      }
+    },
+    {
+      "Chapter 14": {
+        "title": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topics": [
+          "Introduction",
+          "Classification of Metals, Conductors and Semiconductors",
+          "Intrinsic Semiconductor",
+          "Extrinsic Semiconductor",
+          "p-n Junction",
+          "Semiconductor Diode",
+          "Application of Junction Diode as a Rectifier"
+        ]
+      }
+    }
+  ]
+}
+
+</Grade12>

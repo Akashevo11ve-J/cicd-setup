@@ -1,0 +1,585 @@
+[
+  {
+    "grade": 6,
+    "subject": "math",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Patterns in Mathematics",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Lines and Angles",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Number Play",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Data Handling and Presentation",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Prime Time",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Perimeter and Area",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Fractions",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Playing with Constructions",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Symmetry",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "The Other Side of Zero",
+        "topics": []
+      },
+      {
+        "chapter_id": "learning_material_sheets",
+        "title": "Learning Material Sheets",
+        "topics": []
+      }
+    ]
+  },
+  {
+    "grade": 7,
+    "subject": "math",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "LARGE NUMBERS AROUND US",
+        "topics": [
+          "1.1 A Lakh Varieties!",
+          "Getting a Feel of Large Numbers",
+          "Is One Lakh a Very Large Number?",
+          "Reading and Writing Numbers",
+          "1.2 Land of Tens",
+          "1.3 Of Crores and Crores!",
+          {
+            "1.4 Exact and Approximate Values": [
+              "Nearest Neighbours",
+              "Populations of Cities"
+            ]
+          },
+          {
+            "1.5 Patterns in Products": [
+              "A Multiplication Shortcut",
+              "How Long is the Product?",
+              "Fascinating Facts about Large Numbers"
+            ]
+          },
+          "1.6 Did You Ever Wonder…?"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Arithmetic Expressions",
+        "topics": [
+          {
+            "2.1 Simple Expressions": [
+              "Comparing Expressions"
+            ]
+          },
+          {
+            "2.2 Reading and Evaluating Complex Expressions": [
+              "Brackets in Expressions",
+              "Terms in Expressions",
+              "Swapping and Grouping",
+              "Commutative property of addition",
+              "Associative property of addition"
+            ]
+          },
+          "More Expressions and Their Terms",
+          "Removing Brackets — I",
+          "Removing Brackets — II"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "A Peek Beyond the Point",
+        "topics": [
+          "3.1 The Need for Smaller Units",
+          "3.2 A Tenth Part",
+          "3.3 A Hundredth Part",
+          {
+            "3.4 Decimal Place Value": [
+              "Notation, Writing and Reading of Numbers"
+            ]
+          },
+          {
+            "3.5 Units of Measurement": [
+              "Length Conversion",
+              "Weight Conversion",
+              "Rupee — Paise conversion"
+            ]
+          },
+          {
+            "3.6 Locating and Comparing Decimals": [
+              "There is Zero Dilemma!",
+              "Closest Decimals"
+            ]
+          },
+          {
+            "3.7 Addition and Subtraction of Decimals": [
+              "Decimal Sequences",
+              "Estimating Sums and Differences"
+            ]
+          },
+          {
+            "3.8 More on the Decimal System": [
+              "Decimal and Measurement Disasters",
+              "Deceptive Decimal Notation",
+              "A Pinch of History – Decimal Notation Over Time"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "EXPRESSIONS USING LETTER-NUMBERS",
+        "topics": [
+          "4.1 The Notion of Letter-Numbers",
+          "4.2 Revisiting Arithmetic Expressions",
+          "4.3 Omission of the Multiplication Symbol in Algebraic Expressions",
+          {
+            "4.4 Simplification of Algebraic Expressions": [
+              "like terms",
+              "unlike terms"
+            ]
+          },
+          {
+            "4.5 Pick Patterns and Reveal Relationships": [
+              "Formula Detective",
+              "Algebraic Expressions to Describe Patterns",
+              "Patterns in a Calendar",
+              "Matchstick Patterns"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "PARALLEL AND INTERSECTING LINES",
+        "topics": [
+          {
+            "5.1 Across the Line": [
+              "Intersecting lines",
+              "Linear pairs",
+              "Vertically opposite angles"
+            ]
+          },
+          "5.2 Perpendicular Lines",
+          {
+            "5.3 Between Lines": [
+              "Parallel lines"
+            ]
+          },
+          {
+            "5.4 Parallel and Perpendicular Lines in Paper Folding": [
+              "Notations"
+            ]
+          },
+          "5.5 Transversals",
+          "5.6 Corresponding Angles",
+          {
+            "5.7 Drawing Parallel Lines": [
+              "Making Parallel Lines through Paper Folding"
+            ]
+          },
+          {
+            "5.8 Alternate Angles": [
+              "Interior angles"
+            ]
+          },
+          "5.9 Parallel Illusions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "NUMBER PLAY",
+        "topics": [
+          "6.1 Numbers Tell us Things",
+          {
+            "6.2 Picking Parity": [
+              "Parity of sum of even and odd numbers",
+              "Small Squares in Grids",
+              "Parity of Expressions",
+              "Formulas for nth even and odd numbers"
+            ]
+          },
+          {
+            "6.3 Some Explorations in Grids": [
+              "Magic Square",
+              "Generalising a 3 × 3 Magic Square",
+              "The First-ever 4 × 4 Magic Square",
+              "Magic Squares in History and Culture"
+            ]
+          },
+          {
+            "6.4 Nature’s Favourite Sequence: The Virahāṅka–Fibonacci Numbers!": [
+              "Discovery of the Virahāṅka Numbers",
+              "Counting rhythms as sums of 1’s and 2’s",
+              "Rule for formation of the sequence"
+            ]
+          },
+          "6.5 Digits in Disguise (Cryptarithms)"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "A TALE OF THREE INTERSECTING LINES",
+        "topics": [
+          "Introduction to triangles, vertices, sides and angles",
+          "7.1 Equilateral Triangles",
+          {
+            "7.2 Constructing a Triangle When its Sides are Given": [
+              "Are Triangles Possible for any Lengths?",
+              "Triangle Inequality",
+              "Visualising the construction of circles"
+            ]
+          },
+          {
+            "7.3 Construction of Triangles When Some Sides and Angles are Given": [
+              "Two Sides and the Included Angle",
+              "Two Angles and the Included Side",
+              "Angle Sum Property",
+              "Exterior Angles"
+            ]
+          },
+          {
+            "7.4 Constructions Related to Altitudes of Triangles": [
+              "Altitudes Using Paper Folding",
+              "Construction of the Altitudes of a Triangle"
+            ]
+          },
+          {
+            "7.5 Types of Triangles": [
+              "Classification by sides (Equilateral, Isosceles, Scalene)",
+              "Classification by angles (Acute-angled, Right-angled, Obtuse-angled)"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "WORKING WITH FRACTIONS",
+        "topics": [
+          {
+            "8.1 Multiplication of Fractions": [
+              "Multiplying Two Fractions",
+              "Connection between the Area of a Rectangle and Fraction Multiplication",
+              "Multiplying Numerators and Denominators",
+              "Multiplication of Fractions — Simplifying to Lowest Form",
+              "Is the Product Always Greater than the Numbers Multiplied?",
+              "Order of Multiplication"
+            ]
+          },
+          {
+            "8.2 Division of Fractions": [
+              "Reciprocal of a fraction",
+              "Dividend, Divisor and the Quotient"
+            ]
+          },
+          {
+            "8.3 Some Problems Involving Fractions": [
+              "Fractional Relations"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 8,
+    "subject": "math",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "A SQUARE AND A CUBE",
+        "topics": [
+          "1.1 Square Numbers",
+          {
+            "Patterns and Properties of Perfect Squares": [
+              "Units digits of perfect squares",
+              "Number of zeros in perfect squares"
+            ]
+          },
+          "Perfect Squares and Odd Numbers",
+          "Perfect Squares and Triangular Numbers",
+          {
+            "Square Roots": [
+              "Finding square roots by repeated subtraction",
+              "Finding square roots through prime factorisation",
+              "Estimating square roots"
+            ]
+          },
+          "1.2 Cubic Numbers",
+          "Taxicab Numbers",
+          "Perfect Cubes and Consecutive Odd Numbers",
+          {
+            "Cube Roots": [
+              "Finding cube roots through prime factorisation"
+            ]
+          },
+          "Successive Differences",
+          "1.3 A Pinch of History"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "POWER PLAY",
+        "topics": [
+          "2.1 Experiencing the Power Play",
+          "Exponential Growth",
+          {
+            "2.2 Exponential Notation and Operations": [
+              "Base and Exponent",
+              "Expressing numbers as a product of powers of their prime factors"
+            ]
+          },
+          {
+            "Laws of Exponents": [
+              "Multiplying Powers with the Same Base",
+              "Taking a Power of a Power",
+              "Multiplying Powers with the Same Exponent",
+              "Dividing Powers with the Same Exponent",
+              "Dividing Powers with the Same Base"
+            ]
+          },
+          "How Many Combinations",
+          {
+            "2.3 The Other Side of Powers": [
+              "Zero Exponents",
+              "Negative Exponents"
+            ]
+          },
+          {
+            "2.4 Powers of 10": [
+              "Expanded Form Using Powers of 10",
+              "Scientific Notation"
+            ]
+          },
+          {
+            "2.5 Did You Ever Wonder?": [
+              "Linear Growth vs. Exponential Growth",
+              "Getting a Sense for Large Numbers"
+            ]
+          },
+          "2.5 A Pinch of History"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "A STORY OF NUMBERS",
+        "topics": [
+          "3.1 Reema’s Curiosity",
+          {
+            "The Mechanism of Counting": [
+              "Method 1: using pebbles, sticks",
+              "Method 2: using a standard sequence of sounds or names",
+              "Method 3: using a sequence of written symbols"
+            ]
+          },
+          {
+            "3.2 Some Early Number Systems": [
+              "I. Use of Body Parts",
+              "II. Tally Marks on Bones and Other Surfaces",
+              "III. Number Names Obtained by Counting in Twos",
+              "IV. The Roman Numerals"
+            ]
+          },
+          {
+            "3.3 The Idea of a Base": [
+              "I. The Egyptian Number System",
+              "II. Variations on the Egyptian System and the Notion of Base",
+              "Advantages of a Base-n System",
+              "Abacus that Makes Use of the Decimal System",
+              "III. Shortcomings of the Egyptian System"
+            ]
+          },
+          {
+            "3.4. Place Value Representation": [
+              "I. The Mesopotamian Number System",
+              "II. The Mayan Number System",
+              "III. The Chinese Number System",
+              "IV. The Hindu Number System"
+            ]
+          },
+          "Evolution of Ideas in Number Representation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "QUADRILATERALS",
+        "topics": [
+          "4.1 Rectangles and Squares",
+          {
+            "Rectangle": [
+              "Definition: A quadrilateral in which the angles are all 90°.",
+              "Properties of a rectangle"
+            ]
+          },
+          {
+            "Square": [
+              "Definition: A quadrilateral in which all angles are 90°, and all sides are of equal length.",
+              "Properties of a Square"
+            ]
+          },
+          "4.2 Angles in a Quadrilateral",
+          "The sum of all angles in any quadrilateral is 360°",
+          {
+            "4.3 More Quadrilaterals with Parallel Opposite Sides": [
+              "Parallelograms"
+            ]
+          },
+          {
+            "Properties of a parallelogram": [
+              "The opposite sides are equal and parallel",
+              "Adjacent angles add up to 180°, and the opposite angles are equal",
+              "The diagonals bisect each other"
+            ]
+          },
+          {
+            "4.4 Quadrilaterals with Equal Sidelengths": [
+              "Rhombus"
+            ]
+          },
+          {
+            "Properties of a rhombus": [
+              "All sides have the same length",
+              "The opposite sides are parallel",
+              "Adjacent angles add up to 180°, and the opposite angles are equal",
+              "The diagonals bisect each other at a 90° angle",
+              "The diagonals bisect its angles"
+            ]
+          },
+          "4.6 Kite and Trapezium",
+          {
+            "Kite": [
+              "Definition: A quadrilateral with two non-overlapping adjacent pairs of sides having the same length.",
+              "Properties of a Kite"
+            ]
+          },
+          {
+            "Trapezium": [
+              "Definition: A quadrilateral with at least one pair of parallel opposite sides.",
+              "Property: Consecutive angles between parallel sides are supplementary (add up to 180°)"
+            ]
+          },
+          {
+            "Isosceles Trapezium": [
+              "Definition: A trapezium where non-parallel sides have the same lengths.",
+              "Property: The angles opposite to the equal sides are equal"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "NUMBER PLAY",
+        "topics": [
+          {
+            "5.1 Is This a Multiple Of?": [
+              "Sum of Consecutive Numbers",
+              "Breaking Even",
+              "Pairs to Make Fours",
+              "Always, Sometimes, or Never",
+              "What Remains?"
+            ]
+          },
+          {
+            "5.2 Checking Divisibility Quickly": [
+              "Divisibility by 10, 5, and 2",
+              "A Shortcut for Divisibility by 9",
+              "A Shortcut for Divisibility by 3",
+              "A Shortcut for Divisibility by 11",
+              "More on Divisibility Shortcuts",
+              "Digital Roots"
+            ]
+          },
+          "5.3 Digits in Disguise"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "WE DISTRIBUTE, YET THINGS MULTIPLY",
+        "topics": [
+          {
+            "6.1 Some Properties of Multiplication": [
+              "Increments in Products",
+              "Distributive property of multiplication over addition",
+              "Identities",
+              "Identity 1: (a + m)(b + n) = ab + mb + an + mn",
+              {
+                "Fast Multiplications Using the Distributive Property": [
+                  "When one of the numbers is 11, 101, 1001, ...",
+                  "ista-gunana"
+                ]
+              }
+            ]
+          },
+          {
+            "6.2 Special Cases of the Distributive Property": [
+              {
+                "Square of the Sum/Difference of Two Numbers": [
+                  "Identity 1A: (a+b)2 = a2 + 2ab + b2",
+                  "Identity 1B: (a – b)2 = a2 + b2 – 2ab"
+                ]
+              },
+              {
+                "Investigating Patterns": [
+                  "Identity: 2(a2 + b2) = (a + b)2 + (a – b)2",
+                  "Identity 1C: (a + b)(a – b) = a2 – b2"
+                ]
+              }
+            ]
+          },
+          "6.4 This Way or That Way, All Ways Lead to the Bay"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "PROPORTIONAL REASONING-1",
+        "topics": [
+          "7.1 Observing Similarity in Change",
+          "7.2 Ratios",
+          "7.3 Ratios in their Simplest Form",
+          "7.4 Problem Solving with Proportional Reasoning",
+          "Filter Coffee!",
+          "Trairasika — The Rule of Three",
+          "7.5 Sharing, but Not Equally!",
+          {
+            "7.6 Unit Conversions": [
+              "Length",
+              "Area",
+              "Volume",
+              "Temperature"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

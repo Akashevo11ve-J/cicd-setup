@@ -1,0 +1,3801 @@
+SCIENCE CURRICULUM STRUCTURE
+==================================================
+
+Grade 6
+==================================================
+
+Grade 6
+
+Chapter 1: Wonders of the Living World
+## Environment
+- Components and surroundings
+- Different environments (classroom, garden, etc.)
+- Living vs non-living components
+
+## Characteristics of Living Organisms
+- Growth - Increase in size/height/amount
+- Nutrition - Food requirements and processes
+- Movement - Locomotion and responses
+- Respiration - Oxygen usage and carbon dioxide release
+- Reproduction - Creating new generations
+
+## Classification of Living Things
+- Plants
+- Animals 
+- Micro-organisms
+
+## Plants
+- Autotrophic nutrition
+- Photosynthesis process
+- Types (trees, shrubs, creepers)
+- Growth patterns
+- Movements and responses
+
+## Animals
+- Heterotrophic nutrition
+- Locomotion methods
+- Growth patterns
+- Diversity in feeding mechanisms
+- Habitat-based classifications
+
+## Differences Between Plants and Animals
+- Nutrition methods
+- Movement capabilities
+- Growth patterns
+- Presence of chlorophyll
+- Cellular characteristics
+
+## Diversity in Living Things
+- Plant diversity (morphological features)
+- Animal diversity (feeding, locomotion, habitat)
+- Environmental adaptations
+- Structural variations
+
+## Dichotomous Keys
+- Classification method
+- Presence/absence characteristics
+- Plant identification
+- Animal identification
+
+## Technical Terms and Vocabulary
+- Scientific terminology
+- Multilingual equivalents
+- Biological concepts
+
+Chapter 2: Things Around Us
+## Things Around Us
+- Observation and categorization of objects in environment
+- Assignment to list and classify objects based on physical properties 
+
+## Matter and Energy
+- Matter: Things with mass and occupy space
+- Energy: Things without mass and do not occupy space
+- Properties and examples of each category
+
+## States of Matter
+- Solids: Definite shape and volume 
+- Liquids: Definite volume but no definite shape
+- Gases: No definite shape or volume
+- Characteristics and behavior of each state
+
+## Physical Properties of Solids
+- Hardness: Resistance to scratching and cutting
+- Malleability: Ability to form sheets
+- Ductility: Ability to form wires
+- Elastic nature: Ability to stretch
+- Brittleness: Tendency to break under force
+- Texture: Surface feel (rough/smooth)
+
+## Applications of Solids
+- Building materials and construction
+- Jewelry making (gold, silver, copper)
+- Vehicle components
+- Tools and implements
+- Practical uses based on properties
+
+## Technical Terms
+- English terminology
+- Sinhala translations
+- Tamil translations
+
+## Experimental Activities
+- Testing air properties
+- Examining solid characteristics 
+- Investigating liquid behavior
+- Demonstrating states of matter
+
+Chapter 3: Water as a Natural Resource
+## Water as a Natural Resource
+- States of water (solid/ice, liquid, vapor)
+- Physical forms and transformations of water
+- Testing water vapor in atmosphere
+
+## Types of Water Based on Availability
+- Precipitation/rain
+- Surface water (rivers, lakes, streams)
+- Ground water (wells, springs)
+
+## Types of Water Based on Salinity
+- Fresh water (rivers, ponds, wells)
+- Marine water (seas, oceans)
+- Brackish water (lagoons)
+
+## Importance of Water
+- Human activities (drinking, agriculture, transportation)
+- Biological processes (photosynthesis, digestion)
+- Industrial uses (hydroelectricity, manufacturing)
+- Habitat and ecosystem functions
+
+## Water as a Limited Resource
+- Distribution of water on Earth
+- Consumable water percentage (0.01%)
+- Water conservation needs
+- Water wastage prevention
+
+## Water Pollution
+- Sources of pollution (industrial, agricultural, household)
+- Effects on water bodies
+- Impact on groundwater
+- Prevention methods
+- Environmental consequences
+
+## Technical Aspects
+- Water measurements
+- Salinity testing
+- Water consumption calculations
+- Water quality assessment
+
+Chapter 4: Energy in Day to Day Life
+## Energy in Day-to-Day Life
+- Definition of energy as ability to do work
+- Common examples of energy use in daily activities
+- Basic principles of work and energy
+
+## Energy Sources
+- Sun (Primary source of energy)
+- Biomass (Plant/animal materials used as fuel)
+- Fossil Fuels (Coal, petroleum, gases)
+- Wind Energy
+- Water Energy (Hydropower)
+- Sea Waves
+- Tidal Waves
+- Geothermal Energy
+- Nuclear Energy
+
+## Solar Energy Applications
+- Drying materials
+- Solar thermal cooking
+- Solar water heating
+- Solar panels for electricity
+- Food production through photosynthesis
+
+## Biomass Energy
+- Firewood usage
+- Coconut shells
+- Agricultural waste
+- Saw dust stoves
+- Kitchen waste utilization
+
+## Wind Energy Applications
+- Winnowing grains
+- Wind mills
+- Electricity generation
+- Wind propellers
+- Sailing boats
+
+## Water-Based Energy
+- Hydroelectric power generation
+- Running water applications
+- Turbine operations
+- Wave energy conversion
+- Tidal power systems
+
+## Sustainable Energy Use
+- Energy conservation methods
+- Renewable vs non-renewable sources
+- Future energy challenges
+- Energy efficiency
+- Protection for future generations
+
+## Modern Energy Technologies
+- Power stations
+- Electricity generation methods
+- Bio-fuel development
+- Alternative energy sources
+- Industrial applications
+
+Chapter 5: Light and Vision
+## Light and Vision
+- How can we see? (Requirements for vision: light and eye)
+- Sources of light (Natural and artificial light sources)
+
+## Luminous and Non-Luminous Objects  
+- Luminous objects (Objects producing their own light)
+- Non-luminous objects (Objects reflecting light from other sources)
+
+## Transmission of Light Through Objects
+- Transparent objects (Allow clear vision through them)
+- Translucent objects (Allow partial light but unclear vision)
+- Opaque objects (Block light completely)
+
+## Light Rays and Light Beams
+- Light ray characteristics (Single path of light)
+- Light beam properties (Collection of light rays)
+- Straight line transmission of light
+
+## Applications of Light
+- Food production in plants (Photosynthesis)
+- Clear vision and illumination
+- Entertainment and decoration
+- Medical applications (Endoscopes, laser treatments)
+- Communication (Fiber optics, signals)
+- Traffic and navigation signals
+- Entertainment and toys
+
+## Technical Terms
+- Vision terminology
+- Light-related terms
+- Optical device terminology
+- Material classification terms
+
+Chapter 6: Sound and Hearing
+## Sound and Hearing Basics
+- Environmental sounds (animal sounds, human voices, horns)
+- Sound observation activities
+- Sound intensity experiments
+- Ear function and sound perception
+- Ear protection methods
+
+## Producing Sounds
+- Vibration principles
+- Sources of sound
+- Simple sound production methods
+- Musical instruments as sound sources
+
+## Types of Sounds
+- Natural sounds (wind, waterfall, birds, animals)
+- Artificial sounds (vehicles, machines, instruments)
+- Music (rhythmic sounds)
+- Noise (unrhythmic sounds)
+
+## Musical Instruments
+- String instruments (guitar, violin, banjo)
+- Wind instruments (flute, trumpet, saxophone)
+- Percussion instruments (drums, tabla)
+- Experimental instruments (water glasses, xylophone)
+
+## DIY Sound Equipment
+- Bottle cap shaker
+- Tin clapper board
+- Cardboard guitar
+- Pen tube bugle
+- Balloon drum
+- Metal pipe xylophone
+
+## Sound Safety and Responsibility
+- Effects of loud sounds
+- Proper use of sound equipment
+- Sound pollution awareness
+- Ear protection methods
+- Responsible sound production
+
+## Technical Terms
+- Sound terminology
+- Hearing terminology
+- Musical terms
+- Environmental sound terms
+- Multilingual terminology (English, Sinhala, Tamil)
+
+Chapter 7: Magnets
+## Magnets in Daily Life
+- Common objects containing magnets (motors, pencil boxes, toys)
+- Using magnets to retrieve metal objects from water
+- Safety precautions with magnets near electronics
+
+## Effects of Magnets
+- Materials attracted to magnets
+- Materials not attracted to magnets
+- Testing magnetic properties through experiments
+
+## Different Types of Magnets
+- Bar magnet
+- Horseshoe magnet
+- Ring magnet
+- U magnet
+- Tabular magnet
+
+## Magnetic Poles
+- North and South poles
+- Pole identification using compass
+- Properties of magnetic poles
+- Magnetic pole interactions
+
+## Magnetic Forces
+- Magnetic field
+- Force distribution around magnets
+- Magnetic field visualization using iron filings
+- Strength testing of magnets
+
+## Magnetic Behavior
+- Like poles repulsion
+- Unlike poles attraction
+- Free suspension behavior
+- Direction alignment with Earth's magnetic field
+
+## Practical Applications
+- Magnetic compass usage
+- Magnetic toys and games
+- Experimental demonstrations
+- Testing magnetic strength
+
+## Technical Terms
+- English terminology
+- Sinhala terminology
+- Tamil terminology
+
+Chapter 8: Electricity for a Comfortable Life
+## Electricity for Day-to-Day Life
+- Activities done with and without electricity
+- Uses of electricity in daily activities
+- Common electrical appliances
+
+## Generating Electricity
+- Simple ways of generating electricity
+- Power stations (hydropower, wind, coal, fuel)
+- Chemical cells (primary and secondary)
+- Solar cells
+
+## Preparation of Circuits
+- Basic circuit components
+- Electric symbols and diagrams
+- Circuit connections
+- Current flow principles
+
+## Conductors and Insulators
+- Materials that conduct electricity
+- Materials that don't conduct electricity
+- Examples of conductors and insulators
+- Liquid conductors and insulators
+
+## Electronic Appliances
+- Diodes and their functions
+- Light Emitting Diodes (LED)
+- Resistors and their types
+- Light Depending Resistors (LDR)
+
+## Conservation of Electricity and Prevention of Accidents
+- Efficient use of bulbs
+- Proper appliance usage
+- Safety measures
+- Accident prevention guidelines
+- Conservation methods
+- Safe handling of electrical equipment
+- Emergency procedures
+- Protective measures for children
+
+## Technical Components
+- Circuit symbols
+- Measuring instruments
+- Electronic components
+- Safety devices
+
+Chapter 9: Heat and Its Effects
+## Heat and Its Sources
+- Sun as main source of heat
+- Friction-generated heat
+- Fossil fuel combustion
+- Electrical sources of heat
+- Solar water heating
+
+## Effects of Heat
+- Temperature increase/decrease
+- Expansion and contraction
+- Changes in states of matter
+- Color changes in materials
+- Effect on solid materials
+- Effect on liquids
+- Effect on gases
+
+## Heat and Environment
+- Impact during droughts
+- Water cycle effects
+- Ocean currents
+- Global warming
+- Rising sea levels
+- Environmental temperature changes
+- Forest fires
+
+## Heat Measurements and Properties
+- Using thermometers
+- Normal body temperature
+- Heat adaptation in animals
+- Temperature variations in environment
+- Heat energy transfer
+- Temperature control methods
+
+## Practical Applications
+- Solar power usage
+- Industrial heat applications
+- Heating in daily life
+- Heat in electrical appliances
+- Railway track construction
+- Metal working applications
+- Water heating systems
+
+Chapter 10: Food Related Interactions
+## Food Related Interactions
+- Animal observation activity in gardens
+- Table of animal-food relationships
+- Interactions between plants and animals for food
+- Food web diagrams and connections
+
+## Mode of Nutrition of Animals
+- Herbivores (Plant-eating animals)
+- Carnivores (Flesh-eating animals) 
+- Omnivores (Both plant and flesh-eating animals)
+- Examples of each feeding type
+- Adaptation to food habits
+
+## Food Chains
+- Components of food chains
+- Producer and consumer relationships
+- Linear sequence of energy flow
+- Links in food chains
+- Multiple food chain examples
+
+## Food Webs
+- Interconnected food chains
+- Complex feeding relationships
+- Energy transfer through food webs
+- Environmental balance through food webs
+- Impact of disrupting food webs
+
+## Producers and Energy Flow
+- Green plants as producers
+- Photosynthesis process
+- Solar energy utilization
+- Energy transfer between organisms
+- Importance of producers in ecosystems
+
+## Environmental Balance
+- Mutual relationships between organisms
+- Population control through food chains
+- Impact of removing species from food chains
+- Conservation importance
+- Species survival and food diversity
+
+## Technical Terms
+- Scientific terminology
+- Feeding type classifications
+- Food relationship definitions
+- Ecological concepts
+- Multilingual translations
+
+Chapter 11: Weather and Climate
+## Weather
+- Weather Forecasting (Analysis of daily atmospheric conditions)
+- Weather Data Recording Methods
+- Components that Determine Weather (Temperature, rainfall, humidity, wind)
+- Weather Measurement Instruments (Thermometer, rain gauge, hygrometer, anemometer)
+- Building Simple Weather Instruments (DIY measurement tools)
+
+## Climate
+- Definition of Climate (Long-term weather patterns)
+- Climate Zones in Sri Lanka (Wet, Intermediate, Dry, Arid)
+- Differences Between Weather and Climate
+- Climate Data Collection and Analysis
+
+## Natural Disasters Related to Weather
+- Cyclones (Formation and impacts)
+- Floods (Causes and effects)
+- Droughts (Definition and impacts)
+- Landslides (Triggers and vulnerable areas)
+- Disaster Prevention and Mitigation
+- Early Warning Systems
+
+## Weather Measurement Tools
+- Thermometers (Temperature measurement)
+- Rain Gauges (Rainfall measurement)
+- Wind Vanes (Wind direction)
+- Anemometers (Wind speed)
+- Hygrometers (Humidity measurement)
+- Data Recording Techniques
+
+## Weather Data Analysis
+- Temperature Records and Patterns
+- Rainfall Data Collection
+- Humidity Measurements
+- Wind Speed and Direction
+- Climate Pattern Recognition
+- Weather Forecasting Methods
+
+## Technical Terms and Definitions
+- Weather-related Terms
+- Climate-related Terms
+- Measurement Units
+- Instrument Names
+- Disaster Terminology
+
+--------------------------------------------------
+
+
+Grade 7
+==================================================
+
+Grade 7
+
+Chapter 1: Plant Diversity
+## Plant Diversity
+ - Flowering vs Non-flowering Plants
+ - Main Parts of Flowering Plants (roots, stem, leaves, flowers, fruits and seeds)
+
+## Morphological Features of Flowering Plants
+ - External Plant Structure
+ - Root Systems (tap root and fibrous root)
+ - Modified Roots (prop, stilt, aerial, climbing, respiratory, storage)
+
+## Diversity of Plant Parts
+ - Root Diversity and Functions
+ - Stem Diversity (branched vs unbranched)
+ - Leaf Diversity (shape, size, venation)
+ - Flower Parts and Functions (sepals, petals, androecium, gynoecium)
+ - Fruit and Seed Diversity
+ - Seed Dispersal Methods (wind, water, animals)
+
+## Monocotyledonous and Dicotyledonous Plants
+ - Seed Structure (one vs two cotyledons)
+ - Characteristic Differences
+   - Root System
+   - Stem Structure
+   - Leaf Venation
+   - Flower Parts
+ - Germination Patterns
+
+## Plant Part Functions
+ - Root Functions (anchoring, absorption, storage)
+ - Stem Functions (support, transport, storage)
+ - Leaf Functions (photosynthesis, storage, reproduction)
+ - Flower Functions (reproduction, seed production)
+ - Fruit/Seed Functions (dispersal, reproduction)
+
+## Technical Terms
+ - Botanical Terminology
+ - Plant Part Names
+ - Scientific Classifications
+ - Multilingual Terms (English, Sinhala, Tamil)
+
+Chapter 2: Static Electricity
+## Static Electricity
+ - Charging an object through rubbing
+ - Types of static electric charges (positive and negative)
+ - Generation of static electric charges through electron transfer
+ - Attractions and repulsions between charged objects
+
+## Phenomena Associated with Static Electricity
+ - Lightning and cloud charging
+ - 'Tic' sound during ironing clothes
+ - Hair attraction to TV screens
+ - Use in electronic equipment (photocopiers, radios, TVs)
+
+## Capacitors
+ - Construction of simple capacitors
+ - Charging and discharging processes
+ - Measurement units (Farads)
+ - Types and practical applications
+ - Storage of static electric charges
+ - Terminal identification (positive/negative)
+ - Basic experiments with LEDs
+
+## Experimental Activities
+ - Testing attraction of charged objects
+ - Observing repulsion/attraction between rods
+ - Building simple capacitors
+ - Testing capacitor charging/discharging
+ - Measuring electrical effects with galvanometers
+
+## Technical Terms and Concepts
+ - Static electricity terminology
+ - Charging and discharging definitions
+ - Positive and negative charge descriptions
+ - Capacitor technical specifications
+
+Chapter 3: Generation of Electricity
+## Generation of Electricity
+- Various tasks and equipment requiring electricity
+- Completing information table for electrical equipment
+- Common electrical equipment and their power sources
+
+## Sources of Electricity
+- Electric cells and batteries (chemical process)
+- Dry cells, simple cells, car batteries
+- Identification of chemicals in dry cells
+- Classification of electricity generation methods
+
+## Electric Sources and Terminals
+- Sources of electricity in daily life
+- Equipment generating electricity
+- Positive and negative terminals
+- Connection methods and safety
+
+## Solar Panels
+- Solar energy conversion to electricity
+- Construction and working principle
+- Uses in watches, calculators, and homes
+- Storage requirements for solar power
+
+## Dynamo
+- Bicycle dynamo operation
+- Types of dynamos (fuel-driven, hydropower)
+- Electromagnetic induction principle
+- Laboratory dynamo models
+
+## Direct Current and Alternating Current
+- Characteristics of DC and AC
+- Sources of DC (cells and batteries)
+- Sources of AC (dynamos and generators)
+- Current flow patterns and measurement
+
+## Technical Applications
+- Simple cell construction
+- Battery connections
+- Current direction and flow
+- Practical experiments and observations
+
+## Environmental Considerations
+- Proper disposal of cells
+- Recycling requirements
+- Environmental impact
+- Safety precautions
+
+## Technical Terms and Measurements
+- Standard electrical units
+- Measuring instruments
+- Technical terminology
+- Symbols and notations
+
+Chapter 4: Functions of Water
+## Functions of Water as a Solvent
+- Water dissolves salts and minerals
+- Fish obtain dissolved oxygen from water
+- Dissolving substances in test tubes experiment
+- Industrial and everyday uses of water as solvent
+- Production of salt from sea water
+- Production of sugar and jaggery through evaporation
+
+## Functions of Water as a Coolant
+- Heat absorption properties
+- Temperature reduction experiment with cotton and thermometers
+- Cooling vehicle engines through radiators
+- Industrial cooling applications
+- Natural cooling processes in living organisms
+
+## Functions of Water as Medium of Life
+- Aquatic organisms' habitat
+- Fish respiration through dissolved oxygen
+- Winter survival under ice
+- Transportation of nutrients in blood
+- Biological processes requiring water medium
+- Excretion and waste removal
+- Maintenance of life processes
+
+## Technical Terms and Definitions
+- Solvent
+- Solution
+- Solute
+- Coolant
+- Medium
+
+## Exercises and Assignments
+- Multiple choice questions
+- Fill in the blanks
+- Poster designs
+- Wall paper preparations
+- Practical experiments
+- Observation tasks
+
+Chapter 5: Acids and Bases
+## Acids and Bases
+- Identification of acids and bases (Exploring different tastes in fruits and common substances)
+- Acids and bases available in school laboratory and home (Common examples)
+
+## Indicators for Testing
+- Natural indicators (Shoe flower, natural extracts)
+- Laboratory indicators
+  - Litmus paper (Red and blue)
+  - pH papers
+  - Phenolphthalein
+  - Methyl orange
+
+## Classification of Substances
+- Acidic substances
+  - Home acids (Lemon, vinegar, tamarind)
+  - Laboratory acids (Sulphuric, hydrochloric, nitric acid)
+- Basic substances
+  - Home bases (Soap, lime water, shampoo, ash)
+  - Laboratory bases (Sodium hydroxide, calcium hydroxide)
+- Neutral substances
+  - Common examples (Water, salt solution, sugar, kerosene)
+
+## Color Changes with Indicators
+- Litmus paper reactions
+- pH paper color ranges (1-14 scale)
+- Phenolphthalein color changes
+- Methyl orange color changes
+- Reactions with neutral substances
+
+Chapter 6: Animal Diversity
+## Animal Diversity
+- Vertebrates and Invertebrates
+  - Classification based on presence/absence of backbone
+  - Examples of vertebrates: fish, amphibians, reptiles, birds, mammals
+  - Examples of invertebrates: snails, worms, insects, crustaceans
+
+## Adaptations of Organisms to Environment
+- Color Adaptations
+  - Camouflage and its benefits
+  - Examples of camouflaged animals
+- Body Shape Adaptations
+  - Streamlined shapes in aquatic animals and birds
+  - Benefits for locomotion
+  - Examples of adapted body shapes
+
+## Use of Dichotomous Key for Classification
+- Features of dichotomous key
+  - Step-by-step classification
+  - Present/absent characteristics
+  - Single feature consideration
+- Application in Animal Classification
+  - Examples of classification using presence/absence of legs
+  - Examples of classification using other features
+- Application in Plant Classification
+  - Branched/unbranched stems
+  - Presence/absence of thorns
+  - Flowering/non-flowering plants
+
+## Adaptations for Survival
+- Environmental Adaptations
+  - Water adaptations
+  - Land adaptations
+  - Aerial adaptations
+- Protective Adaptations
+  - Predator avoidance
+  - Prey capture mechanisms
+  - Habitat-specific features
+
+Chapter 7: Forms of Energy and Uses
+## Forms of Energy and Uses
+ - Ability to do work is energy
+ - International unit is Joule (J)
+ - Energy transformation
+
+## Kinetic Energy
+ - Energy in moving objects
+ - Applications in vehicles, wind, flowing water
+ - Used in electricity generation
+
+## Potential Energy
+ - Energy stored due to position or shape
+ - Examples: water at height, wound springs
+ - Conversion to kinetic energy
+
+## Electrical Energy
+ - Used in appliances and devices
+ - Powers motors, lights, electronics
+ - Can be generated from other energy forms
+
+## Sound Energy
+ - Energy contained in sound waves
+ - Used in communication devices
+ - Can cause vibrations
+
+## Light Energy
+ - Important for vision and photosynthesis
+ - Sources: sun, artificial lights
+ - Used in solar power generation
+
+## Heat/Thermal Energy
+ - Energy from heat sources
+ - Used in cooking, engines, power generation
+ - Causes changes in materials
+
+## Chemical Energy
+ - Energy stored in chemicals
+ - Found in fuels, food, batteries
+ - Released through chemical reactions
+
+## Energy Transformations
+ - Conversion between different forms
+ - Examples in everyday devices
+ - Applications in power generation
+
+## Technical Terms
+ - Work terminology
+ - Energy types
+ - Terms in multiple languages
+
+Chapter 8: The Nature of the Earth
+## The Structure of the Earth
+ - Earth's position in solar system (third planet from sun)
+ - Earth's unique features (mountains, rivers, oceans, flora)
+ - Internal layers (crust, mantle, core)
+ - Methods geologists use to study Earth's interior
+ - Comparison with hard-boiled egg structure
+ - Layer compositions and characteristics
+ - Layer thicknesses and temperatures
+
+## Tectonic Plates and Plate Tectonics
+ - Definition of tectonic plates
+ - Types of plate movements
+ - Plate boundaries and margins
+ - San Andreas Fault example
+ - Movement speeds and mechanisms
+ - Relationship to earthquakes
+ - Volcanic activity at plate boundaries
+ - Seismic waves and monitoring
+ - Impact on Earth's surface
+
+## Earth's Resources and Features
+ - Construction materials from crust
+ - Metals and minerals
+ - Fossil fuels
+ - Agricultural soil
+ - Environmental conditions
+ - Life-supporting characteristics
+
+## Technical Terms and Definitions
+ - Core terminology
+ - Mantle terminology
+ - Crust terminology
+ - Geological terms
+ - Seismic terminology
+ - Plate tectonic terms
+
+Chapter 9: Light
+## Formation of Umbra and Penumbra
+- Shadow formation in daily life
+- Formation with different light sources
+- Effect of transparent, translucent, and opaque materials
+- Solar and lunar eclipses
+
+## Images Formed by Plane Mirrors
+- Reflection of light
+- Properties of plane mirror images
+- Lateral inversion
+- Multiple images from angled mirrors
+- Applications like kaleidoscope and periscope
+
+## Images Formed by Curved Mirrors
+- Types of curved mirrors (concave and convex)
+- Light ray behavior (convergence and divergence)
+- Properties of concave mirror images
+- Properties of convex mirror images
+- Practical applications of curved mirrors
+- Formation of various types of images (real and virtual)
+
+## Technical Terms and Principles
+- Light rays and beams
+- Properties of reflection
+- Image characteristics
+- Mirror terminology in multiple languages
+- Measurement and angles
+
+## Experimental Activities
+- Shadow observation experiments
+- Mirror reflection demonstrations
+- Image formation activities
+- Multiple reflection studies
+- Curved mirror investigations
+
+## Practical Applications
+- Vehicle side mirrors
+- Dental examination
+- Solar cookers
+- Telescopes
+- Microscope illumination
+- Decorative and artistic uses
+
+Chapter 10: The Correct Use of the Microscope
+## The Simple Microscope
+- Early magnification methods using water and curved surfaces
+- Hand lens/simple microscope construction using convex lens
+- Factors affecting magnification with simple lenses
+- Basic observation techniques
+
+## Microscope Magnification and Resolution
+- Definition of magnification power
+- Calculation method for total magnification
+- Resolution concept and measurement
+- Resolving power comparison between naked eye and microscopes
+
+## The Compound Light Microscope
+- Main parts and their functions
+- Correct usage methods and procedures
+- Proper handling and maintenance
+- Factors to consider during use
+- Storage requirements
+
+## Microscopic Observations
+- Plant tissue observation techniques
+- Animal tissue observation techniques
+- Drawing and recording observations
+- Magnification notation for drawings
+- Specimen preparation methods
+
+## The Electron Microscope
+- Operating principle using electron beams
+- Maximum magnification capabilities
+- Resolution comparison with light microscopes
+- Applications and uses
+- Advantages over light microscopes
+
+## Historical Development
+- Early microscope inventors
+- Evolution of microscope technology
+- Key scientists' contributions
+- Historical significance
+
+## Laboratory Safety and Procedures
+- Microscope handling guidelines
+- Specimen preparation protocols
+- Cleaning and maintenance procedures
+- Proper storage methods
+- Equipment care instructions
+
+--------------------------------------------------
+
+Grade 7
+
+Chapter 11: Sound
+## Production of Sound
+- Vibration as source of sound - demonstrates using speaker and polystyrene
+- Musical instruments and sound production
+- Vibrating strings (guitar, violin)
+- Vibrating membranes (drums, tabla)
+- Vibrating air (flute)
+- Vocal sound production through vocal cords
+
+## Propagation of Sound
+- Need for medium in sound transmission
+- Sound propagation through different media
+- Through air (gaseous medium)
+- Through water (liquid medium) 
+- Through solids (fastest propagation)
+- Speed of sound in different media
+- Air (330 m/s)
+- Water (1500 m/s)  
+- Steel (4500 m/s)
+
+## Special Cases of Sound Propagation
+- Sound behavior in vacuum
+- Lightning and thunder time delay
+- Underwater sound propagation
+- Sound transmission through solid structures
+- Practical applications (stethoscope, sound pipes)
+
+## Exercises and Activities
+- Speaker and polystyrene experiment
+- Tuning fork vibration demonstration
+- Vocal cord vibration activity
+- Sound propagation through water
+- Cup and string telephone experiment
+- Clock sound through table experiment
+
+Chapter 12: Biological Processes
+## Organizational Levels of Life
+- Cell as basic structural and functional unit
+- Tissues as groups of cells with specific functions
+- Organs as collections of tissues
+- Systems as groups of organs
+- Organism as complete living being
+
+## Cell Structure and Organization
+- Plant cells vs animal cells
+- Unicellular organisms
+- Multicellular organisms
+- Structural and functional characteristics
+
+## Plant Body Systems
+- Root system
+- Shoot system
+- Plant tissues (xylem and phloem)
+
+## Human Digestive System 
+- Mouth and salivary glands
+- Pharynx and esophagus 
+- Stomach
+- Small intestine
+- Large intestine
+- Liver and pancreas
+- Mechanical and chemical digestion
+- Absorption of nutrients
+
+## Human Respiratory System
+- Nasal cavity
+- Pharynx and larynx
+- Trachea
+- Bronchi and bronchioles
+- Lungs
+- Diaphragm
+- Inhalation and exhalation process
+- Gas exchange
+
+## Energy Production in Living Things
+- Role of oxygen in respiration
+- Breaking down of food
+- Energy release
+- Carbon dioxide production
+- Use of energy for biological activities
+
+Chapter 13: Atmosphere
+## Layers of Atmosphere
+- Troposphere (Lowest layer, contains 75% of air, weather changes occur here)
+- Stratosphere (15-50km high, contains ozone layer, jets fly here)
+- Mesosphere (50-80km high, coldest layer, ice clouds form)
+- Thermosphere (80-120km high, high temperature, space station location)
+- Exosphere (Thinnest layer, 120km+ high, borders space)
+
+## Temperature and Pressure Changes
+- Altitude effects on temperature
+- Altitude effects on pressure
+- Temperature variations in different layers
+- Pressure variations in different layers
+
+## Air Components
+- Nitrogen (78%)
+- Oxygen (21%)
+- Other gases (1% - Argon, CO2, water vapor)
+- Uses of atmospheric gases
+
+## Functions of Atmosphere
+- Provides oxygen for respiration
+- Source of CO2 for photosynthesis
+- Protection from UV rays
+- Temperature regulation
+- Support for hydrological cycle
+- Protection from meteors
+- Enables flight and communication
+
+## Air Pollution
+- Gaseous pollutants (CO, SO2, NO2)
+- Particulate pollutants (carbon, lead, dust)
+- Sources of pollution
+- Effects of pollution
+- Prevention methods
+
+## Technical Terms
+- Atmospheric terms
+- Temperature terms
+- Pressure terms
+- Cloud terms
+- Aurora terms
+
+Chapter 14: Heat and Temperature
+## Heat and Temperature
+- Measuring temperature: How warmness and coldness sensations are quantified
+- Temperature scales: Celsius, Fahrenheit, Kelvin and their equivalences  
+- Fixed points: Boiling point and freezing point of water
+- Clinical thermometer: Special features and usage for measuring body temperature
+
+## Methods of Heat Transfer
+- Conduction: Heat transfer through direct contact of particles
+- Convection: Heat transfer through movement of fluids/gases
+- Radiation: Heat transfer without medium through electromagnetic waves
+
+## Heat Conductors and Insulators
+- Good conductors: Metals like iron, copper, aluminum
+- Insulators: Glass, wood, plastic, cloth, air
+- Applications of conductors and insulators in daily life
+
+## Applications of Heat Transfer
+- Sea breeze and land breeze: Convection currents in coastal areas
+- Building design: Color choices for heat absorption/reflection
+- Household items: Cooking utensils, thermoses, radiators
+- Scientific experiments: Demonstrating heat transfer methods
+
+## Temperature Measurement Devices
+- Simple thermometers: Construction and working principle
+- Mercury thermometers: Features and usage
+- Clinical thermometers: Special design aspects
+- Modern temperature measuring equipment
+
+## Heat Energy Properties
+- Heat as a form of energy
+- Temperature changes with heat gain/loss
+- Expansion of liquids with heating
+- Heat absorption by different colored surfaces
+
+Chapter 15: Soil
+## Different Types of Soil
+- Clay soil: Contains abundant clay, sticky texture, high water retention
+- Sandy soil: Contains abundant sand, loose particles, high air retention
+- Loamy soil: Mix of sand/silt/clay, rich in organic matter, ideal for agriculture
+
+## Composition of Soil
+- Soil minerals: Clay, silt, sand particles
+- Soil organic materials (humus): Decayed plant/animal matter
+- Soil air: Provides oxygen for roots and organisms
+- Soil water: Helps nutrient absorption and organism survival
+- Soil organisms: Earthworms, insects, microorganisms
+
+## Soil Profile
+- Top soil: Contains most organic matter and nutrients
+- Sub soil: Formed by weathering of bedrock
+- Bed rock: Bottom layer, parent material
+
+## Soil Erosion
+- Types: Water erosion, wind erosion, animal activity
+- Causes: Natural factors and human activities
+- Prevention methods:
+  - Stone ridges against slopes
+  - Contour drains and cultivation
+  - Cover crops
+  - Terraced farming
+  - Wind breakers
+
+## Soil Conservation
+- Importance for sustaining life
+- Protection from pollution
+- Maintaining soil fertility
+- Preventing erosion
+- Sustainable agricultural practices
+
+Chapter 16: Force and Motion
+## Distance and Displacement
+- Total path length vs straight-line length
+- Distance has no direction while displacement has direction
+- Road map and travel examples
+- Staircase vs escalator comparison
+- Units of measurement (meter as international standard)
+
+## Force and Motion
+- Pulls and pushes
+- Magnitude and direction of force
+- Newton as unit of measurement
+- Newton spring balance
+
+## Effects of Force
+- Moving stationary objects
+- Changing speed of moving objects
+- Changing direction of motion
+- Creating rotation/turning effects
+- Modifying object shapes
+
+## Gravitational Force
+- Earth's gravitational pull
+- Weight vs mass
+- Comparison of gravity on Earth vs Moon
+- Weight calculations
+
+## Practical Applications of Force
+- Daily activities involving forces
+- Sports and recreation
+- Transportation examples
+- Industrial and mechanical uses
+- Household applications
+
+## Measurement and Units
+- Standard units for force
+- Standard units for distance
+- Measuring instruments
+- Conversion between units
+
+## Force Characteristics
+- Magnitude measurement
+- Directional properties
+- Combined effects
+- Relationship with motion
+
+Chapter 17: Nutrients in Food
+## Food and Nutrients
+- Core nutrients: Carbohydrates, Proteins, Lipids, Vitamins, Minerals
+- Sources of nutrients in daily diet
+- Role of water and fiber in diet
+
+## Carbohydrates
+- Primary energy source for body
+- Food sources: Bread, Rice, Noodles, Potato, Sugar
+- Types: Sugar and Starch
+
+## Proteins
+- Growth and repair function
+- Animal sources: Meat, Fish, Eggs, Milk
+- Plant sources: Winged beans, Gram, Dhal, Mushroom
+
+## Lipids
+- High energy nutrients
+- Plant oils and animal fats
+- Sources: Egg yolk, Coconut, Curd, Butter, Gingerly
+
+## Vitamins and Minerals
+- Protective nutrients
+- Vitamin sources (A, B, C, D, E, K)
+- Mineral sources (Calcium, Phosphorus, Iron, Sodium, Iodine)
+- Functions of each vitamin and mineral
+
+## Tests to Identify Food
+- Glucose test (Benedict's test)
+- Starch test (Iodine test)
+- Protein test (Biurette test)
+- Lipid test
+
+## Balanced Diet
+- Definition and importance
+- Components of balanced meals
+- Daily food requirements
+- Example meal plans
+
+## Dietary Deficiencies
+- Growth problems
+- Susceptibility to diseases
+- Specific deficiency diseases
+- Impact on health and wellness
+
+## Fiber in Diet
+- Sources of dietary fiber
+- Benefits of fiber
+- Role in digestion
+- Disease prevention
+
+## Water in Diet
+- Importance in body functions
+- Daily requirements
+- Role in nutrient transport
+- Temperature regulation
+
+Chapter 18: Minerals and Rocks
+## Features of Minerals and Rocks
+- Minerals as single component solids
+- Rocks as mixture of components
+- Crystalline forms of minerals
+- Comparison between rocks and minerals
+
+## Types of Rocks
+- Igneous rocks (formed from cooled magma)
+- Sedimentary rocks (formed from deposited materials)
+- Metamorphic rocks (formed by heat and pressure)
+
+## Rock Weathering
+- Physical/mechanical weathering
+- Chemical weathering 
+- Biological weathering
+- Formation of soil through weathering
+
+## Rock Cycle
+- Magma to igneous rocks
+- Weathering to sedimentary rocks
+- Metamorphosis to metamorphic rocks 
+- Return to magma through extreme conditions
+
+## Minerals in Sri Lanka
+- Common minerals (Apatite, Dolomite, Feldspar, etc.)
+- Distribution across regions
+- Industrial uses and applications
+- Economic importance
+
+## Sustainable Usage
+- Resource conservation
+- Economic value of minerals
+- Responsible mining practices
+- Future generation considerations
+
+## Rock Experimentation
+- Testing mineral properties
+- Rock weathering experiments
+- Rock cycle modeling
+- Classroom activities
+
+Chapter 19: Sources of Energy
+## Sources of Energy
+- Daily activities and energy sources (Activities like cooking, transportation and their energy requirements)
+- Renewable vs Non-renewable classification
+
+## Renewable Energy Sources
+- Solar power (For heating water, generating electricity)
+- Wind power (Historical uses and modern electricity generation)
+- Geothermal energy (Underground thermal energy and hot springs)
+- Energy of flowing water (Hydropower stations and electricity generation)
+- Biomass energy (Firewood, cow dung, plant materials)
+
+## Non-renewable Energy Sources
+- Mineral oil (Crude oil, diesel, kerosene, petrol)
+- Coal (Mining, combustion, advantages/disadvantages)
+- Natural gases (Methane trapped in rocks, uses in cooking/heating)
+- Nuclear power (Uranium, power plants, safety concerns)
+
+## Sustainable Usage of Energy Sources
+- Energy conservation strategies
+- Alternative transportation methods
+- Efficient fuel usage
+- Optional energy source adoption
+- Public awareness
+- Environmental considerations
+
+## Extra Knowledge Topics
+- Gasohol as alternative fuel
+- NERD institute cooker innovation
+- Hot water springs in Sri Lanka
+- Lifespan of non-renewable sources
+
+--------------------------------------------------
+
+
+Grade 8
+==================================================
+
+Grade 8
+
+Chapter 1: Importance of Microorganisms
+## Microorganisms
+ - Definition and characteristics of microorganisms
+ - Observation through microscopes
+ - Types (bacteria, algae, fungi, protozoa, viruses)
+ - Historical discovery by Antonie van Leeuwenhoek
+
+## Effects of Microorganisms on Food
+ - Food spoilage process
+ - Changes in food properties (color, texture, odor)
+ - Factors affecting microbial growth
+ - Types of microbial activities (fermentation, putrefaction, rancidity)
+ - Role of temperature and moisture
+ - Food preservation methods
+
+## Impact of Microorganisms on Humans and Activities
+ - Beneficial Effects
+   - Industrial applications
+   - Food production
+   - Medicine production
+   - Composting and biogas
+   - Biological pest control
+   - Environmental decomposition
+
+ - Harmful Effects
+   - Food spoilage
+   - Human diseases
+   - Animal diseases
+   - Plant diseases
+   - Damage to materials (clothes, wood, buildings)
+
+## Technical Terms and Definitions
+ - Microscopic terminology
+ - Food spoilage terms
+ - Microbial degradation concepts
+ - Disease-related terminology
+ - Application-related terms
+
+Chapter 2: Animal Classification
+## Animal Classification 
+- Grouping animals based on common features
+- Vertebrates vs Invertebrates distinction
+
+## Invertebrate Groups
+- Cnidaria (Hydra, sea anemone, jellyfish)
+- Annelida (Earthworms, leeches, Nereis)
+- Mollusca (Snails, bivalves, octopus)
+- Arthropoda (Insects, spiders, crustaceans)
+
+## Vertebrate Groups
+- Pisces (Fish - streamlined body, scales, fins)
+- Amphibia (Frogs, toads, salamanders)
+- Reptilia (Snakes, lizards, crocodiles, turtles)
+- Aves (Birds - feathers, wings, beaks)
+- Mammalia (Mammals - mammary glands, hair)
+
+## Features of Cnidarians
+- Radially symmetrical body
+- Polyp and Medusa forms
+- Special tentacles with cnidocytes
+
+## Features of Annelids
+- Bilaterally symmetrical body
+- Segmented worm-like body
+- Both aquatic and terrestrial forms
+
+## Features of Molluscs
+- Soft bodied animals
+- Muscular foot
+- Many have shells
+- Moist skin with mucus
+
+## Features of Arthropods
+- Jointed appendages
+- Exoskeleton
+- Segmented body
+- Largest animal group
+
+## Features of Birds (Aves)
+- Streamlined flying body
+- Feather covered
+- Modified forelimbs (wings)
+- Beaked mouth
+- Lung breathing
+
+## Features of Mammals
+- Mammary glands
+- Hair/fur covered skin
+- External ears
+- Lung breathing
+- Sweat and sebaceous glands
+
+Chapter 3: Diversity and Functions of Plant Parts
+## Diversity and Functions of Plant Parts
+- Basic plant parts: roots, stem, leaves, fruits, flowers
+- Plant adaptations for survival in different environments
+
+## Leaf Diversity and Functions
+- Primary function: Photosynthesis
+- Leaf arrangements: alternate, opposite, whorled, spiral
+- Leaf parts: lamina, petiole, veins, margin, tip, base
+- Special adaptations: water storage, transpiration reduction, reproduction
+- Leaf structure variations: thickness, shape, size
+
+## Stem Diversity and Functions
+- Basic functions: support, transport, bearing plant parts
+- Propagative stems: runners, stolons, suckers
+- Storage stems: aerial and underground
+- Photosynthetic stems: modified for photosynthesis
+- Climbing stems: adapted for support and light absorption
+
+## Root Diversity and Functions
+- Basic functions: anchoring, water/mineral absorption
+- Tuberous roots: tap root and adventitious storage
+- Prop roots: branch support
+- Stilt roots: stem support
+- Climbing/Clasping roots: attachment support
+- Aerial roots: moisture absorption
+- Respiratory roots: air absorption
+- Propagative roots: vegetative reproduction
+
+## Plant Adaptations
+- Environmental adaptations
+- Specialized functions
+- Storage modifications
+- Support structures
+- Reproductive strategies
+
+Chapter 4: Properties of Matter
+## Discontinuous Nature of Matter
+- Matter vs Energy (Classification of environmental components)
+- Evidence for discontinuous nature
+- Particulate nature of solids
+- Particulate nature of liquids 
+- Particulate nature of gases
+
+## Physical Properties of Matter in Relation to Particulate Nature
+- Organization of particles in solids
+- Organization of particles in liquids 
+- Organization of particles in gases
+- Shape, volume, compressibility and density characteristics
+- Fixed shape and volume properties
+
+## Pure Substances and Non-Pure Substances
+- Classification of pure substances
+- Elements and their properties
+- Compounds and their formation
+- Differences between elements and compounds
+- Examples of common elements and compounds
+
+## Physical Properties of Matter
+- Lustre
+- Hardness and brittleness
+- Thermal and electrical conductivity
+- Sonority and color
+- Elasticity and density
+- Malleability and ductility
+- Texture and smell
+- Expansivity
+- Melting and boiling points
+
+## Classification of Elements
+- Metals and their properties
+- Non-metals and their properties 
+- Physical states of elements
+- Examples of metallic and non-metallic elements
+
+## Applications of Physical Properties
+- Industrial applications
+- Daily life applications
+- Construction uses
+- Scientific instruments
+- Safety applications
+
+Chapter 5: Sound
+## Sound Sources
+- Vibrating membranes
+- Vibrating air columns 
+- Vibrating strings/bars
+
+## Natural and Artificial Sounds
+- Natural sounds (birds, animals)
+- Artificial sounds (machines, vehicles)
+- Sound production methods in animals
+
+## Frequency of Vibrations 
+- Definition and measurement
+- Hertz as unit
+- Factors affecting frequency
+- Sound adjustments in instruments
+
+## Musical Instruments by Vibration Type
+- Membrane instruments (drums, tabla)
+- Air column instruments (flute, trumpet)
+- String instruments (guitar, violin)
+- Bar instruments (xylophone)
+
+## Musical Tones and Noises
+- Pleasant vs unpleasant sounds
+- Rhythmical vs non-formal vibrations
+- Effects of sound intensity
+
+## Historical Development of Musical Instruments
+- Ancient instruments
+- Traditional instruments
+- Modern instruments
+- Electronic/digital instruments
+
+## Musical Therapy
+- Benefits for quality of life
+- Applications in healthcare
+- Physical and mental health effects
+- Modern therapeutic uses
+
+## Limits of Hearing
+- Human hearing range (20 Hz - 20,000 Hz)
+- Animal hearing capabilities
+- Frequency sensitivity
+- Sound perception limitations
+
+Chapter 6: Magnets
+## Magnets and Magnetic Materials
+- Magnetic properties
+- Materials that show magnetic attraction
+- Types of magnetic materials (iron, nickel, chromium, steel, ferrite)
+
+## Magnetic Poles
+- North pole and South pole
+- Concentration of magnetic power
+- Methods of identifying magnetic poles
+- Pole locations in different magnet types
+
+## Magnetic Fields
+- Definition and properties
+- Magnetic field lines
+- Field patterns around magnets
+- Field direction (North to South)
+- Field visualization using iron filings
+
+## Geomagnetism
+- Earth's magnetic field
+- True North vs Magnetic North
+- Compass behavior and Earth's field
+- Liquid metal currents in Earth's core
+
+## Types of Magnets
+- Permanent magnets
+- Temporary magnets
+- Electromagnets
+- Materials used (steel, ferrite, soft iron)
+
+## Making Magnets
+- Electrical method
+- Contact method
+- Methods of magnetization
+- Factors affecting magnetic strength
+
+## Magnetic Power Loss
+- Effects of aging
+- Temperature effects
+- Vibration effects
+- Strong magnetic field exposure
+- Proper storage methods
+
+## Applications of Magnets
+- Speakers and loudspeakers
+- Electric motors
+- Door locks
+- Compasses
+- Toys and stationery
+- Refrigerator magnets
+- Phone covers
+
+## Technical Terms and Definitions
+- English terms
+- Sinhala terms
+- Tamil terms
+- Scientific terminology
+
+Chapter 7: Measurements Associated with Electricity
+## Electric Current
+ - Flow of electrical charges through closed circuits
+ - Direction of current flow (positive to negative terminal)
+ - Measuring current using ammeter/milliammeter
+ - Series connection of ammeter in circuits
+ - Units: Ampere (A), milliampere (mA), microampere (μA)
+
+## Potential Difference (Voltage)
+ - Electric potential energy between terminals
+ - Measuring voltage using voltmeter
+ - Parallel connection of voltmeter in circuits
+ - Units: Volt (V)
+ - Applications in measuring supply voltage
+ - Digital voltmeters and modern measuring equipment
+
+## Resistance
+ - Obstruction to current flow in conductors
+ - Different materials having different resistances
+ - Units: Ohm (Ω)
+ - Types of resistors and their symbols
+ - Using resistors to control current
+ - Color coding system for resistor values
+
+## Practical Applications
+ - Measuring household/industrial voltages
+ - Detecting electrical appliance defects
+ - Power station measurements
+ - Equipment repair and maintenance
+ - Circuit troubleshooting
+
+## Circuit Components
+ - Dry cells and batteries
+ - Switches and conductors
+ - Bulbs and motors
+ - Measuring instruments
+ - Connection methods (series/parallel)
+
+Chapter 8: Changes in Matter
+## Physical Changes and Chemical Changes
+- Physical changes: Changes where composition remains same but form changes
+- Chemical changes: Changes where composition changes to form new substances
+- Law of conservation of mass: Total mass stays constant during chemical reactions
+- Open vs closed systems for chemical changes
+
+## Changes of State
+- Melting/Fusion: Solid to liquid transition
+- Freezing: Liquid to solid transition
+- Vaporization: Liquid to gas transition
+- Condensation: Gas to liquid transition
+- Sublimation: Solid directly to gas transition
+
+## Combustion
+- Requirements: Fuel, oxygen, ignition temperature
+- Complete vs incomplete combustion
+- Candle flame structure and zones
+- Bunsen flame characteristics
+- Fire triangle concept
+- Fuels: Solid, liquid and gaseous
+
+## Tarnishing of Metals
+- Nature of metal tarnishing
+- Rusting of iron
+- Factors affecting rusting
+- Protection methods:
+  - Painting
+  - Galvanizing
+  - Tin coating
+  - Grease application
+
+## Neutralization
+- Acids and bases
+- Neutral substances
+- Neutralization reactions
+
+--------------------------------------------------
+
+Grade 8
+
+Chapter 9: Human organ systems
+## Human Excretory System
+- Excretory products (CO2, water, urea, uric acid, salts)
+- Urinary system structure (kidneys, ureters, bladder, urethra)
+- Components of urine
+- Kidney function and structure
+- Kidney diseases and prevention
+
+## Nervous System
+- Central nervous system (brain, spinal cord)
+- Peripheral nervous system (cranial nerves, spinal nerves)
+- Brain parts (cerebrum, cerebellum, medulla oblongata)
+- Nerve impulses and coordination
+- Nervous system protection
+- Cerebrospinal fluid functions
+
+## Human Skin
+- Structure (epidermis, dermis, hypodermis)
+- Components (sweat glands, sebaceous glands, hair follicles)
+- Functions (protection, temperature regulation, sensory)
+- Vitamin D synthesis
+- Excretory function
+- Skin care and maintenance
+- Common skin disorders
+
+## Coordination
+- Sensory organs (receptors)
+- Effectors (muscles and glands)
+- Nervous coordination
+- Chemical coordination
+- Response mechanisms
+
+## Protective Measures
+- Excretory system care
+- Nervous system protection
+- Skin health maintenance
+- Balanced nutrition
+- Preventive practices
+
+Chapter 10: Electricity
+## Electricity
+ - Series cell systems (connecting cells one after another)
+ - Parallel cell systems (connecting cells' same terminals together)
+
+## Simple Electric Circuits
+ - Electric torch
+ - Light decoration circuits
+ - Circuit components and connectors
+
+## Current Controlling Components
+ - Switches/Keys (Tap key, Plug key)
+ - Permanent resistors 
+ - Variable resistors
+ - Rheostat
+ - Light dependent resistors (LDR)
+ - Soldering tools
+
+## Household Electrical Appliances
+ - Selection criteria
+ - Safety considerations
+ - Efficiency factors
+ - Overloading prevention
+
+## Effects of Electric Current
+ - Heating effect (conversion to heat energy)
+ - Light effect (LEDs and illumination)
+ - Magnetic effect (electromagnets)
+ - Chemical effect (electroplating)
+
+## Electromagnetic Applications
+ - Electric bells
+ - Factors affecting electromagnet strength
+ - Industrial uses
+ - Core materials
+
+## Current Control Systems
+ - Series connections
+ - Parallel connections 
+ - Voltage control
+ - Current regulation
+
+## Circuit Safety
+ - Short circuit prevention
+ - Proper connections
+ - Load management
+ - Component protection
+
+Chapter 11: Main biological processes in plants
+## Photosynthesis
+ - Essential factors (CO2, water, chlorophyll, light energy)
+ - Products (glucose, oxygen)
+ - Testing for starch in leaves
+ - Testing for oxygen production
+ - Global importance of photosynthesis
+
+## Transportation
+ - Diffusion (movement from high to low concentration)
+ - Osmosis (water movement through semipermeable membrane)
+ - Mass flow (transport through phloem)
+ - Transportation of raw materials
+ - Transportation of products
+
+## Transpiration
+ - Water loss through aerial parts
+ - Role in water transport
+ - Environmental factors affecting transpiration
+ - Plant adaptations to minimize transpiration
+ - Functions of transpiration
+
+## Guttation
+ - Water secretion through hydathodes
+ - Difference from transpiration
+ - Occurrence in plants
+ - Conditions favoring guttation
+ - Effects on plant leaves
+
+## Biological Processes Role in Plants
+ - Contribution to plant existence
+ - Environmental security
+ - Transportation mechanisms
+ - Water relations
+ - Environmental conservation
+
+Chapter 12: Life cycles of living organisms
+## Life Cycles of Living Organisms
+- Birth to death sequence of developmental stages
+- Cyclic process ensuring survival
+- Morphological changes during development
+- Different patterns in different organisms
+
+## Types of Metamorphosis
+- Complete metamorphosis (significant changes)
+  - Examples: butterfly, mosquito
+  - Stages: egg, larva, pupa, adult
+- Incomplete metamorphosis (gradual changes) 
+  - Examples: cockroach
+  - Stages: egg, nymph, adult
+
+## Life Cycles of Plants
+- Seed germination to maturity
+- Flowering plant development stages
+- Examples: paddy plant, jak plant
+- Cyclic reproductive process
+
+## Importance of Life Cycle Knowledge
+- Pest control strategies
+- Disease vector management
+- Biodiversity conservation
+- Environmental protection
+
+## Pest Control Applications
+- Understanding harmful stages
+- Traditional control methods
+- Chemical vs biological control
+- Eco-friendly approaches
+
+## Disease Vector Management
+- Mosquito life cycle control
+- Biological control methods
+- Prevention strategies
+- Public health implications
+
+## Conservation Applications
+- Protecting sensitive life stages
+- Valuable developmental stages
+- Species preservation
+- Habitat protection strategies
+
+## Environmental Considerations  
+- Chemical pesticide impacts
+- Eco-friendly alternatives
+- Biodiversity protection
+- Sustainable control methods
+
+Chapter 13: Food Preservation
+## Need of Food Preservation
+- Causes of food spoilage (microorganisms, macroorganisms, physical damage)
+- Self-degradation of food
+- Purpose of preservation (prevent spoilage, maintain nutrients)
+
+## Methods of Food Preservation
+- Traditional methods (drying, salting, smoking, honey immersion)
+- Modern methods (solar drying, stove drying, spray drying)
+- Temperature control (freezing, deep freezing)
+- Concentration methods (canning, bottling)
+
+## Food Preservatives
+- Chemical additives (types and uses)
+- E-number classification
+- Synthetic additives (acids and salts)
+- Safety regulations and prescribed quantities
+
+## Information on Food Packaging
+- Date of manufacture and expiry
+- Net weight/Total weight
+- Quality standards (SLS, ISO)
+- Producer information
+- Environmental considerations
+
+## Advantages and Disadvantages
+- Benefits (prevent spoilage, off-season use, nutritional preservation)
+- Drawbacks (health risks, loss of natural qualities)
+- Impact on food quality
+- Consumer considerations
+
+## Food Processing Guidelines
+- Quality control measures
+- Standard certifications
+- Packaging requirements
+- Storage instructions
+
+## Technical Information
+- Preservation terminology
+- Processing methods
+- Quality standards
+- Measurement parameters
+
+Chapter 14: Phenomena and exploration associated with the solar system
+## The Solar System
+- Planets and their characteristics
+- Rotation and revolution of planets
+- Earth's rotation time (24 hours)
+- Planet distances and orbital periods
+
+## Seasonal Changes
+- Earth's axial tilt (23.5°)
+- Impact on northern and southern hemispheres
+- Seasonal variations by hemisphere
+- Effect near equator
+
+## Phases of Moon
+- Moon's revolution around Earth
+- Illumination changes
+- Full moon and new moon
+- Monthly lunar cycle
+
+## Eclipses
+- Solar eclipses (total, partial, annular)
+- Lunar eclipses (total, partial, penumbral)
+- Umbra and penumbra
+- Eclipse observation methods and safety
+
+## Space Exploration
+- History of space observation
+- Early rockets and pioneers
+- Space missions and achievements
+- Artificial satellites
+- International Space Station
+
+## Constellations
+- 88 recognized constellations
+- Major constellations (Ursa Major, Ursa Minor, Orion)
+- Navigation using stars
+- Polaris (North Star)
+
+## The Zodiac
+- 12 zodiacal constellations
+- Earth's orbit through zodiac signs
+- Apparent solar motion
+- Celestial observations
+
+## Astronomical Measurements
+- Light year as distance unit
+- Clinometer construction and use
+- Altitude measurement of celestial objects
+- Star and planet observation techniques
+
+Chapter 15: Natural Disasters
+## Natural Disasters
+- Definition: Naturally occurring destructive incidents causing harm without human mediation
+- Types of natural disasters shown (flood, drought, landslide, tsunami, lightning, forest fire, cyclone, volcano, earthquake)
+
+## Drought
+- Definition: Long-term decrease of rainfall due to change in rainfall patterns
+- Natural reasons (monsoon winds, dry air currents, El-Nino phenomenon)
+- Human activities causing drought
+- Management strategies
+- Drought disaster management steps
+
+## Floods
+- Definition: Inundation of usually uninundated areas due to heavy rainfall
+- Types (overflow floods, instantaneous floods)
+- Reasons for floods
+- Influences and impacts
+- Management strategies for flood disasters
+
+## Landslides/Earth Slip
+- Definition: Slipping down of soil layers in slopy regions
+- Affected regions in Sri Lanka
+- Pre-signs of landslides
+- Management strategies
+- Safety considerations
+
+## Lightning and Thundering
+- Formation process in cumulonimbus clouds
+- Types of lightning:
+  - Earth-lightning
+  - Cloud-lightning
+  - Air-lightning
+- Electrical discharge mechanisms
+
+--------------------------------------------------
+
+
+Grade 9
+==================================================
+
+Grade 9
+
+Chapter 1: Applications of Micro-organisms
+## Micro-organisms
+- Definition and characteristics of micro-organisms
+- Categories (bacteria, fungi, algae, protozoa, viruses)
+- Environments and substrates where micro-organisms live
+
+## Beneficial Effects of Micro-organisms
+- Applications in Agriculture
+  - Gene technology
+  - Nitrogen fixation
+  - Producing compost
+  - Bio-pesticides
+- Applications in Medicine
+  - Producing antibiotics 
+  - Producing vaccines
+  - Producing anti-toxins
+- Applications in Industries
+  - Dairy products
+  - Biogas production
+  - Metal extraction
+  - Plant fiber products
+  - Alcohol production
+  - Vinegar production
+  - Bakery industry
+- Applications in Environmental Conservation
+  - Bio-remediation
+  - Decomposing organic waste
+  - Oil spill treatment
+  - Heavy metal removal
+  - Biodegradable plastics
+
+## Adverse Effects of Micro-organisms
+- Causing Diseases
+  - Human diseases
+  - Plant diseases
+- Food Spoilage
+  - Physical changes
+  - Chemical changes
+  - Factors affecting food spoilage
+- Biological Weapons
+  - Use of toxic microbes
+  - Weaponization of pathogens
+
+## Technical Terms and Concepts
+- Microbiology terminology
+- Industrial applications
+- Medical terminology
+- Environmental terms
+
+Chapter 2: Eye and Ear
+## Eye and Its Structure
+ - Structural parts (cornea, iris, pupil, lens, retina, etc.)
+ - Functions of eye parts (light focusing, image formation)
+ - Image formation process
+ - Eye muscles and movement
+
+## Vision and Visual Range
+ - Binocular vision
+ - Stereoscopic vision
+ - Depth perception
+ - Range of vision for different animals
+
+## Defects of Vision
+ - Long sight (Hypermetropia)
+ - Short sight (Myopia)
+ - Causes and corrections
+ - Use of convex and concave lenses
+
+## Eye Diseases
+ - Cataract
+ - Glaucoma
+ - Eye infections
+ - Prevention and precautions
+
+## Ear and Its Structure
+ - Outer ear
+ - Middle ear
+ - Inner ear
+ - Functions of ear parts
+
+## Hearing Process
+ - Sound wave reception
+ - Vibration transmission
+ - Role of tympanic membrane
+ - Nerve signal transmission
+
+## Defects of Ear
+ - Impaired hearing
+ - Deafness
+ - Hardening of ossicles
+ - Hearing range (20 Hz - 20,000 Hz)
+
+## Ear Protection
+ - Avoiding loud noises
+ - Preventing foreign object insertion
+ - Deep water diving precautions
+ - Medical care guidelines
+
+## Technical Terms
+ - English terminology
+ - Sinhala equivalents
+ - Tamil equivalents
+
+Chapter 3: Nature and Properties of Matter
+## Nature and Properties of Matter
+- Pure Substances and Non-Pure Substances 
+- Classification of Pure Substances into Elements and Compounds
+- Building Units of Elements (Atoms and Molecules)
+
+## Elements
+- Atomic Structure
+- Atomic Number (Z)
+- Mass Number (A)
+- Subatomic Particles (Protons, Neutrons, Electrons)
+- Chemical Symbols
+- Homo-atomic Molecules
+- Single Letter Symbols
+- Two Letter Symbols
+- Latin Name Based Symbols
+
+## Compounds
+- Chemical Formulas
+- Hetero-atomic Molecules
+- Formation from Elements
+- Common Examples (Water, Glucose, Methane, etc.)
+
+## Mixtures
+- Physical Methods of Separation
+- Homogeneous Mixtures
+- Heterogeneous Mixtures
+- Common Examples
+- Separation Techniques
+  - Panning
+  - Winnowing
+  - Floating
+  - Sifting
+  - Evaporation
+  - Fractional Distillation
+  - Steam Distillation
+  - Crystallization
+  - Magnetic Separation
+
+Chapter 4: Basic Concepts Associated with Force
+## Force
+ - Definition: Pull or push
+ - Effects when applied:
+   - Moving stationary objects
+   - Stopping moving objects 
+   - Changing speed
+   - Changing direction
+   - Changing object shape
+
+## Magnitude of Force
+ - Newton (N) as standard unit
+ - Spring balance measurement
+ - Commercial vs laboratory calibration
+ - Practical measurement methods
+
+## Direction of Force and Point of Application
+ - Direction's impact on motion
+ - Point of application's importance
+ - Effect on object behavior
+ - Practical applications
+
+## Graphical Representation of Force
+ - Length represents magnitude
+ - Arrow head shows direction
+ - Starting dot indicates point of application
+ - Examples with different force magnitudes
+
+## Practical Applications
+ - Day-to-day force applications
+ - Optimizing force direction
+ - Modifying points of application
+ - Reducing effort in tasks
+
+## Vector Properties of Force
+ - Magnitude component
+ - Directional component
+ - Combined vector characteristics
+ - Practical implications
+
+Chapter 5: Pressure Exerted by Solid
+## Pressure
+ - Definition: Force exerted over unit area
+ - Factors affecting pressure: Perpendicular force and surface area
+ - Relationship: P = F/A (Force/Area)
+ - Units: N/m² or Pascal (Pa)
+
+## Factors Affecting Pressure
+ - Effect of force: Pressure increases with increased force
+ - Effect of area: Pressure decreases with increased area
+ - Experimental demonstrations with soap and wire
+ - Experimental demonstrations with sponge and wooden blocks
+
+## Manipulating Pressure in Practice
+ - Methods to increase pressure: Reducing contact area
+ - Methods to decrease pressure: Increasing contact area
+ - Applications in tools and machinery
+ - Natural adaptations in living beings
+
+## Real-World Applications
+ - Sharp edges in cutting tools
+ - Ice skates design
+ - Heavy vehicle wheel design
+ - Road construction equipment
+ - Broad straps vs narrow straps
+
+## Problem Solving with Pressure
+ - Calculation methods
+ - Unit conversions
+ - Practical examples
+ - Sample problems and solutions
+
+## Technical Terms
+ - Pressure terms in multiple languages
+ - Scientific notation
+ - Standard units and measurements
+ - Technical vocabulary
+
+Chapter 6: The Human Circulatory System
+## The Human Circulatory System
+- Heart structure and chambers (atria and ventricles)
+- Valves (bicuspid, tricuspid, semi lunar)
+- Main blood vessels (arteries, veins, capillaries)
+
+## Blood Vessels
+- Arteries (carry blood away from heart)
+- Veins (carry blood toward heart)
+- Capillaries (connect arteries and veins)
+- Structure and functions of vessel walls
+- Blood flow patterns
+
+## Components of Blood
+- Plasma (liquid portion)
+- Red blood cells (erythrocytes)
+- White blood cells (leukocytes)
+- Platelets
+- Blood functions and composition
+
+## Blood Transfusion
+- Blood groups (A, B, AB, O)
+- Rhesus factors (Rh+ and Rh-)
+- Blood compatibility
+- Universal donor and recipient
+- Blood agglutination
+- Transfusion procedures
+
+## Blood Clotting
+- Coagulation mechanism
+- Role of platelets
+- Difference between clotting and agglutination
+
+## Maintaining Healthy Circulation
+- Exercise habits
+- Dietary considerations
+- BMI maintenance
+- Blood pressure control
+- Risk factor management
+- Lifestyle modifications
+
+## Medical Documentation
+- Blood donor requirements
+- Donor declaration forms
+- Medical assessment procedures
+- Blood collection protocols
+
+Chapter 7: Plant Growth Substances
+## Plant Growth Substances
+ - Introduction to growth substances and their role in plant development
+ - Chemical compounds that regulate plant growth (promoters and inhibitors)
+ - Natural growth promoting substances (Auxins, Gibberellins, Cytokinins)
+
+## Auxins
+ - Production in plant apex and downward diffusion
+ - Role in cell elongation and stem/root growth
+ - Phototropic movement effects
+ - Inhibition of lateral bud growth
+
+## Gibberellins
+ - Promotion of stem elongation
+ - Enhancement of fruit growth
+
+## Cytokinins
+ - Acceleration of cell division
+ - Stimulation of flowers, leaves, fruits and roots
+ - Role in seed germination
+ - Delay of plant aging
+
+## Artificial Growth Substances
+ - 2,4-DPA and 2,4,5-TPA as weedicides
+ - IAA and IBA for root formation
+ - NAA for preventing premature fruit drop
+ - Cytocell for off-season mango production
+
+## Plant Growth Processes
+ - Abscission layer formation
+ - Leaf and fruit fall mechanisms
+ - Role of ethene in fruit ripening
+ - Wound healing responses
+
+## Applications
+ - Uses in horticulture
+ - Agricultural applications
+ - Ornamental plant cultivation
+ - Growth control and regulation
+
+Chapter 8: Support and Movements of Organisms
+## Support and Movements of Animals
+- Living organisms change location as response to stimulus
+- Video observation activity of animal movements
+- Appendages used by different animals (pseudopodia, flagella, cilia, muscles)
+- Role of bones and muscles in movement
+- Skeletal system and muscular system function
+
+## Tropic Movements in Plants
+- Growth movements in response to stimulus direction
+- Positive geotropism (roots toward ground)
+- Negative geotropism (stems away from ground) 
+- Positive phototropism (stems toward light)
+- Positive hydrotropism (roots toward water)
+- Positive chemotropism (pollen tube growth)
+- Positive thigmotropism (tendrils coiling)
+
+## Nastic Movements in Plants
+- Movements independent of stimulus direction
+- Nyctinastic movements (sleep movements)
+- Haptonastic movements (touch response)
+- Seismonastic movements (shock response)
+- Photonastic movements (flower blooming)
+- Role of pulvinus structure
+
+## Plant Support Systems
+- Non-woody plants supported by water
+- Woody plants supported by cellulose and lignin
+- Mechanical tissues for support
+- Role of turgor pressure
+
+## Conservation
+- In-situ conservation concept
+- Conservation in natural habitats
+- Protection of indigenous species
+- Conservation of sensitive zones
+
+## Technical Terms Overview
+- Support terminology
+- Movement classification terms
+- Conservation terminology
+
+Chapter 9: The Evolutionary Process
+## The Evolutionary Process
+ - Origin of the Earth (Big Bang and Nebular theories)
+ - Early Earth conditions (hot, volcanic, formation of crust)
+ - Primitive atmosphere composition (CO2, CH4, H2S)
+ - Formation of oceans through water cycle
+
+## Origin of Life
+ - Theory of special creation
+ - Spontaneous generation theory
+ - Cosmozoic theory 
+ - Theory of biochemical evolution
+ - Primordial soup concept
+ - First living cells and organisms
+
+## Evolution
+ - Evidence from biogeography
+ - Evidence from comparative anatomy
+ - Evidence from paleontology
+ - Fossil records and types
+ - Living fossils (Coelacanth, Lingula, etc.)
+ - Horse evolution case study
+
+## Importance of Evolution in Bio-diversity
+ - Natural selection process
+ - Competition for resources
+ - Speciation
+ - Darwin's contributions
+ - Environmental adaptation
+ - Population changes
+
+## Fossil Studies
+ - Formation of rock layers
+ - Fossil preservation methods
+ - Dating techniques (Radioactive carbon)
+ - Types of fossils (preserved remains, trace fossils)
+ - Model fossil creation
+ - Importance in evolutionary studies
+
+## Human Evolution Evidence in Sri Lanka
+ - Batadombalena findings
+ - Pahiyangala cave discoveries
+ - Ibbankatuwa site
+ - Rawana falls evidence
+ - Pomparippu findings
+ - Balangoda Man
+
+--------------------------------------------------
+
+Grade 9
+
+Chapter 10: Electrolysis
+## Electrolysis
+- Conductivity through liquids
+- Electrolytes vs non-electrolytes 
+- Ionic compounds and electrical conductivity
+- Electric current effects in solutions
+- Testing electrical conductivity of different solutions
+
+## Changes Caused by Electric Current in Solutions
+- Electrodes (positive and negative)
+- Chemical changes during electrolysis
+- Electrolysis of acidulated water
+- Production of hydrogen and oxygen gases
+- Testing of evolved gases
+
+## Electroplating
+- Process and setup
+- Requirements for electroplating
+- Quality factors in electroplating
+- Industrial applications
+- Technical considerations for high-quality plating
+
+## Applications
+- Metal extraction
+- Manufacturing of caustic soda
+- Electroplating of jewelry
+- Vehicle parts protection
+- Kitchen equipment coating
+
+## Technical Aspects
+- Electrode materials and properties
+- Inert electrodes
+- Electrolyte concentration effects
+- Current and voltage considerations
+- Process control factors
+
+## Practical Considerations
+- Safety measures
+- Quality control
+- Equipment setup
+- Solution preparation
+- Testing procedures
+
+Chapter 11: Density
+## Introduction to Density
+- Relationship between mass and volume
+- Mass per unit volume definition
+- Basic density formula (ρ = m/v)
+
+## Units of Density
+- g/cm³ units
+- kg/m³ (SI units)
+- Unit conversions
+
+## Hydrometers
+- Construction and working principle
+- Types of hydrometers
+- Applications in different industries
+
+## Measurement of Density
+- Using measuring cylinders and balance
+- Using hydrometers
+- Experimental methods
+- Density comparisons
+
+## Practical Applications
+- Lactometer for milk testing
+- Alcoholmeter for beverages
+- Battery acid testing
+- Soil density measurement
+- Seawater density measurement
+- Rubber composition testing
+
+## Problem Solving
+- Density calculations
+- Mass/volume relationships
+- Numerical examples
+- Practice exercises
+
+## Technical Terms
+- English terms
+- Sinhala translations
+- Tamil translations
+
+Chapter 12: Bio-diversity
+## Introduction to Bio-diversity
+- Ecosystem definition and components
+- Ecosystem diversity
+- Species diversity
+- Genetic diversity
+
+## Importance of Bio-diversity
+- Ecosystem stability and wellbeing
+- Natural beauty and tourism
+- Reduced competition between species
+- Agricultural benefits
+- Endemic species preservation
+
+## Threats to Bio-diversity
+- Natural reasons (meteors, volcanoes, tsunamis)
+- Human activities (deforestation, pollution)
+- Invasive organisms
+- Genetic modification
+- Climate change
+
+## Important Features of Ecosystems
+- Living-living relationships
+- Living-non living relationships
+- Non living-non living relationships
+- Energy flow
+- Material recycling
+- Independent unit characteristics
+
+## Natural Ecosystems
+- Aquatic environments (rivers, estuaries, lagoons)
+- Terrestrial environments (forests, grasslands)
+- Forest types (tropical rain forests, montane forests)
+- Grassland types (wet patana, dry patana, damana, talawa)
+
+## Man-made Ecosystems
+- Agricultural environments
+- Industrial environments
+- Settlement environments
+- Issues and challenges
+- Environmental impacts
+
+## Technical Terms and Definitions
+- Biodiversity terminology
+- Ecosystem terminology
+- Environmental terminology
+- Scientific classifications
+
+Chapter 13: Artificial Environment and Green Concept
+## Artificial Environment 
+ - Agricultural environment - Cultivated lands and farming areas
+ - Industrial environment - Factories and manufacturing zones
+ - Urban environment - Cities and built-up areas
+
+## Green Concept
+ - Definition and importance - Guidelines for environmentally sustainable practices
+ - Minimizing greenhouse gas emissions
+ - Examples of green buildings worldwide (German Parliament, Beijing Sports Complex, etc.)
+
+## Agricultural Process
+ - Organic farming - Using natural methods and materials
+ - Use of organic fertilizers
+ - Traditional pest control methods 
+ - Water management - Tanks, irrigation systems, rainwater harvesting
+ - Land management - Soil quality and resource optimization
+ - Post-harvest technology - Proper handling and storage of crops
+ - Mixed crop cultivation
+ - Crop rotation
+ - Biotechnology in agriculture
+
+## Industrial Process
+ - Use of chemical substances - Food additives, cleaning agents, medicines, etc.
+ - Green buildings construction
+   - Natural lighting and ventilation
+   - Energy efficiency
+   - Water conservation
+   - Plant cover and landscaping
+ - Green transportation
+   - Minimizing vehicle usage
+   - Alternative fuel vehicles
+   - Public transportation
+   - Non-motorized transport
+
+## Environmental Impact Concepts
+ - Carbon footprint
+ - Water footprint  
+ - Food miles
+
+Chapter 14: Reflection and Refraction of Waves
+## Reflection of Light
+- Laws of reflection: Incident ray, reflected ray and normal line are in same plane; angle of incidence equals angle of reflection
+- Regular reflection and diffuse reflection: Reflection from smooth vs rough surfaces
+- Images formed by plane mirrors: Virtual, upright, lateral inversion
+- Uses of plane mirrors: Beauty salons, shops, laboratories, kaleidoscopes, periscopes
+
+## Sound
+- Reflection of sound: Bouncing of sound waves from obstacles
+- Echo: Second hearing of sound after reflection
+- Reverberation: Persistence of sound due to multiple reflections
+- Applications: Ultrasound scanning, finding ocean depth, bat navigation
+- Methods to prevent reverberation: Rough walls, porous ceilings, curtains
+
+## Refraction of Light
+- Behavior of light through different media
+- Refraction through glass blocks
+- Effects of refraction:
+  - Apparent elevation of objects in water
+  - Pencil appearing bent in water
+  - Dispersion of white light through prism
+  - Formation of rainbow
+- Applications:
+  - Ultrasound scanning
+  - Ocean depth measurement
+  - Newton's disc
+  - Prism effects
+
+## Technical Terms
+- Reflection related terms
+- Refraction related terms
+- Sound related terms
+- Measurement related terms
+
+Chapter 15: Simple Machines
+## Simple Machines Overview
+- Machines used to make jobs easier
+- Types of forces: Effort (input) and Load (output)
+- Mechanical advantage, velocity ratio, and efficiency concepts
+
+## Lever
+- First order levers (fulcrum between load and effort)
+- Second order levers (load between effort and fulcrum) 
+- Third order levers (effort between load and fulcrum)
+- Effort arm and load arm calculations
+
+## Inclined Plane
+- Basic principles and applications
+- Mechanical advantage calculations
+- Real-world examples (wedge, staircase, screw jack)
+- Work input and output relationships
+
+## Wheel and Axle
+- Basic structure and operation
+- Windlass mechanism
+- Velocity ratio calculations
+- Common applications (screwdriver, rotating handles)
+
+## Pulleys
+- Stationary pulleys
+- Moving pulleys
+- Pulley systems and mechanical advantage
+- Complex applications (cranes)
+
+## Machine Calculations
+- Mechanical advantage formulas
+- Velocity ratio measurements
+- Efficiency calculations
+- Work input and output relationships
+
+## Complex Machines
+- Combination of simple machines
+- Bicycle as an example
+- Real-world applications
+- System efficiency considerations
+
+## Technical Terms
+- Basic terminology
+- Mathematical formulas
+- Units and measurements
+- Applications in mechanics
+
+Chapter 16: Nanotechnology and its Applications
+## Nanometer
+- Definition and scale (1 billionth of a meter)
+- Comparison of sizes at nanoscale
+- Visual examples of nanoscale measurements
+
+## Nanotechnology
+- History and development
+- Key pioneers and contributors
+- Basic principles and concepts
+- Natural nano-concepts
+- Carbon-based nanomaterials
+  - Graphene
+  - Carbon nanotubes (SWCNT & MWCNT)
+  - Fullerene
+  - Active carbon
+
+## Applications of Nanotechnology
+- Medical applications
+- Transport sector
+- Power generation
+- Electronic science
+- Consumer goods production
+- Water purification
+- Textile industry
+- Construction materials
+
+## Future Implications and Challenges
+- Potential adverse effects
+- Environmental concerns
+- Health risks
+- Security challenges
+- Precautionary measures
+- Regulatory considerations
+
+## Technical Elements
+- Tools and equipment used
+  - Atomic Force Microscopes (AFMs)
+  - Scanning Probe Microscopes (SPMs)
+  - Scanning Tunneling Microscopes (STMs)
+- Measurement techniques
+- Manufacturing processes
+
+## Lotus Effect
+- Natural phenomenon
+- Self-cleaning properties
+- Applications in technology
+- Manufacturing implementations
+
+## Sri Lankan Context
+- Graphite deposits
+- Research facilities
+- Institute of Nanotechnology
+- Economic opportunities
+
+Chapter 17: Lightning Accidents
+## Lightning Accidents
+ - Loss of lives and property statistics
+ - Peak lightning activity periods (inter-monsoons)
+ - Cumulonimbus cloud formation
+ - Distribution of charges in clouds
+
+## How Lightning Occurs
+ - Formation of electrostatic charges
+ - Cloud charge distribution
+ - Types of lightning
+   - Cloud to cloud lightning
+   - Cloud to air lightning 
+   - Cloud to ground lightning
+ - Lightning and thunder formation
+
+## Prevention of Lightning Accidents
+ - Installation of lightning conductors
+ - Proper electrical wiring
+ - Disconnecting electrical appliances
+ - Safety precautions during storms
+ - Safe locations and behaviors
+
+## First Aid for Lightning Victims
+ - Massage for benumbed limbs
+ - Artificial respiration
+ - Heart massage
+ - Transport to hospital
+
+## Technical Information
+ - Voltage and current levels
+ - Temperature generation
+ - Sound wave formation
+ - Speed of light vs sound
+ - Distance calculation methods
+
+## Safety Guidelines
+ - Avoiding open areas
+ - Proper positioning and posture
+ - Insulation practices
+ - Vehicle safety
+ - Communication device usage
+
+Chapter 18: Natural Disasters
+## Natural Disasters
+- Definition - Losses caused by natural processes without human interference
+- Types affecting Sri Lanka
+
+## Cyclones
+- Formation and pressure systems
+- Factors causing cyclones
+- Structure (eye, eye wall, rainbands)
+- Types (tropical cyclones, typhoons, hurricanes)
+- Historical cyclones in Sri Lanka
+- Movement and patterns
+
+## Earthquakes
+- Formation and causes
+- Earth's internal structure
+- Tectonic plate movements
+- Types of plate boundaries (convergent, divergent, slip)
+- Intensity measurement (Richter scale)
+- Seismic waves and monitoring
+- Vulnerable regions globally
+- Human activities causing earthquakes
+
+## Tsunami
+- Formation and causes
+- Wave characteristics 
+- Speed and wavelength changes
+- Impact factors
+- Historical events
+- Prevention and protection measures
+- Detection and warning systems
+
+## Wild Fires
+- Natural and human causes
+- Factors affecting spread
+- Required conditions for fires
+- Impact on environment and life
+- Prevention measures
+
+## Global Warming and Natural Disasters
+- Temperature changes over time
+- Greenhouse effect
+- Contributing gases
+- Impact on cyclone frequency
+- Relationship with disaster frequency
+- Prevention measures
+- Statistical trends of disasters
+
+## Technical Terms
+- English terms
+- Sinhala equivalents  
+- Tamil equivalents
+
+Chapter 19: Sustainable Use of Natural Resources
+## Natural Resources
+- Basic natural resources (Water, Minerals/rocks, Plants, Timber)
+- Things in classroom and their basic materials
+- Natural substances used to make common materials
+
+## Water
+- Sustainable utilization of water
+- Ancient water conservation methods
+- Water tanks and reservoirs
+- Rain water collection systems
+- Economical use in agriculture
+
+## Minerals and Rocks
+- Definition and characteristics 
+- Common minerals in Sri Lanka
+- Resource locations and distribution
+- Mining methods and practices
+- Environmental impacts
+
+## Gems
+- Types and characteristics
+- Hardness scale (Mohr's Scale)
+- Mining methods
+- Refractive indices
+- Special gems (Alexandrite, Cat's eye, Star sapphire)
+- Problems in gem industry
+- Industry regulations
+
+## Trees
+- Benefits to humans and environment
+- Material benefits (timber, food, medicine, fuel)
+- Non-material benefits (oxygen, erosion control, beauty)
+- Environmental services (CO2 reduction, habitat)
+- Sustainable forest management
+
+## Problems and Solutions
+- Environmental impacts of mining
+- Social issues in gem industry
+- Conservation measures
+- Sustainable practices
+- Government regulations
+
+--------------------------------------------------
+
+
+Grade 10
+==================================================
+
+Grade 10
+
+Chapter 1: Chemical basis of life
+## Chemical Basis of Life
+ - Elements in living bodies (25 out of 92 elements present in nature)
+ - Common elements (Carbon, Hydrogen, Oxygen, Nitrogen)
+ - Organic vs inorganic compounds
+
+## Biomolecules
+ - Carbohydrates (Monosaccharides, Disaccharides, Polysaccharides)
+ - Proteins (Amino acids, Enzymes)
+ - Lipids (Fats, Oils, Fatty acids)
+ - Nucleic Acids (DNA, RNA)
+
+## Tests for Biomolecules
+ - Starch test (Iodine)
+ - Glucose test (Benedict's)
+ - Sucrose test
+ - Protein test (Biuret)
+ - Lipid test (Sudan III)
+
+## Water
+ - Specific properties
+ - Role as solvent
+ - Coolant properties
+ - Cohesive/adhesive forces
+ - Differential expansion
+
+## Minerals
+ - Macro elements
+ - Trace elements
+ - Functions in human body
+ - Deficiency symptoms in humans
+ - Functions in plants
+ - Deficiency symptoms in plants
+
+## Vitamins
+ - Fat-soluble vitamins (A, D, E, K)
+ - Water-soluble vitamins (B, C)
+ - Functions
+ - Deficiency symptoms
+ - Food sources
+
+## Enzymes
+ - Properties
+ - Functions
+ - Activity tests
+ - Role in biochemical reactions
+
+Chapter 2: Motion in a straight line
+## Motion in a Straight Line
+ - Distance and displacement
+   - Definition and differences
+   - Scalar vs vector quantities
+   - Path dependence vs independence
+   - Examples with multiple paths
+
+## Speed
+ - Definition as rate of change of distance
+ - Average speed
+ - Uniform and non-uniform speed
+ - Units and calculations
+
+## Velocity
+ - Definition as rate of change of displacement 
+ - Vector nature
+ - Uniform and non-uniform velocity
+ - Relationship with speed
+
+## Acceleration
+ - Definition as rate of change of velocity
+ - Uniform and non-uniform acceleration
+ - Positive and negative acceleration (deceleration)
+ - Examples and calculations
+
+## Displacement-Time Graphs
+ - Construction and interpretation
+ - Gradient analysis
+ - Finding velocity from graphs
+ - Area under curves
+
+## Velocity-Time Graphs
+ - Construction and interpretation
+ - Finding acceleration from gradient
+ - Finding displacement from area
+ - Examples with uniform and non-uniform motion
+
+## Gravitational Acceleration
+ - Definition and symbol g
+ - Value at sea level
+ - Upward and downward motion
+ - Free fall examples
+ - Projectile motion cases
+
+## Technical Terms
+ - Distance terms
+ - Motion terms
+ - Vector/Scalar terms
+ - Acceleration terms
+
+Chapter 3: Structure of matter
+## Structure of Matter
+- Classification of Matter (Pure substances vs mixtures)
+- Atomic Model and Structure
+- Nuclear Model by Rutherford
+- Planetary Model of the Atom
+- Shells and Energy Levels
+- Atomic Number and Mass Number
+- Electronic Configuration
+
+## Periodic Table 
+- Modern Periodic Table Structure
+- Groups and Periods
+- Patterns in Properties
+- First Ionization Energy
+- Electronegativity
+- Location of Elements
+
+## Types of Elements
+- Metals (Properties and examples like Sodium, Magnesium)
+- Non-metals (Properties and examples like Nitrogen, Sulphur, Carbon)
+- Metalloids (Properties and examples like Silicon, Boron)
+- Acidic, Basic and Amphoteric Nature of Oxides
+
+## Chemical Formulae
+- Valency
+- Writing Chemical Formulae
+- Polyatomic Ions (Radicals)
+- Writing Formulae Using Valency
+- Common Polyatomic Ions
+- Examples of Chemical Compounds
+
+## Isotopes
+- Definition and Examples
+- Hydrogen Isotopes
+- Chlorine Isotopes
+- Abundance of Isotopes
+
+## Trends in Properties
+- Periodic Trends
+- Group Properties
+- Period Properties 
+- Metallic/Non-metallic Character
+- Electronic Configuration Patterns
+
+Chapter 4: Newton's laws of motion
+## Nature of Force and its Effects
+- Force needed to move objects at rest
+- Resistive forces and friction
+- Balanced and unbalanced forces
+
+## Newton's Laws of Motion
+- First Law: Objects maintain state unless acted upon by unbalanced force
+- Second Law: Acceleration proportional to force and inversely to mass
+- Third Law: For every action there is equal and opposite reaction
+
+## Momentum
+- Definition and calculation (mass × velocity)
+- Units and vector nature
+- Factors affecting momentum
+- Real-world applications and examples
+
+## Mass and Weight
+- Difference between mass and weight
+- Weight calculation using gravitational acceleration
+- Variation of weight with altitude
+- Weight on Earth vs Moon
+- Center of gravity
+
+## Technical Terms
+- Force and types
+- Acceleration terminology
+- Motion-related terms
+- Mass and momentum terms
+
+## Practice Problems
+- Force calculations
+- Momentum problems
+- Acceleration examples
+- Mass and weight conversions
+
+## Summary Points
+- Newton's three laws applications
+- Force and motion relationships
+- Weight as gravitational force
+- Momentum principles
+
+Chapter 5: Friction
+## Nature of Friction
+- Force opposing motion between surfaces in contact
+- Gradually decreases speed of moving objects
+- Force automatically adjusts to balance applied force
+- Exists between solid, liquid and gas contacts
+
+## Types of Frictional Forces
+- Static friction: When no relative motion occurs
+- Limiting friction: Maximum friction just before motion begins  
+- Dynamic friction: Friction during relative motion
+- Effects of surface roughness on friction
+
+## Factors Affecting Limiting Friction
+- Nature of contact surfaces
+- Normal reaction between surfaces
+- Independence from surface area
+- Relationship with applied force
+
+## Methods of Reducing Friction
+- Polishing contact surfaces
+- Using lubricants (oil, grease, graphite)
+- Implementing ball bearings
+- Reducing surface roughness
+
+## Practical Applications of Friction
+- Walking and preventing slipping
+- Vehicle tire grip and safety
+- Rope and fiber strength
+- Braking systems
+    - Bicycle brake pads
+    - Disc brakes in vehicles
+    - Effect of surface conditions
+
+## Benefits and Disadvantages
+- Advantages:
+    - Enables walking and movement
+    - Vehicle control and safety
+    - Mechanical functionality
+- Disadvantages:
+    - Energy loss in machines
+    - Heat generation
+    - Wear and tear of surfaces
+
+Chapter 6: Structure and functions of the plant and animal cell
+## Basic Unit of Life and Cell Concept
+- Discovery of cells by Robert Hooke in 1665
+- Cell theory by Schleiden, Schwann and Virchow
+- Unicellular vs multicellular organisms
+- Cell as structural and functional unit
+
+## Structure of Cells
+- Animal cell features
+- Plant cell features
+- Typical cell structure
+- Cell organelles and functions
+
+## Cell Organelles
+- Cell wall
+- Plasma membrane (Cell membrane)  
+- Cytoplasm
+- Nucleus
+- Mitochondrion
+- Golgi complex
+- Ribosomes
+- Endoplasmic reticulum
+- Vacuole
+
+## Cell Growth and Division
+- Cell growth process
+- Types of cell division
+- Mitosis division process
+- Meiosis division process
+- Chromosomes and inheritance
+
+## Differences Between Cell Types
+- Animal vs plant cells
+- Meiosis vs mitosis
+- Diploid vs haploid cells
+
+## Significance of Cell Division
+- Growth of organisms
+- Asexual reproduction
+- Wound healing
+- Cell replacement
+- Maintenance of chromosomes
+- Evolution through variations
+
+## Technical Terms and Concepts
+- Chromosomal numbers
+- Homologous chromosomes
+- Sister chromatids
+- Cell organelle functions
+- Division of labor in cells
+
+Chapter 7: Quantification of elements and compounds
+## Relative Atomic Mass (Ar)
+- Atomic mass units
+- Mass measurement for small particles
+- Relationship to Carbon-12 isotope
+- Calculation methods
+- Sample atomic masses of elements
+
+## Relative Molecular Mass (Mr)
+- Definition and calculation
+- Relationship to atomic mass
+- Formula mass concepts
+- Sample molecular masses
+- Applications in compounds
+
+## Avogadro Constant
+- Definition (6.022 x 10²³)
+- Significance in chemistry
+- Relationship to atomic/molecular mass
+- Applications in calculations
+- Historical context
+
+## Mole
+- Definition as SI unit
+- Relationship to Avogadro constant
+- Applications in measuring substance amounts
+- Basic building units concept
+- Practical usage limitations
+
+## Molar Mass
+- Definition and units (g/mol)
+- Calculation methods
+- Relationship to relative masses
+- Applications in chemistry
+- Sample calculations
+
+## Technical Terms
+- English terminology
+- Sinhala translations
+- Tamil translations
+- Scientific notations
+- Unit conversions
+
+## Quantitative Calculations
+- Mass-mole relationships
+- Molecular counting
+- Conversion factors
+- Problem-solving methods
+- Worked examples
+
+Chapter 8: Characteristics of organisms
+## Characteristics of Organisms
+ - Cellular Organization
+   - Structure of unicellular organisms
+   - Multicellular organization
+   - Cell differentiation
+ 
+ - Nutrition
+   - Autotrophic nutrition
+   - Heterotrophic nutrition
+   - Photoautotrophic vs Chemoautotrophic
+   - Photosynthesis process
+
+ - Respiration 
+   - Cellular respiration
+   - Gas exchange
+   - CO2 release and O2 absorption
+   - Respiratory movements
+
+ - Irritability and Co-ordination
+   - Response to stimuli
+   - Nervous system role
+   - Types of stimuli
+   - Plant responses
+
+ - Excretion
+   - Metabolic waste removal
+   - Excretory organs
+   - Excretory products
+   - Plant excretion
+
+ - Movement
+   - Types of movement
+   - Locomotory organs
+   - Cellular movement
+   - Growth movements
+
+ - Reproduction
+   - Sexual reproduction
+   - Asexual reproduction 
+   - Cell division
+   - Species continuation
+
+ - Growth and Development
+   - Cell growth
+   - Increase in cell number
+   - Cell differentiation
+   - Development stages
+
+## Special Topics
+ - Virus
+   - Structure
+   - Non-cellular nature
+   - Reproduction in host cells
+   - Viral diseases
+
+ - Technical Terms
+   - Biological processes
+   - Cellular components  
+   - Metabolic activities
+   - System functions
+
+Chapter 9: Resultant force
+## Resultant Force
+- The single force that gives same result as multiple forces
+- Basic principles of force combination
+
+## Resultant of Several Forces
+- Cases of one person pushing
+- Cases of multiple people pushing
+- Combined force effects
+
+## Collinear Forces
+- Forces acting along same direction
+- Forces acting in opposite directions
+- Addition and subtraction of collinear forces
+
+## Parallel Forces
+- Forces having parallel but different lines of action  
+- Parallel forces in same direction
+- Experimental verification with Newton balances
+
+## Inclined Forces
+- Forces acting at angles
+- Direction of resultant between forces
+- Motion effects of inclined forces
+
+## Force Measurement
+- Using Newton balances
+- Experimental setups
+- Force readings and calculations
+
+## Applications
+- Car pushing scenarios
+- Fishing net pulling
+- Rope pulling competitions
+- Plowing with bulls
+- Trolley movement
+
+## Technical Terms
+- Resultant force
+- Newton balance
+- Unbalanced force
+- Opposite direction
+
+Chapter 10: Chemical bonds
+## Chemical Bonds
+- Formation and rearrangement of electrons in valence shells
+- Noble gases and their stability
+- Electron configurations and distribution
+
+## Ionic Bonds
+- Formation of positive and negative ions
+- Transfer of electrons between atoms
+- Sodium chloride formation
+- Ionic lattice structures
+
+## Covalent Bonds
+- Electron sharing between atoms
+- Homoatomic molecules (H2, F2, O2, N2)
+- Heteroatomic molecules (H2O, CH4, NH3)
+- Single, double and triple bonds
+- Lewis dot diagrams and structures
+- Octet rule and exceptions
+
+## Atomic Lattice
+- Graphite structure and properties
+- Diamond structure and properties
+- Covalent network solids
+
+## Polarity of Bonds
+- Electronegativity differences
+- Polar covalent bonds
+- Non-polar covalent bonds
+- Water molecule polarity
+
+## Intermolecular Bonds
+- Hydrogen bonding
+- Forces between molecules
+- Special properties of water
+- Effects on physical properties
+
+## Properties of Ionic and Covalent Compounds
+- Melting and boiling points
+- Electrical conductivity
+- Solubility
+- Physical state at room temperature
+- Crystal structure
+
+## Technical Terms
+- Standard chemical bonding terminology
+- Multilingual technical vocabulary
+
+Chapter 11: Turning effect of a force
+## Moment
+ - Definition of moment as turning effect of force
+ - Factors affecting rotation of objects
+ - Relationship between force and perpendicular distance
+ - Clockwise and anticlockwise moments
+ - Moment equilibrium
+ - Mathematical expression for moment (Force × distance)
+ - Unit of moment (N m)
+
+## Couple of Forces
+ - Definition of force couples
+ - Properties of force couples
+ - Moment of force couples
+ - Calculation of couple moment
+ - Applications of couple of forces:
+   - Opening/closing taps
+   - Using screwdrivers
+   - Steering wheels
+   - Bicycle pedals
+   - Wrenches/spanners
+
+## Technical Terms
+ - Moment of force
+ - Turning effect of force 
+ - Couple of forces
+
+## Practical Investigations
+ - Door rotation experiment
+ - Wood strip rotation experiment
+ - Force measurement using Newton balance
+ - Distance effects on rotation
+ - Single force vs couple of forces comparison
+
+## Mathematical Applications
+ - Moment calculations
+ - Force couple moment calculations
+ - Equilibrium problems
+ - Distance and force relationships
+
+Chapter 12: Equilibrium of forces
+## Equilibrium of Forces
+- Introduction to equilibrium of forces
+  - Forces in opposite directions
+  - Spring balance and gravitational force examples
+
+## Equilibrium of a Body Under Two Forces
+- Equal and opposite forces
+- Collinear forces
+- Forces along same line of action
+
+## Equilibrium of a Body Under Three Coplanar Parallel Forces
+- Suspended objects
+- Forces in same plane
+- Balancing parallel forces
+- Rod on supports example
+
+## Equilibrium of a Body Under Three Forces That Are Not Parallel
+- Center of gravity
+- Non-parallel forces in same plane
+- Common point intersection
+- Framed picture example
+
+## Technical Terms and Concepts
+- Force
+- Equilibrium of forces
+- Coplanar forces
+- Parallel forces
+- Two force equilibrium
+- Three force equilibrium
+- Resultant force
+
+## Summary Points
+- Collinear forces equilibrium
+- Parallel forces equilibrium
+- Non-parallel forces equilibrium
+- Multiple force systems
+- Force magnitude relationships
+
+--------------------------------------------------
+
+Grade 10
+
+Chapter 13: The world of life
+## Classification of Organisms
+- Life originated 3.6 billion years ago, 8.7 million species now exist
+- Significance of classification
+- Artificial classification
+- Natural classification
+
+## Three Domain System
+- Domain Archaea (extremophiles)
+- Domain Bacteria (most abundant)
+- Domain Eukarya (complex cells)
+
+## Kingdom Protista
+- Unicellular/multicellular organisms
+- Algae and protozoans
+- Aquatic environments
+- Photosynthetic and heterotrophic forms
+
+## Kingdom Fungi
+- Chitinous cell walls
+- Decomposers
+- Mycelial growth
+- Beneficial and harmful effects
+
+## Kingdom Plantae
+- Non-flowering plants
+  - Seedless plants
+  - Seed plants (Gymnosperms)
+- Flowering plants (Angiosperms)
+  - Monocots
+  - Dicots
+
+## Kingdom Animalia
+- Invertebrates
+  - Cnidaria
+  - Annelida
+  - Mollusca
+  - Arthropoda
+  - Echinodermata
+- Vertebrates
+  - Pisces
+  - Amphibia
+  - Reptilia
+  - Aves
+  - Mammalia
+
+## Nomenclature of Organisms
+- Binomial nomenclature
+- Standards and rules
+- Scientific naming conventions
+- Examples of scientific names
+
+Chapter 14: Continuity of life
+## Reproduction
+- Sexual Reproduction (Involves fusion of gametes)
+- Asexual Reproduction (Occurs by spores or vegetative parts)
+
+## Plant Reproduction
+- Natural Vegetative Propagation (Through roots, leaves, suckers, runners, bulbils)
+- Artificial Vegetative Propagation (Through stem cuttings, layering, grafting, tissue culture)
+
+## Flower Structure and Function
+- Calyx (Protective outer layer)
+- Corolla (Attractive petals) 
+- Androecium (Male reproductive part)
+- Gynoecium (Female reproductive part)
+
+## Pollination
+- Self-pollination (Within same flower)
+- Cross-pollination (Between different flowers)
+- Pollination Agents (Animals, Wind, Water)
+
+## Fertilization and Seed Development
+- Pollination Process
+- Seed Formation
+- Fruit Development
+- Seed Dormancy
+- Seed Germination Types (Hypogeal, Epigeal)
+
+## Dispersal of Fruits and Seeds
+- By Animals
+- By Wind
+- By Water
+- By Explosive Mechanism
+
+## Human Reproduction
+- Puberty and Secondary Sexual Characteristics
+- Male Reproductive System
+- Female Reproductive System
+- Menstrual Cycle
+- Fertilization and Implantation
+- Fetal Development
+- Parturition (Childbirth)
+
+## Sexually Transmitted Diseases
+- Gonorrhea
+- Syphilis
+- Herpes
+- AIDS
+
+## Hormonal Coordination in Reproduction
+- FSH (Follicle Stimulating Hormone)
+- LH (Luteinizing Hormone)
+- Testosterone
+- Estrogen
+- Progesterone
+
+Chapter 15: Hydrostatic pressure and its applications
+## Pressure
+ - Definition: Force acting on unit area
+ - Units: Pascal (Pa) = N/m²
+ - Scalar quantity
+ - Calculations and examples with force and area
+
+## Hydrostatic Pressure
+ - Pressure exerted by liquids
+ - Characteristics of liquid pressure
+ - Pressure variation with depth
+ - Pressure transmission in liquids
+ - Experiments demonstrating liquid pressure
+
+## Pressure Transmission Applications
+ - Hydraulic press functionality
+ - Vehicle hoists
+ - Hydraulic jacks
+ - Vehicle brake systems
+
+## Gas Pressure
+ - Compressed gas pressure
+ - Investigation experiments
+ - Properties of gas pressure
+
+## Atmospheric Pressure
+ - Definition and measurement
+ - Mercury barometer
+ - Aneroid barometer
+ - Applications in daily life
+   - Drinking with straws
+   - Siphon method
+   - Rubber sucker action
+
+## Floatation
+ - Upthrust
+ - Archimedes' principle
+ - Floating conditions
+   - Partially submerged
+   - Fully submerged
+   - Sinking objects
+ - Hydrometer and its applications
+
+## Practical Applications
+ - Pressure calculations
+ - Liquid pressure experiments
+ - Atmospheric pressure measurements
+ - Floating object calculations
+
+Chapter 16: Changes in matter
+## Changes in Matter
+- Physical Changes (Changes in state without new substances)
+- Chemical Changes (Formation of new substances)
+- Types of Chemical Reactions
+  - Chemical Combination Reactions 
+  - Chemical Decomposition Reactions
+  - Single Displacement Reactions
+  - Double Displacement Reactions
+- Chemical Equations (Symbolic representation and balancing)
+
+## Reactivity of Metals
+- Reactions with Air
+- Reactions with Water
+- Reactions with Dilute Acids
+- Reactions with Solutions of Other Metallic Salts
+- Activity Series (Order of metal reactivity)
+- Methods of Metal Extraction
+  - Iron Extraction (Blast furnace process)
+  - Gold Extraction (Physical separation)
+
+## Gases - Preparation, Properties and Uses
+- Hydrogen (H2)
+  - Physical and Chemical Properties
+  - Laboratory Preparation
+  - Collection Methods
+  - Uses
+- Oxygen (O2) 
+  - Physical and Chemical Properties
+  - Laboratory Preparation
+  - Collection Methods
+  - Uses
+- Carbon Dioxide (CO2)
+  - Physical and Chemical Properties
+  - Laboratory Preparation
+  - Collection Methods 
+  - Uses
+  - Role in Environment
+
+## Collection Methods for Gases
+- Downward Displacement of Water
+- Downward Displacement of Air
+- Upward Displacement of Air
+
+Chapter 17: Rate of reactions
+## Rate of Reactions
+- Chemical changes in daily life (rusting, ripening, digestion, etc.)
+- Fast vs slow reactions
+- Rate of reaction definition
+- Reactants and products
+- Methods to determine reaction rates
+
+## Factors Affecting Rate of Reactions
+- Surface area of reactants
+- Temperature of reaction
+- Concentration of reactants
+- Pressure of gaseous reactants
+- Catalysts and inhibitors
+
+## Industrial Applications
+- Chemical industry catalysts (Haber process, Contact process)
+- Catalytic converters
+- Biological catalysts (enzymes)
+- Industrial chemical processes
+
+## Experimental Activities
+- Calcium carbonate reaction with acid
+- Magnesium ribbon reaction rates
+- Hydrogen peroxide decomposition
+- Temperature effects on reactions
+- Surface area experiments
+
+## Technical Calculations
+- Rate equations
+- Surface area calculations
+- Reaction time measurements
+- Mass measurements
+- Concentration effects
+
+## Practical Applications
+- Food preservation
+- Industrial processes
+- Everyday chemical reactions
+- Motor vehicle emissions control
+- Biochemical processes
+
+Chapter 18: Work, energy and power
+## Work
+- Definition: Work as force causing position/shape change
+- Calculation: Force × distance moved in force direction 
+- Units: Joule (J)
+- Examples with different force magnitudes
+
+## Energy
+- Definition: Ability to do work
+- Unit: Joule (J)
+- Forms of Energy:
+  - Heat energy
+  - Electric energy  
+  - Magnetic energy
+  - Mechanical energy
+  - Light energy
+  - Sound energy
+
+## Mechanical Energy
+- Kinetic Energy:
+  - Energy due to motion
+  - Depends on mass and velocity
+  - Formula: Ek = ½mv²
+  - Real-world applications
+
+- Potential Energy:
+  - Energy due to position/shape
+  - Gravitational potential energy
+  - Formula: PE = mgh
+  - Elastic potential energy
+  - Energy transformations
+  - Applications in daily life
+
+## Power
+- Definition: Rate of doing work
+- Calculation: Work done/time taken
+- Unit: Watt (W)
+- Examples and calculations
+- Real-world applications
+
+## Technical Terms
+- English-Sinhala-Tamil translations for:
+  - Work
+  - Energy
+  - Mechanical energy
+  - Kinetic energy
+  - Potential energy
+  - Power
+
+Chapter 19: Current electricity
+## Static and Current Electricity
+- Static electricity - Charges deposited on insulator surfaces that do not flow
+- Current electricity - Flow of electric charges through conductors
+- Static electric charges - Generated through rubbing materials
+- Atomic structure - Electrons, protons, neutrons and their roles
+
+## Potential Difference and Electromotive Force
+- Definition of potential difference
+- Electromotive force (EMF) of cells
+- Voltage measurement using voltmeters
+- Relationship between voltage and current flow
+
+## Ohm's Law
+- Current proportional to voltage at constant temperature
+- V=IR relationship
+- Resistance measurement
+- SI units - Ampere, Volt, Ohm
+
+## Factors Affecting Resistance
+- Cross-sectional area of conductor
+- Length of conductor 
+- Material composition
+- Temperature effects
+
+## Types of Resistors
+- Fixed value resistors
+- Variable resistors
+- Light dependent resistors (LDR)
+- Resistor color coding system
+
+## Resistor Combinations
+- Series connections
+- Parallel connections 
+- Equivalent resistance calculations
+- Current and voltage distribution
+
+## Electrical Safety
+- Electric shock hazards
+- Body resistance
+- Safe handling of electricity
+- Voltage vs current dangers
+
+## Measuring Instruments
+- Ammeter usage and connection
+- Voltmeter usage and connection
+- Ohmmeter functionality
+- Digital multimeters
+
+Chapter 20: Inheritance
+## Diversity Among Organisms
+- Different species possess inherited features
+- Common characteristics within species
+- External feature variations in humans, cats, parrots, plants
+
+## Mendel's Experiments About Inheritance
+- Use of garden pea plants
+- Monohybrid cross experiments
+- Probability patterns in inheritance
+- Results and ratios of experiments
+
+## Basic Concepts of Genetics
+- Gene concepts
+- Gene expression
+- Phenotype and genotype
+- DNA and genetic material
+- Gene linkage
+
+## Heredity of Human
+- Chromosome numbers in different species
+- Sex determination process
+- Inheritance patterns
+- Sex chromosomes (X and Y)
+
+## Human Inherited Disorders
+- Sex-linked inheritance disorders (Hemophilia, Color blindness)
+- Gene mutations
+- Albinism
+- Thalassemia
+
+## Genetic Engineering
+- Recombinant DNA technology
+- Food and Agricultural applications
+- Industrial applications
+- Medical applications
+- DNA fingerprinting
+
+## Applications of Inheritance Knowledge
+- Plant and animal breeding
+- Development of hybrid varieties
+- Improved food production
+- Disease resistance
+- Genetic modifications
+
+--------------------------------------------------

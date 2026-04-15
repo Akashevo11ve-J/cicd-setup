@@ -1,0 +1,759 @@
+This is the chemistry curriculum for Grade 6-12 for CBSE. 
+
+
+<Grade6>
+{
+  "chapter_2": {
+    "title": "Sorting Materials into Groups",
+    "topics": [
+      "Objects Around Us",
+      "Grouping Based on Shape and Material",
+      "Materials: Types and Examples",
+      "Properties of Materials",
+      {
+        "Appearance": [
+          "Lustre (Shiny and Non-Shiny Materials)",
+          "Hardness (Hard and Soft Materials)"
+        ]
+      },
+      {
+        "Solubility in Water": [
+          "Soluble and Insoluble Substances",
+          "Liquids Mixing in Water"
+        ]
+      },
+      {
+        "Floating and Sinking": [
+          "Objects That Float or Sink in Water",
+          "Testing Objects in Other Liquids"
+        ]
+      },
+      {
+        "Transparency": [
+          "Transparent, Opaque, and Translucent Materials",
+          "Uses of Transparent and Opaque Materials"
+        ]
+      }
+    ]
+  },
+  "chapter_3": {
+    "title": "Separation of Substances",
+    "topics": [
+      "Introduction to Separation",
+      "Methods of Separation",
+      {
+        "Handpicking": [
+          "Removing Larger Impurities by Hand"
+        ]
+      },
+      {
+        "Threshing": [
+          "Separating Grain from Stalks"
+        ]
+      },
+      {
+        "Winnowing": [
+          "Separating Lighter and Heavier Components Using Wind"
+        ]
+      },
+      {
+        "Sieving": [
+          "Removing Impurities by Sieving"
+        ]
+      },
+      {
+        "Sedimentation, Decantation, and Filtration": [
+          "Separating Solids from Liquids"
+        ]
+      },
+      {
+        "Evaporation": [
+          "Recovering Solids Dissolved in Liquids",
+          "Common Salt from Seawater"
+        ]
+      },
+      {
+        "Using Multiple Methods": [
+          "Combination of Methods for Separation"
+        ]
+      },
+      {
+        "Saturated Solution": [
+          "What is Saturation?",
+          "Increasing Solubility by Heating"
+        ]
+      }
+    ]
+  },
+  "chapter_11": {
+    "title": "Air Around Us",
+    "topics": [
+      "Presence of Air Everywhere",
+      "Composition of Air",
+      {
+        "Components of Air": [
+          "Water Vapour",
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Dust and Smoke"
+        ]
+      },
+      "Air in Water and Soil",
+      "Oxygen in the Atmosphere",
+      "Interdependence of Plants and Animals for Gases",
+      "Uses of Air in Daily Life"
+    ]
+  }
+}
+
+</Grade6>
+
+<Grade7>
+{
+  "chapter_4": {
+    "title": "Acids, Bases and Salts",
+    "topics": [
+      "Acids and Bases",
+      "Natural Indicators Around Us",
+      {
+        "Litmus": [
+          "Red and Blue Litmus Paper"
+        ]
+      },
+      {
+        "Turmeric as Indicator": [
+          "Using Turmeric in Testing Acids and Bases"
+        ]
+      },
+      "Neutralisation",
+      "Neutralisation in Everyday Life",
+      {
+        "Applications of Neutralisation": [
+          "Indigestion",
+          "Ant Bites",
+          "Soil Treatment",
+          "Factory Wastes"
+        ]
+      }
+    ]
+  },
+  "chapter_5": {
+    "title": "Physical and Chemical Changes",
+    "topics": [
+      "Physical Changes",
+      "Chemical Changes",
+      {
+        "Examples of Chemical Changes": [
+          "Rusting of Iron",
+          "Burning of Magnesium",
+          "Reaction of Copper Sulphate with Iron",
+          "Reaction Between Vinegar and Baking Soda"
+        ]
+      },
+      "Rusting of Iron",
+      "Prevention of Rusting",
+      "Crystallisation"
+    ]
+  },
+  "chapter_13": {
+    "title": "Wastewater Story",
+    "topics": [
+      "What is Sewage?",
+      "Contaminants in Sewage",
+      "Treatment of Polluted Water",
+      "Wastewater Treatment Plant (WWTP)",
+      {
+        "Steps in Wastewater Treatment": [
+          "Bar Screens",
+          "Grit and Sand Removal",
+          "Clarification",
+          "Aeration",
+          "Disinfection"
+        ]
+      },
+      "Sanitation and Disease",
+      "Better Housekeeping Practices",
+      "Alternative Arrangements for Sewage Disposal"
+    ]
+  }
+}
+
+</Grade7>
+
+<Grade8>
+{
+  "chapter_3": {
+    "title": "Coal and Petroleum",
+    "topics": [
+      "Natural Resources",
+      {
+        "Types of Natural Resources": [
+          "Inexhaustible Natural Resources",
+          "Exhaustible Natural Resources"
+        ]
+      },
+      "Formation of Coal",
+      {
+        "Products of Coal": [
+          "Coke",
+          "Coal Tar",
+          "Coal Gas"
+        ]
+      },
+      "Formation of Petroleum",
+      "Refining of Petroleum",
+      {
+        "Petroleum Constituents": [
+          "Petroleum Gas",
+          "Petrol",
+          "Kerosene",
+          "Diesel",
+          "Lubricating Oil",
+          "Paraffin Wax",
+          "Bitumen"
+        ]
+      },
+      "Natural Gas",
+      "Fossil Fuels and Pollution"
+    ]
+  },
+  "chapter_4": {
+    "title": "Combustion and Flame",
+    "topics": [
+      "What is Combustion?",
+      {
+        "Conditions for Combustion": [
+          "Fuel",
+          "Heat",
+          "Oxygen"
+        ]
+      },
+      {
+        "Types of Combustion": [
+          "Rapid Combustion",
+          "Spontaneous Combustion",
+          "Explosion"
+        ]
+      },
+      "Structure of a Flame",
+      {
+        "Zones of a Candle Flame": [
+          "Outer Zone",
+          "Middle Zone",
+          "Innermost Zone"
+        ]
+      },
+      "Fuel Efficiency",
+      {
+        "Calorific Value of Fuels": [
+          "Wood",
+          "Coal",
+          "LPG",
+          "Hydrogen"
+        ]
+      },
+      "Harmful Effects of Burning Fuels",
+      {
+        "Pollution from Fuels": [
+          "Carbon Monoxide",
+          "Global Warming",
+          "Acid Rain"
+        ]
+      },
+      "Fire Control Methods"
+    ]
+  },
+  "chapter_11": {
+    "title": "Chemical Effects of Electric Current",
+    "topics": [
+      "Do Liquids Conduct Electricity?",
+      {
+        "Good and Poor Conductors": [
+          "Testing Liquids for Conductivity",
+          "Conducting Solutions"
+        ]
+      },
+      "Chemical Effects of Electric Current",
+      {
+        "Electrolysis": [
+          "Electrolysis of Water",
+          "Electrolytic Reactions"
+        ]
+      },
+      "Electroplating",
+      {
+        "Applications of Electroplating": [
+          "Chromium Plating",
+          "Gold and Silver Plating",
+          "Corrosion Protection"
+        ]
+      }
+    ]
+  }
+}
+
+</Grade8>
+
+<Grade9>
+{
+  "chapter_1": {
+    "title": "Matter in Our Surroundings",
+    "topics": [
+      "Physical Nature of Matter",
+      "Characteristics of Particles of Matter",
+      {
+        "Characteristics": [
+          "Matter is made up of particles",
+          "Particles of Matter have spaces between them",
+          "Particles of Matter are continuously moving",
+          "Particles of Matter attract each other"
+        ]
+      },
+      "States of Matter",
+      {
+        "States of Matter": [
+          "Solid State",
+          "Liquid State",
+          "Gaseous State"
+        ]
+      },
+      "Change of State of Matter",
+      {
+        "Factors Affecting Change of State": [
+          "Effect of Temperature",
+          "Effect of Pressure"
+        ]
+      },
+      "Evaporation and its Factors"
+    ]
+  },
+  "chapter_2": {
+    "title": "Is Matter Around Us Pure?",
+    "topics": [
+      "What is a Mixture?",
+      {
+        "Types of Mixtures": [
+          "Homogeneous Mixture",
+          "Heterogeneous Mixture"
+        ]
+      },
+      "What is a Solution?",
+      {
+        "Types of Solutions": [
+          "Saturated Solutions",
+          "Concentration of Solutions"
+        ]
+      },
+      "What is a Suspension?",
+      "What is a Colloid?",
+      "Physical and Chemical Changes",
+      {
+        "Types of Pure Substances": [
+          "Elements",
+          "Compounds"
+        ]
+      }
+    ]
+  },
+  "chapter_3": {
+    "title": "Atoms and Molecules",
+    "topics": [
+      "Laws of Chemical Combination",
+      {
+        "Laws": [
+          "Law of Conservation of Mass",
+          "Law of Constant Proportions"
+        ]
+      },
+      "What is an Atom?",
+      "What is a Molecule?",
+      {
+        "Molecules of Elements and Compounds": [
+          "Atomicity",
+          "Molecular Mass"
+        ]
+      },
+      "Ions and their Types",
+      "Valency and Chemical Formula"
+    ]
+  },
+  "chapter_4": {
+    "title": "Structure of the Atom",
+    "topics": [
+      "Discovery of Subatomic Particles",
+      {
+        "Subatomic Particles": [
+          "Electrons",
+          "Protons",
+          "Neutrons"
+        ]
+      },
+      "Thomson’s Model of an Atom",
+      "Rutherford’s Model of an Atom",
+      "Bohr’s Model of an Atom",
+      "Distribution of Electrons in Different Shells",
+      "Valency",
+      "Atomic Number and Mass Number",
+      "Isotopes and Isobars"
+    ]
+  }
+}
+
+</Grade9>
+
+<Grade10>
+{
+  "Chapters": [
+    {
+      "Chapter 1": {
+        "title": "Chemical Reactions and Equations",
+        "topics": [
+          "Chemical Reactions",
+          "Writing Chemical Equations",
+          "Balanced Chemical Equations",
+          "Types of Chemical Reactions",
+          "Effects of Oxidation Reactions in Everyday Life"
+        ]
+      }
+    },
+    {
+      "Chapter 2": {
+        "title": "Acids, Bases and Salts",
+        "topics": [
+          "Understanding Acids and Bases",
+          "Chemical Properties of Acids and Bases",
+          "What Do All Acids and All Bases Have in Common?",
+          "How Strong Are Acid or Base Solutions?",
+          "Importance of pH in Everyday Life",
+          "Salts",
+          "Preparation of Different Salts"
+        ]
+      }
+    },
+    {
+      "Chapter 3": {
+        "title": "Metals and Non-metals",
+        "topics": [
+          "Physical Properties of Metals and Non-metals",
+          "Chemical Properties of Metals and Non-metals",
+          "Reactivity Series",
+          "How Do Metals and Non-metals React?",
+          "Properties of Ionic Compounds",
+          "Occurrence of Metals",
+          "Corrosion"
+        ]
+      }
+    },
+    {
+      "Chapter 4": {
+        "title": "Carbon and its Compounds",
+        "topics": [
+          "Bonding in Carbon – The Covalent Bond",
+          "Versatile Nature of Carbon",
+          "Saturated and Unsaturated Carbon Compounds",
+          "Chains, Branches, and Rings",
+          "Important Carbon Compounds – Ethanol and Ethanoic Acid",
+          "Soaps and Detergents"
+        ]
+      }
+    }
+  ]
+}
+
+</Grade10>
+
+<Grade11>
+{
+  "Units": [
+    {
+      "Unit 1": {
+        "title": "Some Basic Concepts of Chemistry",
+        "topics": [
+          "Importance of Chemistry",
+          "Nature of Matter",
+          "Properties of Matter and their Measurement",
+          "Uncertainty in Measurement",
+          "Laws of Chemical Combinations",
+          "Dalton’s Atomic Theory",
+          "Atomic and Molecular Masses",
+          "Mole Concept and Molar Masses",
+          "Percentage Composition",
+          "Stoichiometry and Stoichiometric Calculations"
+        ]
+      }
+    },
+    {
+      "Unit 2": {
+        "title": "Structure of Atom",
+        "topics": [
+          "Discovery of Sub-atomic Particles",
+          "Atomic Models",
+          "Developments Leading to the Bohr’s Model of Atom",
+          "Bohr’s Model for Hydrogen Atom",
+          "Towards Quantum Mechanical Model of the Atom",
+          "Quantum Mechanical Model of Atom"
+        ]
+      }
+    },
+    {
+      "Unit 3": {
+        "title": "Classification of Elements and Periodicity in Properties",
+        "topics": [
+          "Why do we Need to Classify Elements?",
+          "Genesis of Periodic Classification",
+          "Modern Periodic Law and the Present Form of the Periodic Table",
+          "Nomenclature of Elements with Atomic Numbers > 100",
+          "Electronic Configurations of Elements and the Periodic Table",
+          "Electronic Configurations and Types of Elements: s-, p-, d-, f- Blocks",
+          "Periodic Trends in Properties of Elements"
+        ]
+      }
+    },
+    {
+      "Unit 4": {
+        "title": "Chemical Bonding and Molecular Structure",
+        "topics": [
+          "Kössel-Lewis Approach to Chemical Bonding",
+          "Ionic or Electrovalent Bond",
+          "Bond Parameters",
+          "Valence Shell Electron Pair Repulsion (VSEPR) Theory",
+          "Valence Bond Theory",
+          "Hybridisation",
+          "Molecular Orbital Theory",
+          "Bonding in Some Homonuclear Diatomic Molecules",
+          "Hydrogen Bonding"
+        ]
+      }
+    },
+    {
+      "Unit 5": {
+        "title": "Thermodynamics",
+        "topics": [
+          "Thermodynamic Terms",
+          "Applications",
+          "Measurement of ∆U and ∆H: Calorimetry",
+          "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+          "Enthalpies for Different Types of Reactions",
+          "Spontaneity",
+          "Gibbs Energy Change and Equilibrium"
+        ]
+      }
+    },
+    {
+      "Unit 6": {
+        "title": "Equilibrium",
+        "topics": [
+          "Equilibrium in Physical Processes",
+          "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+          "Law of Chemical Equilibrium and Equilibrium Constant",
+          "Homogeneous Equilibria",
+          "Heterogeneous Equilibria",
+          "Applications of Equilibrium Constants",
+          "Relationship between Equilibrium Constant (K), Reaction Quotient (Q), and Gibbs Energy (G)",
+          "Factors Affecting Equilibria",
+          "Ionic Equilibrium in Solution",
+          "Acids, Bases and Salts",
+          "Ionization of Acids and Bases",
+          "Buffer Solutions",
+          "Solubility Equilibria of Sparingly Soluble Salts"
+        ]
+      }
+    },
+    {
+      "Unit 7": {
+        "title": "Redox Reactions",
+        "topics": [
+          "Classical Idea of Redox Reactions – Oxidation and Reduction Reactions",
+          "Redox Reactions in Terms of Electron Transfer Reactions",
+          "Oxidation Number",
+          "Redox Reactions and Electrode Processes"
+        ]
+      }
+    },
+    {
+      "Unit 8": {
+        "title": "Organic Chemistry – Some Basic Principles and Techniques",
+        "topics": [
+          "General Introduction",
+          "Tetravalence of Carbon: Shapes of Organic Compounds",
+          "Structural Representations of Organic Compounds",
+          "Classification of Organic Compounds",
+          "Nomenclature of Organic Compounds",
+          "Isomerism",
+          "Fundamental Concepts in Organic Reaction Mechanism",
+          "Methods of Purification of Organic Compounds",
+          "Qualitative Analysis of Organic Compounds",
+          "Quantitative Analysis"
+        ]
+      }
+    },
+    {
+      "Unit 9": {
+        "title": "Hydrocarbons",
+        "topics": [
+          "Classification",
+          "Alkanes",
+          "Alkenes",
+          "Alkynes",
+          "Aromatic Hydrocarbon",
+          "Carcinogenicity and Toxicity"
+        ]
+      }
+    }
+  ]
+}
+
+</Grade11>
+
+<Grade12>
+{
+  "Units": [
+    {
+      "Unit 1": {
+        "title": "Solutions",
+        "topics": [
+          "Types of Solutions",
+          "Expressing Concentration of Solutions",
+          "Solubility",
+          "Vapour Pressure of Liquid Solutions",
+          "Ideal and Non-ideal Solutions",
+          "Colligative Properties and Determination of Molar Mass",
+          "Abnormal Molar Masses"
+        ]
+      }
+    },
+    {
+      "Unit 2": {
+        "title": "Electrochemistry",
+        "topics": [
+          "Electrochemical Cells",
+          "Galvanic Cells",
+          "Nernst Equation",
+          "Conductance of Electrolytic Solutions",
+          "Electrolytic Cells and Electrolysis",
+          "Batteries",
+          "Fuel Cells",
+          "Corrosion"
+        ]
+      }
+    },
+    {
+      "Unit 3": {
+        "title": "Chemical Kinetics",
+        "topics": [
+          "Rate of a Chemical Reaction",
+          "Factors Influencing Rate of a Reaction",
+          "Integrated Rate Equations",
+          "Temperature Dependence of the Rate of a Reaction",
+          "Collision Theory of Chemical Reactions"
+        ]
+      }
+    },
+    {
+      "Unit 4": {
+        "title": "The d-and f-Block Elements",
+        "topics": [
+          "Position in the Periodic Table",
+          "Electronic Configurations of the d-Block Elements",
+          "General Properties of the Transition Elements (d-Block)",
+          "Some Important Compounds of Transition Elements",
+          "The Lanthanoids",
+          "The Actinoids",
+          "Some Applications of d- and f-Block Elements"
+        ]
+      }
+    },
+    {
+      "Unit 5": {
+        "title": "Coordination Compounds",
+        "topics": [
+          "Werner's Theory of Coordination Compounds",
+          "Definitions of Some Important Terms Pertaining to Coordination Compounds",
+          "Nomenclature of Coordination Compounds",
+          "Isomerism in Coordination Compounds",
+          "Bonding in Coordination Compounds",
+          "Bonding in Metal Carbonyls",
+          "Importance and Applications of Coordination Compounds"
+        ]
+      }
+    },
+    {
+      "Unit 6": {
+        "title": "Haloalkanes and Haloarenes",
+        "topics": [
+          "Classification",
+          "Nomenclature",
+          "Nature of C–X Bond",
+          "Methods of Preparation of Haloalkanes",
+          "Preparation of Haloarenes",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Polyhalogen Compounds"
+        ]
+      }
+    },
+    {
+      "Unit 7": {
+        "title": "Alcohols, Phenols and Ethers",
+        "topics": [
+          "Classification",
+          "Nomenclature",
+          "Structures of Functional Groups",
+          "Alcohols and Phenols",
+          "Some Commercially Important Alcohols",
+          "Ethers"
+        ]
+      }
+    },
+    {
+      "Unit 8": {
+        "title": "Aldehydes, Ketones and Carboxylic Acids",
+        "topics": [
+          "Nomenclature and Structure of Carbonyl Group",
+          "Preparation of Aldehydes and Ketones",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Uses of Aldehydes and Ketones",
+          "Nomenclature and Structure of Carboxyl Group",
+          "Methods of Preparation of Carboxylic Acids",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Uses of Carboxylic Acids"
+        ]
+      }
+    },
+    {
+      "Unit 9": {
+        "title": "Amines",
+        "topics": [
+          "Structure of Amines",
+          "Classification",
+          "Nomenclature",
+          "Preparation of Amines",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Method of Preparation of Diazonium Salts",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Importance of Diazonium Salts in Synthesis of Aromatic Compounds"
+        ]
+      }
+    },
+    {
+      "Unit 10": {
+        "title": "Biomolecules",
+        "topics": [
+          "Carbohydrates",
+          "Proteins",
+          "Enzymes",
+          "Vitamins",
+          "Nucleic Acids",
+          "Hormones"
+        ]
+      }
+    }
+  ]
+}
+
+</Grade12>

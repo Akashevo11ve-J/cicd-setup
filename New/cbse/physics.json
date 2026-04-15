@@ -1,0 +1,471 @@
+[
+  {
+    "grade": 6,
+    "subject": "physics",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_4",
+        "title": "Exploring Magnets",
+        "topics": [
+          {
+            "4.1 Magnetic and Non-magnetic Materials": [
+              "Magnetic materials",
+              "Non-magnetic materials"
+            ]
+          },
+          {
+            "4.2 Poles of Magnet": [
+              "North pole",
+              "South pole"
+            ]
+          },
+          {
+            "4.3 Finding Directions": [
+              "Directional property of a freely suspended magnet",
+              "Magnetic compass"
+            ]
+          },
+          {
+            "4.4 Attraction and Repulsion between Magnets": [
+              "Attraction",
+              "Repulsion"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Measurement of Length and Motion",
+        "topics": [
+          "5.1 How do we Measure?",
+          "5.2 Standard Units",
+          {
+            "5.3 Correct Way of Measuring Length": [
+              "Correct way to place the scale",
+              "Correct position of the eye while reading the scale",
+              "How to measure the length if the ends of the scale are broken"
+            ]
+          },
+          "5.4 Measuring the Length of a Curved Line",
+          {
+            "5.5 Describing Position": [
+              "Reference Point"
+            ]
+          },
+          "5.6 Moving Things",
+          {
+            "5.7 Types of Motion": [
+              "Linear Motion",
+              "Circular Motion",
+              "Oscillatory Motion",
+              "Periodic Motion"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Temperature and its Measurement",
+        "topics": [
+          "7.1 Hot or Cold?",
+          "7.2 Temperature",
+          {
+            "7.3 Measuring Temperature": [
+              {
+                "7.3.1 Clinical thermometer": [
+                  "Celsius scale",
+                  "Fahrenheit scale",
+                  "Kelvin scale"
+                ]
+              },
+              {
+                "7.3.2 Laboratory thermometer": [
+                  "Correct way of measuring temperature using a laboratory thermometer"
+                ]
+              },
+              "7.3.3 Air temperature"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Beyond Earth",
+        "topics": [
+          "12.1 Stars and Constellations",
+          {
+            "12.2 Night Sky Watching": [
+              "Preparation for night sky watching"
+            ]
+          },
+          {
+            "12.3 Our Solar System": [
+              "The Sun",
+              "Planets",
+              "Natural Satellites",
+              "The Moon",
+              "Asteroids",
+              "Comets"
+            ]
+          },
+          "12.4 The Milky Way Galaxy",
+          "12.5 The Universe"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 7,
+    "subject": "physics",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "The Ever-Evolving World of Science",
+        "topics": [
+          "Introduction to Science as a Process of Inquiry",
+          {
+            "Preview of Grade 7 Science Topics": [
+              "Properties of Materials (Acids and Bases)",
+              "Electricity, Metals, and Non-metals",
+              "Reversible and Irreversible Changes",
+              "Heat Flow",
+              "Water",
+              "Life Processes in Humans and Animals",
+              "Life Processes in Plants",
+              "Measurement of Time and Speed",
+              "Light, Shadows, and Eclipses",
+              "Movement of Earth and Moon"
+            ]
+          },
+          "1.1 Happy Exploring!"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Electricity: Circuits and their Components",
+        "topics": [
+          "3.1 A Torchlight",
+          {
+            "3.2 A Simple Electrical Circuit": [
+              "3.2.1 Electric cell",
+              "3.2.2 Battery",
+              "3.2.3 Electric lamp",
+              "3.2.4 Making an electric lamp glow using an electric cell or battery",
+              "3.2.5 An electrical circuit",
+              "3.2.6 Electric switch"
+            ]
+          },
+          "3.3 Circuit Diagrams",
+          "3.4 Electrical Conductors and Insulators"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Heat Transfer in Nature",
+        "topics": [
+          "7.1 Conduction of Heat",
+          {
+            "7.2 Convection": [
+              "7.2.1 Land and Sea Breeze"
+            ]
+          },
+          "7.3 Radiation",
+          {
+            "7.4 Water Cycle": [
+              "7.4.1 Seepage of water beneath the Earth"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Measurement of Time and Motion",
+        "topics": [
+          {
+            "8.1 Measurement of Time": [
+              "8.1.1 A simple pendulum",
+              "8.1.2 SI unit of time"
+            ]
+          },
+          "8.2 Slow or Fast",
+          {
+            "8.3 Speed": [
+              "8.3.1 Relationship between speed, distance, and time"
+            ]
+          },
+          "8.4 Uniform and Non-uniform Linear Motion"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Light: Shadows and Reflections",
+        "topics": [
+          {
+            "11.1 Sources of Light": [
+              "Luminous objects",
+              "Non-luminous objects"
+            ]
+          },
+          "11.2 Does Light Travel in a Straight Line?",
+          "11.3 Light through Transparent, Translucent, and Opaque Materials",
+          "11.4 Shadow Formation",
+          "11.5 Reflection of Light",
+          {
+            "11.6 Images Formed in a Plane Mirror": [
+              "Image size and orientation (Erect)",
+              "Image distance",
+              "Inability to be obtained on a screen",
+              "Lateral inversion"
+            ]
+          },
+          "11.7 Pinhole Camera",
+          {
+            "11.8 Making Some Useful Items": [
+              "11.8.1 Periscope",
+              "11.8.2 Kaleidoscope"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Earth, Moon, and the Sun",
+        "topics": [
+          "12.1 Rotation of the Earth",
+          {
+            "12.2 Revolution of the Earth": [
+              "12.2.1 Changing view of night sky from the Earth",
+              "12.2.2 Seasons on the Earth"
+            ]
+          },
+          {
+            "12.3 Eclipses": [
+              {
+                "12.3.1 Solar eclipse": [
+                  "Safe Viewing of a Solar Eclipse"
+                ]
+              },
+              "12.3.2 Lunar eclipse"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 8,
+    "subject": "physics",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Exploring the Investigative World of Science",
+        "topics": [
+          "Introduction to the Investigative World of Science",
+          {
+            "An Overview of Grade 8 Science Topics": [
+              "Microbes, Health, and Medicines",
+              "Electric Current and its Effects",
+              "Forces and Pressure",
+              "Weather Events like Storms and Cyclones",
+              "Particles, Elements, Compounds, and Mixtures",
+              "Light: Reflection from Mirrors and Bending through Lenses",
+              "Phases of the Moon and Calendars",
+              "Ecosystems and Living Organisms",
+              "Earth's Climate and Human Impact"
+            ]
+          },
+          {
+            "The Process of Systematic Investigation (using the example of a puri)": [
+              "Asking a Scientific Question",
+              "Controlling Variables in an Experiment",
+              "Making Observations and Measurements",
+              "The Importance of Keeping Notes"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Electricity: Magnetic and Heating Effects",
+        "topics": [
+          {
+            "4.1 Does an Electric Current Have a Magnetic Effect?": [
+              "Magnetic effect of electric current",
+              "4.1.1 Electromagnets",
+              "4.1.2 Lifting electromagnets"
+            ]
+          },
+          {
+            "4.2 Does a Current Carrying Wire Get Hot?": [
+              "Heating effect of electric current"
+            ]
+          },
+          {
+            "4.3 How Does a Battery Generate Electricity?": [
+              "4.3.1 Voltaic cell",
+              "4.3.2 Dry cells",
+              "4.3.3 Rechargeable batteries"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Exploring Forces",
+        "topics": [
+          "5.1 What Is a Force?",
+          "5.2 What Can a Force Do to the Bodies on Which It Is Applied?",
+          "5.3 Are Forces an Interaction Between Two or More Objects?",
+          {
+            "5.4.1 Contact forces": [
+              "Muscular force",
+              "Friction"
+            ]
+          },
+          {
+            "5.4.2 Non-contact forces": [
+              "Magnetic force",
+              "Electrostatic force",
+              "Gravitational force"
+            ]
+          },
+          "5.5 Weight and Its Measurement",
+          {
+            "5.6 Floating and Sinking": [
+              "upthrust or buoyant force"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Pressure, Winds, Storms, and Cyclones",
+        "topics": [
+          {
+            "6.1 Pressure": [
+              "Pressure as Force per Unit Area",
+              "Pressure exerted by Liquids"
+            ]
+          },
+          "6.2 Pressure Exerted by Air",
+          "6.3 Formation of Wind",
+          "6.4 High-Speed Winds Result in Lowering of Air Pressure",
+          {
+            "6.5 Storms, Thunderstorms, and Lightning": [
+              "Formation of Storms and Thunderstorms",
+              "Lightning and Thunder",
+              "Precautions During a Thunderstorm"
+            ]
+          },
+          {
+            "6.6 Cyclone": [
+              "Formation of a Cyclone",
+              "Structure of a Cyclone",
+              "Destruction Caused by Cyclones",
+              "Cyclone Monitoring and Safety Measures"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Light: Mirrors and Lenses",
+        "topics": [
+          {
+            "10.1 What Are Spherical Mirrors?": [
+              "Concave mirror",
+              "Convex mirror"
+            ]
+          },
+          {
+            "10.2 What Are the Characteristics of Images Formed by Spherical Mirrors?": [
+              "Image formation in a concave mirror",
+              "Image formation in a convex mirror",
+              "Uses of concave mirrors",
+              "Uses of convex mirrors"
+            ]
+          },
+          {
+            "10.3 What Are the Laws of Reflection?": [
+              "Incident ray, reflected ray, normal, angle of incidence, and angle of reflection",
+              "The angle of incidence (i) is equal to the angle of reflection (r)",
+              "The incident ray, the normal, and the reflected ray all lie in the same plane",
+              "Reflection from Spherical Mirrors: Convergence and Divergence"
+            ]
+          },
+          {
+            "10.4 What Is a Lens?": [
+              "Convex lens (Converging lens)",
+              "Concave lens (Diverging lens)",
+              "Images seen through Lenses",
+              "Convergence and Divergence of light by Lenses",
+              "Uses of Lenses"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Keeping Time with the Skies",
+        "topics": [
+          {
+            "11.1 How Does the Moon’s Appearance Change and Why ?": [
+              "11.1.1 Phases of the Moon",
+              "11.1.2 Locating the Moon",
+              "11.1.3 Making sense of our observations"
+            ]
+          },
+          {
+            "11.2 How Did Calendars Come into Existence?": [
+              "11.2.1 Lunar calendars",
+              "11.2.2 Solar calendars",
+              "11.2.3 Luni-solar calendars",
+              "11.2.4 The Indian National Calendar"
+            ]
+          },
+          "11.3 Are Festivals Related to Astronomical Phenomena?",
+          "11.4 Why Do We Launch Artificial Satellites in Space?"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Our Home: Earth, a Unique Life Sustaining Planet",
+        "topics": [
+          "13.1 Why Is Earth a Unique Planet?",
+          "13.2 What Do the Planets of Our Solar System Look Like?",
+          {
+            "13.3 What Makes the Earth Suitable for Life to Exist ?": [
+              "13.3.1 Position of the Earth",
+              "13.3.2 Size of the Earth",
+              "13.3.3 Magnetic field of the Earth"
+            ]
+          },
+          {
+            "13.4 What Allows Life to Be Sustained on Earth?": [
+              "13.4.1 Air, water, and sunlight",
+              "13.4.2 Soil, rocks, and minerals",
+              "13.4.3 Plants, animals, and microorganisms",
+              "13.4.4 The importance of balance"
+            ]
+          },
+          {
+            "13.5 What Keeps Life from Disappearing?": [
+              "13.5.1 Asexual reproduction",
+              {
+                "13.5.2 Sexual reproduction": [
+                  "Special cells for reproduction",
+                  "Sexual reproduction in plants",
+                  "Sexual reproduction in animals"
+                ]
+              }
+            ]
+          },
+          "13.6 What Are the Threats to Life on Earth?"
+        ]
+      }
+    ]
+  }
+]
