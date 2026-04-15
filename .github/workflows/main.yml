@@ -25,7 +25,6 @@ jobs:
 
       - name: Run API tests
         env:
-          SERVER_IP:    ${{ secrets.SERVER_IP }}
           MONGO_DB_URI: ${{ secrets.MONGO_DB_URI }}
         run: pytest tests/test_all_apis.py -v --tb=short 2>&1 | tee test-results.log
 
