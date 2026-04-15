@@ -1,0 +1,2249 @@
+[
+  {
+    "grade": 6,
+    "subject": "math",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Knowing our Numbers",
+        "topics": [
+          "1.2 ESTIMATING AND COMPARING NUMBERS",
+          "1.3 ESTIMATION AND ROUNDING OFF NUMBERS",
+          "1.4 REVISION OF PLACE VALUE",
+          "1.5 INTRODUCTION OF LARGE NUMBERS",
+          {
+            "1.5.1 Place value of larger numbers": [
+              "Usage of commas"
+            ]
+          },
+          "1.6 INTERNATIONAL SYSTEM OF NUMERATION",
+          "1.7 LARGE NUMBERS USED IN DAILY LIFE SITUATIONS"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "WHOLE NUMBERS",
+        "topics": [
+          "I NTRODUCTION",
+          "WHOLE NUMBERS",
+          "REPRESENTATION OF WHOLE NUMBERS ON NUMBER LINE",
+          "Addition on number line",
+          "Subtraction on the Number Line",
+          "Multiplication on the Number Line",
+          "PROPERTIES OF WHOLE NUMBERS",
+          "Closure property of addition for whole numbers",
+          "Division by Zero",
+          "Commutativity of whole numbers",
+          "Associativity of addition and multiplication",
+          "Distributive property of multiplication over addition",
+          "Identity (for addition and multiplication)",
+          "PATTERNS IN WHOLE NUMBERS",
+          "Patterns of numbers"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "PLAYING  WITH NUMBERS",
+        "topics": [
+          "I NTRODUCTION",
+          "D IVISIBILITY  RULE",
+          {
+            "Divisibility by": [
+              "2",
+              "3",
+              "6",
+              "9",
+              "5",
+              "10"
+            ]
+          },
+          "F ACTORS",
+          "P RIME  AND COMPOSITE  NUMBERS",
+          "Co-prime or relative prime",
+          "Twin primes",
+          "P RIME  FACTORIZATION",
+          {
+            "Methods of Prime Factorization": [
+              "Division Method",
+              "Factor Tree Method"
+            ]
+          },
+          "C OMMON  FACTORS",
+          "Highest Common Factor (HCF)",
+          {
+            "Method of finding HCF": [
+              "Prime Factorisation Method",
+              "HCF by Continued Division Method"
+            ]
+          },
+          "C OMMON  MULTIPLES",
+          "Least common Multiple (LCM)",
+          {
+            "Methods of Finding LCM": [
+              "Prime Factorization Method",
+              "Division Method"
+            ]
+          },
+          "R ELATIONSHIP  BETWEEN  LCM AND HCF",
+          "D IVISIBILITY  RULES  FOR 4, 8 AND 11",
+          {
+            "Divisibility Rule for": [
+              "4",
+              "8",
+              "11"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "BASIC GEOMETRICAL  IDEAS",
+        "topics": [
+          "Introduction",
+          "Point",
+          "Line Segment",
+          "Line",
+          "Ray",
+          "Curve",
+          "Polygons",
+          {
+            "": [
+              "Interior of the Figure",
+              "Boundary of the Figure",
+              "Exterior of the Figure"
+            ]
+          },
+          "Angle",
+          "Triangle",
+          "Quadrilateral",
+          "Circle",
+          {
+            "": [
+              "Centre",
+              "Circumference",
+              "Radius",
+              "Chord",
+              "Diameter",
+              "Arc",
+              "Sector",
+              "Segment"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "MEASURES  OF LINES AND ANGLES",
+        "topics": [
+          "5.1 I NTRODUCTION",
+          "5.2 M EASURE  OF A L INE SEGMENT",
+          "Comparing by instruments",
+          "5.3 M EASURE  OF AN ANGLE",
+          "Anti clock-wise angles",
+          "Clock-wise angles",
+          "5.3.1 The Protractor",
+          {
+            "Type of Angle": [
+              "Zero angle",
+              "Right angle",
+              "Straight angle",
+              "Complete angle",
+              "Acute angle",
+              "obtuse angle",
+              "Reflex angle"
+            ]
+          },
+          "5.4 I NTERSECTING  LINE, PERPENDICULAR  LINES  AND PARALLEL  LINES",
+          "5.4.1 Intersecting lines",
+          "5.4.2 Perpendicular lines",
+          "5.4.3 Parallel lines"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "INTEGERS",
+        "topics": [
+          "INTRODUCTION",
+          "HOW NEGATIVE NUMBER 'S ARISE?",
+          "SOME USES OF NEGATIVE NUMBERS",
+          "REPRESENTATION OF INTEGERS ON A NUMBER LINE",
+          "ORDERING OF INTEGERS",
+          "ADDITION AND SUBTRACTION OF INTEGERS",
+          "Addition of integers on the number line",
+          "Subtraction of integers"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "FRACTIONS  AND DECIMALS",
+        "topics": [
+          "I NTRODUCTION",
+          "A F RACTION",
+          "Proper Fractions",
+          "Improper Fractions",
+          "Mixed Fractions",
+          "N UMERATOR AND DENOMINATOR",
+          "F RACTIONAL NUMBERS ON THE NUMBER LINE",
+          "E QUIV ALENT FRACTIONS",
+          "L OWEST FORM OF A FRACTION",
+          "L IKE AND UNLIKE FRACTIONS",
+          "A SCENDING AND DESCENDING ORDER FRACTIONS",
+          "Comparing Unlike Fractions",
+          "Ascending and Descending Order",
+          "A DDITION OF FRACTIONS :",
+          "Adding unlike fractions",
+          "Addition of mixed fractions",
+          "S UBTRACTION",
+          "D ECIMALS",
+          "Place Value in Decimal Number",
+          "A DDITION AND SUBTRACTIONS OF DECIMAL FRACTIONS"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "DATA HANDLING",
+        "topics": [
+          "I NTRODUCTION",
+          "R ECORDING  OF DATA",
+          "O RGANISATION  OF DATA",
+          "R EPRESENTATION  OF DATA",
+          "Pictographs",
+          "Bar Graph",
+          {
+            "Construction of a bar graph": [
+              "Vertical bar diagram",
+              "Horizontal bar diagram"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "INTRODUCTION TO ALGEBRA",
+        "topics": [
+          "Introduction",
+          "9.2 Patterns - Making Rules",
+          "Pattern-1",
+          "Pattern-2",
+          "Pattern-3",
+          "9.3 Variable",
+          "9.4 More Patterns",
+          "Example-1",
+          "Example-2",
+          "9. 5 Expressions With Variables",
+          "Example-3",
+          "Example-4",
+          "9.6 Rules From Geometry /Mensuration",
+          "Perimeter of a square",
+          "9.7 Rule From Arithmetic",
+          "9.8 Simple Equations",
+          "9.8.1 L.H.S & R.H.S of an Equation",
+          "9.8.2 Solution of an equation (Root of the equation)- Trial & Error Method"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "PERIMETER AND AREA",
+        "topics": [
+          "INTRODUCTION",
+          "PERIMETER",
+          "Perimeter of a Rectangle",
+          "Perimeter of Regular shapes",
+          "Regular Polygon",
+          "AREA",
+          "Area of the rectangle",
+          "Area of the Square"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "RATIO AND PROPORTION",
+        "topics": [
+          "Introduction",
+          "Comparing quantities with different units",
+          "Ratio in different situation",
+          "Same ratio in different situations",
+          "Ratio is said to be in the simplest form",
+          "Division of a given quantity in a given ratio",
+          "PROPORTION",
+          "Unitary Method"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "SYMMETRY",
+        "topics": [
+          "12.1  I NTRODUCTION",
+          "12.2 L INE SYMMETRY",
+          {
+            "Play with alphabet": [
+              "Vertical lines of symmetry.",
+              "Horizontal lines of symmetry.",
+              "No lines of symmetry."
+            ]
+          },
+          "12.3 M ULTIPLE  LINES OF SYMMETRY",
+          "A K ITE",
+          "A Rectangle",
+          "Paper cutting using symmetry",
+          "HOW TO DRAW  A SYMMETRIC  FIGURE ?"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "PRACTICAL  GEOMETRY",
+        "topics": [
+          "Introduction to Geometry Tools",
+          "Line Segments",
+          {
+            "Construction of Line Segment": [
+              "By using ruler",
+              "By using Compasses"
+            ]
+          },
+          "Construction of a Circle",
+          "PERPENDICULARS",
+          "Constructing Perpendicular Bisector of the given Line Segment",
+          "Perpendicular to a Line, through a Point which is not on it",
+          "CONSTRUCTION  OF ANGLES  USING  PROTRACTOR",
+          "CONSTRUCTING  A COPY  OF AN ANGLE  OF UNKNOWN  MEASURE",
+          "CONSTRUCTION  TO BISECT  A GIVEN  ANGLE",
+          "CONSTRUCTING  ANGLES  OF SPECIAL  MEASURES",
+          "Construction of 60° Angle",
+          "Construction of 120° Angle",
+          "Construction of 30°Angle",
+          "Construction of 90° Angle"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "UNDERSTANDING  3D AND 2D S HAPES",
+        "topics": [
+          "Introduction",
+          "3D-S HAPES",
+          "Cuboid",
+          "Cube",
+          "Cylinder",
+          "Cone",
+          "Sphere",
+          "Semisphere",
+          "Prism",
+          "Pyramid",
+          "POLYGONS",
+          "Regular Polygon"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 7,
+    "subject": "math",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Integers",
+        "topics": [
+          "Introduction",
+          {
+            "Operations of integers": [
+              "Addition of integers",
+              "Subtraction of integers",
+              "Multiplication of integers",
+              {
+                "Multiplication of two negative integers": []
+              },
+              {
+                "Multiplication of more than two negative integers": []
+              },
+              "Division of integers"
+            ]
+          },
+          {
+            "Properties of integers": [
+              {
+                "Properties of integers under addition": [
+                  "Closure property",
+                  "Commutative property",
+                  "Associative property",
+                  "Additive identity",
+                  "Additive Inverse"
+                ]
+              },
+              {
+                "Properties of integers under multiplication": [
+                  "Closure property",
+                  "Commutative property",
+                  "Associative property",
+                  "Distributive property",
+                  "Multiplicative identity",
+                  "Multiplication by zero"
+                ]
+              },
+              {
+                "Properties of integers under subtraction": [
+                  "Closure under subtraction",
+                  "Commutativity under subtraction"
+                ]
+              },
+              {
+                "Properties of integers under division": [
+                  "Closure Property",
+                  "Commutative Property",
+                  "Division by Zero",
+                  "Division by 1",
+                  "Associative property"
+                ]
+              }
+            ]
+          },
+          "Some problems using negative Integers"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Fractions, Decimals and Rational Numbers",
+        "topics": [
+          "Introduction",
+          "Proper and Improper fractions",
+          "Comparison of fractions",
+          {
+            "Multiplication of fractions": [
+              "Multiplication of a fraction by a whole number",
+              "Multiplication of a fraction with a fraction"
+            ]
+          },
+          {
+            "Division of fractions": [
+              "Division of whole number by a fraction",
+              "Reciprocal of a fraction (Multiplicative Inverse)",
+              "Division of a fraction by a whole number",
+              "Division of a fraction by another fraction"
+            ]
+          },
+          "Decimal numbers or Fractional decimals",
+          "Comparison of decimal numbers",
+          {
+            "Multiplication of decimal numbers": [
+              "Multiplication of decimal number by 10, 100, 1000 etc."
+            ]
+          },
+          {
+            "Division of decimal numbers": [
+              "Division by numbers like 10, 100, 1000 ......",
+              "Division of a decimal number by a whole number",
+              "Division of a decimal number by another decimal number"
+            ]
+          },
+          {
+            "Introduction to Rational numbers": [
+              "Positive fractional numbers",
+              "Negative fractional numbers",
+              "Rational Numbers",
+              "Comparing rational numbers"
+            ]
+          },
+          "Addition and Subtraction of Rational Numbers",
+          "Subtracting Rational Numbers",
+          "Looking back"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Lines and Angles",
+        "topics": [
+          "Introduction",
+          "Learning about Pairs of  Angles",
+          "Complementary Angles",
+          "Supplementary Angles",
+          "Adjacent Angles",
+          "Linear Pair",
+          "Vertically Opposite Angles",
+          "Transversal",
+          "Angles made by a transversal",
+          "Corresponding Angles",
+          "Interior and Exterior Alternate Angles",
+          "Interior Angles on the same side of the transversal",
+          "Transversal on parallel lines"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Triangle and its Properties",
+        "topics": [
+          "5.0 Introduction",
+          "5.1 Classification of triangles",
+          "Based on sides",
+          "Equilateral triangle",
+          "Isosceles triangle",
+          "Scalene triangle",
+          "Based on angles",
+          "Acute-angled triangle",
+          "Right-angled triangle",
+          "Obtuse-angled triangle",
+          "5.2 Relationship between the sides of a triangle",
+          "5.2.1 Sum of the lengths of two sides of a triangle",
+          "5.2.2 Difference between the lengths of two sides of a triangle",
+          "5.3 Altitudes of a triangle",
+          "5.4 Medians of a triangle",
+          "Centroid (G)",
+          "5.5 Properties of triangles",
+          "5.5.1 Angle-sum property of a triangle",
+          "5.5.2 Exterior angle of a triangle",
+          "Looking Back"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Ratio - Applications",
+        "topics": [
+          "6.0Introduction",
+          "6.1Ratio",
+          "6.2 Proportion",
+          {
+            "Proportion": [
+              "Extreme terms",
+              "Middle terms",
+              "Fourth proportional"
+            ]
+          },
+          "6.3  Rate",
+          "6.4 Unitary Method",
+          "6.5 Direct Proportion",
+          "6.6   Percentages",
+          "6.7 Some situations in which we use percentages",
+          "6.7.1 Profit and Loss",
+          "6.7.2 Discount",
+          "6.7.3 Simple Interest"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Data Handling",
+        "topics": [
+          "7.0 Introduction",
+          "7.1 Organising data",
+          "7.2  Representative Values",
+          "7.3.1 Arithmetic Mean or Average",
+          "7.3.2 Where does the mean lie?",
+          "7.3.3 A property of mean",
+          "7.4   Mode",
+          "7 . 5  Median",
+          "7.6 Presentation of data",
+          "7.6.1 Bar Graph",
+          "7.6.2 Double Bar Graph",
+          "7.6.3 Pie Charts",
+          "7.6.4 Drawing a pie chart"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Congruency of Triangles",
+        "topics": [
+          "8.0 Introduction",
+          "8.1 Congruency of line segments",
+          "8.2 Congruency of triangles",
+          "8.3Criterion for congruency of triangles",
+          {
+            "8.3.1 Side-Side-Side congruency (SSS)": [
+              "Side-Side-Side (SSS) criterion for congruence of triangles"
+            ]
+          },
+          "8.3.2 Side-Angle-Side Congruence (SAS)",
+          "Side-Angle-Side(SAS) criterion for congruence of triangles",
+          "8.3.3 Angle-Side-Angle congruency (ASA)",
+          "Angle-Side-Angle criterion of congruence",
+          "8.3.4 Right-Angle Hypotenuse Side congruence (RHS criterion)",
+          "Right-Angle Hypotenuse Congruence Criterion",
+          "Looking Back"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "CONSTRUCTION OF TRIANGLES",
+        "topics": [
+          "Introduction",
+          {
+            "Construction of a triangle when measurements of the three sides are given": [
+              "Draw a rough sketch",
+              "Draw a line segment",
+              "Draw arcs from the ends of line segment"
+            ]
+          },
+          {
+            "Construction of a triangle with two given sides and the included angle": [
+              "Draw a rough sketch",
+              "Draw a line segment",
+              "Draw a ray making an angle with the line segment",
+              "Draw an arc from end of line segment"
+            ]
+          },
+          {
+            "Construction of a triangle when two angles and the side between the angles is given": [
+              "Draw rough sketch",
+              "Draw line segment",
+              "Draw a ray making an angle at one end of line segment",
+              "Draw a ray making an angle at other end of line segment"
+            ]
+          },
+          {
+            "Construction of right-angled triangle when the hypotenuse and a side are given": [
+              "Draw a rough sketch",
+              "Draw a line segment",
+              "Construct a perpendicular",
+              "Draw an arc"
+            ]
+          },
+          {
+            "Construction of triangle when two sides and the non-included angle are given": [
+              "Draw rough sketch",
+              "Draw a line segment",
+              "Draw a ray making an angle",
+              "Draw an arc"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Algebraic Expressions",
+        "topics": [
+          "10.0Introduction",
+          "10.1 Algebraic Term and Numeric term",
+          "10.1.1 Like and unlike terms",
+          "10.2 Coefficient",
+          "10.3 Expressions",
+          "10.3.1 Numerical expressions and algebraic expressions",
+          "10.3.2 Types of algebraic expressions",
+          "10.4Degree of algebraic expressions",
+          "10.4.1 Degree of a monomial",
+          "10.4.2 Degree of constant terms",
+          "10.4.3 Degree of algebraic expressions",
+          "10.5 Addition and subtraction of like terms",
+          "10.5.1 Addition and subtraction of unlike terms",
+          "10.6  Simplification of an algebraic expression",
+          "10.7  Standard form of an expression",
+          "10.8 Finding the value of an expression",
+          "10.9 Addition of algebraic expressions",
+          "10.9.1 Addition of Expressions",
+          "Column or Vertical Method",
+          "Row or Horizontal Method",
+          "10.9.2 Subtraction of algebraic expressions",
+          "10.9.2(a)Additive inverse of an expression",
+          "10.9.2(b) Subtraction",
+          "Column or Vertical Method",
+          "Row or Horizontal Method"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Powers and EXPONENTS",
+        "topics": [
+          "11.0 Introduction",
+          "11.1 Exponential Form",
+          "11.1.1 Exponents with other bases",
+          "Squared and cubed",
+          "11.2 Writing a number in exponential form through prime factorization.",
+          "11.3 Laws of exponents",
+          "11.3.1 Multiplying terms with the same base",
+          "11.3.2 Exponent of exponent",
+          "11.3.3 Exponent of a product",
+          "11.3.4 Division of exponents",
+          "11.3.4(a) Negative exponents",
+          "11.3.4(b) Zero exponents",
+          "11.3.4(c) Division of exponents having the same base",
+          "11.3.4(c) Dividing terms with the same exponents",
+          "11.3.5 Terms with negative base",
+          "11.3.6 Expressing large numbers in standard form",
+          "Looking Back"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Quadrilaterals",
+        "topics": [
+          "12.0 Quadrilateral",
+          "12.1 Interior-Exterior points of a quadrilateral",
+          "12.2 Convex and Concave quadrilateral",
+          "12.3Angle-sum property of a quadrilateral",
+          "12.4  Types of quadrilaterals",
+          "12.4.1 T rapezium",
+          "12.4.2 Kite",
+          "12.4.3 Parallelogram",
+          {
+            "12.4.3(a) Properties of a parallelogram": [
+              "Sides of parallelogram",
+              "Angles of a parallelogram"
+            ]
+          },
+          "12.4.3 (b) Diagonals of parallelogarm",
+          "12.4.4 Rhombus",
+          "12.4.5 Rectangle",
+          "12.4.6 Square",
+          "12.5   Making figures with a tangram."
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Area and Perimeter",
+        "topics": [
+          "13.0 Introduction",
+          {
+            "Area of a parallelogram": [
+              "Area of parallelogram  =  Area of rectangle",
+              "Area of parallelogram  = base × height"
+            ]
+          },
+          "13.2 Area of triangle",
+          {
+            "13.2.1 Triangles are parts of rectangles": [
+              "the area of each triangle =  1/2 × (area of rectangle)"
+            ]
+          },
+          {
+            "13.2.2 Triangles are parts of parallelograms": [
+              "Area of each triangle = 1/2 × (area of parallelogram)",
+              "Area of triangle = 1/2 × (base × height)"
+            ]
+          },
+          "13.3  Area of a rhombus",
+          {
+            "Area of rhombus ABCD": [
+              "Area of rhombus ABCD = (area of 'ACD) + (area of 'ACB)",
+              "Area of rhombus ABCD = 1/2 * d1 * d2"
+            ]
+          },
+          "13.4 Circumference of a circle",
+          "13.5 Rectangular Paths"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Understanding 3D and 2D Shapes",
+        "topics": [
+          "Introduction",
+          "Nets of 3-D shapes",
+          "Drawing solids on a flat surface",
+          {
+            "Drawing solids on a flat surface": [
+              "Oblique Sketches",
+              "Isometric Sketches"
+            ]
+          },
+          "Visualising solid objects",
+          {
+            "Visualising solid objects": [
+              "Viewing different sections of a solid"
+            ]
+          },
+          {
+            "Viewing different sections of a solid": [
+              "One way to view an object is by cutting or slicing the object",
+              "Another Way is by Shadow Play"
+            ]
+          },
+          "Looking Back"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Symmetry",
+        "topics": [
+          "15.0Introduction",
+          "15.1Line Symmetry",
+          "15.1.1 Lines of symmetry for regular polygons",
+          "15.2Rotational Symmetry",
+          "15.2.1 Angle of Rotational Symmetry",
+          "15.2.2 Order of rotational symmetry",
+          "15.3  Line symmetry and rotational symmetry"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 8,
+    "subject": "math",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Rational Numbers",
+        "topics": [
+          "1.0 Introduction",
+          "Rational Numbers",
+          "1.1  Operations on Rational numbers",
+          "1.1.1 Multiplication of Rational Numbers",
+          "1.1.2 Division of Rational Numbers",
+          "1.2Properties of Rational numbers",
+          "1.2.1 Closure property",
+          {
+            "Numbers Operations": [
+              "Addition",
+              "Subtraction",
+              "Multiplications",
+              "Division"
+            ]
+          },
+          "1.2.2  Commutative Property",
+          "The commutative property states that",
+          "1.2.3 Associative Property",
+          "The associative property states that",
+          "1.2.4 The Role of Zero",
+          "1.2.5 The Role of  1",
+          "1.2.6 Existence of Inverse",
+          "Additive inverse",
+          "Multiplicative inverse",
+          "1.3 Distributivity of multiplication over addition",
+          "This property is called the distributive law of multiplication over addition.",
+          "This property is called the distributive law over subtraction.",
+          "Example 1: Simplify",
+          "Example 2: Write the additive inverses of each of the following rational numbers.",
+          "Example 3 : Find",
+          "Example  4: Find the product of  the reciprocals of",
+          "1.4 Representation of Rational numbers on Number line",
+          "Example 5:  Identify the rational numbers  shown as  A  and  B that are marked on the following number line.",
+          "Example 6: Represent",
+          "Example 7: Represent",
+          "1.5     Rational Number between Two Rational Numbers",
+          "Another Method :",
+          "Example 8: Write any five rational numbers between −3 and 0.",
+          "1.6    Decimal representation of Rational numbers",
+          "Non terminating recurring decimals",
+          "1.7Conversion of decimal form into rational form",
+          "1.7.1 Converting terminating decimal  into rational form",
+          "Example 9: Express each of the following decimals in the  p/q  form",
+          "1.7.2 Converting a non-terminating recurring decimal into rational form",
+          "Example 10: Express each of the following decimal numbers in the rational form.",
+          "Example 11: Express the mixed recurring decimal",
+          "What we have discussed"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Linear Equations in One Variable",
+        "topics": [
+          "2.0 Introduction",
+          "(i) An algebraic equation is equality of algebraic expressions involving variables and constants",
+          "(ii) It has an equality sign",
+          "(iii) The expression on the left of the equality sign is called the L.H.S (Left Hand Side) of the equation",
+          "(iv) The expression on the right of the equality sign is called R.H.S (Right Hand Side) of the equation",
+          "(v) In an equation, the values of LHS and RHS are equal.",
+          "2.1 Linear Equations",
+          "2.2 Simple equations or Linear equations in one variable",
+          "2.3 Solving Simple equation having the variable on one side",
+          "Example 1 : Solve the equation  3 y + 39 =8",
+          "Example 2 : Solve  7p114−=",
+          "2.3.1 Some Applications",
+          "Example 3: If  l || m , find the value of ‘ x’?",
+          "Example 4 : Sum of two numbers is 29 and one number exceeds another by 5. Find the numbers.",
+          "Example 5: Four times a number reduced by 5 equals 19.  Find the number.",
+          "Example 6: The length of a rectangle shaped park exceeds its breadth by 17 meters.  If the perimeter of the park is 178 meters find the dimensions of the park?",
+          "Example 7: Two supplementary angles differ by 34.  Find the angles",
+          "Example 8 : The present age of Vijaya’s mother is four times the present age of Vijaya. After 6 years the sum of their ages will be  62 years.  Find their present ages.",
+          "Example 9  : There are 90 multiple choice questions in a test. Two marks  are awarded for every correct answer and one mark is deducted for every wrong answer . If Sahana got 60 marks in the test while she answered all the questions,then how many questions did she answer correctly?",
+          "Example 10 : Ravi works as a  cashier in a bank.  He has currency of denominations  ` 100, ` 50, ` 10 respectively.  The ratio of number of these notes is 2 : 3 : 5.  The total cash with Ravi is` 4,00,000. How many notes of cash of each denomination does he have?",
+          "2.4 Solving equation that has variables on both the sides",
+          "Example 11 :The present ages of Rafi and Fathima are in the ratio 7 : 5.  Ten years later the ratio of their ages will be 9 : 7.  Find their present ages?",
+          "Example 12: Solve 5 ( x + 2) − 2 (3 − 4x) = 3 ( x + 5) − 4 (4 − x)",
+          "2.4.1 Some more applications",
+          "Example 13: In the figure   l || m, and  p a transversal find the value of ‘ x’?",
+          "Example 14 : Hema is 24 years older than her daughter Dhamini.  6 years ago, Hema was thrice as old as Dhamini.  Find their present ages.",
+          "Example 15: In a two digit number the sum of the two digits is 8. If 18 is added to the number its digits are reversed.  Find the number.",
+          "Example 16: A motorboat goes down stream in a river and covers the distance between two coastal towns in five hours.  It covers this distance upstream in sixhours.  If the speed of the stream is 2 km/hour find the speed of the boat in still water.",
+          "2.5 Reducing Equations",
+          "Example 17 : Solve  −=+112432xx",
+          "Example 18: Solve 443757xx x−+ +−=",
+          "Example 19: Solve the equation   52 1 2237x x+=+————(1)",
+          "Method of cross multiplication",
+          "Example 20: Solve the equation  7431 6 7x x+=+",
+          "Example 21: Rehana got 24% discount on her frock. She paid ` 380 after discount. Find the marked price of the frock.",
+          "Example 22: Four fifths of a number is greater than three fourths of the number by 4.  Find the number.",
+          "Example 23: John sold his watch for ` 301 and lost 14% on it.  Find the cost price of the watch.",
+          "Example 24: A man had to walk a certain distance.  He covered  two thirds of it at 4kmph and the remaining at 5 kmph. If the total time taken is  42 minutes, find the total distance.",
+          "Example 25: The numerator of a fraction is 6 less than the denominator.  If 3 is added to the numerator ,the fraction is equal to 23, find the original fraction",
+          "Example 26: Sirisha has ` 9 in fifty-paisa and twenty five paise coins.  She has twice as many twentyfive paise coins as she has fifty paise coins. How many coins of each kind does she have?",
+          "Example 27: A man driving his moped at 24 kmph reaches his destination 5 minutes late to an appointment.  If he had driven at 30 kmph he would have reached his destination4 minutes before time.  How far is his destination?"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Construction of Quadrilaterals",
+        "topics": [
+          "3.0 Introduction",
+          "3.1 Quadrilaterals and their Properties",
+          "3.2 Constructing a Quadrilateral",
+          "3.2.1  Construction : When the lengths of four sides and one angle are given (S.S.S.S.A)",
+          "3.2.2  Construction : When the lengths of four sides and a diagonal is given (S.S.S.S.D)",
+          "3.2.3 Construction: When the lengths of three sides and two diagonals are given (S.S.S.D.D)",
+          "3.2.4 Construction : When the lengths of two adjacent sides and three angles areknown (S.A.S.A.A)",
+          "3.2.5  Construction :When the lengths of three sides and two included angles are given (S.A.S.A.S)",
+          {
+            "3.2.6  Construction of Special types Quadrilaterals": [
+              "(a) Construction of a Rhombus :"
+            ]
+          },
+          "What we have discussed"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Exponents and Powers",
+        "topics": [
+          "4.0 Introduction",
+          "4.1Powers with Negative Exponents",
+          "4.2 Laws of Exponents",
+          "Example 1: Find the value of   (i)  5−2(ii)  51\n2− ( iii)  ( −5)2",
+          "Example 2 : Simplify  the following\n(i) (−5)4 × (−5)−6   (ii)  7\n44\n4     (iii)   55\n6\n333\n3− ⎛⎞×⎜⎟⎝⎠",
+          "Example 3: Express each of the following with positive exponents.\n(i)  4−7(ii)  41\n(5)− (iii)  34\n7−⎛⎞\n⎜⎟⎝⎠(iv)  4\n67\n7−\n−",
+          "Example 4 : Express 27−4 as a power with base 3",
+          "Example 5 : Simplify\n(i)  3 1227− ⎛⎞× ⎜⎟⎝⎠(ii)   44 × 16−2 × 40",
+          "Example 6: Guess the value of ‘ x’ when 2 x =1",
+          "Example 7 : Find the value of ‘ x’ such that\n(i)  25 × 5x  = 58(ii)  1\n49× 72x  = 78\n(iii) (36)4 = 3 12 x(iv) ( −2)x +1 × ( −2)7 = (−2 )12",
+          "Example 8 : Simplify 3 22 25\n5 4− ⎛ ⎞ ⎛ ⎞×⎜ ⎟ ⎜ ⎟⎝  ⎝ ",
+          "Example 9 : Simplify 3 3 21 1 1\n3 2 5                      ",
+          "Example 10  : If   x =  2 43 2\n2 3   ×        find the value of x2",
+          "4.3 Application of Exponents to Express numbers in Standard Form",
+          "4.4 Comparing very large and very small numbers",
+          "Example 11 : Express the following in the usual form.\n(i)  4.67 ×104(ii)  1.0001 × 109(iii)  3.02 × 10−6"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Comparing quantities using Proportion",
+        "topics": [
+          "5.0 Introduction",
+          "Compound Ratio",
+          "Percentage:",
+          "5.1 Finding the increase or decrease percent",
+          "5.2 Finding discounts",
+          "5.3 Estimation in percentages",
+          "5.4 Profit and Loss",
+          "5.5 Sales Tax / Value Added Tax (VAT)",
+          "5.6 Goods and Service Tax (GST)",
+          "5.7 Compound Interest",
+          "5.8 Deducing a formula for Compound interest",
+          "5.9 Interest compounded annually or Half yearly (Semi Annually)",
+          "5.10  Application of Compound Interest formula",
+          "What we have discussed",
+          "Addition of Equal Ratios"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Square Roots and Cube Roots",
+        "topics": [
+          "6.0  Introduction",
+          "Observe the following perfect square numbers",
+          "Perfect square :  A rational number that is equal to the square of another rational number.",
+          "Square number : An integer that is a square of another integer.",
+          "6.1   Properties of square numbers",
+          "“The numbers that have 2, 3, 7 or 8 in the units place are not perfect squares.”",
+          "We observe that if a number has 1 or 9 in the units place, then the units digit in its square number\nis only 1.",
+          "If a number has 4 or 6 in the units place, then the units digit in its square is  always 6.",
+          "6.2  Interesting patterns in square",
+          "From this, we can generalize that the sum of first ‘n’ odd natural numbers is equal  to ‘n2’.",
+          "These numbers are called palindromic numbers or numerical palindrome.",
+          "From the following pattern find the missing numbers",
+          "Find the missing numbers using the given pattern",
+          "Integers between successive square numbers",
+          "With the help of the above table, try to find the number of non square numbers between n2\nand                 (n + 1)2.",
+          "There are ‘2n’ non square numbers between  n2 and (n + 1)2.",
+          "6.3 Pythagorean triplets",
+          "Generally a, b, c are three positive integers. If a2 + b2 = c2 then (a, b, c) are said to be\npythagorean triplet.",
+          "If there are no common factors other than ‘1’ among  a,b,c then the triplet (a,b,c) is called\nprimitive triplet.",
+          "6.4   Square Roots",
+          "If the area of a square is 169 cm2. What could be the side of the square?",
+          "Therefore, if a square number is expressed, as the product of two equal factors, then one thefactors is called the square root of that square number. Thus, the square root of 169 is 13.  It can\nbe expressed as 169 = 13 (symbol used for square root is ). Thus it is the inverse operation\nof squaring.",
+          "If y2 = x then square root of x is y  ()xy=",
+          "6.5   Finding the Square root through subtraction of successive odd numbers",
+          "Finding square root is the reverse order of this pattern.",
+          "Note: If the result of this process is not zero then the given number is not a perfect square.",
+          "There  are two methods of finding the square root of the given numbers. They are\n(i) Prime factorization method(ii) Division method",
+          "6.6\nFinding the Square Root Through Prime Factorisation Method",
+          "6.7  Finding square root by division method",
+          "6.8  Square root of decimal numbers using division method",
+          "6.9   Estimating square roots of non perfect square numbers",
+          "6.10 Cubic Numbers",
+          "These numbers 1, 8, 27, 64 …… are called cubic numbers or perfect cubes.",
+          "6.11 Some interesting patterns",
+          "1. Adding consecutive odd numbers",
+          "Consider the following pattern",
+          "Observe the following pattern and complete it",
+          "Hence we can generalize that the sum of the cubes of first ‘n’  natural numbers is\nequal to the square of their sum.\ni.e.  13  +  23 + 33 + ……… + n3 =  (1 + 2 + 3 +.... + n)2.",
+          "6.12 Cubes and their Prime Factors",
+          "Thus, if a number can be expressed as a product of three equal factors then it is said to be a\nperfect cube or cubic number.",
+          "6.13  Cube roots",
+          "Therefore, finding\nthe number whose cube is known is called finding the cube root.\nIt is the inverse operation of cubing.",
+          "As, 43 =  64 then 4 is called cube root of  64. We write   364 4=.  The symbol  3 denotes cube root.\nHence, a number ‘ x’ is the cube root of another number y, if y = x3 then  x = 3y.",
+          "6.14   Finding cube root through Prime Factorization method",
+          "6.15 Estimating the cube root of a number"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Frequency Distribution Tables and Graphs",
+        "topics": [
+          "7.0 Introduction",
+          "Information",
+          "Data",
+          "Frequency Distribution",
+          "7.1 Basic measures of central tendency",
+          "7.1.1 Arithmetic Mean",
+          {
+            "Arithmetic mean of x1, x2, x3, x4, . . . . . . . xn": [
+              "Arithmetic mean =+++ … … … +123 n",
+              "Nx xx x",
+              "x=∑",
+              "Nix"
+            ]
+          },
+          "7.1.2 Arithmetic Mean by Deviation Method",
+          {
+            "Arithmetic mean = Estimated mean + Average of deviations": [
+              "Arithmetic mean = Estimated mean + Sum of deviations",
+              "Number of observations",
+              "x  = A + −∑(A )",
+              "Nix"
+            ]
+          },
+          "7.1.3 Median",
+          {
+            "When n is odd": [
+              "th1",
+              "2n+",
+              "observation is the median."
+            ]
+          },
+          {
+            "When n is even": [
+              "arithmetic mean of two middle observations  th",
+              "2n",
+              "and th",
+              "1",
+              "2n",
+              "+ is the\nmedian of the data."
+            ]
+          },
+          "7.1.4 Mode",
+          "7.2 Organisation of Grouped Data",
+          "‘class intervals’",
+          "‘inclusive form’",
+          "‘lower limit’",
+          "‘upper limit’",
+          "7.2.1 Interpretation of Grouped frequency distribution",
+          "7.2.2 Limits and Boundaries",
+          {
+            "Average of Upper Limit (UL) of first class and Lower Limit\n(LL) of second class becomes the Upper Boundary (UB) of\nthe first class and Lower Boundary (LB) of the second class.": [
+              "i.e.,  Average of  10, 11; 10 11",
+              "2+",
+              "= 10.5 is the boundary."
+            ]
+          },
+          "Difference between upper and lower boundaries of a class is called ‘ length of the class ’,\nrepresented by ‘C’.",
+          "7.2.3 Construction of grouped frequency Distribution",
+          "Step1: Find the range of the data.",
+          "Range =  Maximum value – Minimum value",
+          "Step2: Decide the number of class intervals.",
+          "Step 3: Write inclusive class intervals starting from minimum value of observations.",
+          "Step 4: Using the tally marks distribute the observations of the data into respective class\nintervals.",
+          "Step 5: Count the tally marks and write the frequencies in the table.",
+          "7.2.4   Characteristics of Grouped Frequency Distribution",
+          "‘class intervals’",
+          "‘class mark’ or ‘mid value’ ( x)",
+          "7.3  Cumulative Frequency",
+          "‘Greater than\nCumulative Frequency’ (G.C.F.).",
+          "Greater than Cumulative Frequency Distribution",
+          "Less thanCumulative Frequency (L.C.F.).",
+          "Less than Cumulative\nFrequency Distribution",
+          "7.4   Graphical Representation of Data",
+          "7.4.1 Bar Graph",
+          "7.5  Graphical Representation of Grouped Frequency Distribution",
+          "7.5.1 Histogram",
+          "7.5.1.1 Interpretation of Histogram",
+          "7.5.1.2  Construction  of a Histogram",
+          "7.5.1.3 Histogram with Varying Base\nWidths",
+          {
+            "Frequency Density": [
+              "Frequency of class× Least class length",
+              "Length of that class"
+            ]
+          },
+          "7.5.1.4  Histogram for grouped frequency distribution with class marks",
+          "7.5.2 Frequency Polygon",
+          "7.5.2.1 Interpretation of Frequency Polygon",
+          "7.5.2.2 Construction of a Frequency Polygon",
+          "7.5.2.3  Characteristics of a Frequency Polygon:",
+          "7.5.2.4   Construction of a Frequency Polygon for a grouped frequency distribution\n  (without using histogram):",
+          "7.5.3  Frequency Curve for a grouped frequency distribution",
+          "7.5.4  Graph of a Cumulative Frequency Distribution",
+          "CumulativeFrequency Curve or Ogive Curve",
+          "7.5.4.1  Less than Cummulative frequency curve"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Exploring Geometrical Figures",
+        "topics": [
+          "8.0  Introduction",
+          "8.1  Congruency",
+          "8.1.1 Congruency of shapes",
+          "Flip",
+          "Rotation",
+          "Do This",
+          "(a) We know that two line segments are congruent if they have same lengths.",
+          "(b) Two angles are congruent if they have same measure.",
+          "(c) Two triangles ΔABC and ΔPQR are congruent if their corresponding sides and angles are equal.",
+          "If two polygons are congruent then their corresponding sides are equal and corresonding angles are equal. Thus the two geometrical shapes are said to be congruent if they coincide with each other exactly.",
+          "Do This",
+          "8.1.2 Similar shapes",
+          {
+            "Do This": [
+              "1. Identify the out line figures which are similar to the first figure."
+            ]
+          },
+          "Here all the corresponding angles are right angles and are equal.Hence we conclude that “two polygons are similar if their corresponding angles are congruent and lengths of corresponding sides are proportional”.",
+          "8.1.3 Where do we find the application of similarity?",
+          "Checking the similarity",
+          "Example 1: In the adjacent figure Δ ABC ~ Δ PQR, and  053C∠= . Find the side PR and ∠P.",
+          "Example 2: Draw two squares of different sides. Can you say they are similar? Explain.",
+          "Example 3: Jagadeesh tried to estimate the height of a tree by covering the height with a vertical scale holding it at a distance of 50 cm from his eyes along horizontal lineas shown in the figure. If the scale measurement of the tree is 15 cm and distance of the tree from Jagadeesh is 50 m. Find the actual height of the tree.",
+          "8.2  Dilations",
+          {
+            "Do This": [
+              "1. Draw a triangle on a graph sheet and draw its dilation with scale factor 3.",
+              "2. Draw a square on a graph sheet and draw its dilations with scale factor 4 and 5."
+            ]
+          },
+          "8.2.1 Constructing a Dilation",
+          "Example 4: Construct a dilation with scale factor 2 of a triangle using only a ruler and compasses.",
+          "8.3  Symmetry",
+          "Do These",
+          "We call this symmetry as ‘Reflection symmetry’ or ‘Mirror symmetry’.",
+          "8.3.1 Rotational symmetry",
+          "8.3.2  Point symmetry",
+          {
+            "Try These": [
+              "1. Identify which of the following have point symmetry.",
+              "2. Which of the above figures have line of symmetry?",
+              "3. What can you say about the relation between line symmetry and point symmetry?"
+            ]
+          },
+          "8.3.3 Applications of symmetry",
+          "This is called tessellation."
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Area of Plane Figures",
+        "topics": [
+          "9 . 0 Introduction",
+          "9.1  Area of a Trapezium",
+          "9 . 2 Area of a Quadrilateral",
+          "9.3 Area of Rhombus",
+          "9.4    Surveying the field",
+          "9.5    Area of a Polygon",
+          "9.6 Area of circle",
+          "9 . 7 Area of a Circular Path or Area of a ring",
+          "9.8   Length of the arc",
+          "9.9  Area of Sector",
+          {
+            "What  we have discussed": [
+              "Area of a trapezium =  1/2 (Sum of the lengths of parallel sides) × (Distance between them)",
+              "Area of a quadrilateral = 1/2 × length of a diagonal × Sum of the lengths of the perpendiculars from the remaining two vertices on the diagonal)",
+              "Area of a rhombus = Half of the product of diagonals.",
+              "Area of a circle = πr²where ‘r’ is the radius of the circle.",
+              "Area of a circular path (or) Area of a Ring = π(R²- r²) or π(R + r) (R-r) where R, r are radii of outer circle and inner circle respectively.",
+              "Area of a sector = (x°/360) × πr² where x° is  the angle subtended by the arc of the sector at the center of the circle and r is radius of the circle.",
+              "A = (lr)/2. Where l - length of the arc, r - radius of the circle"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Direct and Inverse Proportions",
+        "topics": [
+          "10.0 Introduction",
+          "10.1 Direct Proportion",
+          {
+            "Do These": [
+              "1.",
+              "2.",
+              "3.",
+              "4."
+            ]
+          },
+          "Example1",
+          "Example 2",
+          "Example 3",
+          "Example 4",
+          "Example 5",
+          "Do This",
+          "Project work",
+          "10.2 Inverse Proportion",
+          {
+            "Do These": [
+              "1.",
+              "2."
+            ]
+          },
+          "Example 6",
+          "Example 7",
+          "Example 8",
+          "Example 9",
+          "10.3 Compound Proportion",
+          "Example 10",
+          "Example 11",
+          "Example 12",
+          "What we have discussed",
+          "Diffy with fractions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Algebraic Expressions",
+        "topics": [
+          "11.0  Introduction",
+          "Expressions that contain exactly one, two and three terms are called monomials , binomials and trinomials respectively. In general, any expression containing one or more terms with non-zero coefficients is called a multinomial .",
+          "11.1   Like and unlike terms",
+          "11.2    Addition and subtraction of algebraic expressions",
+          "11.3   Multiplication of Algebraic Expressions",
+          "11.4   Multiplying a monomial by a monomial",
+          "11.4.1 Multiplying two monomials",
+          "11.4.2 Multiplying three or more monomials",
+          "11.5   Multiplying a binomial or trinomial by a monomial",
+          "11.5.1 Multiplying a binomial by a monomial",
+          "11.5.2 Multiplying a trinomial by a monomial",
+          "11.6   Multiplying a binomial by a binomial or trinomial",
+          "11.6.1 Multiplying a binomial by a binomial",
+          "11.6.2 Multiplying a binomial by a trinomial",
+          "11.7   What is an identity?",
+          "11.8   Some important Identities",
+          "11.9   Application of Identities",
+          "11.10   Geometrical Verification of  the identities",
+          "11.10.1Geometrical Verification of the identity ( a + b) 2 ≡ a2 + 2ab + b2",
+          "11.10.2 Geometrical Verification of  the identity ( a - b) 2 ≡ a2 −−−−− 2ab + b2",
+          "11.10.3 Geometrical Verification of the identity (a + b)(a – b) ≡ a2 −−−−− b2"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Factorisation",
+        "topics": [
+          "12.0   Introduction",
+          "12.1 Factors of algebraic expressions",
+          "12.2   Need of factorisation",
+          "12.3  Method of common factors",
+          "12.4   Factorisation by grouping the terms",
+          "12.5   Factorisation using identities",
+          "12.6 Factors of the expression in the form of (x + a) (x + b) = x2 + (a + b)x + ab",
+          "12.7   Division of algebraic expressions",
+          "12.8   Division of a monomial by another monomial",
+          "12.9  Division of an expression by a monomial",
+          "12.10 Division of Expression by Expression"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Visualising 3-D in 2-D 13CHAPTER",
+        "topics": [
+          "13.0   Introduction",
+          "13.1   3-D Objects made with cubes",
+          "13.2   Representation of 3-D figures on 2-D",
+          "13.3   Various Geometrical Solids",
+          "13.4   Faces, Edges and Vertices of 3D-Objects",
+          "13.5  Regular Polyhedron",
+          "13.5.1 Prism and Pyramid",
+          "A. Triangular Prism",
+          "B. Triangular Pyramid",
+          "13.6   Number of Edges , Faces and Vertices of polyhedrons",
+          "13.7   Net Diagrams"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Surface Areas And Volume (Cube and Cuboid)",
+        "topics": [
+          "14.0 Introduction",
+          "14.1 Cuboid",
+          "Total surface area =  2 ( lb + bh + hl)",
+          "14.1.2 Lateral Surface Area",
+          "Hence, the Lateral Surface Area of a cuboid (L.S.A.) =   2h (l + b)",
+          "14.2 Cube",
+          "(a) How many faces does a cube have?  Are all faces equal?",
+          "(b) If each side of the cube is l, what will be the area of each face?",
+          "(c) What is the total surface area of the cube?",
+          "(d) What is the lateral surface area of cube?",
+          "Example 1: Find the surface area of a cuboid whose length, breadth and height are 15cm, 12cm and 10cm respectively.",
+          "Example 2 : If each edge of a cube is doubled. How many times will its surface area increase?",
+          "Example 3: Two cubes each of edge 6 cm are joined face to face.",
+          "Find the surface area of the cuboid thus formed.",
+          "Example 4: Find the cost of painting of the outer surface of a closed box which is 60 cm long, 40 cm broad and 30 cm high  at the rate of 50 paise per 20cm2",
+          "14.3 Volume of Cube and Cuboid",
+          "14.3.1 Volume of a Cuboid",
+          "volume of cuboid = l × b × h",
+          "V olume of cuboid = Area of the base × height",
+          "14.3.2 Vollume of a Cube",
+          "So V olume of a cube =  side × side × side",
+          "=  (side)3 = a3 where ' a' is the side of the cube.",
+          "1 cm3=1  m l",
+          "1000 cm3=1  l",
+          "1 m3= 1000000 cm3 = 1000 l",
+          "=1  k l (kilolitre)",
+          "Example 5: Find the volume of a block of wood whose length is 20cm, breadth is 10 cm and height is 8 cm.",
+          "Example 6: A water tank is 1.4 m long, 1m wide and 0.7m deep. Find the volume of the tank in litres.",
+          "Example 7: Find the volume of a cuboid whose breadth is half of its length and height is double the length.",
+          "Example 8: A box is 1.8 m long, 90 cm wide, 60 cm height. Soap cakes of measurements 6 cm × 4.5 cm × 40 mm are to be packed in the box, so that no space is left.Find how many cakes can be packed  in each box?",
+          "Example 9: How many cubes of side 3 cms each can be cut from wooden block in the form of a cuboid whose length, breadth and height are 21 cm, 9 cm and 8cm respectively. How much volume of wood is wasted?",
+          "Example 10: Water is poured into a cuboidal reservoir at the rate of 60 litres per minute. If the volume of reservoir is 108 m3.  Find the number of hours it will take to fill the reservoir.",
+          "Example 11 :  A village has a population of 4000, requires 150 litres water per head per day. It has a tank measuring 20 m , 15 m ,  6 m. How many days for the water is sufficient enough once the tank is made full?"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Playing with Numbers",
+        "topics": [
+          "15.0   Introduction",
+          "15.1  Divisibility Rules",
+          "15.1.1 Place value of a digit",
+          "15.1.2 Expanded form of numbers",
+          "15.1.3 Factors and Multiples of numbers",
+          "15.1.4 Divisibility  by 10",
+          "15.1.5 Divisibility  by 5",
+          "15.1.6 Divisibility  by 2",
+          "Example 1:  Write the number of factors of 60 and verify by listing the factors",
+          "15.1.7 Divisibility  by 3 and 9",
+          "Example 2: 24 P  leaves remainder 1 if it is divided by 3 and leaves remainder 2 if it is\ndivided  by 5. Find the value of P.",
+          "15.1.8 Divisibility by 6",
+          "15.1.9 Divisibility by 4 and  8",
+          "Example 3: Check whether   6582 is divisible by  4 ?",
+          "Example 4: Check whether  28765432 is divisible by  8 ?",
+          "15.1.10  Divisibility by 7",
+          "Example 5: Check whether  364 is divisible by  7 or not ?",
+          "15.1.11  Divisibility by 11",
+          "15.2  Some More Divisibility Rules",
+          "15.3  Puzzles based on divisibility rules",
+          "15.4   Fun with  3- Digit Numbers",
+          "15.5   Puzzles with missing digits",
+          "The three conditions for the puzzles.",
+          "Example 6:  Find  A in the addition",
+          "Example 7 : Find   M and Y  in the addition",
+          "Example 8: In A2 − 15  =  5A,  A2 and 5A are two digit numbers, then find A",
+          "Example 9: In 5A1 − 23 A = 325,  5A1 and 23A are three digit numbers, then find A",
+          "Example 10: In 1A  A = 9A, 1A and 9A are two digit numbers. Find A A",
+          "Example 11 : In BA  B3 = 57A.  BA, B3 are two digit numbers and 57A is a 3 digit\nnumber. Then find A and B.",
+          "Example 12: Find the value of the letters in the given multiplication.",
+          "15.6 Finding of divisibility by taking remainders of place values",
+          "15.7   Some more puzzles on divisibility rules",
+          "Example 13: Is every even number of palindrome is divisible by ’11’ ?",
+          "Example 14: Is 101000-1 divisible  by  both  9 and 11?",
+          "Example 15: Take any two digit number three times  to  make a  6-digit number. Is  it\ndivisible by 3 ?",
+          "Example 16: Take any three digit number and write it two times to make a 6-digit number.\nVerify whether it is  divisible by both 7 and  11.",
+          "Example 17: Take a three digit number in which all digits are same.  Divide the number\nwith reduced  number. What do you notice?",
+          "Example 18: Is 23 + 33 is divisible by (2 + 3) or not?",
+          "15.8   Finding Sum of Consecutive numbers",
+          "Example 19: Find the sum of integers which are divisible by 5 from 50 to 85.",
+          "Example 20: Find the sum of integers from 1 to 100 which are divisible by 2 or 3.",
+          "What we have discussed"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 9,
+    "subject": "math",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "REAL NUMBERS",
+        "topics": [
+          "1.1 INTRODUCTION",
+          "Representing  5/3 and -5/3 on the number line",
+          "Finding two rational numbers between 3 and 4 by mean method",
+          "Writing 7/16, 10/7 and 2/3 in decimal form",
+          "Express 3.28 in the form of p/q",
+          "Express 1.62 in p/q form",
+          "1.2  IRRATIONAL  NUMBERS",
+          "Locate  2 on number line",
+          "Locate 3 on the number line",
+          "1.3   REAL NUMBERS",
+          "Find any two irrational numbers between  1/5 and 2/7",
+          "Find an irrational number between 3 and 4",
+          "Examine, whether the following numbers are rational or irrational",
+          "ACTIVITY",
+          "REPRESENTING  REAL NUMBERS ON THE NUMBER LINE THROUGH  SUCCESSIVE  MAGNIFICATION",
+          "Visualise the representation of  3.58 on the number line through successive magnification upto 4 decimal places",
+          "1.5    OPERATIONS  ON REAL NUMBERS",
+          "Check whether (i) 5+ 2 (ii)5/2 (iii) 21+ 3 (iv) 3+π are irrational numbers or not?",
+          "Subtract  5 3 +7 5 from 3 5 -7 3",
+          "Multiply 6 3 with  13 3",
+          "Simplify the following expressions",
+          "Find the square root of  5+2 6",
+          "1.5.1Rationalising the Denominator",
+          "Rationalise the denominator of  1/4+ 5",
+          "If  x = 7+4 3  then find the value of  1/x + x",
+          "Simplify   1/ 7+ 4 3 + 1/ 2+ 5",
+          "1.5.2Law of Exponents for real numbers",
+          "Simplify",
+          "Surd"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "POLYNOMIALS  AND FACTORISATION",
+        "topics": [
+          "2.1   INTRODUCTION",
+          "2.2   POLYNOMIALS  IN ONE VARIABLE",
+          "2.3   DEGREE OF THE POLYNOMIAL",
+          {
+            "Types of polynomials according to degree": [
+              "Zero polynomial",
+              "Constant polynomial",
+              "Linear polynomial",
+              "Quadratic polynomial",
+              "Cubic polynomial"
+            ]
+          },
+          {
+            "Types of polynomials according to number of terms": [
+              "Monomial",
+              "Binomial",
+              "Trinomial",
+              "Multinomial"
+            ]
+          },
+          "2.4 (a)  ZEROES OF A POLYNOMIAL",
+          "2.4 (b)   ZERO OF THE LINEAR POLYNOMIAL  IN ONE VARIABLE",
+          "2.5   DIVIDING POLYNOMIALS",
+          "Example-6. Divide 3x2 + x  1  by x + 1.",
+          "Remainder  Theorem :",
+          "2.6  FACTORISING  A POLYNOMIAL",
+          "Factor Theorem :",
+          "Example-15. Factorise  3 x2 + 11x + 6",
+          "2.7   ALGEBRAIC  IDENTITIES",
+          "Identity I :  ( x + y)2  x2 + 2xy + y2",
+          "Identity II : ( x  y)2  x2  2xy  + y2",
+          "Identity III : ( x + y) (x  y)  x2  y2",
+          "Identity IV : ( x + a)(x + b)  x2 + (a + b)x + ab.",
+          "Identity  V :  (x + y + z)2  x2 + y2 + z2 + 2xy + 2yz + 2zx",
+          "Identity  VI : ( x + y)3  x3 + y3 + 3xy (x + y).",
+          "Identity  VII : ( x  y)3  x3  y3  3xy (x  y).",
+          "Identity VIII : ( x + y + z) (x2 + y2 + z2  xy  yz  xz)  x3 + y3 + z3  3xyz"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "The Elements of Geometry",
+        "topics": [
+          "3.1 INTRODUCTION",
+          "3.2 HISTORY",
+          "3.3 EUCLID’S ELEMENTS OF GEOMETRY",
+          "3.3.1 Axioms and Postulates",
+          "Postulate-1  : There is a unique line that passes through the given two distinct points.",
+          "Postulate-2 :  A line segment can be extended on either side to form a line.",
+          "Postulate-3 : We can describe a circle with any centre and radius.",
+          "Postulate-4  : All right angles are equal to one another.",
+          "Postulate-5  : That, if a straight line falling on two straight lines makes the interior angles on the same side less than two right angles, the two straight lines, if produced indefinitely, meet on that side on which are the angles less than two right angles.",
+          "3.3.2 Equivalent version of fifth postulate or equivalents of fifth postulate",
+          "NON-EUCLIDIAN GEOMETRY"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "LINES AND ANGLES",
+        "sections": [
+          "4.1 INTRODUCTION",
+          "4.2 BASIC TERMS IN GEOMETRY",
+          "4.2.1 Intersecting Lines and Non-intersecting Lines",
+          "4.2.2 Concurrent Lines",
+          "4.3 PAIRS OF ANGLES",
+          "4.3.1 Linear pair of angles axiom",
+          "4.3.2 Angles in intersecting lines",
+          "4.4 LINES AND A TRANSVERSAL",
+          "4.4.1 Lines Parallel to the Same Line",
+          "4.5 ANGLE SUM PROPERTY OF A TRIANGLE"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "CO-ORDINATE GEOMETRY",
+        "topics": [
+          "5.1  INTRODUCTION",
+          "5.2  CARTESIAN SYSTEM",
+          "5.2.1  Locating a Point",
+          "5.2.2  Origin",
+          "5.2.3  Coordinates of Origin",
+          "PLOTTING A POINT ON THE CARTESIAN PLANE (WHEN ITS\n  CO-ORDINATES  ARE GIVEN)"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "LINEAR EQUATIONS IN TWO VARIABLES",
+        "topics": [
+          "6.1 INTRODUCTION",
+          "6.2 LINEAR EQUATIONS IN TWO VARIABLES",
+          "Express each of the following equations in the form of ax + by + c = 0 and write the values of a, b and c.",
+          "6.3 SOLUTION OF A LINEAR EQUATION IN TWO VARIABLES",
+          "6.4 GRAPH OF A LINEAR EQUATION IN TWO VARIABLES",
+          "6.4.1  How to draw the graph of a linear equation",
+          "6.5   EQUATION OF LINES PARALLEL TO X-AXIS AND Y-AXIS",
+          "5.5.1  Equation of the X-axis and the Y-axis:"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "TRIANGLES",
+        "topics": [
+          "7.1  INTRODUCTION",
+          {
+            "7.2  CRITERIA FOR CONGRUENCE  OF TRIANGLES": [
+              "Axiom (SAS congruence rule)"
+            ]
+          },
+          "7.3  CONGRUENCE  OF TRIANGLES",
+          {
+            "7.3.1  Other Congruence Rules": [
+              "Theorem 7.1 (ASA congruence rule)",
+              "AAS Congruence Rule"
+            ]
+          },
+          "7.4  SOME PROPERTIES  OF A TRIANGLE",
+          "Theorem-7.2 :  Angles opposite to equal sides of an isosceles triangle are equal.",
+          "Theorem-7.3 :  The sides opposite to equal angles of a triangle are equal.",
+          {
+            "7.5   SOME MORE CRITERIA FOR CONGRUENCY  OF TRIANGLES": [
+              "Theorem 7.4 (SSS congruence rule)",
+              "Theorem  7.5  (RHS congruence rule)"
+            ]
+          },
+          "7.6  INEQUALITIES  IN A TRIANGLE",
+          "Theorem-7.6 : If two sides of a triangle are unequal, the angle opposite to the longer side is larger (or greater).",
+          "Theorem -7.7 :  In any triangle, the side opposite to the larger (greater) angle is longer.",
+          "Theorem-9.8 : The sum of any two sides of a triangle is greater than the third side."
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "QUADRILATERALS",
+        "topics": [
+          "8.1 INTRODUCTION",
+          "8.2 PROPERTIES OF A QUADRILATERAL",
+          "8.3 DIFFERENT TYPES OF QUADRILATERALS",
+          {
+            "Illustrative examples": [
+              "Example-1 :   ABCD  is a parallelogram and A = 60o.  Find the remaining angles.",
+              "Example-2.  In a parallelogram ABCD,  DAB  = 40o find the remaining angles of the parallelogram.",
+              "Example-3 :   Two adjacent sides of a parallelogram are 4.5 cm and 3 cm.  Find its perimeter.",
+              "Example-4 : In  a parallelogram ABCD,  the bisectors of the adjacent A and B intersect at P. Show that APB = 90o."
+            ]
+          },
+          "8.4 PARALLELOGRAM AND THEIR PROPERTIES",
+          {
+            "Theorem- 8.1": [
+              "A  diagonal of a parallelogram divides it into two congruent triangles."
+            ]
+          },
+          {
+            "Theorem-8.2": [
+              "In a parallelogram, opposite sides are equal and opposite angles are equal."
+            ]
+          },
+          {
+            "Theorem-8.3": [
+              "If  each pair of opposite sides of a quadrilateral is equal, then it is a parallelogram."
+            ]
+          },
+          {
+            "Theorem-8.4": [
+              "In a quadrilateral, if each pair of opposite angles are equal then it is a parallelogram."
+            ]
+          },
+          "8.5 DIAGONALS OF A PARALLELOGRAM",
+          {
+            "Theorem-8.5": [
+              "The  diagonals of a parallelogram bisect each other."
+            ]
+          },
+          {
+            "Theorem-8.6": [
+              "If the diagonals of a quadrilateral bisect each other then it is a parallelogram."
+            ]
+          },
+          "8.5.1   More geometrical statements",
+          {
+            "Corollary-1": [
+              "Show that each angle of a rectangle is a right angle."
+            ]
+          },
+          {
+            "Corollary-2": [
+              "Show that the diagonals of a rhombus are perpendicular to each other."
+            ]
+          },
+          {
+            "Corollary-3": [
+              "In a parallelogram ABCD, if the diagonal AC bisects the angle A, then ABCD is a rhombus."
+            ]
+          },
+          {
+            "Corollary-4": [
+              "Show that the diagonals of a rectangle are of equal length."
+            ]
+          },
+          {
+            "Corollary-5": [
+              "Show that the angle bisectors of a parallelogram form a rectangle."
+            ]
+          },
+          {
+            "Some Illustrative examples": [
+              "Example-5. AB and DC are two parallel lines and a transversal l, intersects AB  at P and DC  at R.  Prove that the bisectors of the interior angles form a rectangle.",
+              "Example-6. In a triangle ABC, AD is the median drawn on the side BC is produced to E such that AD = ED prove that ABEC is a parallelogram."
+            ]
+          },
+          "8.6 THE MIDPOINT THEOREM OF TRIANGLE",
+          {
+            "Theorem-8.7": [
+              "The line segment joining the midpoints of two sides of a triangle is parallel to the third side and also half of it."
+            ]
+          },
+          {
+            "Theorem-8.8": [
+              "The line drawn through the midpoint of one of the sides  of a triangle and parallel to another side will bisect the third side"
+            ]
+          },
+          {
+            "Some more examples": [
+              "Example-7.   In ABC, D, E and F are the midpoints of sides AB, BC and CA respectively.  Show that ABC is divided into four congruent triangles, when the three midpoints are joined to each other. (DEF is called medial triangle)",
+              "Example-8.   l, m and n are three  parallel lines intersected by the transversals p and q at A, B, C and D,E, F such that they make  equal intercepts AB and BC on the transversal p.  Show that the intercepts  DE and EF on q are also equal.",
+              "Example-9.  In the Fig.  AD and BE are medians of  ABC  and BE || DF.  Prove that CF = 14 AC.",
+              "Example-10.  ABC  is a triangle and through A, B, C lines are drawn parallel to BC, CA and AB respectively intersecting at P, Q and R.  Prove that the perimeter of  PQR is double the perimeter of ABC."
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "STATISTICS  Government’s Gift for Students’ Progress",
+        "topics": [
+          "9.1  INTRODUCTION",
+          "9.2  Collection of Data",
+          "primary data",
+          "secondary data",
+          "9.3  Presentation of Data",
+          "raw data",
+          "range",
+          "Ungrouped Frequency Distribution Table",
+          "Table of Weighted Observations",
+          "grouped frequency distribution table",
+          "classes",
+          "class-intervals",
+          "length of the class",
+          "class width",
+          "lower limit",
+          "upper limit",
+          "inclusive classes",
+          "real limits",
+          "boundaries",
+          "exclusive classes",
+          "9.4   MEASURES OF CENTRAL TENDENCY",
+          "9.4.1 Arithmetic Mean / Average",
+          "Mean of Raw Data",
+          "9.4.1.2  Mean of Ungrouped frequency distribution",
+          "9.4.1.3  Mean of ungrouped frequency Distribution by Deviation method",
+          "9.4.2  Median",
+          "Median of a frequency distribution",
+          "9.4.3  Mode",
+          "9.5   DEVIATION IN VALUES OF CENTRAL TENDENCY"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "SURFACE AREAS AND VOLUMES",
+        "topics": [
+          "10.1 INTRODUCTION",
+          "10.2 SURFACE AREA OF CUBOID",
+          "Lateral Surface Area of a cuboid",
+          {
+            "10.2.1 Volume": [
+              "Volume of a Cuboid"
+            ]
+          },
+          "10.2.2 Capacity of the container",
+          "Volume of right prism",
+          "Volume of pyramid",
+          "10.3 RIGHT CIRCULAR CYLINDER",
+          "10.3.1 Curved Surface area of a cylinder",
+          "10.3.2 Total Surface area of a Cylinder",
+          "10.3.3 Volume of a cylinder",
+          "10.4 RIGHT CIRCULAR CONE",
+          "10.4.1 Slant Height of the Cone",
+          "10.4.2 Curved Surface area of a cone",
+          "10.4.3 Total surface area of the cone",
+          "10.4.4 Volume of a right circular cone",
+          "10.5 SPHERE",
+          "10.5.1 Surface area of a sphere",
+          "10.5.2 Hemisphere",
+          "10.5.3 Volume of Sphere",
+          "WHAT HAVE WE DISCUSSED ?"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Areas",
+        "topics": [
+          "11.1   INTRODUCTION",
+          "11.2   AREA OF PLANAR REGIONS",
+          "11.3  AREA OF RECTANGLE",
+          "11.4  FIGURES ON THE SAME BASE AND BETWEEN THE SAME PARALLELS",
+          "11.5  PARALLELOGRAMS  ON THE SAME BASE AND BETWEEN THE SAME PARALLELS",
+          "Theorem-11.1 : Parallelograms on the same base and between the same parallels are equal in area.",
+          "Example-1. ABCD is parallelogram and ABEF is a rectangle and  DG is perpendicular on AB.",
+          "Example-2. Triangle ABC and parallelogram ABEF are on the same base, AB as in between the same parallels AB and EF.",
+          "Example-3. Find the area of a figure formed by joining the mid-points of the adjacent sides of a rhombus with diagonals 12 cm. and 16 cm.",
+          "11.6  TRIANGLES  ON THE SAME BASE AND BETWEEN THE SAME PARALLELS",
+          "Corollary-1 :   Show that the area of a triangle is half the product of its base (or any side) and the corresponding attitude (height).",
+          "Theorem-11.2 : Two triangles having the same base (or equal bases) and equal areas will lie between the same parallels.",
+          "Example 4.  Show that the median of a triangle divides it into two triangles of equal areas.",
+          "Example-5.  In the figure, ABCD is a quadrilateral.  AC is the diagonal and  DE || AC and also DE meets BC produced  at E.",
+          "Example 6.   In the figure , AP || BQ || CR.  Prove that ar( AQC) = ar( PBR)."
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "CIRCLES",
+        "topics": [
+          "12.1 INTRODUCTION",
+          "Circles",
+          "Concentric circles",
+          "Interior of the circle",
+          "Exterior of the circle",
+          "Chord",
+          "Arc",
+          "Semicircular arc or a semicircle",
+          "Minor arc",
+          "Major arc",
+          "Minor segment",
+          "Major segment",
+          "Sector",
+          "major sector",
+          "minor sector",
+          "Central Angle",
+          "12.2 ANGLE SUBTENDED BY A CHORD AT A POINT ON THE CIRCLE",
+          "Theorem-12.1 :   Equal chords of a circle subtend equal angles at the centre.",
+          "Theorem-12.2  : If the angle subtended by the chords of a circle at the centre are equal, then the chords are equal.",
+          "12.3  PERPENDICULAR  FROM THE CENTRE TO A CHORD",
+          "Theorem-12.3  : The perpendicular from the centre of a circle to a chord bisects the chord.",
+          "12.3.1 The three points that describe a circle",
+          "Circum circle",
+          "circumcentre",
+          "circumradius",
+          "12.3.2 Chords and their distance from the centre of the circle",
+          "Theorem ‘chords of equal length are at equal distance from the centre of the circle.’",
+          "12.4  ANGLE SUBTENDED  BY AN ARC OF A CIRCLE",
+          "12.4.1  Angle subtended by an arc at a point on the remaining part \nof circle",
+          "Theorem-12.4 : The angle subtended by an arc at the centre of a circle is double the angle subtended by it at any point on the remaining circle.",
+          "12.4.2 Angles in the same segment",
+          "concyclic",
+          "Theorem-12.5 :  If a line segment joining two points, subtends equal angles at two other points lying on\nthe same side of the line then these, the four points lie on a circle ( i.e. they are concyclic)",
+          "12.5   CYCLIC QUADRILATERAL",
+          "Theorem-12.6 :  The opposite angles of a cyclic quadrilateral are supplementary.",
+          "Theorem-12.7 :  If the sum of any pair of opposite angles in a quadrilateral is 180o, then it is cyclic."
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "GEOMETRICAL CONSTRUCTIONS",
+        "topics": [
+          "13.1 INTRODUCTION",
+          "13.2 BASIC CONSTRUCTIONS",
+          "13.2.1To Construct the perpendicular bisector of a given line segment.",
+          "13.2.2 To construct the bisector of a given angle",
+          "13.2.3 To construct an angle of 60° at the initial point of a given ray.",
+          "13.3  CONSTRUCTION OF TRIANGLES (SPECIAL CASES)",
+          "13.3.1 Construction : To construct a triangle, given its base, a base angle and sum of other two sides.",
+          "13.3.2Construction : To Construct a triangle given its base, a base angle and the difference of the other two sides.",
+          "Case (i) Let AB > AC",
+          "Case (ii) Let AB < AC",
+          "13.3.3 Construction : To construct a triangle, given its perimeter and its two base angles.",
+          "13.3.4 Construction : To construct a circle segment given a chord and a given an angle."
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "PROBABILITY",
+        "topics": [
+          "14.1    INTRODUCTION",
+          "14.2   PROBABILITY",
+          "14.2.1  Random experiment and outcomes",
+          "14.2.2  Equally likely outcomes",
+          "14.2.3 Trials and Events",
+          "14.2.4 Linking the chance to Probability",
+          "Example 1: If two identical coins are tossed simultaneously",
+          "Sum of the probabilities of all the outcomes of a random experiment is always 1",
+          "The probability of an event always lies between 0 and 1 (0 and 1 inclusive)",
+          "a) The probability of an event which is certain = 1",
+          "b) The probability of an event which is impossible = 0",
+          "14.2.5   C ONDUCT YOUR OWN EXPERIMENTS",
+          "Example-3: A spinner was spun 1000 times",
+          "Example-4. The following table gives the ages of audicence in a theatre.",
+          "Example-5 :  Assume that a dart will hit the dart board",
+          "14.3   USES OF PROBABILITY  IN REAL LIFE"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "PROOFS IN MATHEMATICS",
+        "topics": [
+          "15.1  INTRODUCTION",
+          "15.2    MATHEMATICAL  STATEMENTS",
+          "15.3  VERIFYING THE STATEMENTS",
+          "15.4  REASONING  IN MATHEMATICS",
+          "15.4.1  Using deductive reasoning in hypothesis testing",
+          "15.4.2  Deductive Reasoning",
+          "15.5  THEOREMS, CONJECTURES  AND AXIOMS",
+          "Theorem-15.1  : The sum of the interior angles of a triangle is 180°.",
+          "Theorem-15.2  : The product of two odd natural numbers is odd.",
+          "Theorem-15.3  : The product of any two consecutive even natural numbers is divisible by 4.",
+          "Example-6. The following geometric arrays suggest a sequence of numbers.",
+          "15.6   WHAT IS A MATHEMATICAL  PROOF?",
+          "Theorem-15.4 :  The sum of three interior angles of a triangle is 180°.",
+          "Theorem-15.5  : The product of two odd natural numbers is odd.",
+          "Theorem-15.6  :  The product of any two consecutive even natural numbers is divisible by 4."
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 10,
+    "subject": "math",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Real Numbers",
+        "topics": [
+          "1.1  Introduction",
+          "Theorem-1.1 : (Division Algorithm)",
+          "Euclid's algorithm",
+          "Remarks :",
+          "Example 1 : Show that  every positive even integer is of the form 2 q, and that every positive\nodd integer is of the form 2 q + 1, where q is some integer.",
+          "Example 2 : Show that  every positive odd integer is of the form  4 q + 1 or 4q + 3, where\nq is some integer.",
+          "1.2The Fundamental theorem of Arithmetic",
+          "Theorem-1.2 :  (Fundamental Theorem of Arithmetic)",
+          "Example 3.   Consider the numbers of the form 4n where n is a natural number. Check whether\nthere is any value of n for which 4n ends with zero?",
+          "Example-4.   Find the  HCF and LCM  of 12 and 18 by the prime factorization method.",
+          "1.2.1   Rational numbers and their decimal expansions",
+          "Theorem-1.3 :  Let x be a rational number whose decimal form terminates.",
+          "Theorem 1.4 :  Let  x = p/q be a rational number, such that the prime factorization of q is\nof the form 2n5m, where n and m are non-negative integers.",
+          "1.2.2 Non-terminating, recurring decimals in rational numbers",
+          "Theorem-1.5 :  Let x = p/q be a rational number, such that the prime\nfactorization of q is not of the form 2n5m, where n and m are non-negative integers.",
+          "Example-5.   Using the above theorems, without actual division, state whether decimal form of the\nfollowing rational numbers are terminating or non-terminating, repeating decimals.",
+          "Example-6.   Write the decimal form of the following rational numbers without actual division.",
+          "1.3 Irrational numbers",
+          "Theorem-1.6 :  Let p be a prime number. If p divides a2, (where a is a positive integer),\nthen p divides a.",
+          "Example 7.  Show that  √2 is irrational.",
+          "Example-8.   Show that 5 – √3 is irrational.",
+          "Example-9.  Show that 3√2 is irrational.",
+          "Example-10.   Prove that √2 + √3 is irrational.",
+          "Note  :",
+          "1.4 Exponentials Revision",
+          "1.4.1 Exponentials and Logarithms",
+          "Graph of exponential 2x",
+          {
+            "Properties of Logarithms": [
+              "The Product Rule",
+              "Theorem:  (Product Rule)",
+              "The Quotient Rule",
+              "Theorem:  (Quotient Rule)",
+              "The Power Rule",
+              "Theorem:  (Power Rule)"
+            ]
+          },
+          "Example-11.   Expand log 343/125",
+          "Example-12.   Write 2log3 + 3log5 – 5log2 as a single logarithm.",
+          "Example-13.  Solve the equation 3x = 5x2.",
+          "Example-14.  Find  x  if  2log5 + 1/2log9  log3 = log x",
+          "What we have discussed"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Sets",
+        "topics": [
+          "2.1 Introduction",
+          "2.2 SET",
+          "2.2.1 Roster form and Set builder form",
+          "2.3Empty Set",
+          "2.4  Universal Set",
+          "2.4.1 Subset",
+          "2.5  Venn diagrams",
+          "2.6  Basic Operations on Sets",
+          "2.6.1 Union of Sets",
+          "2.6.2  Intersection of Sets",
+          "Disjoint Sets",
+          "2.6.3 Difference of Sets",
+          "2.7 Equal Sets",
+          "2.8 Finite and Infinite sets",
+          "2.9Cardinality of a finite set"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Polynomials",
+        "topics": [
+          "3.1 Introduction",
+          "3.2 What are Polynomials?",
+          "3.2.1 Degree of a Polynomial",
+          "3.2.2 Value of a Polynomial",
+          "3.2.3 Zeroes of a Polynomial",
+          "3.3 Working with Polynomials",
+          "3.4 Geometrical Meaning of the Zeroes of a Polynomial",
+          "3.4.1. Graphical representation of a linear polynomial",
+          "3.4.2. Graphical Representation of a Quadratic Polynomial",
+          "3.4.3 Geometrical Meaning of Zeroes of a Cubic Polynomial",
+          "Example-1.   Look at the graphs in the figures given below.",
+          "Example-2.  Find the number of zeroes of the given polynomials. And also find their values.",
+          "3.5Relationship between Zeroes and Coefficients of a Polynomial",
+          "Example-3.  Find the zeroes of the quadratic polynomial x2 + 7x + 10 and verify the relationship between the zeroes and the coefficients.",
+          "Example-4.   Find the zeroes of the polynomial x2 – 3 and verify the relationship between the zeroes and the coefficients.",
+          "Example-5.  Find the quadratic polynomial, whose sum and product of the zeroes are – 3 and 2 respectively.",
+          "Example-6.   Find the quadratic polynomial whose zeroes are 2 and 1\n3 .",
+          "3.6Cubic Polynomials",
+          "Example-7.  Verify whether 3, –1 and – 1\n3 are the zeroes of the cubic polynomial\np(x) = 3x3 – 5x2 – 11x – 3, and then verify the relationship between the zeroes and the coefficients.",
+          "3.7 Division Algorithm for Polynomials",
+          "Example-8.  Divide 2 x2 + 3x + 1 by x + 2.",
+          "Example-9.   Divide 3 x3 + x2 + 2x + 5 by 1 + 2 x + x2.",
+          "Example-10.  Divide 3 x2 – x3 – 3x + 5 by x – 1 – x2, and verify the division algorithm.",
+          "Example-11.  Find all the remaining zeroes of 2 x4 – 3x3 – 3x2 + 6x – 2, if you know that two of\nits zeroes are 2 and –2."
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Pair of Linear Equations in Two Variables",
+        "topics": [
+          "4.1 Introduction",
+          "4.1.1 How Do We Find Unknown Quantities?",
+          "4.1.2 Using Both Equations Together",
+          {
+            "General form of Linear Equation": [
+              "ax + by + c = 0",
+              "a, b, c are real numbers",
+              "a² + b² ≠ 0"
+            ]
+          },
+          "4.2 Solutions of Pairs of Linear Equations in Two Variables",
+          "4.2.1 Graphical Method of Finding Solution of a Pair of Linear Equations",
+          {
+            "Possible relations between two lines in same plane": [
+              "The two lines may intersect at one point.",
+              "The two lines may not intersect i.e., they are parallel.",
+              "The two lines may be coincident."
+            ]
+          },
+          "Consistent and independent pair of linear equations",
+          "Inconsistent pairs of linear equations",
+          "Consistent and dependent pair of linear equations in two variables",
+          "4.2.3 Relation Between Coefficients and Nature of System of Equations",
+          "Example-1. Check whether the given pair of equations represent intersecting or parallel or coincident lines. Find the solution if the lines are intersecting.",
+          "Example-2. Check whether the following pair of equations is consistent. Verify by a graphical representation.",
+          "Example-3. Check whether the system of equations 2x-3y = 5 and 4x-6y = 15 are consistent. Also verify by graphical representation.",
+          "Example-4. In a garden there are some bees and flowers. If one bee sits on each flower then one bee will be left. If two bees sit on each flower, one flower will be left. Find the number of bees and number of flowers.",
+          "Example-5. The perimeter of a rectangular plot is 32m. If the length is increased by 2m and the breadth is decreased by 1m, the area of the plot remains the same. Find the length and breadth of the plot.",
+          "4.3Algebraic Methods of Finding the Solutions for a Pair of Linear Equations",
+          "4.3.1 Substitution Method",
+          "Step-1 : In one of the equations, express one variable in terms of the other variable.",
+          "Step-2 : Substitute the value of y obtained in step 1 in the second equation.",
+          "Step-3 : Simplify the equation obtained in step 2 and find the value of x.",
+          "Step-4 : Substitute the value of x obtained in step 3 in the equation of step 1 and solve for y.",
+          "Step-5 : Check the obtained solution by substituting the values of x and y in both the original equations.",
+          "Example-6. Solve the given pair of equations using substitution method.",
+          "4.3.2 Elimination Method",
+          "Step-1 : Write both the equations in the form of ax + by = c.",
+          "Step-2 : Make the coefficients of one of the variables, equal by multiplying each equation by suitable real numbers.",
+          "Step-3 : If the variable to be eliminated has the same sign in both equations, subtract one equation from the other to get an equation in one variable. If they have opposite signs then add.",
+          "Step-4 : Solve the equation for the remaining variable.",
+          "Step-5 : Substitute the value of this variable in any one of the original equations and find the value of the eliminated variable.",
+          "Example-7. Solve the following pair of linear equations using elimination method.",
+          "Example-8. Rubina went to the bank to withdraw `2000. She asked the cashier to give the cash in `50 and `100 notes only. She got 25 notes in all. Can you tell how many notes each of `50 and `100 she received?",
+          "Example-9. In a competitive exam, 3 marks were awarded for every correct answer and 1 mark was deducted for every wrong answer. Madhu scored 40 marks in this exam. Had 4 marks been awarded for each correct answer and 2 marks deducted for each incorrect answer, Madhu would have scored 50 marks. How many questions were there in the test? (Madhu had attempted all questions.)",
+          "Example-10. Mary told her daughter, \"Seven years ago, I was seven times as old as you were then. Also, three years from now, I shall be three times as old as you will be.\" Find the present age of Mary and her daughter.",
+          "Example-11. A publisher is planned to produce a new textbook. The fixed costs (reviewing, editing, typesetting and so on) are `320000. Besides that, he also spends another `31.25 in producing each book. The wholesale price (the amount received by the publisher) is `43.75 per book. How many books must the publisher sell to break even, i.e., so that the cost of production will equal revenues?",
+          "4.4 Equations Reducible to a Pair of Linear Equations in Two Variables",
+          "Example-12. Solve the following pair of equations. 2/x + 3/y = 13 and 5/x - 4/y = -2",
+          "Example-13. Kavitha thought of constructing 2 more rooms in her house. She enquired about the labour and time estimates. She came to know that 6 men and 8 women could finish this work in 14 days. But she wished to complete that work in only 10 days. When she enquired elsewhere, she was told that 8 men and 12 women could finish the work in 10 days. Find out how much time would be taken to finish the work if one man or one woman worked alone.",
+          "Example-14. A man travels 370 km partly by train and partly by car. If he covers 250 km by train and the rest by car, it takes him 4 hours. But if he travels 130 km by train and the rest by car, it takes 18 minutes more. Find the speed of the train and that of the car."
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Quadratic Equations",
+        "topics": [
+          "5.1 Introduction",
+          "5.2 Quadratic Equations",
+          "Example-1. Represent the following situations with suitable mathematical equations.",
+          "Example-2. Check whether the following are quadratic equations:",
+          "5.3 Solution of a Quadratic Equation by Factorisation",
+          "Example-3. Find the roots of the equation 2 x2 – 5x + 3 = 0, by factorisation.",
+          "Example 4 :  Find the roots of the equation x – 13x  = 16 (x  0)",
+          "Example-5. Find the width of the space for spectators discussed in section 5.1.",
+          "5.4 Solution of a Quadratic Equation by Completing the Square",
+          "Example-6. Find the roots of the equation 5 x2 – 6x – 2 = 0 by the method of completing the square.",
+          "Example-7. Find the roots of  4 x2 + 3x + 5 = 0 by the method of completing the square.",
+          "Example-8. Solve Q. 2(i) of Exercise 5.1 by using the quadratic formula.",
+          "Example-9. Find two consecutive positive odd integers, sum of whose squares is 290.",
+          "Example - 10.  A rectangular park is to be constructed.",
+          "Example-11.   Find the roots of the following quadratic equations using the formula, if they exist.",
+          "Example-12.   Find the roots of the following equations:",
+          "Example-13.   A motor boat whose speed is 18 km/h in still water.",
+          "5.5 Nature of Roots",
+          "Example-14.   Find the discriminant of  the  quadratic  equation  2 x2 – 4x + 3 = 0,  and  hence find the nature of its roots.",
+          "Example-15.   A pole has to be erected at a point on the boundary of a circular park of diameter",
+          "Example-16.   Find the discriminant of the equation 2 13 23 x x  = 0  and hence find the nature of its roots."
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Progressions",
+        "topics": [
+          "6.1 Introduction",
+          "6.2 Arithmetic Progressions",
+          "6.2.1 What is an Arithmetic Progression?",
+          "General form of an A.P.",
+          "6.2.2 Parameters of Arithmetic Progressions",
+          "Example-1.",
+          "Example-2.",
+          "6.3 nth Term of an Arithmetic Progression",
+          "Example-3.",
+          "Example-4.",
+          "Example-5.",
+          "Example-6.",
+          "Example-7.",
+          "Example-8.",
+          "Example-9.",
+          "Example-10.",
+          "6.4 Sum of First n Terms in Arithmetic Progression",
+          "6.4.1 How ‘Gauss’ found the sum of terms",
+          "6.4.2  Sum of n terms of an A.P..",
+          "Example-11.",
+          "Example-12.",
+          "Example-13.",
+          "Example-14.",
+          "Example-15.",
+          "6.5 Geometric Progressions",
+          "6.6nth term of a G.P.",
+          "Example-20.",
+          "Example-21.",
+          "Example-22.",
+          "Optional Exercise"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Coordinate Geometry",
+        "topics": [
+          "7.1 Introduction",
+          "7.2 Distance Between Two Points",
+          "7.3 Distance Between Two Points on a Line Parallel to the Coordinate Axes",
+          "7.4 Distance Between Any Two Points in the plane",
+          "7.5 Section Formula",
+          "7.6 Trisectional Points of a Line segment",
+          "7.7  Centroid of a Triangle",
+          "7.8  Area of the Triangle",
+          "7.8.1.  Collinearity",
+          "7.8.2. Area of a Triangle- ‘Heron’s Formula’",
+          "7.9 Straight Lines",
+          "7.9.1  Slope of the straight line",
+          "7.9.2  Slope of a line joining Two Points"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Similar Triangles",
+        "topics": [
+          "8.1  Introduction",
+          "8.2  Similar Figures",
+          "Regular polygon",
+          "Scale or scale factor (or) representative factor",
+          "8.3Similarity of Triangles",
+          {
+            "8.3.1 Basic Proportionality Theorem (Thales Theorem)": [
+              "Theorem-8.1  : If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, then the other two sides are divided in the same ratio.",
+              "Theorem-8.2 :  If a line divides two sides of a triangle in the same ratio, then the line is parallel to the third side."
+            ]
+          },
+          "Construction : Division of a line segment (using Thales theorem)",
+          "8.4  Criteria for Similarity of Triangles",
+          {
+            "8.4.1  AAA Criterion for Similarity of Triangles": [
+              "Theorem-8.3 :  In two triangles, if corresponding angles are equal, then their corresponding sides are in proportion and hence the triangles are similar."
+            ]
+          },
+          {
+            "8.4.2.  SSS Criterion for Similarity of Triangles": [
+              "Theorem-8.4 :  In two triangles, if corresponding sides are proportional, then their corresponding angles are equal and hence the triangles are similar."
+            ]
+          },
+          {
+            "8.4.3  SAS Criterion for Similarity of Triangles": [
+              "Theorem-8.5 :  If one angle of a triangle is equal to one angle of the other triangle and the including sides of these angles are proportional, then the two triangles are similar."
+            ]
+          },
+          "Construction : To construct a triangle similar to a given triangle as per given scale factor.",
+          "8.5Areas of Similar Triangles",
+          "Theorem-8.6 :  The ratio of the areas of two similar triangles is equal to the ratio of the squares of their corresponding sides.",
+          "8.6  Pythagoras Theorem",
+          "Theorem-8.7 :  If a perpendicular is drawn from the vertex of the right angle of a right triangle to the hypotenuse, then the triangles on both sides of the perpendicular are similar to the whole triangle and to each other.",
+          {
+            "8.6.1  Baudhayana Theorem (Pythagoras Theorem)": [
+              "Theorem-8.8 :  In a right triangle, the square of  length of the hypotenuse is equal to the sum of the squares of lengths of the other two sides.",
+              "Theorem-8.9 :  In a triangle, if square of the length of one side is equal to the sum of squares of the lengths of the other two sides, then the angle opposite to the first side is a right angle and the triangle is a right angled triangle."
+            ]
+          },
+          "8.7Different forms of theoretical statements",
+          "1.   Negation of a statement :",
+          "2.  Converse of a statement :",
+          "3.   Proof by contradiction :"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Tangents and Secants to a Circle",
+        "topics": [
+          "9.1  Introduction",
+          "9.1.1  A Line and A Circle",
+          "9.2  Tangents of a Circle",
+          "Theorem-9.1 :  The tangent at any point of a circle is perpendicular to the radius through the point of contact.",
+          "9.2.1 Construction of Tangent to a Circle",
+          "9.2.2 Finding Length of the Tangent",
+          "9.3 Number of tangents to a circle from any point",
+          {
+            "Case (i)": [
+              "There is no tangent to a circle passing through a point inside the circle."
+            ]
+          },
+          {
+            "Case(ii)": [
+              "There is one and only one tangent to a circle at a point on the circle."
+            ]
+          },
+          {
+            "Case(iii)": [
+              "There are exactly two tangents to a circle through a point outside the  circle."
+            ]
+          },
+          "Theorem-9.2  : The lengths of tangents drawn from an external point to a circle are equal.",
+          "9.3.1. Construction of Tangents to a Circle from an External point",
+          "Statement-1  : The centre of a circle lies on the bisector of the angle between two tangents drawn from a point outside it.",
+          "Statement-2 : In two concentric circles, the chord of the bigger circle, that touches the smaller circle is bisected at the point of contact with the smaller circle.",
+          "Statement-3 :  If two tangents AP and AQ are drawn to a circle with centre O from an external point A, then QAP 2 QPO 2 OQP     .",
+          "Statement-4 :  If  a quadrilateral ABCD is drawn to circumscribe a circle, then AB+CD=BC+DA.",
+          "Example-1.   Draw a pair of tangents to a circle of radius 5cm  which are inclined to each other at an angle 60°.",
+          "9.4 Segment of a circle formed by a secant",
+          "9.4.1. Finding the Area of Segment of a Circle"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Mensuration",
+        "topics": [
+          "10.1  Introduction",
+          {
+            "Let us recall the surface areas and volumes of different solid shapes.": [
+              "Cuboid",
+              "Cube",
+              "Right prism",
+              "Regular circular Cylinder",
+              "Right pyramid",
+              "Right circular cone",
+              "Sphere",
+              "Hemisphere"
+            ]
+          },
+          "10.2    Surface Area of the Combination of Solids",
+          "10.3    Volume of Combination of Solids",
+          "10.4  Conversion of Solid from One Shape to Another"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Trigonometry",
+        "topics": [
+          "11.1 Introduction",
+          "11.1.1 Naming The Sides in a Right Triangle",
+          "11.2  Trigonometric Ratios",
+          "11.2.1 Defining Trigonometric Ratios",
+          "11.3Trigonometric Ratios of some specific angles",
+          "11.3.1 Trigonometric Ratios of 45o",
+          "11.3.2 Trigonometric Ratios of 30o and 60o",
+          "11.3.3 Trigonometric Ratios of 0o and 90o",
+          "Table 11.1",
+          "11.4  Trigonometric Ratios of Complementary angles",
+          "11.5Trigonometric identities"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Applications of Trigonometry",
+        "topics": [
+          "12.1 Introduction",
+          "Line of sight",
+          "Angle of elevation",
+          "Angle of depression",
+          "12.2 Drawing Figures to Solve Problems",
+          "Example-1.   The top of a clock tower is observed at angle of elevation of  and the foot of the tower is at the distance of d meters from the observer.  Draw the diagram for this data.",
+          "Example-2.   Rinky observes a flower on the ground from the balcony of the first floor of a building at an angle of depression . The height of the first floor of the building is x meters. Draw the diagram for this data.",
+          "Example-3.   A large balloon has been tied with a rope and it is floating in the air.  A person has observed the balloon from the top of a building at angle of elevation of 1 and foot of the rope at an angle of depression of  2.  The height of the building is h feet.  Draw the diagram for this data.",
+          "Example-4.    A boy observed the top of an electric pole at an angle of elevation of  60º when the observation point is 8 meters away from the foot of the pole. Find the height of the pole.",
+          "Example-5.   From a helicopter, Rajender observes a person standing on the ground at an angle of depression 45º.  If the helicopter is flying at a height of 500 m from the ground, what is the distance of the person from Rajender?",
+          "12.3 Problems with Two right-angled Triangles",
+          "Example-6.   Two men on either side of a temple of 30 meter height observe its top at the angles of elevation 30º and 60º respectively. Find the distance between the two men.",
+          "Example-7.   A straight highway leads to the foot of a tower.  Ramaiah standing at the top of the tower observes a car at an angle of depression of 30º. The car is approaching the foot of the tower with a uniform speed.  Six seconds later, the angle of depression of the car is found to be 60º.  Find the time taken by the car to reach the foot of the tower from this point."
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Probability",
+        "topics": [
+          "13.1 Introduction",
+          "13.1.1 What is Probability",
+          "13.2 Probability - A Theoretical Approach",
+          "Probability and Modelling",
+          "13.3 Mutually Exclusive Events",
+          "13.4.1 Finding Probability",
+          "13.4.2 Complementary Events and Probability",
+          "13.4.3 Impossible and Certain Events",
+          "13.5 Deck of Cards and Probability",
+          "13.6 Use of Probability",
+          "13.7 More Applications of Probability"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Statistics",
+        "topics": [
+          "14.1   Introduction",
+          "14.2  Mean of Ungrouped Data",
+          "Direct Method",
+          "Deviation method (or) Assumed Mean Method",
+          "Step-deviation method",
+          "Example-2.",
+          "Example-3.",
+          "14.3  Mode",
+          "Modal class",
+          "14.4  Median of Grouped Data",
+          "Cumulative Frequency Table",
+          "Cumulative frequency distribution of the less than type",
+          "cumulative frequency distribution of the more than type",
+          "Median class",
+          "Example-7.",
+          "Example-8.",
+          "14.5    Which value of Central Tendency?",
+          "14.6   Graphical Representation of Cumulative Frequency Distribution"
+        ]
+      }
+    ]
+  }
+]

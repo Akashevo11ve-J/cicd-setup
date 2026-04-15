@@ -1,0 +1,790 @@
+[
+  {
+    "grade": 6,
+    "subject": "chemistry",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_3",
+        "title": "Rain : Where Does It Come From?",
+        "topics": [
+          "Forms of  Water",
+          "Solid Form",
+          "Liquid Form",
+          "Gaseous Form",
+          "Evaporation and formation of  clouds",
+          "Evaporation",
+          "Condensation",
+          {
+            "Clouds and rain": [
+              "Rain"
+            ]
+          },
+          "Water cycle"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "MATERIALS AND THINGS",
+        "topics": [
+          "Finding the materials used to make different objects",
+          "Finding the objects made from diffrent materials",
+          "Properties of Materials",
+          "Transparency",
+          "Identifying transparent and opaque objects",
+          "Are we able to See through a paper",
+          "State of the materials",
+          "Light a candle",
+          "How can you  know the diffrent states of materials?",
+          "Classification of Materials",
+          "A dilemma with sugar",
+          "Sinking or f loating in water",
+          "Do ir on objects float?",
+          "Soluble or insoluble in water"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Separation of Substances",
+        "topics": [
+          "Mixtures",
+          "Activity-1: Use of water in separation",
+          "Methods of Separation",
+          "Hand Picking",
+          "Winnowing",
+          "Activity-2: Sedimentation and decantation",
+          "Sedimentation",
+          "decantation",
+          "Sieving and filtration",
+          "Activity-3:  Why can’t we filter salt from salt water",
+          "Activity-4:  Crystallization",
+          "Distillation",
+          "Activity-5: Get your own distilledwater",
+          "Sublimation",
+          "Activity-9:  Sublimation of camphor",
+          "Chromatography",
+          "Activity-7: A chalk with diffrent colours",
+          "Separation using more than one method",
+          "Activity-8:   Separation of diffrent materials from the mixture"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "CHANGES AROUND US",
+        "topics": [
+          "Changing of milk into curd",
+          "Activity-1: Comparing milk and curd",
+          "Activity-2: Finding the conditions for making curd",
+          "Changing seasons",
+          "Activity-3: Comparing duration of day in December and May",
+          "Observing the changes in shadow during winter and summer seasions",
+          "Actvity-4: Does the sun rise exactly in the east in all seasons?",
+          "Activity-5: Indicators and causes for change",
+          "Activity-6: Categorizing  changes",
+          "Keywords"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 7,
+    "subject": "chemistry",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_10",
+        "title": "Acids and Bases",
+        "topics": [
+          "Food - Tastes",
+          "Change in the colour of substances",
+          "Indicators",
+          "Acidic Nature",
+          "Basic Nature",
+          "Chemical Indicators",
+          "Have you heard about Acid rains?",
+          "Manures",
+          "Salts",
+          "Classifying salts",
+          "Uses of some acids, bases and salts",
+          "What we have learnt"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "WATER - TOO LITTLE TO WASTE",
+        "topics": [
+          "Source of Water on Earth",
+          "Sorrow of earth",
+          {
+            "Organic impurities": [
+              "Human faeces",
+              "animal waste",
+              "oil",
+              "urea",
+              "pesticides",
+              "herbicides",
+              "fruit and vegetable waste etc."
+            ]
+          },
+          "Inorganic impurities - Nitrates, Phosphates, metals etc.",
+          "Bacteria & other microbes - Such as those which cause cholera, typhoid, dysentery etc.",
+          {
+            "Processes at the waste water treatment plant": [
+              "Stage - 1",
+              "Stage - 2",
+              "Stage - 3",
+              "Stage - 4",
+              "Stage - 5",
+              "Stage - 6",
+              "Stage - 7"
+            ]
+          },
+          "Diseases caused by untreated water",
+          "Other ways of Disposing Sewage",
+          "Types of Drainage Systems",
+          "Conservation of Water",
+          "Another step towards conservation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "CHANGES AROUND US",
+        "topics": [
+          "Types of Changes",
+          "Periodical changes",
+          "Periodical Events",
+          {
+            "Physical Change": [
+              "Changes in state",
+              "Changes in shape",
+              "Changes where new substances are formed"
+            ]
+          },
+          {
+            "Chemical Changes": [
+              "Formation of new substance"
+            ]
+          },
+          "Rusting of Iron",
+          "Iron + Oxygen(from air ) + Water  rust (Iron oxide)",
+          "Galvanisation",
+          "What changes do you notice?",
+          "How to prevent browning of cut vegetables and fruits:",
+          "Observe the changes in Magnesium ribbon",
+          "Observe some chemical changes",
+          "Observe reaction of Vinegar with Baking soda",
+          "Vinegar + Baking SodaCarbon dioxide +other substance",
+          "Carbon dioxide + Lime WaterCalcium Carbonate + Water",
+          "Burning of Camphor",
+          "Crystallisation",
+          "Observe crystallisation of Sugar.",
+          "Observe Crysta llisation of Urea",
+          "Observing Crystallisation of  Copper Sulphate.",
+          "Identifying physical and chemical change"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 8,
+    "subject": "chemistry",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_4",
+        "title": "Metals  and Non-metals",
+        "topics": [
+          "4.1 Physical Properties",
+          "Appearance",
+          "4.1.1 Sonority",
+          "Story of Early Tools",
+          "4.1.2 Malleability",
+          "4.1.3 Ductility",
+          "4.1.4 Electrical Conductivity",
+          "4.2 Chemical properties  of metals",
+          "4.2.1 Reaction with Oxygen",
+          "4.2.2 Rusting of Metals",
+          "4.2.3 Reaction with water",
+          "4.2.4 Reaction with Acids",
+          "4.2.5 Reactivity of metals",
+          "4.3 Some uses of non-metals",
+          "Uses of metals",
+          "Key words"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Coal and Petroleum",
+        "topics": [
+          "7.1 Sources of materials",
+          "7.2 Exhaustible and Inexhaustible Resources",
+          "7.2.1 Coal, Petroleum and Natural Gas as Fuels",
+          "Bio -diesel an alternative fuel source",
+          "7.2.2 Natural gas is another important fuel",
+          "7.2.3 Other uses of coal, petroleum and natural gas",
+          {
+            "Uses of coal and petroleum": [
+              "Fuel gas",
+              "LPG",
+              "Fertilizer",
+              "Synthetic rubber",
+              "Petrol",
+              "Kerosene oil",
+              "Diesel Oil",
+              "Lubricating Oil",
+              "Fuel Oil",
+              "Asphalt",
+              "Paraffin wax"
+            ]
+          },
+          "Coke",
+          "Coal tar",
+          "Coal gas",
+          "Lab Activity",
+          "Natural gas and petrochemicals",
+          "7.2.4 Some petrochemical products",
+          "7.3 Formation of coal",
+          "7.3.1 Formation of petroleum",
+          "Alternatives to natural gas",
+          "7.3.2 Why are coal and petroleum so versatile?",
+          "7.3.3 Conserving coal and petroleum",
+          "7.4Misuse of energy resources and consequences",
+          "Harmful effects caused during use of fuels",
+          "Natural resources",
+          "exhaustible resources",
+          "inexhaustible resources",
+          "petroleum",
+          "fractional distillation",
+          "natural gas",
+          "CNG",
+          "coke",
+          "coal gas",
+          "coal",
+          "coal tar",
+          "carbonisation",
+          "plankton",
+          "fossil fuels",
+          "petrochemicals"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Combustion, Fuels and Flame",
+        "topics": [
+          "A chemical process in which a material reacts with oxygen present in the air to generate heat is called combustion",
+          "8.1 What is needed for  the process of  combustion?",
+          {
+            "Lab Activity": [
+              "Aim:  To prove that oxygen helps in burning",
+              "Material required:  Test tube, test tube holder, spirit lamp, match box, incence stick (agarbatti), potassium permanganate crystals."
+            ]
+          },
+          "8.2 Ignition Temperature",
+          "The substances which have very low ignition temperature and easily catch fire are called Inflammable Substances",
+          "8.3 Types of Combustion",
+          "The type of combustion in which material suddenly  burns into flames without the application of any external agent is called spontaneous combustion",
+          "Such combustion is known as rapid combustion",
+          "Explosions can also take place if pressure is applied on the crackers.",
+          "8.4 Fuels",
+          "Calorific value  of a fuel is the amount of heat energy produced on complete combustion of 1 kg of that fuel.",
+          "8.5 Fire control",
+          "8.6 Flame",
+          "8.6.1 Structure of a flame"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 9,
+    "subject": "chemistry",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "MATTER AROUND US",
+        "topics": [
+          "What is matter?",
+          "1.1 States of matter",
+          "1.2 Properties of solids, liquids and gases",
+          "Shape and volume",
+          "Liquids can flow easily. Hence, they are also called \"fluids\"",
+          "1.3 Compressibility",
+          "1.4 Diffusion",
+          "Certain gases from atmosphere particularly oxygen and carbon dioxide, diffuse and dissolve in water and support the survival of aquatic animals and plants",
+          "Diffusion of gases",
+          "1.5 Can matter change its state?",
+          "What is matter made up of ?",
+          " Activity - 7\nHow small are the particles of  matter?",
+          "Activity - 8\nThere exists space between particles",
+          "1.6 Particles of matter attract\neach other",
+          "Activity - 9\nObserving the force of attraction\nbetween the particles of  matter",
+          "1.7 How diffusion takes place?",
+          "Particles of solids, liquids and gases can\ndiffuse into liquids and gases",
+          "Observe the following diagram which\nshows the difference in arrangement of\nparticles in solids, liquids and gases.",
+          "Key words"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "IS MATTER PURE?",
+        "topics": [
+          "6.1 Is full cream milk pure?",
+          "6.1.1 What is a mixture?",
+          "6.2 Types of mixtures",
+          "6.3 Solutions",
+          "Properties of a solution",
+          "6.3.1 Concentration of a solution",
+          "Activity-3",
+          "Activity-4",
+          "6.4 Suspensions and Colloidal\n       Solutions",
+          "Activity-5",
+          "Colloidal solutions",
+          "Table-2: Type of Colloids and their Examples based on dispersion medium and dispersed phase",
+          "Fig-7: Tyndall effect in the forest",
+          "Table-3: Properties of suspension and colloids",
+          "6.5 Separating the components\nof a mixture",
+          "6.6 Sublimation",
+          "Activity-6",
+          "6.7 Evaporation",
+          "Activity-7",
+          "6.8 Paper Chromatography",
+          "Aim: Separating the components of ink\nusing paper chromatography.",
+          "6.9 Separation of immiscible\nand miscible liquids",
+          "6.9.1 Separation of immiscible liquids",
+          "Activity-8",
+          "6.9.2 Separation of a mixture of\ntwo miscible liquids",
+          "6.10 Distillation",
+          "Activity-9",
+          "6.11  What if the boiling points of\nthe two liquids are close to\neach other?",
+          "6.12 Types of pure substances",
+          "Activity-10",
+          "Table-4 : Mixtures and Compounds",
+          "Activity-11",
+          "Key words"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "ATOMS, MOLECULES AND\nCHEMICAL REACTIONS",
+        "topics": [
+          "7.1 Law of conservation of mass",
+          "7.2 Law of constant proportions",
+          "Why are the laws valid?",
+          "Dalton's atomic theory",
+          "Postulates of Dalton's Atomic theory :",
+          "7.3 Atoms and molecules",
+          "7.4 Why do we name elements?",
+          "7.5 Symbols of elements",
+          "7.6 Some unusual symbols",
+          "7.7 Elements with more than one\n        atom in their molecules",
+          "7.7.1 Atomicity",
+          "7.7.2 Valency",
+          "7.8 What is an ion?",
+          "7.9 Atomic mass",
+          "7.10 Molecules of compounds",
+          "7.10.1 Chemical formulae of\n  compounds",
+          "Criss - Cross Method",
+          "7.11 Molecular mass",
+          "7.11.1 Formula unit mass",
+          "7.11.2 Mole concept",
+          "7.11.3 Molar mass",
+          "7.12 Chemical Reactions",
+          "7.13 Types of Chemical Reactions",
+          "7.13.1 Chemical Combination",
+          "7.13.2 Decompostion Reaction",
+          "7.13.3 Displacement reaction",
+          "7.13.4 Double displacement reaction",
+          "7.13.5 Oxidation and Reduction",
+          "7.14 Corrosion:",
+          "7.15 Some more effects of\noxidation on everyday life",
+          "1.Combustion",
+          "2.Rising of dough with yeast",
+          "3.Bleaching of coloured objects using\nmoist chlorine",
+          "4.  Rancidity"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "What is inside the atom?",
+        "topics": [
+          "9.1 Sub-atomic Particles",
+          "9.2 Electron, Proton and Neutron",
+          "9.3 Structure of an Atom",
+          "9.3.1 Thomson's Model of the Atom",
+          "9.3.2 Rutherford's ααααα particles scattering experiment",
+          "9.3.3 Limitations of Rutherford's atomic model",
+          "Bohr's Model of the Atom",
+          "History of Atom",
+          "9.4 Distribution of electrons in different orbits (Shells)",
+          "9.4.1 Valency",
+          "9.5 What is the importance of valency?",
+          "9.5.1 Atomic number",
+          "9.5.2 Atomic mass number",
+          "9.6 Writing  symbols of atoms",
+          "9.7 Isotopes",
+          "9.7.1 Applications of isotopes"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 10,
+    "subject": "chemistry",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_2",
+        "title": "Chemical Equations",
+        "topics": [
+          "2.1 Chemical Equations",
+          "2.1.1 Writing a Chemical Equation",
+          "2.1.2 Balancing Chemical Equations",
+          "Formula units",
+          "Step 1 : Write the equation with the correct chemical formulae for each reactant and product.",
+          "Step 2 : After writing the molecular formulae of the substances the equation is to be balanced.",
+          "Step 3 : Sometimes there is a possibility that the coefficients of all the substances getting divided with a suitable number.",
+          "Step 4:  V erify the equation for the balancing of atoms on both sides of the equations.",
+          "Eg-1:  Combustion of propane (C3H8) in presence of oxygen",
+          "Step 1:  Write the unbalanced equation using correct chemical formulae for all substances.",
+          "Step 2:  Compare number of atoms of each element on both sides. Find the coefficients to balance the equation.",
+          "Step 3:  Make sure the coefficients are reduced to their smallest whole-number values.",
+          "Step 4: Check the answer. Count the numbers and kinds of atoms on both sides of the equation to make sure they are the same.",
+          "Eg-2: Iron oxide reacts with Aluminum to form iron and Aluminum trioxide.",
+          "Step 1: Write the equation using the correct chemical symbols and formulae for all the reactants and products.",
+          "Step 2: Find the suitable coefficient for the reactants and products, to equate the number of atoms of each element on both sides.",
+          "2.2 Making Chemical Equations more informative:",
+          "2.2.1 Expressing the physical state",
+          "2.2.2 Expressing the heat changes",
+          "2.2.3 Expressing the gas evolved",
+          "2.2.4 Expressing precipitate formed",
+          "2.3 Interpreting a balanced chemical equation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Acids, Bases and Salts",
+        "topics": [
+          "3.1 Chemical properties of Acids and Bases",
+          "Olfactory indicators",
+          "3.1.1 Reaction of Acids and Bases with Metals",
+          "3.1.2  Reaction of acids with carbonates and metal hydrogen carbonates",
+          "3.2  Neutralization reaction",
+          "3.2.1 Reaction of Acids with metal oxides",
+          "3.2.2 Reaction of base with non-metal oxide",
+          "Common properties of Acids",
+          "3.3  Properties of Bases",
+          "3.4  Do acids produce ions only in aqueous solution?",
+          "Reaction of Acids - bases with water",
+          "3.5 What do you observe when water is mixed with acid or base?",
+          "3.6 Strength of acids or bases",
+          "3.6.1 pH scale",
+          "3.6.2 Importance of pH in everyday life",
+          "1.  Are plants and animals pH sensitive?",
+          "2.  Is pH change cause of tooth decay?",
+          "3.   pH in our digestive system:",
+          "3.6.3 . Self defense by animals and plants through chemical war fare?",
+          "4.   What is the pH of the soil in your garden?",
+          "3.7 Salts",
+          "3.7.1 Family of salts",
+          "3.7.2 pH of Salts",
+          "3.7.3  Chemicals from common salt",
+          "3.7.4   Common salt – A raw material for chemicals",
+          "3.7.5 Sodium hydroxide from common salt",
+          "3.7.6   Bleaching Powder",
+          "3.7.7  Uses of Bleaching Powder:",
+          "3.7.8  Baking soda",
+          "Uses of sodium hydrogen carbonate",
+          "3.7.9   Washing soda (sodium carbonate)",
+          "Uses of Washing soda",
+          "3.8  Removing water of crystallisation",
+          "3.8.1   Plaster of paris (CaSO4 · ½ H2O)"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Structure of Atom",
+        "topics": [
+          "6.1 Spectrum",
+          "Wave nature of light",
+          "6.1.1  Characterstics of electromagnetic wave",
+          "The wavelength ( l) of the wave",
+          "The frequency ( u) of a wave",
+          "Electromagnetic spectrum",
+          "6.1.2 Electromagnetic spectrum",
+          "Max Planck",
+          "6.2 Bohr’s model of hydrogen atom and its limitations",
+          "Postulates of Niels Bohr",
+          "6.3  Bohr-Sommerfeld model of an atom",
+          "6.4 Quantum mechanical model of an atom",
+          "The region of space around the nucleus where the probability of finding the electron is maximum is called an orbital.",
+          "6.5 Quantum numbers",
+          "6.5.1 Principal Quantum Number (n)",
+          "6.5.2 The angular - momentum quantum number ( l)",
+          "6.5.3 The magnetic quantum number (ml)",
+          "Table-1",
+          "Table-2",
+          "Table-3",
+          "6.5.4 Spin Quantum Number (ms)",
+          "6.6   Electronic Configuration",
+          "6.6.1 The Pauli Exclusion Principle",
+          "6.6.2  Aufbau Principle",
+          "6.6.3 Hund’s Rule"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Classification of Elements- The Periodic Table",
+        "topics": [
+          "7.1 What is the Need for the arrangement of elements in an organised manner?",
+          "7.2  Dobereiner’s law of Triads",
+          "7.2.1  Limitations",
+          "7.3 Newlands’ law of Octaves",
+          "7.4  Mendeleeff’s Periodic Table",
+          "7.4.1 The Periodic Law",
+          "7.4.2 Salient features of the Mendeleeff’s periodic table",
+          "1. Groups and sub-groups",
+          "2. Periods",
+          "3. Predicting the properties of missing elements",
+          "4. Correction of atomic weights",
+          "5. Anomalous series",
+          "7.4.3  Limitations of Mendeleeff’s periodic table",
+          "1. Anomalous pair of elements",
+          "2. Dissimilar elements placed together",
+          "7.5 Modern Periodic Table",
+          "The modern periodic law",
+          "7.5.1  Positions of elements in the Modern Periodic Table",
+          "7.5.2 Groups",
+          "7.5.3 Periods",
+          "7.5.4  Metals and Non metals",
+          "7.5.5  Periodic properties of the elements in the modern table",
+          "7.6  Properties of elements and their trends in Groups and in Periods",
+          "7.6.1 Valence",
+          "7.6.2  Atomic radius",
+          "Variation of atomic radii in group",
+          "Variation of atomic radii in period",
+          "7.6.3 Ionization Energy or Ionization Potential",
+          "7.6.4 Electron affinity - Electron gain enthalpy",
+          "7.6.5  Electronegativity",
+          "7.6.6  Metallic and Non-Metallic Properties"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Chemical Bonding",
+        "topics": [
+          "8.1 Lewis symbols ( or) Lewis dot structures:",
+          "8.2 Electronic theory of valence by Lewis and Kossel",
+          "8.3  Octet rule:",
+          "8.4  Ionic and Covalent bonds",
+          "8.4.1  Ionic bond",
+          "Formation of ionic bond",
+          "Formation of sodium chloride (NaC l):",
+          "Formation of magnesium chloride (MgC l2):",
+          "Formation of di sodium monoxide(Na2O):",
+          "Formation of aluminium chloride (AlC l3):",
+          "The arrangement of ions in ionic compounds",
+          "Factors affecting the formation of cation and anion:",
+          "8.4.2 Covalent bond",
+          "Formation of O2 molecule",
+          "Nitrogen (N2) molecule",
+          "Methane (CH4) molecule",
+          "Ammonia (NH3) molecule",
+          "Water (H2O) molecule",
+          "8.4.3 The Bond lengths and Bond energies of covalent bonds",
+          "8.5 Draw backs of electronic theory of valence",
+          "8.6  Valence shell electron pair repulsion theory",
+          "8.7  Valence bond theory",
+          "8.7.1 Consider C l-Cl molecule",
+          "8.7.2  Formation of N2 molecule",
+          "8.7.3 Formation of O2 molecule",
+          "8.8  Valence bond theory-Hybridisation",
+          "8.8.1 Formation of BeC l2 (Beryllium chloride) molecule",
+          "8.8.2  Formation of BF3 molecule",
+          "8.8.3 Formation of NH3 molecule",
+          "8.8.4  Shape of water molecule",
+          "8.9  Properties of ionic and covalent compounds"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Principles of Metallurgy",
+        "topics": [
+          "11.1 Occurrence of the metals in nature",
+          "ORE Formula          metal ORE    Formula           metal",
+          "11.2  Extraction of metals from the ores:",
+          "I) Concentration or Dressing",
+          "II) Extraction of crude metal",
+          "III)Refining or purification of the metal.",
+          "11.2.1   Concentration or Dressing of the ore",
+          "Concentration of ore",
+          "Hand picking",
+          "Washing",
+          "Froth flotation",
+          "Magnetic Separation",
+          "Chemical Reduction",
+          "Auto Reduction",
+          "Displacement method",
+          "Electrolytic reduction",
+          "Extraction of crude metal from the ore",
+          {
+            "Metals of high reactivity": [
+              "Electrolysis of molten ore"
+            ]
+          },
+          {
+            "Metals of medium reactivity": [
+              "Sulphide ore",
+              "Oxides",
+              "Calcination",
+              "Roasting",
+              "Metal oxide",
+              "Reduction of metal"
+            ]
+          },
+          {
+            "Metals of low reactivity": [
+              "Refining"
+            ]
+          },
+          {
+            "Table-3": [
+              "Name of the method",
+              "Process",
+              "Hand picking",
+              "Washing",
+              "Froth flotation",
+              "Magnetic separation"
+            ]
+          },
+          {
+            "Table-4": [
+              "Metals",
+              "Action of Oxygen",
+              "Reaction with cold water",
+              "Reaction with steam",
+              "Reaction with dilute strong Acids",
+              "Reaction with chlorine on heating"
+            ]
+          },
+          "1 1.2.2  Extraction of crude metal from the ore",
+          "Reduction of purified ore to the metal",
+          "A) Extraction of Metals at the top of the activity series (K, Na, Ca, Mg and Al)",
+          "B)  Extraction of metals in the middle of the activity series (Zinc, iron, tin, lead and copper)",
+          "Roasting",
+          "i) Reduction of metal oxides with carbon",
+          "ii) Reduction of oxide ores with CO",
+          "iii) Auto (self) reduction of sulphide ores",
+          "iv)Reduction of ores (compounds) by more reactive metals.",
+          "Thermite Reactions",
+          {
+            "C) Extraction of metals at the bottom of the activity series (Ag, Hg etc)": [
+              "Displacement from aqueous solutions"
+            ]
+          },
+          "11.2.3  Purification of the crude metal",
+          "Refining of the metal",
+          "a) Distillation",
+          "b) Poling",
+          "c) Liquation",
+          "d)   Electrolysis",
+          "Electrolytic refining",
+          "11.3  Corrosion",
+          "11.3.1  Prevention of corrosion",
+          "11.4  A few important processes used in metallurgy",
+          "11.4.1  Smelting",
+          "11.4.2 Roasting",
+          "11.4.3  Calcination",
+          "11.4.4  Flux",
+          "11.4.5 Furnace",
+          "Hearth",
+          "Chimney",
+          "Fire box",
+          "Key words"
+        ]
+      },
+      {
+        "chapter_id": "12",
+        "title": "Carbon and its Compounds",
+        "topics": [
+          "Electronic configuration of carbon (ground state) 6C: 1s2 2s2 2p2",
+          "The possibility of bonds formation by a carbon atom is as follows:",
+          "Electronic configuration of carbon (excited state): 1s2 2s1 2px1 2py1 2pz1",
+          "12.1 Promotion of an electron",
+          "12.2 Hybridisation",
+          "12.2.1 sp2 hybridisation",
+          "12.2.2 sp hybridisation",
+          "12.3 Allotropes of Carbon",
+          "12 3.1 Amorphous forms",
+          "12.3.2 Crystalline forms",
+          "(i) Diamond",
+          "(ii) Graphite",
+          "(iii) Buckminsterfullerene (C60)",
+          "(iv) Nanotubes",
+          "12.4 Versatile nature of carbon",
+          "12.4.1 Catenation",
+          "12.5 Hydrocarbons",
+          "12.5.1 Open and closed chain hydrocarbons",
+          "12.5.2 Saturated and unsaturated hydrocarbons",
+          "12.6 Binding of carbon with other elements",
+          "12.7 Functional groups in carbon compounds",
+          "12.7.1 Carbon compounds with C, H, X.",
+          "Halo Hydrocarbons",
+          "12.7.2 Carbon compounds with C, H, O.",
+          "(i) Alcohols",
+          "(ii) Aldehydes",
+          "(iii) Ketones",
+          "(iv) Carboxylic acids",
+          "(v) Ethers",
+          "(vi) Esters",
+          "12.7.3 Compounds containing C, H, N",
+          "Amines",
+          "12.8 Isomerism",
+          "12.9 Homologous series",
+          "Table-1: Homologous series of Alkanes",
+          "Table-2:Homologous series of Alkenes",
+          "Table-3: Homologous series of Alkynes",
+          "12.10 Nomenclature of organic compounds",
+          "12.10.1 The number of carbon atoms present in the molecules or principle chain is called word root.",
+          "12.10.2 Prefix: The substituents in the molecule are shown as the prefix.",
+          "(i) Primary prefix",
+          "(ii) Secondary prefix",
+          "(iii) Numerical prefix",
+          "(iv)Number prefix",
+          "12.10.3 Suffix : The functional groups in the molecule are shown as the suffix.",
+          "(i) Primary suffix",
+          "(ii) Secondary suffix",
+          "12.11 Numan Clature- Rules",
+          "12.11.1 Numbering carbon atoms",
+          "12.11.2 Longest Chain rule",
+          "12.11.3 Lowest Number rule",
+          "12.11.4 Lowest Sum rule",
+          "12.11.4 Alphabetical Order",
+          "12.12 How to draw structure of a compound",
+          "12.13 Chemical properties of carbon compounds",
+          "1) Combustion",
+          "2) Oxidation reactions",
+          "3) Addition reactions",
+          "4) Substitution reactions",
+          "12.13.1 Combustion reactions",
+          "12.13.2 Oxidation reactions",
+          "12.13.3 Addition reactions",
+          "12.13.4 Substitution reactions",
+          "12.14 Some important carbon compounds",
+          "12.14.1 Ethanol (Ethyl alcohol)",
+          "Properties",
+          "Chemical properties",
+          "Action of conc. H2SO4",
+          "12.14.2 Ethanoic acid (Acetic acid or CH3COOH)",
+          "Chemical Reactions",
+          "Acidity: (Reaction with metals and alkalies)",
+          "Esterification Reactions",
+          "12.14.3 Esterification",
+          "12.15 Soaps – Saponification and Micelles",
+          "12.15.1 Saponification reaction",
+          "12.15.2 Micelle",
+          "12.15.3 Cleansing action of soap"
+        ]
+      }
+    ]
+  }
+]

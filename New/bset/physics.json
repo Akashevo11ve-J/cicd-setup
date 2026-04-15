@@ -1,0 +1,1143 @@
+[
+  {
+    "grade": 6,
+    "subject": "physics",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_2",
+        "title": "Playing with Magnets",
+        "topics": [
+          "Story of  Magnet",
+          "Magnets of different shapes",
+          "Magnetic materials",
+          "non-magnetic materials",
+          "Poles of a Bar Magnet",
+          "directional property",
+          "Magnetic Compass",
+          "Attraction and Repulsion Between Two Magnets",
+          "Earth as a Magnet:",
+          {
+            "Make your own magnet": [
+              "Make your own magnetic compass"
+            ]
+          },
+          "Magnetic induction",
+          "Keywords"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "SIMPLE ELECTRIC CIRCUIT",
+        "topics": [
+          "Cell",
+          "Terminals of a cell",
+          "Bulb",
+          "Filament",
+          {
+            "Simple electric circuits": [
+              "Closed path",
+              "Electric current flow",
+              "Electric circuit"
+            ]
+          },
+          "Fused bulb",
+          "Switch",
+          "Torch-light",
+          "Conductors and insulators",
+          "The story of bulb",
+          "Tungsten"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "LEARNING HOW TO MEASURE",
+        "topics": [
+          "We use metre as a unit of  length",
+          "Activity-1:  Measuring Lengths",
+          "The story of  the scale",
+          "One metre is a standard unit of length",
+          "1 metre = 100 centimetres",
+          "1 centimetre = 10 millimetres",
+          "Activity-2:  How do we measure?",
+          "How to measure length accurately with a meter scale",
+          "Precautions while using a meter scale",
+          "How can we measure a small thickness?",
+          "Activity-3:  Measuring thickness of\na coin",
+          "Activity-4:  Measuring the length of\na cur ved path",
+          "Measurement of area",
+          "Activity-5:  Observe the drawing\nchart figures given below",
+          "Area is the measure of the extent of\nplane surface occupied by an object.",
+          "Square centimetre (cm2) is a standard\nunit to measure the area of a surface.",
+          "Activity-6:  Measuring the area of a regular surface",
+          "Activity-6:  Measurement o\nf areas\nirregular plane surface",
+          "Measurement of  volume",
+          "Volume is a measure of  the extent of\nspace occupied by a body.",
+          "Measurement of volume of liquids",
+          "Volume of liquids is expressed in liters(l) or millilitres (ml).",
+          "Measuring cylinder",
+          "Cubic centimetre is a standard unit for measurement of  volume of  solids.",
+          "Therefore, we can say volume of a box= length × breadth × height",
+          "1 ml = 1 cm3",
+          "Measurement of  volume of  irregular\nsolids using a measuring cylinder"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "LIGHT, SHADOWS AND IMAGES",
+        "topics": [
+          "Light Source",
+          "Shadows",
+          {
+            "Opaque, Transparent and Translucent Substances": [
+              "Opaque substances",
+              "Transparent substances",
+              "Translucent substances"
+            ]
+          },
+          "We need a screen",
+          "Can we guess the object by observing its shadow?",
+          "Colour of a shadow",
+          "Shape of shadow",
+          "Getting different shapes of shadows of a single object",
+          "Pinhole camera",
+          "Image with a magnifying lens",
+          "Differences between Image and Shadow",
+          "Reflection"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 7,
+    "subject": "physics",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_4",
+        "title": "MOTION - TIME",
+        "topics": [
+          "Motion - Rest",
+          "Uniform - non uniform motion",
+          "Types of Motion",
+          "Translatory motion",
+          {
+            "Movement of body": [
+              "Straight line",
+              "Curved line"
+            ]
+          },
+          {
+            "Identifying types of motion": [
+              "Rectilinear (R)",
+              "Curvilinear (C)",
+              "Rectilinear and curvilinear (RC) motion."
+            ]
+          },
+          "Rotatory motion:",
+          "Oscillatory motion:",
+          "Slow and Fast Motion",
+          "Time:",
+          "Units of time:",
+          "Speed",
+          "Units of speed"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Heat -  Measurement",
+        "topics": [
+          "Warmness and Coolness",
+          {
+            "Heat – A form of  Energy": [
+              "Conversion of  Energy"
+            ]
+          },
+          "Heat and Temperature",
+          {
+            "Thermometer": [
+              "Properties of Mercury",
+              "Properties of Alcohol",
+              "How to use a thermometer?"
+            ]
+          },
+          "Six’s Maximum - minimum thermometer",
+          {
+            "Clinical Thermometer": [
+              "Reading the Fahrenheit Scale on thermometer",
+              "How to use a clinical thermometer?"
+            ]
+          },
+          "Thermister thermometer",
+          "Digital thermometer",
+          "Laboratory thermometer"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "WEATHER - CLIMATE",
+        "topics": [
+          "6.1Weather",
+          "6.2Measuring components of weather",
+          "6.2.1  Measuring temperature of a place",
+          "Temperature",
+          "Six’s maximum minimum thermometer (MMT)",
+          "6.3Measuring rainfall",
+          "Rain gauge",
+          "Udometer",
+          "Pulvinometer",
+          "Anthrometer",
+          "6.4Direction of the wind",
+          "Anemometer",
+          "6.5Humidity",
+          "6.6What is Climate?",
+          "6.6.1 Climate and life style"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "ELECTRIC CURRENT - IT’S EFFECT",
+        "topics": [
+          "7.1 Cell / Battery",
+          "7.2 Symbols of electric Components",
+          "7.3 Circuit Diagram",
+          "7.4Series and Parallel circuits",
+          "7.4.1 Connecting Electric Bulbs in Series",
+          "7.4.2 Connecting bulbs in parallel:",
+          "7.5Heating effects of Electric Current",
+          "7.5.1 Tube Lights and Compact Fluorescent Lamps (CFLs)",
+          "7.5.2 Electric Fuses",
+          "7.5.3 Miniature Circuit Breaker (MCB):",
+          "7.5.4 Electricity in our home:"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Air - Winds - Cyclones",
+        "topics": [
+          "Air and Winds",
+          "Does Air exerts pressure?",
+          "Air Expands on Heating:",
+          "Hot air is lighter than cold air",
+          "Effects of Moving air",
+          "Wind - Uneven Heating on the Earth",
+          "Uneven heating between the equator and the poles.",
+          "Uneven heating of land and water",
+          "Clyclones",
+          "How Cyc lones are Formed",
+          "Destruction by Cyclones",
+          "Cyclones – Do’s and Don’ts:-",
+          "Post cyclone measures",
+          "Advanced Technology has helped",
+          "Key words:"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "REFLECTION OF LIGHT",
+        "topics": [
+          "9.1 Images",
+          "9.2 Rays of light",
+          "9.3 Let us observe how light (ray of  light) reflectss.",
+          "9.3.1 Laws of  reflection",
+          "9.4 Make your own periscope",
+          "9.5 Images in a mirror",
+          "9.6 You and Your image",
+          "9.6.1 Size of the image",
+          "9.7 Images are many . . . Object is one. .",
+          "9.8 Multiple images",
+          "9.9 A Garden in box",
+          "9.10   Make your own  Kaleidoscope",
+          "9.11   Mirrr used in Vehicle",
+          "9.12  Reverse Image",
+          "9.13 Concave and Convex mirrors",
+          "9.13.1 Let us form images with Spherical mirrors",
+          "9 . 1 4 Types of Images",
+          "Key words:",
+          "What we have learnt?"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 8,
+    "subject": "physics",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Force",
+        "topics": [
+          "1.1 What is force?",
+          "1.2 Ty pes of forces",
+          "Contact forces and forces at a distance (Field Forces)",
+          "1.3 Forces acting at a distance (field forces)",
+          "1.3.1 Magnetic force",
+          "1.3.2 Electrostatic force",
+          "1.3.3 Gravitational force",
+          "1.3.4 Explaining of force acting at a distance: concept of field",
+          "1.4 Contact Forces",
+          "1.4.1 Muscular Force",
+          "1.4.2 Force of Friction",
+          "1.4.3 Normal force",
+          "1.4.4 Tension",
+          "1.5 Net force",
+          "1.6 How to calculate net force from free body diagrams",
+          "1.7 What Forces can do?",
+          "1.8 Other effects of force",
+          "1.9 Pressure"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Friction",
+        "topics": [
+          "2.1 Force of friction and its Types",
+          {
+            "Lab Activity": [
+              "Aim: Understanding the nature of friction and the concept of static friction."
+            ]
+          },
+          "Sliding friction",
+          "static friction",
+          "2.2Observing the variation of friction",
+          "static friction is a self adjusting force",
+          "sliding fricition",
+          "2.3 Factors affecting  friciton",
+          "Effect of roughness on frictional force",
+          "Irregularities on the two surfaces lock into one another",
+          "Effect of area of contact on frictional force",
+          "Effect of normal force on friction",
+          "Friction  Normal Force",
+          "2.4  Is friction necessary?",
+          "2.5 Increasing and decreasing friction",
+          "Activity-7",
+          "Lubricants",
+          "Effect of rollers on friction",
+          "rolling friction",
+          "Activity-9",
+          "ball bearings",
+          "2.6 Fluid friction",
+          "Activity -10",
+          "The frictional forces between the liquid layers",
+          "The frictional force exerted by fluids is also called \"drag\""
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Synthetic Fibres and Plas tics",
+        "topics": [
+          "3.1 Clothes made of na tural fibres",
+          "Synthetic Fibres and Plastics",
+          "What is synthetic fibre?",
+          {
+            "3.2 Some synthetic fibres": [
+              "Activity–3",
+              "Identifying fibres – burning test"
+            ]
+          },
+          "3.2.1 Nylon",
+          {
+            "Activity -4": [
+              "How strong is nylon?"
+            ]
+          },
+          "3.2.2 Rayon",
+          {
+            "Activity-5": [
+              "Why do we combine fibres?"
+            ]
+          },
+          "Blending",
+          "3.3 Acrylic",
+          "3.3.1 Why  synthetic fibres?",
+          "3.4 Polyesters",
+          "3.5 How can you say a bottle is PET bottle?",
+          {
+            "Activity-6": [
+              "Collect different kinds of water bottles of your classmates and look at them carefully."
+            ]
+          },
+          {
+            "Activity -7": [
+              "Identification of various articles with recycling codes"
+            ]
+          },
+          "Plastics around us",
+          "3.6 What is plastic?",
+          "3.7 Types of Plastics",
+          {
+            "Activity-8": [
+              "Let’s take two bottles made up of plastic."
+            ]
+          },
+          "Thermoplastics",
+          "Thermosetting plastics",
+          {
+            "Lab Activity": [
+              "Identifying thermoplastic and thermosetting plastics by flame test"
+            ]
+          },
+          "3.7.1 Thermoplastic",
+          "3.7.2 Thermoset ting Plastic",
+          "3.7.3 Why do we prefer plastics?",
+          "3.7.4 Plastics and environment",
+          "3.7.5  Reduce, Recycle, Reuse and Recover – 4R principle",
+          "Reduce",
+          "Reuse",
+          "Recycle",
+          "Recycling code",
+          "Uncoded plastics",
+          "Recover",
+          "Key words"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Sound",
+        "topics": [
+          "5.1 Production of sound",
+          {
+            "5.2 Musical instruments": [
+              "Activity-5",
+              "Activity-6"
+            ]
+          },
+          "5.3 Sounds produced by human beings",
+          "5.3.1 Structrure of  lary nx or vioce box",
+          "5.4 Propagation of sound",
+          "5.4.1 Sound needs a medium to propagate",
+          "Activity-8",
+          "Activity-9",
+          "Activity-10",
+          "5.5 Structure and functioning of the eardrum",
+          "5.6 Characteristics of sound",
+          "Loudness, feebleness and amplitude",
+          "Lab Activity -1",
+          "Lab Activity-2",
+          "The shrillness of a sound is known as pitch.",
+          "The number of vibrations per second (vib/sec) is called frequency .",
+          "5.7Normal sound consists of mixed frequencies",
+          "5.8 Music and Noise",
+          "5.9 Audible range",
+          "5.10 Sound pollution",
+          "5.10.1 Effects of sound pollution",
+          "5.10.2 Measures t o control sound pollution"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Reflection of light by plane surfaces",
+        "topics": [
+          "6.1 Formation of image by a pinhole camera",
+          "6.2 Plane mirror",
+          {
+            "6.2.1 Reflection of light by plane mirrors": [
+              "Lab Activity"
+            ]
+          },
+          "6.2.2 Plane of reflection",
+          "6.2.3 Formation of an image by a plane mirror",
+          "Case - I",
+          "Case II",
+          "6.2.4 Characteristics of an image formed by a plane mirror",
+          "6.2.5 Uses of plane mirrors in our daily life",
+          "What we have learnt?",
+          "Key words"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Electrical Conductivity of Liquids",
+        "topics": [
+          "Electrical Conductivity of Liquids",
+          "9.1 Electrical conductivity of liquids",
+          "9.1.1 When do liquids conduct electricity?",
+          {
+            "9.1.2 Chemical effect of electric current": [
+              "Activity-4",
+              "Fig. 4"
+            ]
+          },
+          "9.2 Electrolytic cell",
+          {
+            "Do you know?": [
+              "How the first cell was made?"
+            ]
+          },
+          "Activity -5",
+          "9.3 Electroplating",
+          {
+            "Lab Activity": [
+              "Aim: Coating an iron key with copper by electroplating method.",
+              "Fig. 6: Electro plating"
+            ]
+          },
+          "9.3.1 Electroplating uses",
+          "What we have learnt?",
+          "Key words"
+        ]
+      },
+      {
+        "chapter_id": "chapter10",
+        "title": "Some Natural Phenomena",
+        "topics": [
+          "10.1 Lightning",
+          "The Sparks that the Greeks Knew About!",
+          "10.2 Charging by rubbing",
+          {
+            "Lab Activity": [
+              "Aim:  To find the effects of charged bodies which have b een rubbed by different materials.",
+              "Material required: A ball pen refill, a balloon, a comb, an eraser, a steel spoon, polythene sheet, plain paper, woollen cloth, etc.",
+              "Procedure :"
+            ]
+          },
+          "10.3 Types of charges and their interaction",
+          "Activity-2",
+          "Activity-3",
+          "Activity-4",
+          "Transfer of charge",
+          "10.4 The Story of Lightning",
+          "10.4.1 Lightning Safety",
+          "Lightning Conductor",
+          "10.5 Earthquakes",
+          "Activity-5",
+          "10.5.1 What is an Earthquake?",
+          "10.6 What Causes an Ear thquake?",
+          "Activity-6",
+          "10.6.1 Protection against earthquakes",
+          "Inside the house:",
+          "Outside the house:",
+          "10.6.2 Earth quakes in Telangana"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Stars and Solar System",
+        "topics": [
+          "11.1 Observing the changes in the length of shadow",
+          "11.1.1 Understanding the North – South movement of the sun.",
+          "11.1.2 Make your own sun-dial",
+          "11.1.3 Observing phases of the moon",
+          "11.1.4 A Moon-shaped lemon",
+          "11.2 The surface of the moon",
+          "11.3 Solar Eclipse",
+          {
+            "Types of solar eclipse": [
+              "Total Solar eclipse",
+              "Partial Solar eclipse",
+              "Annular eclipse",
+              "Hybrid eclipses"
+            ]
+          },
+          "11.4 Lunar eclipse",
+          {
+            "Types of lunar eclipse": [
+              "Total Lunar eclipse",
+              "Partial Lunar eclipse",
+              "Penumbral Lunar eclipse"
+            ]
+          },
+          "11.5 Let us know something about stars",
+          "Activity -7",
+          "Activity -8",
+          "11.5.1 The solar system",
+          "The Sun",
+          "The planets",
+          "Mercury (Budhudu)",
+          "Venus (Sukrudu)",
+          "The Earth (Bhoomi)",
+          "Mars (Kujudu / Angarakudu)",
+          "Jupiter (Brihaspati)",
+          "Saturn (Shani)",
+          "Uranus and Neptune",
+          "Table-2  : Comparison between planets",
+          "11.6 Some other members of the solar system",
+          "Asteroids",
+          "Comets",
+          "Meteors and Meteorites",
+          "Artificial satellites",
+          "11.7 How did people come to an understanding that earth is spherical?",
+          "11.8 How did people come to an understanding that earth rotates on its own axis?"
+        ]
+      },
+      {
+        "chapter_id": "chapter12",
+        "title": "Graphs of Motion",
+        "topics": [
+          "Relation between speed and the slope of a graph",
+          "Graphs of stationary objects.",
+          "Graphs of objects moving at different uniform speeds",
+          "Graphs of non uniform motion"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 9,
+    "subject": "physics",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_2",
+        "title": "MOTION",
+        "topics": [
+          "2.1 What is relative ?",
+          "Right and Left",
+          "Is day or night just now ?",
+          "Up and down",
+          "Motion is relative",
+          "2.2 Distance and displacement",
+          "2.3 Average speed and average velocity",
+          "2.4 Speed and Velocity",
+          "2.4.1 Measuring the average velocity",
+          "2.4.2 Speed and Velocity",
+          "2.5 Uniform motion",
+          "2.6 Non uniform motion",
+          "2.7 Acceleration",
+          "2.8 Equations of uniform accelerated motion",
+          "2.9 Sign Convention Rules",
+          "Lab Activity",
+          "Example 1",
+          "Example 2",
+          "Example 3",
+          "Example 4",
+          "Example 5",
+          "Key words",
+          "What we have learnt",
+          "I. Reflections on concepts",
+          "II. Application of concepts",
+          "III. Higher Order Thinking questions",
+          "Multiple choice questions",
+          "Suggested Experiments",
+          "Suggested Projects"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Laws of Motion",
+        "topics": [
+          "Philosophers of the ancient world were very much interested in the study of motion.",
+          "Galileo Galilee stated that an object in motion will remain in same motion as long as no external force is applied on it.",
+          "3.1 First law of motion",
+          "Activity-1",
+          "Activity-2",
+          "3.2 Inertia and mass",
+          "Activity-3",
+          "Example 1",
+          "3.3 Second law of motion",
+          "3.3.1 Linear momentum",
+          "Activity-4",
+          "Activity-5",
+          "Example 2",
+          "3.4 Third law of motion",
+          "Activity- 6",
+          "Activity-7",
+          "Lab Activity",
+          "3.5 Law of conservation of momentum",
+          "3.6 Impulse",
+          "Activity-8",
+          "Example 3"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Refraction of Light at Plane Surfaces",
+        "topics": [
+          "4.1 Refraction",
+          "Fermat’s principle",
+          "4.2 Refractive index",
+          "Absolute refractive index (n)",
+          "4.2.1 Relative refractive index",
+          "Lab Activity",
+          "Snell’s law",
+          "Derivation of Snell’s Law :",
+          "4.3 Total Internal Reflection",
+          "Critical angle",
+          "Total internal reflection",
+          "4.4 Mirages",
+          "4.5 Applications of total internal reflection",
+          {
+            "Applications of total internal reflection": [
+              "Brilliance of diamonds",
+              "Optical fibres"
+            ]
+          },
+          "4.6 Refraction Through a Glass Slab",
+          "Lateral shift",
+          "Vertical shift"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "GRAVITATION",
+        "topics": [
+          "5.1 Uniform circular motion",
+          "Uniform circular motion  is motion of the body with a constant speed in a circular path",
+          "The force that causes this change in velocity keeps the stone moving along the circular path is acting towards the centre.This force is called centripetal force.",
+          "The centripetal acceleration is given by the formula, a\nc = 2v\nr",
+          "Hence the centripetal force-\nFc = 2mv\nr (QFc=mac )",
+          "5.2 Universal law of gravitation",
+          "Newton assumed that there exists a force between any two objects in the Universe. This force\nis named as Gravitational force. The\ngeneralised law of gravitation as stated by\nNewton is \"E every body in the universe\nattracts other body with a force which is\ndirectly proportional to the product of their\nmasses and inversely proportional to the square\nof the distance between them\".",
+          "Derivation of the Universal\nLaw of Gravitation",
+          "5.3 Free fall",
+          "5.4 Weight",
+          "5.5 Centre of gravity",
+          "5.6 Balancing a ladder",
+          "The center of gravity is simply the\naverage position of weight distribution.\nThe point where total weight appears to act\nis called centre of gravity .",
+          "5.7 Stability",
+          "Key words",
+          "What we have learnt",
+          "I.  Reflections on concepts",
+          "II.  Application of concepts",
+          "III.  Higer Order Thinking questions",
+          "Multiple choice questions",
+          "Suggested Experiments",
+          "Suggested Projects"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "FLOATING BODIES",
+        "topics": [
+          "8.1 Have a little fun",
+          "8.2  Comparing density –\n        relative density",
+          "Relative density of an object =",
+          "8.3 Relative density of liquids",
+          "Relative density of a liquid =",
+          "Example 1",
+          "8.4 When do objects float on\nwater?",
+          "8.5 Upward force in liquids",
+          "Activity -7\nObserving air pressure",
+          "8.6 Measuring  atmospheric pressure",
+          "Pressure at a depth “h” in a liquid",
+          "Pressure difference at different levels of depth in fluids",
+          "Buoyancy",
+          "8.7 Measuring the force of buoyancy",
+          "8.8 Archimedes' principle",
+          "8.8.1  Pascal's principle",
+          "Key words",
+          "What we have learnt"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "WORK AND ENERGY",
+        "topics": [
+          "Work",
+          "10.1 Scientific meaning of the work",
+          "Situation - 1",
+          "Situation - 2",
+          "Situation - 3",
+          "Situation - 4",
+          "10.2 Definition of work in science",
+          "Example 1",
+          "Example 2",
+          "Example - 3",
+          "Example  4",
+          "10.3 Idea of Energy",
+          "Case -1",
+          "Case -2",
+          "10.3.1 Energy transfer and the work",
+          "10.3.2 Kinetic energy",
+          "Mathematical expression for kinetic energy",
+          "Example 5",
+          "Example  6",
+          "10.3.3 Potential energy",
+          "Activity-4",
+          "Activity-5",
+          "Activity-6",
+          "Potential energy of an object at height (or) Gravitational potential energy",
+          "Example 7",
+          "Example 8",
+          "10.4 Mechanical energy",
+          "Activity-7",
+          "Conservation of energy",
+          "Table -2: Energy conversions taking place in nature",
+          "Table -3 Energy conversions taking place in  day to day activities.",
+          "Activity - 8",
+          "Conservation of mechanical energy",
+          "Law of conservation of energy",
+          "Activity-9",
+          "Power",
+          "Example 9",
+          "Example 10",
+          "10.5 SOURCES OF ENERGY",
+          "Fuels:",
+          "Renewable sources of energy",
+          "10.5.1.  Solar Energy:",
+          "Solar cells",
+          "Fig. 16",
+          "10.5.2.  Bio mass energy",
+          "2(a)  Bio gas",
+          "10.5.3.  Energy from Sea",
+          "10.5.4 Tidal Energy",
+          "Fig. 17",
+          "Ocean Thermal Energy (OTE)",
+          "10.5.5 Geo Thermal Energy",
+          "Fig. 19",
+          "10.5.6 Wind energy",
+          "Fig. 20",
+          "10.5.7 Atomic Energy",
+          {
+            "I. Nuclear fission": [
+              " 235U92+ 1n0à 139Ba56+ 94Kr36 + 31n0 + Energy"
+            ]
+          },
+          "10.6 Nuclear fusion",
+          " 2H1  +   2H1  à 3He2  +  1n0  +   Energy",
+          "Key words"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "HEAT",
+        "topics": [
+          "11.1 Thermal equilibrium-heat and temperature",
+          "Heat",
+          "Activity-2",
+          "“Heat is a form of energy in transit, that flows from a body at higher temperature to a body at lower temperature.”",
+          "Temperature in kelvin = 273 + temperature in degree celsius",
+          "K = 273 + T",
+          "11.2 Temperature and Kinetic         energy",
+          "“The average kinetic energy of the molecules is directly proportional to the absolute temperature” (KE T)µ",
+          "fig-1 Hot waterCoconut\noilThermometer\nLid",
+          "11.3 Specific Heat",
+          "Activity 5",
+          "Activity 6",
+          "Q µ m   (when DT is constant) ….(1)",
+          "Q µDT  ( when ‘m’ is constant ) ….(2)",
+          "Q µ mDT      ]   Q = mS DT",
+          "Where ‘s’ is a constant for a given\nsubstance. This constant is called “specific\nheat” of the substance.",
+          "             Q\n                S =    ––––\n                        m DT",
+          "The specific heat of a substance is the\namount of heat required to raise the\ntemperature of unit mass of the substance\nby one unit.",
+          "·How much heat energy is required to\nraise the temperature of unit mass of\nsubstance by 1°C ?",
+          "CGS unit of specific heat is cal/g-oC\nand SI unit of it is J / kg - K",
+          "1 cal/g- oC = 1 kcal /kg-K\n= 4.2 x 103J/kg-K",
+          {
+            "Substance      Specific heat": [
+              "In cal/g-oC In  J/kg-K",
+              "Lead 0.031 130",
+              "Mercury 0.033 139",
+              "Brass 0.092 380",
+              "Zinc 0.093 391",
+              "Copper 0.095 399",
+              "Iron 0.115 483",
+              "Glass(flint) 0.12 504",
+              "Aluminum 0.21 882",
+              "Kerosene oil 0.50 2100",
+              "Ice 0.50 2100",
+              "Water 1 4180",
+              "Sea water 0.95 3900"
+            ]
+          },
+          "11.4 Applications of Specific heat\ncapacity",
+          "11.5 Method of mixtures",
+          "Activity - 7",
+          "Situation-1:",
+          "Situation-2:",
+          "Situation-3:",
+          "T = 1 1 22\n12TTmm\nmm+\n+",
+          "Principle of method of mixtures",
+          "When two or more bodies at different\ntemperatures are brought into thermal\ncontact, then net heat lost by the hot bodies\nis equal to net heat gained by the cold bodies\nuntil they attain thermal equilibrium. (If heat\nis not lost by any other process)",
+          "Net heat loss = Net heat gain",
+          "This is known as principle of method\nof mixtures.",
+          "11.6 Determination of Specific\n         heat of a solid",
+          "Aim:  To find the specific heat of given\nsolid.",
+          "Material required: calorimeter,\nthermometer, stirrer, water, steam heater,\nwooden box and lead shots.",
+          "Procedure:  Measure the mass of the\ncalorimeter along with stirrer.",
+          "Heat lost by the solid  =  Heat gain by the\ncalorimeter  +  Heat gain by the water",
+          "(m3- m2 ) Sl(T2-T3)  =\nm1 Sc(T3-T1)+(m2-m1) Sw(T3-T1)",
+          "      Sl =  ––––––––––––––––––––\n            (m3-m2)(T2-T3)",
+          "Evaporation",
+          "Activity 8",
+          "“The process of escaping of\nmolecules from the surface of a liquid at\nany temperature is called evaporation”",
+          "Activity 9",
+          "Effect of surface area, Humidity and\nwind speed on evaporation",
+          "We can also define evaporation as\n“the change of phase from liquid to gas that\noccurs at the surface of the liquid”. It is a\ncooling process, because the particles of\nliquid continuously give up their energy to\nthe particles that are escaping from the\nsurface.",
+          "11.7 Condensation",
+          "Activity 10",
+          "Condensation can also be defined as\n“the phase change from gas to liquid”.",
+          "11.8 Humidity",
+          "11.9 Dew and Fog",
+          "11.10 Boiling",
+          "Activity 11",
+          "“Boiling is a process in which the\nliquid phase changes to gaseous phase at a\nconstant temperature at a given pressure.”",
+          "This temperature is called boiling point of\nthe liquid.",
+          "The heat energy required to change 1gm\nof liquid to gas at constant temperature is\ncalled latent heat of vapourization.",
+          "Let us now consider the transformation\nof ice into water.",
+          "·Why does an ice cube get converted into\nwater?",
+          "11.11 Melting",
+          "Activity 12",
+          "The Heat energy required to convert\n1gm of solid completely into liquid at a\nconstant temperature is called Latent heat\nof fusion.",
+          "The process in which solid phase\nchanges to liquid phase at a constant\ntemperature is called melting. This constant\ntemperature is called melting point.",
+          "Freezing of water takes place at 0°C\ntemperature and at one atmospheric\npressure.",
+          "Activity 13",
+          "In short, we say that water ‘expands’\n(increases in volume) on freezing!",
+          "Thus the density of ice is less than\nthat of water and this explains why ice\nfloats on water.",
+          "11.12 Freezing",
+          "“The process in which a substance in\nliquid phase changes to solid phase by\nlosing  some of its energy is called\nfreezing .”"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "SOUND",
+        "topics": [
+          "12.1 Sound is a form of energy",
+          "12.2 Production of sound",
+          "12.3 How does sound travel?",
+          "12.3.1 Propagation of Sound",
+          "12.4 Types of waves",
+          "12.4.1 Sound waves are longitudinal",
+          "12.5 Characteristics of the sound wave",
+          "12.5.1. Wave length",
+          "12.5.2.  Amplitude",
+          "12.5.3 Time period and frequency",
+          "12.6 Speed of Sound wave",
+          "Sonic boom",
+          "Characteristics of a musical sound",
+          "12.6.1.  Pitch",
+          "12.6.2.  Loudness",
+          "12.6.3. Quality",
+          "12.7 Reflection of sound",
+          "12.7.1 Echo",
+          "Reverberation",
+          "12.8 Uses of multiple reflection of sound",
+          "1.  A megaphone and a horn",
+          "2. Stethoscope",
+          "3. Designing of concert halls and cinema halls",
+          "12.8.1 Range of hearing",
+          "12.9 Applications of ultrasound",
+          "12.9.1 Industrial applications of ultrasonic waves",
+          "1.  Drilling holes or making cuts of\n      desired shape",
+          "2. Ultrasonic cleaning",
+          "3. Ultrasonic detection of defects in\n    metals",
+          "12.10 Medical applications of\n  ultrasound",
+          "1.  Imaging of organs",
+          "2. Surgical use of ultrasound",
+          "12.11 SONAR"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 10,
+    "subject": "physics",
+    "board": "SSC-BSET",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Reflection of light at curved surfaces",
+        "topics": [
+          "1.1   Reflection of light by spherical mirrors",
+          {
+            "Activity 1": [
+              "Finding the normal to a curved surface"
+            ]
+          },
+          "Centre of curvature(C) of the mirror",
+          "Pole (P) of the mirror",
+          "Principal axis of the mirror",
+          "Radius of curvature (R) of the mirror",
+          "1.1.1   Verifying your drawing with experiment:",
+          {
+            "Activity  2": [
+              "Hold a concave mirror such that sunlight falls on it."
+            ]
+          },
+          "Focus or focal point (F) of the concave mirror",
+          "Focal length (f) of the mirror",
+          {
+            "Lab Activity": [
+              "Aim: Observing the types of images and measuring the object distance and image distance from the mirror."
+            ]
+          },
+          "1.2 Ray diagrams (Image formation by concave mirror)",
+          "1.3   Ray Diagrams: (Image formation by convex mirror)",
+          "Rule 1:  A ray parallel to the axis",
+          "Rule 2: This is converse of Rule 1.",
+          "Rule 3:  A ray travelling in the direction of the centre of curvature",
+          "1.4   Derivation of mirror formula for  spherical  mirrors",
+          "1.5    Sign convention for the parameters related to the mirror equation",
+          "1.6   Magnification (m)",
+          "1.7   Making of solar cooker"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Refraction of Light at Curved Surfaces",
+        "topics": [
+          "4.1 Refraction of light at a curved surface",
+          "Centre of curvature",
+          "Pole (P)",
+          "Principal axis",
+          {
+            "Case1": [
+              "A ray travelling parallel to the principal axis strikes a convex surface and passes from a rarer medium to denser medium."
+            ]
+          },
+          {
+            "Case2": [
+              "A ray travelling parallel to the principal axis strikes a convex surface and passes from a denser medium to rarer medium."
+            ]
+          },
+          {
+            "Case3": [
+              "A ray travelling parallel to the principal axis strikes a concave surface and passes from a denser medium to rarer medium."
+            ]
+          },
+          {
+            "Case4": [
+              "A ray travelling parallel to the principal axis strikes a concave surface and passes from a rarer medium to denser medium."
+            ]
+          },
+          "Focal point (F)",
+          "4.1.1  Image formation",
+          "4.1.2  Derivation of curved surface formula",
+          "PO is the object distance which we denote as ‘u’",
+          "PI is image distance which we denote as ‘v’",
+          "PC is radius of curvature which we denote as ‘R’",
+          "n1, n2 are refractive indices of two media.",
+          "Paraxial rays",
+          "Paraxial approximation",
+          "Sign convention",
+          "4.2  Lenses",
+          {
+            "Converging lenses": [
+              "Biconvex",
+              "Plano-convex",
+              "Concavo-convex"
+            ]
+          },
+          {
+            "Diverging lenses": [
+              "Biconcave",
+              "Plano-concave",
+              "Convexo-concave"
+            ]
+          },
+          "Centre of curvature (C)",
+          "Radius of curvature (R)",
+          "Principal axis",
+          "Optic centre of lens (P)",
+          "4.2.1  Focal length of the lens",
+          "Focal point or focus (F)",
+          "Focal length",
+          "4.2.2 Behaviour of certain light rays when they are incident on a lens",
+          {
+            "Situation I": [
+              "Ray passing along the principal axis"
+            ]
+          },
+          {
+            "Situation II": [
+              "Ray passing through the optic centre."
+            ]
+          },
+          {
+            "Situation III": [
+              "Rays travelling parallel to the principal axis."
+            ]
+          },
+          {
+            "Situation IV": [
+              "Ray passing through focus."
+            ]
+          },
+          "Focal plane",
+          "4.2.3 Rules to draw ray diagrams for image formation by lenses",
+          "1. Object at infinity",
+          "2.   Object placed beyond the centre of curvature on the principal axis",
+          "3.   Object placed at the centre of curvature",
+          "4.   Object placed between the centre of curvature and focal point",
+          "5.   Object located at the focal point",
+          "6. Object placed between focal point and optic centre",
+          "4.3  Lens formula",
+          "4.4  Magnification",
+          "4.5  Lens maker’s formula",
+          "Key words"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Human Eye and Colourful world",
+        "topics": [
+          "5.1 Least distance of distinct vision",
+          "5.2 Structure of human eye",
+          "5.3  Defects of V ision",
+          "5.3.1 Myopia",
+          "5.3.2  Hypermetropia",
+          "5.3.3 Presbyopia",
+          "5.3.4 Power of lens",
+          "5.4 Dispersion and Scattering of Light",
+          "5.4.1 Prism",
+          "5.4.2  Derivation of formula for refractive index of a prism",
+          "5.4.3 Dispersion of Light",
+          "5.4.4  Scattering of Light"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Electric Current",
+        "topics": [
+          "9.1  Electric current",
+          "9.1.1 Why do electrons move in specified direction?",
+          "9.2  Potential Difference",
+          "9.3  Electromotive force (emf)",
+          "9.4  Ohm’s law",
+          "9.4.1  Limitations of Ohm’s Law",
+          "9.5  Electric shock",
+          "9.6  Factors affecting the resistance of a material",
+          "9.6.1 Temperature and resistance",
+          "9.6.2  Nature of material and resistance",
+          "9.6.3  Length of the conductor and resistance",
+          "9.6.4  Crosssection area and resistance",
+          "9.7  Electric Circuits",
+          "9.7.1 Series connection of resistors",
+          "9.7.2  Parallel Connection of resistors",
+          "9.8  Kirchhoff’s laws",
+          "9.8.1  Junction Law",
+          "9.8.2 Loop Law",
+          "9.9  Electric power",
+          "9.10 Overload"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Electromagnetism",
+        "topics": [
+          "Hans Christian Oersted (1777 - 1851)",
+          "10.1 Oersted experiment",
+          "10.2 Magnetic Field",
+          "10.2.1 Lines of magnetic field",
+          "10.2.2 Magnetic flux - Magnetic flux density",
+          "10.3 Magnetic field due to currents",
+          "10.3.1 Magnetic field due to straight wire carrying current",
+          "Right hand thumb rule",
+          "10.3.2 Magnetic field due to circular coil",
+          "10.3.3 Magnetic field due to solenoid",
+          "10.4 Magnetic Force On Moving Charge And Current Carrying Wire",
+          "F = q v B",
+          "F = q v B sin q.",
+          {
+            "fig-8(b):Right hand rule for positive charge": [
+              "v or I",
+              "B out of paper"
+            ]
+          },
+          "F = ILB",
+          "F = ILB sin q (at any angle)",
+          "10.4.1 Electric Motor",
+          "10.5 Electromagnetic induction",
+          "10.5.1 Faraday’s Law",
+          "Electromagnetic induction",
+          "10.5.2 Lenz Law",
+          "10.5.3 Derivation of Faraday’s Law",
+          "10.5.4 Applications of Faraday’s law of electromagnetic induction",
+          "10.5.5 Magnetic Levitation",
+          "10.5.6 Electric Generator and\nAlternating - Direct Currents"
+        ]
+      }
+    ]
+  }
+]

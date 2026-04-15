@@ -1,0 +1,2867 @@
+[
+  {
+    "grade": 8,
+    "subject": "math",
+    "board": "NIOS",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "NATURAL AND WHOLE NUMBERS",
+        "topics": [
+          {
+            "Natural Numbers and Whole Numbers": [
+              "Addition or Sum",
+              "Subtraction (Difference)",
+              "Multiplication",
+              "Division",
+              "Properties of operations on Whole Numbers"
+            ],
+            "description": "Introduction to counting numbers (Natural) and the inclusion of zero (Whole numbers), along with the properties of the four fundamental arithmetic operations (Addition, Subtraction, Multiplication, Division)."
+          },
+          {
+            "Factors and Multiples": [
+              "Prime and Composite Numbers",
+              "Twin Primes",
+              "Co-Prime Numbers",
+              "Prime Factors"
+            ],
+            "description": "Concepts of factors and multiples, leading to the classification of numbers into Even, Odd, Prime, Composite, Twin Primes, and Co-Prime Numbers, including the method of prime factorization."
+          },
+          {
+            "Highest Common Factor (HCF) and Least Common Multiple (LCM)": [
+              "Finding HCF by Division method",
+              "Least Common Multiple (LCM)",
+              "Finding LCM by Division method",
+              "Relation between HCF and LCM"
+            ],
+            "description": "Methods to determine the Highest Common Factor (HCF) and Least Common Multiple (LCM) of numbers using prime factorization and division methods, and understanding the relationship between them."
+          },
+          {
+            "Divisibility Rules": [
+              "Divisibility by 2",
+              "Divisibility by 3",
+              "Divisibility by 4",
+              "Divisibility by 5",
+              "Divisibility by 6",
+              "Divisibility by 8",
+              "Divisibility by 9",
+              "Divisibility by 11"
+            ],
+            "description": "A set of rules to quickly check if a number is divisible by 2, 3, 4, 5, 6, 8, 9, or 11 without performing the actual division."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "INTEGERS",
+        "topics": [
+          "Creating a new number for every natural number",
+          "Representation of Integers on Number line",
+          "Ordering Integers on Number line",
+          "Addition and Subtraction of integers using Number line",
+          "Absolute value of an Integer",
+          {
+            "Operations on Integers": [
+              "Addition of Integers",
+              "Properties of Addition of Integers",
+              "Subtraction of Integers",
+              "Properties of Subtraction of Integers",
+              "Multiplication of Integers",
+              "Properties of Multiplication of Integers",
+              "Division of Integers",
+              "Properties of Division of Integers"
+            ],
+            "description": "This section covers the rules and properties for performing addition, subtraction, multiplication, and division with integers."
+          },
+          "Use of grouping symbols"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "SQUARE, SQUAREROOT AND CUBE, CUBE ROOT",
+        "topics": [
+          {
+            "Squares of numbers": [
+              "Squares of Natural numbers"
+            ],
+            "description": "Introduction to the concept of squares, including the squares of natural numbers and the property that the square of a negative number is a positive number. Also discusses properties like the square of an even number is even and an odd number is odd."
+          },
+          {
+            "Square root": [
+              "Finding a square root of a perfect square by factorisation method",
+              "Finding a square root of a perfect square by division method",
+              "Some problems based on Square root"
+            ],
+            "description": "Defining the square root of a number and learning methods to find it, such as prime factorisation and the long division method. Includes solving word problems using the concept of square roots."
+          },
+          {
+            "Cube and Cube root": [
+              "Perfect Cube numbers",
+              "Making any number a Perfect Cubic Number"
+            ],
+            "description": "Defining the cube of a number, identifying perfect cube numbers, and understanding the process of finding the smallest number to multiply or divide to make a given number a perfect cube."
+          },
+          "Finding a cube root of a perfect cube by Prime Factorisation method"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "INTRODUCTION TO ALGEBRA",
+        "topics": [
+          "4.1 Constant and Variable",
+          "4.2 Double of a number",
+          "4.3 Perimeter of a square",
+          {
+            "4.4 Fundamental operations on numbers and variables": [
+              "4.4.1 Addition and Subtraction",
+              "4.4.2 Multiplication and Division"
+            ],
+            "description": "This section explains how to apply basic arithmetic operations such as addition, subtraction, multiplication, and division to algebraic expressions involving variables and constants."
+          },
+          "4.5 Terms and Co-efficient",
+          {
+            "4.6 Like and Unlike Terms": [
+              "4.6.1 Addition of Like Terms",
+              "4.6.2 Subtraction of like Terms",
+              "4.6.3 Multiplication of Variables"
+            ],
+            "description": "This topic introduces the concept of like and unlike terms, and details the procedures for performing addition, subtraction, and multiplication on these terms, including the multiplication of variables with exponents."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "ALGEBRAIC EXPRESSIONS AND OPERATIONS",
+        "topics": [
+          {
+            "5.1 Concept of Algebraic Expressions": [
+              "Terms of an Algebraic Expression",
+              "Coefficients of terms"
+            ],
+            "description": "Introduction to algebraic expressions as combinations of constants and variables, and the identification of their constituent terms and coefficients."
+          },
+          "5.2 Co-efficient of the terms with two or more variables",
+          "Constant Term",
+          "5.3 Like and Unlike terms of Algebraic Expressions",
+          {
+            "5.4 Different types of Algebraic Expressions": [
+              "Monomial",
+              "Binomial",
+              "Trinomial"
+            ],
+            "description": "Classification of algebraic expressions based on the number of terms."
+          },
+          "5.5 Degree of an Algebraic Expression",
+          "5.6 Value of Algebraic Expression",
+          {
+            "Methods of adding or subtracting Algebraic Expressions": [
+              "5.7 Addition of Algebraic Expressions",
+              "Grouping the like terms",
+              "Column method",
+              "5.8 Subtraction of Algebraic Expressions"
+            ],
+            "description": "Techniques for combining algebraic expressions through addition and subtraction."
+          },
+          "5.9 Multiplication of Algebraic Expressions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "LINEAR EQUATIONS IN ONE VARIABLE",
+        "topics": [
+          "To convert word problems to Algebraic Equations.",
+          "ax + b = 0 is a linear equation in one variable.",
+          {
+            "6.1 Concept of Equation": [],
+            "description": "Introduces the concept of an equation by converting statements into mathematical forms."
+          },
+          {
+            "6.2 Linear Equations": [
+              "What is their Degree?",
+              "Definition: Linear Equation in one variable is such an equation which has one variable and degree 1."
+            ],
+            "description": "Defines linear equations in one variable, focusing on the degree of the equation and providing examples from real-life situations."
+          },
+          {
+            "6.3 Solving Linear Equations": [
+              "Definition: That value of the variable which makes the equation a 'True Statement' is called the solution of the equation.",
+              "By adding an expression on both sides",
+              "By subtracting an expression from both sides",
+              "By dividing or multiplying by some non-zero number to both sides"
+            ],
+            "description": "Explains the process of finding the solution to a linear equation by performing the same operations on both sides to maintain equality."
+          },
+          "Solving daily life problems with simple language through linear equations."
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "RATIO AND PROPORTION",
+        "topics": [
+          {
+            "Ratio": [
+              "Definition",
+              "Terms of Ratio: Antecedent and Consequent",
+              "Ratio as a fraction in its lowest term"
+            ],
+            "description": "Introduces the concept of ratio as a relation between two similar quantities, its representation using the ':' symbol or as a fraction, and the terms used to define it."
+          },
+          {
+            "Proportion": [
+              "Definition of Proportion",
+              "Terms of Proportion: Extremes and Means",
+              "Mean Proportion"
+            ],
+            "description": "Defines proportion as the equality of two ratios and explains the relationship where the product of the extremes equals the product of the means."
+          },
+          {
+            "Types of Proportions": [
+              "Direct Proportion / Direct Variation",
+              "Inverse Proportion / Inverse Variation"
+            ],
+            "description": "Explains the two main types of proportions: direct, where quantities change in the same way, and inverse, where an increase in one quantity causes a decrease in the other."
+          },
+          {
+            "Problem-Solving Methods and Applications": [
+              "Unitary Method",
+              "Time and Work",
+              "Time and Distance"
+            ],
+            "description": "Covers practical applications of ratio and proportion, including the unitary method for finding the value of a single unit, solving problems related to work done over time, and calculating speed, distance, and time, including relative speed."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "PERCENTAGE AND IT'S APPLICATIONS",
+        "topics": [
+          {
+            "Fractional form of percent": [
+              "To convert fractions into percent"
+            ],
+            "description": "Understanding that a fraction with a denominator of 100 is called a percent. This section covers converting fractions to percentages and percentages back to fractions."
+          },
+          {
+            "Find out a specific percent of a given amount": [
+              "Some word problems based on percentage"
+            ],
+            "description": "Methods for calculating a specific percentage of a given quantity and solving word problems related to percentage calculations."
+          },
+          {
+            "Profit and Loss": [
+              "Percent Profit/loss"
+            ],
+            "description": "Introduces the concepts of Cost Price (CP) and Selling Price (SP). Defines profit as SP - CP and loss as CP - SP, and explains how to calculate profit or loss as a percentage of the cost price."
+          },
+          {
+            "Discount": [],
+            "description": "Explains discount as a reduction on the 'market price' of an article. The amount paid by the customer is the Selling Price (SP)."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "SIMPLE AND COMPOUND INTEREST",
+        "topics": [
+          {
+            "Introduction to Interest": [
+              "Principal",
+              "Interest",
+              "Amount",
+              "Rate of Interest",
+              "Time Period"
+            ],
+            "description": "An introduction to the fundamental concepts of borrowing money, where the additional amount paid back is called Interest. It establishes the relationship: Amount = Principal + Interest."
+          },
+          {
+            "9.1 Simple Interest": [
+              "Formula for Simple Interest: I = Prt / 100"
+            ],
+            "description": "Covers the calculation of interest on the initial principal for the entire loan period."
+          },
+          {
+            "9.2 Compound Interest": [
+              "Conversion Period",
+              "Formula for Compound Amount: A = P(1+r)^n",
+              "Formula for Compound Interest: C = A - P",
+              "Calculating Principal (P) when A, r, and n are given",
+              "Calculating Rate (r) when A, P, and n are given",
+              "Calculating Time (n) when A, P, and r are given"
+            ],
+            "description": "Explains interest calculation where the interest for each period is added to the principal for calculating the next period's interest."
+          },
+          "Difference between SI & CI"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "FUNDAMENTAL GEOMETRICAL CONCEPTS",
+        "topics": [
+          {
+            "10.1 Point, Line and Plane": [
+              "Point",
+              "Line",
+              "Plane"
+            ],
+            "description": "Introduces the fundamental, undefined concepts of geometry: point (a location), line (a straight path extending infinitely), and plane (a flat surface extending infinitely)."
+          },
+          {
+            "10.2 Line Segment and Ray": [
+              "10.2.1 Line Segment",
+              "10.2.2 Ray"
+            ],
+            "description": "Defines a line segment as a part of a line with two endpoints and a fixed length, and a ray as a part of a line with one starting point extending infinitely in one direction."
+          },
+          {
+            "10.3 Lines in a Plane": [
+              "A line passing through two points",
+              "Intersecting, parallel and coincident lines"
+            ],
+            "description": "Explores the properties of lines on a plane, establishing that only one line can pass through two distinct points, and classifying pairs of lines as intersecting, parallel, or coincident."
+          },
+          {
+            "10.4 Collinear points and concurrent lines": [
+              "Marking Collinear points",
+              "Concurrent lines",
+              "Drawing Concurrent lines"
+            ],
+            "description": "Defines collinear points as three or more points lying on the same line, and concurrent lines as three or more lines that intersect at a single common point."
+          },
+          {
+            "10.5 Open and Closed Shapes": [
+              "10.5.1 Simple shapes/figures",
+              "10.5.2 Inner and outer parts of simple closed figures"
+            ],
+            "description": "Distinguishes between open and closed figures (curves) and introduces the concept of simple figures. It explains how a simple closed figure divides a plane into three parts: the interior, the exterior, and the figure itself."
+          },
+          {
+            "10.6 Geometrical Instruments and their use": [
+              "10.6.1 Scale/ruler",
+              "10.6.2 Dividers",
+              "10.6.3 Compass",
+              "10.6.4 Set-Square",
+              "10.6.5 Protractor"
+            ],
+            "description": "Describes the standard instruments in a geometry box—ruler, dividers, compass, set-squares, and protractor—and explains their specific functions in drawing and measuring."
+          },
+          {
+            "10.7-10.9 Measurement and Drawing of a Line Segment": [
+              "Measure of Line Segment",
+              "To measure a line segment",
+              "Using the scale to draw a line segment of given measure"
+            ],
+            "description": "Details the process of measuring the length of a line segment using a ruler and provides step-by-step instructions for drawing a line segment of a specific length."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "ANGLE AND PARALLEL LINES",
+        "topics": [
+          "Rotation",
+          "Angle",
+          "Measure of Angles",
+          {
+            "Drawing Angles": [
+              "Drawing Angle of 60°",
+              "Drawing Angle of 120°",
+              "Drawing Angle of 90°",
+              "Drawing Angle of 30°"
+            ],
+            "description": "Step-by-step instructions for constructing specific angles using a ruler and compass."
+          },
+          {
+            "Types of Angles": [
+              "Right Angle",
+              "Acute Angle",
+              "Obtuse Angle",
+              "Straight Angle",
+              "Reflex Angle",
+              "Complete Angle",
+              "Zero Angle"
+            ],
+            "description": "Classification of different types of angles based on their degree measure."
+          },
+          {
+            "Pairs of Angles": [
+              "Adjacent Angles",
+              "Complementary Angles",
+              "Supplementary Angles",
+              "Linear Pair",
+              "Vertically opposite Angles"
+            ],
+            "description": "Defining and identifying relationships between pairs of angles."
+          },
+          {
+            "Parallel Lines and Transversals": [
+              "Non-parallel and Parallel Lines",
+              "Transversal",
+              "Corresponding angles",
+              "Alternate Angles",
+              "Interior Angles",
+              "Properties of Parallel Lines"
+            ],
+            "description": "Introduction to parallel lines, transversals, and the properties of angles formed, including corresponding, alternate, and interior angles."
+          },
+          {
+            "Drawing Parallel and Perpendicular Lines": [
+              "Drawing Parallel Lines with a set-square",
+              "Drawing Parallel Lines with a ruler and compass",
+              "Perpendicular Lines",
+              "Drawing a line perpendicular to a given line"
+            ],
+            "description": "Methods for constructing parallel and perpendicular lines using various geometrical tools."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "TRIANGLES AND ITS TYPES",
+        "topics": [
+          "12.1 Triangle",
+          "12.2 Drawing a Triangle",
+          "12.3 Vertices, Sides, Angles, Exterior Angles, Vertically opposite Angles of Triangle",
+          "12.4 Altitudes and Medians of Triangle",
+          "12.5 Sum of Angles of a Triangle",
+          "12.6 Relation between the exterior angle and interior opposite angles",
+          "12.7 Sum of any two sides of a Triangle",
+          {
+            "12.8 Categorisation of Triangles": [
+              "On the bases of sides (Scalene, Isosceles, Equilateral)",
+              "On the bases of angles (Acute, Right, Obtuse)"
+            ],
+            "description": "Classification of triangles into different types based on the lengths of their sides and the measures of their angles."
+          },
+          "12.9 Properties of Isosceles Triangles",
+          "12.10 Property of Sides and Angles of Isosceles Triangles",
+          "12.11 Property of Right Triangle (Pythagoras Theorem)"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "QUADRILATERALS AND ITS TYPES",
+        "topics": [
+          "Introduction to Quadrilaterals",
+          {
+            "Quadrilateral and its different parts": [
+              "Vertices",
+              "Sides (Adjacent and Opposite)",
+              "Angles (Adjacent and Opposite)",
+              "Diagonals"
+            ],
+            "description": "Discusses the basic components of a quadrilateral, including its four sides, four corners (vertices), four angles, and two diagonals, along with the concepts of adjacent and opposite sides/angles."
+          },
+          "Sum of angles of a Quadrilateral",
+          {
+            "Special types of quadrilaterals": [
+              "Trapezium",
+              "Parallelogram",
+              "Rectangle",
+              "Square",
+              "Rhombus",
+              "Kite"
+            ],
+            "description": "Introduces and defines various special types of quadrilaterals based on their properties regarding sides and angles."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "CIRCLE",
+        "topics": [
+          "Introduction to circles through real-life examples like grazing animals and various circular objects.",
+          {
+            "Parts and elements of circle": [
+              "Definition of a Circle",
+              "Radius and Circumference",
+              "Chord",
+              "Diameter",
+              "Arc",
+              "Semicircle",
+              "Circular Region",
+              "Segment",
+              "Sector"
+            ],
+            "description": "This section defines the fundamental components of a circle, including its center, radius, diameter, circumference, chord, arc, segment, and sector."
+          },
+          {
+            "Drawing a Circle": [
+              "Drawing a circle of given radius"
+            ],
+            "description": "Explains the method to draw a circle of a specific radius using a pair of compasses and a ruler."
+          },
+          "Measure of an angle in a semi-circle",
+          "Distance of chords from the centre"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "CONGRUENT AND SYMMETRIC FIGURES",
+        "topics": [
+          {
+            "Congruency": [
+              "15.1 Congruency",
+              "15.2 Congruency of Triangles"
+            ],
+            "description": "Introduction to congruent figures, which have the same shape and size, using examples from daily life. The method of superposition is explained to verify congruency. The topic then focuses on the congruency of triangles and the concept of corresponding sides and angles."
+          },
+          {
+            "15.3 Conditions of Congruency of Triangles": [
+              "Side-Side-Side (SSS) congruency Rule",
+              "Side-Angle-Side (SAS) congruency Rule",
+              "Angle-Side-Angle (ASA) congruency Rule",
+              "Right angle-Hypotenuse-Side (RHS) congruency Rule"
+            ],
+            "description": "Details the four primary rules for verifying the congruency of two triangles without needing to check all six corresponding elements. Each rule is explained with illustrative figures."
+          },
+          {
+            "Symmetry": [
+              "15.4 Symmetry",
+              "15.5 Number of Axis or Lines of symmetry"
+            ],
+            "description": "Defines symmetric figures as those that can be folded along a line (axis of symmetry) so that one part completely covers the other. It distinguishes between symmetrical and asymmetrical shapes and explains that different figures can have different numbers of axes of symmetry."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "AREA OF PLANE FIGURE",
+        "topics": [
+          {
+            "Introduction to Area and Perimeter": [
+              "16.1 Area",
+              "16.2 Area of a plane region",
+              "16.3 Standard units of measure of area",
+              "16.4 Perimeter of rectilinear figures"
+            ],
+            "description": "Introduces the fundamental concepts of area as the region covered by a plane figure and perimeter as the length of its boundary. It also covers the standard units for measuring area."
+          },
+          {
+            "Area and Perimeter of Triangles": [
+              "16.5 Area of a triangle with the help of Graph Paper",
+              "16.6 Area of triangle using formula",
+              "Area of triangle using Heron's formulas"
+            ],
+            "description": "Details methods for calculating the area of a triangle, including estimation using graph paper, the standard formula (1/2 * base * height), and Heron's formula when side lengths are known."
+          },
+          {
+            "Perimeter and Area of Rectangles and Squares": [
+              "16.7 Perimeter of a rectangle",
+              "16.8 Perimeter of a square",
+              "16.9 Area of a rectangle and square"
+            ],
+            "description": "Covers the formulas and applications for calculating the perimeter and area of rectangles and squares."
+          },
+          {
+            "Area of Parallelograms and Trapeziums": [
+              "16.10 Area of a parallelogram from by graph paper",
+              "16.11 Area of parallelogram",
+              "16.11.1 Area of a trapezium"
+            ],
+            "description": "Explains how to find the area of a parallelogram using both graphical methods and the base-height formula, and introduces the formula for the area of a trapezium."
+          },
+          {
+            "Circumference and Area of a Circle": [
+              "16.12 Circumference of a circle",
+              "Relation between circumference and the diameter of circle",
+              "16.13 Area of circle"
+            ],
+            "description": "Defines the circumference and area of a circle, explains the relationship with the diameter via the constant π, and provides the formulas for calculation."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "VOLUME OF SOLIDS",
+        "topics": [
+          {
+            "Introduction to Cuboids": [],
+            "description": "An introduction to cuboidal shapes found in daily life, covering the concepts of faces, edges, vertices, surface area, and volume."
+          },
+          {
+            "Faces, Edges and Vertices of a Cuboid": [
+              "17.1 Faces of a Cuboid",
+              "17.2 Edges and Vertices of a Cuboid"
+            ],
+            "description": "Discusses the six rectangular faces, twelve edges, and eight vertices of a cuboid."
+          },
+          {
+            "Cube as a Special Cuboid": [
+              "17.3 Cuboid's Special form"
+            ],
+            "description": "Defining a cube as a special type of cuboid where all edges are of equal length, resulting in square faces."
+          },
+          {
+            "Surface area of a cube and cuboid": [
+              "Formula for surface area of a cuboid: 2(lb + bh + hl)",
+              "Formula for surface area of a cube: 6 × (side)²"
+            ],
+            "description": "Explains that the surface area is the sum of the areas of all six faces and provides the respective formulas for cuboids and cubes."
+          },
+          {
+            "Volume of a cube and cuboid": [
+              "17.5 Volume",
+              "17.6 The volume of a cube and cuboid"
+            ],
+            "description": "Defines volume as the measure of three-dimensional space occupied by a solid and provides formulas for calculating the volume of a cuboid (l × b × h) and a cube (side³)."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "INTRODUCTION TO STATISTICS",
+        "topics": [
+          "What are data?",
+          {
+            "Collection of Data": [
+              "Primary Data and Primary Source",
+              "Secondary Data and Secondary Source"
+            ],
+            "description": "Introduction to the concept of data and the two main types of data collection: primary data collected directly from the source, and secondary data collected from existing records."
+          },
+          {
+            "Presentation of Data": [
+              "Arranging data in ascending/descending order",
+              "Use of frequency to present data",
+              "Tally marks",
+              "Range of data",
+              "Classification of data in different categories"
+            ],
+            "description": "Methods for organizing and presenting raw data, including sorting, creating frequency distribution tables with tally marks, calculating the range, and grouping data into relevant categories."
+          },
+          {
+            "Bar Graph": [
+              "Reading the Bar Graph",
+              "Explanation of Bar Graph",
+              "Drawing Bar Graph",
+              "Need of appropriate scale",
+              "How to draw bar graph on a graph sheet"
+            ],
+            "description": "A visual method of data representation using bars. Covers interpretation, construction, and the importance of selecting an appropriate scale for clarity."
+          },
+          {
+            "Pie-chart": [],
+            "description": "A circular statistical graphic used to represent numerical proportions. The chapter explains how to read and construct pie charts by calculating the central angle for each data segment."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "INTRODUCTION OF VEDIC MATHEMATICS",
+        "topics": [
+          {
+            "Introduction and Importance of Vedic Mathematics": [
+              "Learning outcomes of the lesson",
+              "19.1 Importance of teaching-learning Vedic Mathematics"
+            ],
+            "description": "An introduction to the ancient Indian system of mathematics, highlighting its benefits for learners, such as developing interest, increasing confidence for competitive exams, saving time in calculations, and improving reasoning and memory power."
+          },
+          "19.2 Vedic Mathematics Sutras and their meaning",
+          {
+            "Using double sign digits (विनकुलम अंक)": [
+              "19.3.1 Definition of विनकुलम",
+              "19.4 विनकुलम operation"
+            ],
+            "description": "Introduces the concept of Vinculum, a method of using positive and negative digits together to simplify number operations by converting large numbers into smaller ones."
+          },
+          {
+            "Addition": [
+              "19.6 Sutra Ending with zero (शून्यांत)",
+              "19.7 Addition (Sutra-Nikhlam)"
+            ],
+            "description": "Presents different methods for addition in Vedic Mathematics, including the left-to-right approach, the Shunyant sutra (making a number end with zero), and the Nikhilam sutra for adding numbers around a base."
+          },
+          "19.8 Subtraction",
+          "19.9 Operations using addition and subtraction"
+        ]
+      },
+      {
+        "chapter_id": "chapter_20",
+        "title": "APPLICATION OF VEDIC MATHEMATICS",
+        "topics": [
+          {
+            "Multiplication": [
+              "Multiplication - first method - Sutra एकन्यूनेन पूर्वेण",
+              "Multiplication Sutra - (Sum of ones digits is 10)",
+              "Multiplication Sutra (Base-such base)",
+              "Sutra निखिलम and आनुरूप्येण (Sub-base)",
+              "Multiplication Sutra - उर्ध्वतिर्यग्भ्याम्"
+            ],
+            "description": "Learning various sutras for multiplying numbers, including special cases like multiplying by 9s, numbers near a base or sub-base, and a universal method for any number."
+          },
+          {
+            "Squaring": [
+              "To find the square - sutra यावदूनं",
+              "Sutra for squaring any number"
+            ],
+            "description": "Methods to find the square of numbers, including those near a base and a general method for any two-digit number."
+          },
+          {
+            "Cubes": [
+              "Sutra यावदूनं द्वारा Cube",
+              "Sutra आनुरूप्येण for cube"
+            ],
+            "description": "Techniques for finding the cube of numbers using the Yavadunam sutra for numbers near a base and the Anurupyena sutra."
+          },
+          {
+            "Square Root and Cube Root": [
+              "Square root by Sutra - विलोकनम्",
+              "Cube root of six or less than six digit numbers"
+            ],
+            "description": "Finding the square root and cube root of perfect squares and cubes by observation (Vilokanam)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 10,
+    "subject": "math",
+    "board": "NIOS",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "NUMBER SYSTEMS",
+        "topics": [
+          "Introduction to the history and need for number systems",
+          "Expected Background Knowledge",
+          {
+            "Recall of Natural Numbers, Whole Numbers and Integers": [
+              "Natural Numbers",
+              "Whole Numbers",
+              "Integers",
+              "Representing Integers on the Number Line"
+            ],
+            "description": "A review of the properties and operations on natural numbers, whole numbers, and integers, including their representation on the number line."
+          },
+          {
+            "Rational Numbers": [
+              "Positive and Negative Rational Numbers",
+              "Standard form of a Rational Number"
+            ],
+            "description": "Introduction to rational numbers, defined as numbers that can be expressed in the form p/q, and their properties."
+          },
+          "Equivalent Forms of a Rational Number",
+          "Rational Numbers on the Number Line",
+          "Comparison of Rational Numbers",
+          {
+            "Four Fundamental Operations on Rational Numbers": [
+              "Addition of Rational Numbers",
+              "Subtraction of Rational Numbers",
+              "Multiplication and Division of Rational Numbers"
+            ],
+            "description": "Performing addition, subtraction, multiplication, and division with rational numbers."
+          },
+          "Decimal Representation of a Rational Number",
+          "Expressing Decimal Expansion of a Rational Number in p/q Form",
+          "Rational Numbers Between Two Rational Numbers",
+          "Irrational Numbers",
+          "Inadequacy of Rational Numbers",
+          "Finding an Irrational Number Between Two Given Numbers",
+          "Rounding Off Numbers to a Given Number of Decimal Places"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "ΕΧΡΟΝΕNTS AND RADICALS",
+        "topics": [
+          {
+            "Exponential Notation": [],
+            "description": "Introduction to exponential notation to represent repeated multiplication, defining the base and the exponent."
+          },
+          "Prime Factorisation",
+          {
+            "Laws of Exponents": [
+              "Zero Exponent",
+              "Negative Integers as Exponents",
+              "Laws of Exponents for Integral Exponents",
+              "Meaning of a^(p/q)"
+            ],
+            "description": "Covers the fundamental rules for operations involving exponents, including multiplication, division, and powers of powers for positive, zero, negative, and rational exponents."
+          },
+          {
+            "Surds": [
+              "Some Terminology",
+              "Pure and Mixed Surd",
+              "Order of a Surd"
+            ],
+            "description": "Introduces surds as positive irrational numbers, defining their components like index and radicand, and classifying them as pure or mixed."
+          },
+          "Laws of Radicals",
+          "Laws of Surds",
+          "Similar (or Like) Surds",
+          "Simplest (Lowest) Form of a Surd",
+          {
+            "Four Fundamental Operations on Surds": [
+              "Addition and Subtraction of Surds",
+              "Multiplication and Division in Surds"
+            ],
+            "description": "Explains how to perform arithmetic operations on surds by changing them to similar surds or surds of the same order."
+          },
+          "Comparison of Surds",
+          "Rationalisation of Surds"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "ALGEBRAIC EXPRESSIONS AND POLYNOMIALS",
+        "topics": [
+          "Introduction to Algebra",
+          "Variables and Constants",
+          {
+            "Topic Name": "Algebraic Expressions and Polynomials",
+            "subtopics": [
+              "Terms of an Expression",
+              "Polynomials",
+              "Monomials, Binomials, and Trinomials",
+              "Like and Unlike Terms"
+            ],
+            "description": "This section defines algebraic expressions as combinations of numbers, variables, and operations. It introduces the concept of terms and coefficients, and then defines polynomials as a special type of algebraic expression with specific rules for exponents and variables. It also classifies polynomials based on the number of terms."
+          },
+          "Degree of a Polynomial",
+          "Evaluation of Polynomials",
+          "Zero of a Polynomial",
+          {
+            "Topic Name": "Operations on Polynomials",
+            "subtopics": [
+              "Addition and Subtraction of Polynomials",
+              "Multiplication of Polynomials",
+              "Division of Polynomials"
+            ],
+            "description": "This section covers the four fundamental arithmetic operations as they apply to polynomials, including combining like terms for addition and subtraction, using the distributive property for multiplication, and long division for polynomials."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "SPECIAL PRODUCTS AND FACTORIZATION",
+        "topics": [
+          {
+            "Special Products": [
+              "(a + b)²",
+              "(a - b)²",
+              "(a + b)(a - b)",
+              "(x + a)(x + b)",
+              "(ax + b)(cx + d)",
+              "(a + b)³",
+              "(a - b)³",
+              "(a + b)(a² – ab + b²) = a³ + b³",
+              "(a – b)(a² + ab + b²) = a³ – b³"
+            ],
+            "description": "This section introduces frequently occurring algebraic products, also known as algebraic formulae, which save time in multiplication. It covers squares and cubes of binomials, the product of a sum and difference, and other key identities, including geometrical verifications."
+          },
+          {
+            "Factorization of Polynomials": [
+              "Factorization by Distributive Property",
+              "Factorization Involving the Difference of Two Squares",
+              "Factorization of a Perfect Square Trinomial",
+              "Factorization of a Polynomial Reducible to the Difference of Two Squares",
+              "Factorization of Perfect Cube Polynomials",
+              "Factorization of Polynomials Involving Sum or Difference of Two Cubes",
+              "Factorising Trinomials by Splitting the Middle Term"
+            ],
+            "description": "This topic covers the process of writing a polynomial as a product of two or more polynomials (its factors). It details various methods based on special product identities and the technique of splitting the middle term for trinomials."
+          },
+          {
+            "HCF and LCM of Polynomials": [
+              "HCF of Polynomials",
+              "LCM of Polynomials"
+            ],
+            "description": "This section explains how to find the Highest Common Factor (HCF) and the Lowest Common Multiple (LCM) of two or more polynomials by first factorizing them."
+          },
+          "Rational Expressions",
+          {
+            "Operations on Rational Expressions": [
+              "Addition and Subtraction of Rational Expressions",
+              "Multiplication and Division of Rational Expressions"
+            ],
+            "description": "Defines rational expressions as algebraic expressions in the form of P/Q where P and Q are polynomials. It covers the four fundamental operations (addition, subtraction, multiplication, and division) on these expressions."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "LINEAR EQUATIONS",
+        "topics": [
+          {
+            "OBJECTIVES": [
+              "Identify and cite examples of linear equations.",
+              "Write and solve a linear equation in one variable.",
+              "Cite examples and write linear equations in two variables.",
+              "Draw the graph of a linear equation in two variables.",
+              "Find the solution of a linear equation in two variables.",
+              "Find the solution of a system of two linear equations graphically and algebraically.",
+              "Translate real life problems in terms of linear equations and solve them."
+            ],
+            "description": "An overview of the learning outcomes after studying this lesson on linear equations."
+          },
+          "EXPECTED BACKGROUND KNOWLEDGE",
+          {
+            "5.1 LINEAR EQUATIONS": [],
+            "description": "Defining linear equations in one and two variables, distinguishing them from non-linear equations, and identifying their general forms."
+          },
+          "5.2 FORMATION OF LINEAR EQUATIONS IN ONE VARIABLE",
+          "5.3 SOLUTION OF LINEAR EQUATIONS IN ONE VARIABLE",
+          "5.4 WORD PROBLEMS",
+          "5.5 LINEAR EQUATIONS IN TWO VARIABLES",
+          "5.6 GRAPH OF A LINEAR EQUATION IN TWO VARIABLES",
+          {
+            "5.7 SYSTEM OF LINEAR EQUATIONS IN TWO VARIABLES": [
+              "5.7.1 Graphical method",
+              {
+                "5.7.2 Algebraic Method": [
+                  "Substitution Method",
+                  "Elimination Method"
+                ]
+              }
+            ],
+            "description": "Exploring methods to solve a pair of linear equations simultaneously, including graphical and algebraic approaches."
+          },
+          "5.8 WORD PROBLEMS"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "QUADRATIC EQUATIONS",
+        "topics": [
+          {
+            "6.1 QUADRATIC EQUATIONS": [],
+            "description": "Introduction to polynomials of degree two, known as quadratic polynomials, and their corresponding equations when equated to zero. It covers identifying quadratic equations from a collection of equations."
+          },
+          {
+            "6.2 STANDARD FORM OF A QUADRATIC EQUATION": [],
+            "description": "Defining the standard form of a quadratic equation as ax² + bx + c = 0, where a, b, and c are constants and a ≠ 0. This section includes examples of converting equations to the standard form."
+          },
+          {
+            "6.3 SOLUTION OF A QUADRATIC EQUATION": [
+              "Factor Method",
+              "Quadratic Formula",
+              "Nature of roots using the Discriminant"
+            ],
+            "description": "This section explains two algebraic methods for finding the roots or solutions of a quadratic equation. It covers solving by factorization and by using the quadratic formula. It also introduces the concept of the discriminant (D = b² - 4ac) to determine the nature of the roots (real and distinct, real and equal, or no real roots)."
+          },
+          {
+            "6.4 WORD PROBLEMS": [],
+            "description": "Application of quadratic equations to solve real-world problems by translating them into mathematical equations."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "ARITHMETIC PROGRESSIONS",
+        "topics": [
+          {
+            "Introduction": [],
+            "description": "In your daily life you must have observed that in nature, many things follow patterns such as petals of flowers, the holes of a honey-comb, the spirals on a pine apple etc. In this lesson, you will study one special type of number pattern called Arithmetic Progression (AP). You will also learn to find general term and the sum of first n terms of an arithmetic progression."
+          },
+          {
+            "OBJECTIVES": [
+              "identify arithmetic progression from a given list of numbers;",
+              "determine the general term of an arithmetic progression;",
+              "find the sum of first n terms of an arithmetic progression."
+            ]
+          },
+          {
+            "PREVIOUS BACKGROUND KNOWLEDGE": [
+              "Knowledge of number system",
+              "Operations on number system"
+            ]
+          },
+          "7.1 SOME NUMBER PATTERNS",
+          {
+            "7.2 ARITHMETIC PROGRESSION": [
+              "Definition of an Arithmetic Progression (A.P.)",
+              "First term (a)",
+              "Common difference (d)",
+              "Standard form of an AP: a, a + d, a + 2d, a + 3d, ..."
+            ]
+          },
+          "7.3 GENERAL (nth) TERM OF AN AP",
+          {
+            "7.4 SUM OF FIRST n TERMS OF AN AP": [
+              "Formula for sum of first n terms: S_n = n/2 [2a + (n-1)d]",
+              "Formula for sum using the last term 'l': S_n = n/2 (a + l)"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "PERCENTAGE AND ITS APPLICATIONS",
+        "topics": [
+          "Percent",
+          "Conversion of a Fraction into Percent and Vice Versa",
+          "Conversion of Decimal into a Percent and Vice Versa",
+          "Calculation of Percent of a Quantity or a Number",
+          {
+            "Application of Percentage": [
+              "Profit and Loss",
+              "Discount",
+              "Simple Interest",
+              "Compound Interest",
+              "Rate of Growth and Depreciation"
+            ],
+            "description": "This section discusses the application of percentage in different fields, including solving problems related to profit and loss, discount, simple interest, compound interest, rate of growth, and depreciation."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "INSTALMENT BUYING",
+        "topics": [
+          {
+            "Instalment Buying Scheme Definitions": [
+              "Cash Price",
+              "Cash Down Payment",
+              "Instalments",
+              "Interest under the Instalment Plan"
+            ],
+            "description": "Defines the key terms associated with purchasing goods on an instalment basis, where a customer pays a portion of the price upfront and the rest in periodic payments."
+          },
+          "To Find the Interest in an Instalment Plan",
+          "To Find the Amount of Instalment",
+          "To Find Cash Price",
+          "Problems Involving Compound Interest"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "LINES AND ANGLES",
+        "topics": [
+          {
+            "Point, Line and Angle": [
+              "Point",
+              "Line and Line Segment",
+              "Ray",
+              "Plane",
+              "Collinear and Non-collinear points",
+              "Intersecting, Parallel and Concurrent lines",
+              "Angle and its Types (Acute, Obtuse, Right, Straight)"
+            ],
+            "description": "Introduces the basic geometric concepts of point, line, and plane, and the different types of angles."
+          },
+          {
+            "Pairs of Angles": [
+              "Adjacent Angles",
+              "Complementary and Supplementary Angles",
+              "Linear Pair of Angles",
+              "Vertically Opposite Angles"
+            ],
+            "description": "Discusses various relationships between pairs of angles, such as adjacent, complementary, supplementary, linear pairs, and vertically opposite angles."
+          },
+          {
+            "Lines and Transversal": [
+              "Corresponding Angles",
+              "Alternate Angles",
+              "Interior Angles on the Same Side of the Transversal",
+              "Properties of Angles when a Transversal intersects Parallel Lines"
+            ],
+            "description": "Explores the angles formed when a transversal line intersects two or more lines, with a focus on the properties that arise when the lines are parallel."
+          },
+          {
+            "Triangle, its Types and Properties": [
+              "Types of Triangles (based on sides and angles)",
+              "Angle Sum Property of a Triangle",
+              "Exterior Angles of a Triangle"
+            ],
+            "description": "Covers the classification of triangles and fundamental properties related to their interior and exterior angles."
+          },
+          {
+            "Locus": [
+              "Locus of a point equidistant from two given points",
+              "Locus of a point equidistant from two intersecting lines"
+            ],
+            "description": "Introduces the concept of a locus as a path traced by a point moving under specific geometric conditions."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "CONGRUENCE OF TRIANGLES",
+        "topics": [
+          {
+            "CONCEPT OF CONGRUENCE": [
+              "Criteria for Congruence of Some Figures"
+            ],
+            "description": "Introduces the concept of congruent figures as those having the same shape and size, with examples like line segments of equal length, squares with equal sides, and circles with equal radii."
+          },
+          {
+            "CONGRUENCE OF TRIANGLES": [],
+            "description": "Defines the condition for two triangles to be congruent, which is when all the sides and all the angles of one are equal to the corresponding sides and angles of the other."
+          },
+          {
+            "CRITERIA FOR CONGRUENCE OF TRIANGLES": [
+              "Criterion 1: SAS (Side Angle Side)",
+              "Criterion 2: ASA or AAS (Angle Side Angle or Angle Angle Side)",
+              "Criterion 3: SSS (Side, Side, Side)",
+              "Criterion 4: RHS (Right Angle Hypotenuse Side)"
+            ],
+            "description": "Details the four criteria that can be used to prove the congruence of two triangles by knowing the equality of only three corresponding parts."
+          },
+          {
+            "ANGLES OPPOSITE TO EQUAL SIDES OF A TRIANGLE AND VICE VERSA": [
+              "Theorem: The angles opposite to equal sides of a triangle are equal.",
+              "Theorem: The sides opposite to equal angles of a triangle are equal."
+            ],
+            "description": "Proves the relationship between equal sides and their opposite angles in a triangle and its converse."
+          },
+          {
+            "INEQUALITIES IN A TRIANGLE": [
+              "Theorem: If two sides of a triangle are unequal, then the longer side has the greater angle opposite to it.",
+              "Theorem: In a triangle, the greater angle has the longer side opposite to it.",
+              "Theorem: The sum of any two sides of a triangle is greater than the third side."
+            ],
+            "description": "Explores the relationships among sides and angles of a triangle when they are unequal."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "CONCURRENT LINES",
+        "topics": [
+          {
+            "CONCURRENT LINES": [
+              "Angle Bisectors of a Triangle",
+              "Perpendicular Bisectors of the Sides of a Triangle",
+              "Altitudes of a Triangle",
+              "Medians of a Triangle"
+            ],
+            "description": "This lesson studies the concurrency property of special lines in a triangle, such as medians, right bisectors of sides, angle bisectors, and altitudes. It defines these terms and verifies their concurrency, introducing the points of concurrency: incentre, circumcentre, orthocentre, and centroid."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "QUADRILATERALS",
+        "topics": [
+          {
+            "13.1 QUADRILATERAL": [],
+            "description": "Introduction to the definition of a quadrilateral, its vertices, opposite and adjacent sides, and opposite and adjacent angles."
+          },
+          {
+            "13.2 TYPES OF QUADRILATERALS": [
+              "Trapezium",
+              "Kite",
+              "Parallelogram",
+              "Rhombus",
+              "Rectangle",
+              "Square"
+            ],
+            "description": "Describes various types of quadrilaterals and their defining characteristics, presented with a family tree diagram."
+          },
+          {
+            "13.3 PROPERTIES OF DIFFERENT TYPES OF QUADRILATERALS": [
+              "Properties of a Parallelogram",
+              "Properties of a Rhombus",
+              "Properties of a Rectangle",
+              "Properties of a Square"
+            ],
+            "description": "Details the properties of sides, angles, and diagonals for different types of quadrilaterals, including converse properties."
+          },
+          {
+            "13.4 MID POINT THEOREM": [],
+            "description": "Verifies the theorem that the line segment joining the mid-points of any two sides of a triangle is parallel to the third side and half of it, along with its converse."
+          },
+          {
+            "13.5 EQUAL INTERCEPT THEORM": [],
+            "description": "Explains the theorem stating that if there are three or more parallel lines and the intercepts made by them on one transversal are equal, the corresponding intercepts on any other transversal are also equal."
+          },
+          {
+            "Theorems on Area": [
+              "13.6 THE DIAGONAL OF A PARALLELOGRAM AND RELATION TO THE AREA",
+              "13.7 PARALLELOGRAMS AND TRIANGLES BETWEEN THE SAME PARALLELS",
+              "13.8 TRIANGLES ON THE SAME OR EQUAL BASES HAVING EQUAL AREAS HAVE THEIR CORRESPONDING ALTITUDES EQUAL"
+            ],
+            "description": "Covers theorems related to the area of parallelograms and triangles, such as how a diagonal divides a parallelogram, properties of figures on the same base and between the same parallels, and the relationship between area, base, and altitude."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "SIMILARITY OF TRIANGLES",
+        "topics": [
+          "Introduction to Similar Objects",
+          "14.1 SIMILAR PLANE FIGURES",
+          "14.2 BASIC PROPORTIONALITY THEORM",
+          "14.3 BISECTOR OF AN ANGLE OF A TRIANGLE",
+          {
+            "14.4 Criteria for Similarity of Triangles": [
+              "AAA Criterion for Similarity",
+              "SSS Criterion for Similarity",
+              "SAS Criterion for Similarity"
+            ],
+            "description": "Defines the conditions for triangle similarity and introduces the three main criteria: Angle-Angle-Angle (AAA), Side-Side-Side (SSS), and Side-Angle-Side (SAS)."
+          },
+          {
+            "14.5 Further Results on Similar Triangles": [
+              "Similarity in Right Triangles (Perpendicular to Hypotenuse)",
+              "Ratio of Areas of Similar Triangles"
+            ],
+            "description": "Discusses two key results: the properties of triangles formed by an altitude to the hypotenuse of a right triangle, and the relationship between the areas of similar triangles and the squares of their corresponding sides."
+          },
+          {
+            "14.6 BAUDHYAN/PYTHAGORAS THEOREM": [
+              "Proof using Similarity",
+              "Converse of Pythagoras Theorem"
+            ],
+            "description": "Provides a proof of the Pythagoras Theorem using the concept of triangle similarity and states its converse, which is used to identify right triangles."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "CIRCLES",
+        "topics": [
+          {
+            "CIRCLE AND RELATED TERMS": [
+              "Circle",
+              "Chord",
+              "Arc",
+              "Semicircle",
+              "Sector",
+              "Segment",
+              "Circumference"
+            ],
+            "description": "Introduces the definition of a circle and its fundamental components, including radius, chord, diameter, arc, semicircle, sector, segment, and circumference. It also distinguishes between the interior and exterior of a circle."
+          },
+          {
+            "MEASUREMENT OF AN ARC OF A CIRCLE": [
+              "Minor arc",
+              "Major arc"
+            ],
+            "description": "Explains how to measure the length of an arc and defines minor and major arcs based on their length relative to a semicircle."
+          },
+          "CONCENTRIC CIRCLES",
+          "CONGRUENT CIRCLES OR ARCS",
+          {
+            "SOME IMPORTANT RULES": [
+              "Relationship between arcs, chords, and angles at the centre",
+              "Perpendicular from the centre to a chord",
+              "Circle through three non-collinear points",
+              "Equal chords and their distance from the centre"
+            ],
+            "description": "Covers key theorems and properties of circles, such as the relationship between congruent arcs and the angles they subtend at the centre, the property that a perpendicular from the centre bisects a chord, the uniqueness of a circle through three points, and the property that equal chords are equidistant from the centre."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "ANGLES IN A CIRCLE AND CYCLIC QUADRILATERAL",
+        "topics": [
+          {
+            "ANGLES IN A CIRCLE": [
+              "Central Angle",
+              "Inscribed angle",
+              "Relationship between length of an arc and its degree measure"
+            ],
+            "description": "Defines the types of angles formed in a circle, such as the central angle at the center and the inscribed angle on the circumference, and establishes the relationship between an arc's length and its degree measure."
+          },
+          {
+            "PROPERTIES OF ANGLES IN A CIRCLE": [
+              "The angle subtended at the centre of a circle by an arc is double the angle subtended by it on any point on the remaining part of the circle",
+              "Angle in a semicircle is a right angle",
+              "Theorem: Angles in the same segment of a circle are equal",
+              "Converse: If a line segment joining two points subtends equal angles at two other points on the same side of the line containing the segment, the four points lie on a circle"
+            ],
+            "description": "Covers the fundamental theorems and properties governing the relationships between angles subtended by arcs and chords in a circle."
+          },
+          {
+            "CONCYCLIC POINTS AND CYCLIC QUADRILATERAL": [
+              "Definition of Concyclic Points",
+              "Cyclic Quadrilateral",
+              "Theorem: Sum of the opposite angles of a cyclic quadrilateral is 180°",
+              "Converse: If a pair of opposite angles of a quadrilateral is supplementary, then the quadrilateral is cyclic"
+            ],
+            "description": "Introduces the concept of points lying on the same circle and focuses on cyclic quadrilaterals, exploring the key theorem about their opposite angles."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "SECANTS, TANGENTS AND THEIR PROPERTIES",
+        "topics": [
+          {
+            "Secants and Tangents—An Introduction": [
+              "Tangent",
+              "Secant"
+            ],
+            "description": "Defines and differentiates between a secant, which intersects a circle at two distinct points, and a tangent, which touches a circle at exactly one point."
+          },
+          "Tangent as a Limiting Case",
+          "Tangent and Radius Through the Point of Contact",
+          "Tangents from a Point Outside the Circle",
+          "Intersecting Chords Inside and Outside a Circle",
+          "Intersecting Secant and Tangent of a Circle",
+          "Angles Made by a Tangent and a Chord"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "CONSTRUCTIONS",
+        "topics": [
+          "EXPECTED BACKGROUND KNOWLEDGE",
+          "DIVISION OF A LINE SEGMENT IN THE GIVEN RATIO INTERNALLY",
+          {
+            "Topic Name": "CONSTRUCTION OF TRIANGLES",
+            "description": "This section covers the construction of triangles based on different given conditions such as sides, angles, perimeter, and medians.",
+            "subtopics": [
+              "Three sides are given (SSS)",
+              "Two sides and the included angle is given (SAS)",
+              "Two angles and the included side are given (ASA)",
+              "A right triangle, when its hypotenuse and a side are given (RHS)",
+              "Perimeter and two base angles are given",
+              "Sum of two sides, third side and one of the angles on the third side are given",
+              "Difference of two sides, the third side and one of the angles on the third side are given",
+              "Two sides and a median corresponding to one of these sides, are given"
+            ]
+          },
+          "TO CONSTRUCT A TRIANGLE SIMILAR TO A GIVEN TRIANGLE, AS PER GIVEN SCALE FACTOR",
+          {
+            "Topic Name": "CONSTRUCTION OF TANGENTS TO A CIRCLE",
+            "description": "Methods for drawing tangents to a circle from a point on the circle and from a point outside the circle.",
+            "subtopics": [
+              "To draw a tangent to a given circle at a given point on it using the centre of the circle",
+              "To draw tangents to a circle from a given point outside it"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "CO-ORDINATE GEOMETRY",
+        "topics": [
+          "CO-ORDINATE SYSTEM",
+          "CO-ORDINATES OF A POINT",
+          "QUADRANTS",
+          "PLOTTING OF A POINT WHOSE CO-ORDINATES ARE GIVEN",
+          "DISTANCE BETWEEN TWO POINTS",
+          {
+            "SECTION FORMULA": [
+              "Mid-Point Formula"
+            ],
+            "description": "A formula to find the co-ordinates of a point which divides the line segment joining two points in a given ratio internally. A special case of this is the Mid-Point Formula."
+          },
+          "CENTROID OF A TRIANGLE"
+        ]
+      },
+      {
+        "chapter_id": "chapter_20",
+        "title": "PERIMETERS AND AREAS OF PLANE FIGURES",
+        "topics": [
+          {
+            "Perimeters and Areas of some Specific Quadrilaterals and Triangles": [
+              "Rectangle",
+              "Square",
+              "Parallelogram",
+              "Triangle",
+              "Rhombus",
+              "Trapezium"
+            ],
+            "description": "Consolidation of formulae for finding the perimeters and areas of basic plane figures like rectangles, squares, parallelograms, triangles, rhombuses, and trapeziums."
+          },
+          {
+            "Heron's Formula": [],
+            "description": "Introduction and application of Heron's formula for finding the area of a triangle when the lengths of all three sides are known."
+          },
+          "Areas of Rectangular Paths and some Rectilinear Figures",
+          "Areas of Circles and Circular Paths",
+          {
+            "Perimeter and Area of a Sector": [
+              "Perimeter of the sector",
+              "Area of the sector"
+            ],
+            "description": "Derivation and application of formulae for the perimeter and area of a sector of a circle, distinguishing between minor and major sectors."
+          },
+          "Areas of Combinations of Figures Involving Circles"
+        ]
+      },
+      {
+        "chapter_id": "chapter_21",
+        "title": "SURFACE AREAS AND VOLUMES OF SOLID FIGURES",
+        "topics": [
+          "Meanings of Surface Area and Volume",
+          {
+            "Cuboids and Cubes": [
+              "Surface Area",
+              "Diagonal of a Cuboid",
+              "Volume"
+            ],
+            "description": "Discusses the properties of cuboids and cubes, including their faces, edges, and vertices, and provides formulas for calculating their surface area, diagonal length, and volume."
+          },
+          {
+            "Right Circular Cylinder": [
+              "Surface Area",
+              "Volume"
+            ],
+            "description": "Defines a right circular cylinder and explains how to calculate its curved surface area, total surface area, and volume."
+          },
+          {
+            "Right Circular Cone": [
+              "Surface Area",
+              "Volume"
+            ],
+            "description": "Defines a right circular cone and its properties like radius, height, and slant height. Provides formulas for its curved surface area, total surface area, and volume."
+          },
+          {
+            "Sphere and Hemisphere": [
+              "Surface Areas of sphere and hemisphere",
+              "Volumes of Sphere and Hemisphere"
+            ],
+            "description": "Defines a sphere and a hemisphere, and provides the formulas to calculate their respective surface areas and volumes."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_22",
+        "title": "INTRODUCTION TO TRIGONOMETRY",
+        "topics": [
+          "Trigonometric Ratios of an Acute Angle of a Right Angled Triangle",
+          "Given Two Sides of a Right-Triangle, to Find Trigonometric Ratio",
+          "Given One Trigonometric Ratio, to Find the Others",
+          {
+            "Relationships and Identities": [
+              "Relationships Between Trigonometric Ratios",
+              "Trigonometric Identities"
+            ],
+            "description": "Establishes the fundamental relationships between trigonometric ratios (reciprocal and quotient relations) and introduces the core trigonometric identities, including the Pythagorean identities."
+          },
+          "Trigonometric Ratios for Complementary Angles"
+        ]
+      },
+      {
+        "chapter_id": "chapter_23",
+        "title": "TRIGONOMETRIC RATIOS OF SOME SPECIAL ANGLES",
+        "topics": [
+          "Expected Background Knowledge: Pythagoras Theorem and Basic Trigonometric Ratios",
+          {
+            "Trigonometric Ratios for Specific Angles": [
+              "Angle of 45°",
+              "Angle of 30°",
+              "Angle of 60°",
+              "Angles of 0° and 90°"
+            ],
+            "description": "This section covers the geometric derivation and values of trigonometric ratios for the special angles 30°, 45°, and 60°. It also provides the values for 0° and 90° and summarizes them in a table."
+          },
+          {
+            "Application of Trigonometry": [
+              "Angle of Elevation",
+              "Angle of Depression"
+            ],
+            "description": "Introduces concepts like angle of elevation and angle of depression to solve simple problems related to heights and distances in daily life."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_24",
+        "title": "DATA AND THEIR REPRESENTATIONS",
+        "topics": [
+          {
+            "Statistics and Statistical Data": [],
+            "description": "Introduces statistics as a branch of mathematics, its meaning in singular and plural forms, and its application in daily life."
+          },
+          {
+            "Collection of Data": [
+              "Primary Data",
+              "Secondary Data"
+            ],
+            "description": "Explains the methods of collecting data, distinguishing between data collected firsthand (primary) and data from existing sources (secondary)."
+          },
+          {
+            "Presentation of Data": [
+              "Raw Data and Arrayed Data",
+              "Ungrouped Frequency Distribution Table",
+              "Grouped Frequency Distribution Table",
+              "Class, Class Mark, Class Limits, and Class Size",
+              "Continuous and Discontinuous Data"
+            ],
+            "description": "Covers methods to organize and condense data, including arranging it in order and creating frequency tables for both ungrouped and grouped data, along with related terminology."
+          },
+          "Cumulative Frequency Table",
+          {
+            "Graphical Representation of Data": [
+              "Bar Charts (Graphs)",
+              "Histograms",
+              "Frequency Polygons"
+            ],
+            "description": "Details the graphical methods for representing data, including the construction and interpretation of bar charts for discrete data, and histograms and frequency polygons for continuous grouped data."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_25",
+        "title": "MEASURES OF CENTRAL TENDENCY",
+        "topics": [
+          {
+            "Arithmetic Average or Mean": [
+              "Mean of Raw Data",
+              "Mean of Ungrouped Data",
+              "Mean of Grouped Data"
+            ],
+            "description": "Study of the arithmetical average, also known as the mean, which is a representative or central value of the data. Includes methods for raw, ungrouped, and grouped data using direct, short-cut (assumed mean), and step-deviation methods."
+          },
+          {
+            "Median": [
+              "Median of Raw Data",
+              "Median of Ungrouped Data"
+            ],
+            "description": "Study of the median, a measure of central tendency that gives the value of the middle-most observation when data is arranged in ascending or descending order."
+          },
+          {
+            "Mode": [
+              "Mode of Raw Data",
+              "Mode of Ungrouped Data"
+            ],
+            "description": "Study of the mode, which is the observation that occurs most frequently in a dataset."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_26",
+        "title": "INTRODUCTION TO PROBABILITY",
+        "topics": [
+          {
+            "RANDOM EXPERIMENT AND ITS OUTCOMES": [
+              "Definition of a random experiment",
+              "Possible outcomes of an experiment"
+            ],
+            "description": "Introduces the concept of a random experiment as one with multiple possible outcomes that cannot be predicted in advance. It provides examples such as tossing a coin, throwing a die, and drawing a card from a deck."
+          },
+          {
+            "PROBABILITY OF AN EVENT": [
+              "Equally likely outcomes",
+              "Definition of an event and an elementary event",
+              "Formula for probability: P(E) = (Number of outcomes favourable to E) / (Number of all possible outcomes of the experiment)"
+            ],
+            "description": "Defines the probability of an event for experiments with equally likely outcomes. It distinguishes between outcomes and events and provides the fundamental formula for calculating probability."
+          },
+          {
+            "MORE ABOUT PROBABILITY": [
+              "Sure or certain events (Probability = 1)",
+              "Impossible events (Probability = 0)",
+              "The range of probability: 0 ≤ P(E) ≤ 1",
+              "Sum of probabilities of all elementary events is 1",
+              "Complementary Events and the formula P(E) + P(Ē) = 1"
+            ],
+            "description": "Discusses key properties of probability, including the probabilities of sure and impossible events, the numerical range of any probability, and the concept of complementary events."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 12,
+    "subject": "math",
+    "board": "NIOS",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "SETS",
+        "topics": [
+          "Some Standard Notations",
+          {
+            "Representation of a Set": [
+              "Roster method (Tabular form)",
+              "Set-builder form"
+            ],
+            "description": "This section covers the two primary methods for representing a set: the Roster method, which lists all elements, and the Set-builder form, which defines elements by a common property."
+          },
+          {
+            "Classification of Sets": [
+              "Finite and infinite sets",
+              "Empty (Null) Set",
+              "Singleton Set",
+              "Equal and equivalent sets",
+              "Disjoint Sets"
+            ],
+            "description": "This topic introduces different types of sets based on their properties and number of elements, such as finite, infinite, empty, singleton, equal, equivalent, and disjoint sets."
+          },
+          {
+            "Sub-Set": [
+              "Number of Subsets of a Set",
+              "Intervals as Subsets of Real Numbers"
+            ],
+            "description": "Explains the concept of a subset, how to calculate the number of subsets for a given set, and how intervals of real numbers can be represented as subsets."
+          },
+          "Power Set",
+          "Universal Set",
+          "Venn Diagram",
+          "Difference of Sets",
+          {
+            "Complement of a Set": [
+              "Properties of complement of sets"
+            ],
+            "description": "Defines the complement of a set with respect to a universal set and discusses its properties, including Complement Laws and De Morgan's Laws."
+          },
+          "Intersection of Sets",
+          "Union of Sets"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "RELATIONS AND FUNCTIONS-I",
+        "topics": [
+          {
+            "CARTESIAN PRODUCT OF TWO SETS": [
+              "Number of elements in the Cartesian product of two finite sets",
+              "Cartesian product of the set of real numbers R with itself"
+            ],
+            "description": "Discusses the cartesian product of sets, its properties, and how to determine the number of elements in the product of finite sets."
+          },
+          {
+            "RELATIONS": [
+              "Domain and Range of a Relation",
+              "Co-domain of a Relation"
+            ],
+            "description": "Defines a relation as a subset of the Cartesian product and explains its domain, range, and co-domain."
+          },
+          {
+            "DEFINITION OF A FUNCTION": [
+              "Real valued function of a real variable",
+              "Some More Examples on Domain and Range"
+            ],
+            "description": "Introduces a function as a special type of relation where every element in the domain has a unique image, and covers real valued functions."
+          },
+          "GRAPHICAL REPRESENTATION OF FUNCTIONS",
+          {
+            "SOME SPECIAL FUNCTIONS": [
+              "Monotonic Function",
+              "Even Function",
+              "Odd Function",
+              "Greatest Integer Function (Step Function)",
+              "Polynomial Function",
+              "Rational Function",
+              "Reciprocal Function",
+              "Exponential Function",
+              "Logarithmic Functions",
+              "Identity Function",
+              "Constant Function",
+              "Signum Function"
+            ],
+            "description": "Details various types of special functions and their properties."
+          },
+          {
+            "Sum, difference, product and quotient of functions": [
+              "Addition of two real functions",
+              "Subtraction of a real function from another",
+              "Multiplication of two real functions",
+              "Quotient of two real functions"
+            ],
+            "description": "Explains how to perform arithmetic operations on real functions."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "TRIGONOMETRIC FUNCTIONS-I",
+        "topics": [
+          {
+            "Circular Measure of Angle": [
+              "A Unit Circle",
+              "A Radian",
+              "Relation between Degree and Radian",
+              "Relation Between Length of an Arc and Radius of the Circle"
+            ],
+            "description": "Introduces the concept of angles in terms of radians, its relation to degrees, and the formula relating arc length, radius, and the subtended angle."
+          },
+          {
+            "Trigonometric Functions": [
+              "Defining Trigonometric Functions on a Unit Circle",
+              "Relation Between Trigonometric Functions"
+            ],
+            "description": "Defines trigonometric functions (sin, cos, tan, etc.) as coordinates on a unit circle and explores the fundamental identities and relationships between them, such as sin²θ + cos²θ = 1."
+          },
+          "Trigonometric Functions of Some Specific Real Numbers",
+          {
+            "Graphs of Trigonometric Functions": [
+              "Variations and Graph of sin θ",
+              "Variations and Graph of cos θ",
+              "Variations and Graph of tan θ",
+              "Variations and Graph of cot θ",
+              "Variations and Graph of sec θ",
+              "Variations and Graph of cosec θ"
+            ],
+            "description": "Details the graphical representation of the six trigonometric functions, analyzing their variations, maximum and minimum values, and continuity over the interval 0 to 2π."
+          },
+          {
+            "Periodicity of the Trigonometric Functions": [
+              "Periods of Trigonometric Functions"
+            ],
+            "description": "Explains the concept of periodicity and determines the period for each of the six trigonometric functions."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "TRIGONOMETRIC FUNCTIONS-II",
+        "topics": [
+          {
+            "ADDITION AND MULTIPLICATION OF TRIGONOMETRIC FUNCTIONS": [
+              "Addition and Subtraction Formulae for sin(A±B), cos(A±B), tan(A±B), and cot(A±B)"
+            ],
+            "description": "This section establishes and applies the formulae for trigonometric functions of the sum or difference of two angles."
+          },
+          {
+            "TRANSFORMATION OF PRODUCTS INTO SUMS AND VICE VERSA": [
+              "Transformation of Products into Sums or Differences",
+              "Transformation of Sums or Differences into Products",
+              "Further Applications of Addition and Subtraction Formulae"
+            ],
+            "description": "Covers the conversion between products of trigonometric functions and sums/differences, also known as product-to-sum and sum-to-product formulae."
+          },
+          {
+            "TRIGONOMETRIC FUNCTIONS OF MULTIPLES OF ANGLES": [
+              "Trigonometric Functions of 2A",
+              "Trigonometric Functions of 3A in Terms of A"
+            ],
+            "description": "Derives and applies formulae for double angles (e.g., sin 2A, cos 2A) and triple angles (e.g., sin 3A, cos 3A)."
+          },
+          "TRIGONOMETRIC FUNCTIONS OF SUBMULTIPLES OF ANGLES",
+          {
+            "TRIGONOMETRIC EQUATIONS": [
+              "General solution of the equation sin θ = sin α",
+              "General solution of the equation cos θ = cos α",
+              "General solution of the equation tan θ = tan α"
+            ],
+            "description": "Introduces methods for finding the general solutions to basic trigonometric equations."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "RELATIONS BETWEEN SIDES AND ANGLES OF A TRIANGLE",
+        "topics": [
+          {
+            "Chapter Introduction": [
+              "Objectives",
+              "Expected Background Knowledge"
+            ],
+            "description": "Introduction to establishing results that give the relationship between sides and angles of a triangle. The objectives are to derive and apply the sine, cosine, and projection formulas. Prerequisite knowledge includes trigonometric functions and various related formulae."
+          },
+          {
+            "Sine Formula": [
+              "Proof of the Sine Formula"
+            ],
+            "description": "Proves that in any triangle, the lengths of the sides are proportional to the sines of the angles opposite to the sides, i.e., a/sin A = b/sin B = c/sin C."
+          },
+          {
+            "Cosine Formula": [
+              "Proof of the Cosine Formula"
+            ],
+            "description": "Proves the relationship between the sides and angles of a triangle, expressed as cos A = (b² + c² - a²) / 2bc, cos B = (c² + a² - b²) / 2ac, and cos C = (a² + b² - c²) / 2ab."
+          },
+          {
+            "Projection Formula": [
+              "Proof of the Projection Formula"
+            ],
+            "description": "Proves that in any triangle, a side can be expressed in terms of the other sides and their adjacent angles: a = b cos C + c cos B, b = c cos A + a cos C, and c = a cos B + b cos A."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "SEQUENCES AND SERIES",
+        "topics": [
+          "6.1 SEQUENCE",
+          {
+            "6.2 ARITHMETIC PROGRESSION": [
+              "6.2.1 GENERAL TERM OF AN A. P."
+            ],
+            "description": "Introduction to Arithmetic Progression (A.P.), its definition, common difference, and the formula to find the general (nth) term."
+          },
+          "6.3 TO FIND THE SUM OF FIRST n TERMS IN AN A. P.",
+          "6.4 ARITHMETIC MEAN (A. M.)",
+          {
+            "6.5 GEOMETRIC PROGRESSION": [
+              "6.5.1 GENERAL TERM",
+              "6.5.2 SOME PROPERTIES OF G. P."
+            ],
+            "description": "Introduction to Geometric Progression (G.P.), its common ratio, the formula for the general term, and some of its key properties."
+          },
+          "6.6 SUM OF n TERMS OF A G. P.",
+          {
+            "6.7 INFINITE GEOMETRIC PROGRESSION": [
+              "6.7.1 SUM OF INFINITE TERMS OF A G. P."
+            ],
+            "description": "Discusses the concept of finding the sum of an infinite number of terms in a G.P. and the conditions under which it is possible."
+          },
+          {
+            "6.8 GEOMETRIC MEAN (G. M.)": [
+              "6.8.1 RELATIONSHIP BETWEEN A. M. AND G.M."
+            ],
+            "description": "Defines the Geometric Mean (G.M.) between numbers and establishes the mathematical relationship between the Arithmetic Mean (A.M.) and Geometric Mean."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "SOME SPECIAL SEQUENCES",
+        "topics": [
+          {
+            "OBJECTIVES": [],
+            "description": "Outlines the learning goals for the chapter, including defining a series, calculating terms, and evaluating sums of specific sequences like Σn, Σn², and Σn³."
+          },
+          "EXPECTED BACKGROUND KNOWLEDGE",
+          "7.1 SERIES",
+          {
+            "7.2 SUM OF THE POWERS OF THE FIRST n NATURAL NUMBERS": [
+              "Sum of the first n natural numbers (Σn)",
+              "Sum of the squares of the first n natural numbers (Σn²)",
+              "Sum of the cubes of the first n natural numbers (Σn³)"
+            ],
+            "description": "Derivation and application of formulas for the sum of the first n natural numbers, the sum of the squares of the first n natural numbers, and the sum of the cubes of the first n natural numbers."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "COMPLEX NUMBERS",
+        "topics": [
+          "EXPECTED BACKGROUND KNOWLEDGE",
+          "COMPLEX NUMBERS",
+          "POSITIVE INTEGRAL POWERS OF i",
+          {
+            "CONJUGATE OF A COMPLEX NUMBER": [
+              "PROPERTIES OF COMPLEX CONJUGATES"
+            ],
+            "description": "Defining the conjugate of a complex number (z = a - bi) and exploring its fundamental properties."
+          },
+          "GEOMETRICAL REPRESENTATION OF A COMPLEX NUMBER",
+          {
+            "MODULUS OF A COMPLEX NUMBER": [
+              "Properties of Modulus"
+            ],
+            "description": "Defining the modulus or absolute value of a complex number and its key properties."
+          },
+          "EQUALITY OF TWO COMPLEX NUMBERS",
+          {
+            "ADDITION OF COMPLEX NUMBERS": [
+              "Geometrical Represention of Addition of Two Complex Numbers",
+              "Subtraction of Complex Numbers"
+            ],
+            "description": "Rules for adding and subtracting complex numbers, and visualizing addition on the Argand Plane."
+          },
+          {
+            "PROPERTIES: WITH RESPECT TO ADDITION OF COMPLEX NUMBERS": [
+              "Closure",
+              "Commutative",
+              "Associative",
+              "Existence of Additive Identity",
+              "Existence of Additive Inverse"
+            ],
+            "description": "Examining the algebraic properties that govern the addition of complex numbers."
+          },
+          "ARGUMENT OF A COMPLEX NUMBER",
+          "MULTIPLICATION OF TWO COMPLEX NUMBERS",
+          "DIVISION OF TWO COMPLEX NUMBERS",
+          {
+            "PROPERTIES OF MULTIPLICATION OF TWO COMPLEX NUMBERS": [
+              "Closure",
+              "Commutative",
+              "Associativity",
+              "Existence of Multiplicative Identity",
+              "Existence of Multiplicative inverse",
+              "Distributive Property of Multiplication over Addition"
+            ],
+            "description": "Examining the algebraic properties related to the multiplication of complex numbers."
+          },
+          "SQUARE ROOT OF A COMPLEX NUMBER"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "QUADRATIC EQUATIONS AND LINEAR INEQUALITIES",
+        "topics": [
+          "ROOTS OF A QUADRATIC EQUATION",
+          "SOLVING QUADRATIC EQUATION BY FACTORIZATION",
+          {
+            "SOLVING QUADRATIC EQUATION BY QUADRATIC FORMULA": [
+              "Nature of Roots based on Discriminant (D > 0, D = 0, D < 0)"
+            ],
+            "description": "Explains how to solve quadratic equations using the quadratic formula and how to determine the nature of the roots (real, unequal, equal, or complex) by analyzing the discriminant."
+          },
+          "RELATION BETWEEN ROOTS AND COEFFICIENTS OF A QUADRATIC EQUATION",
+          "SOLUTION OF A QUADRATIC EQUATION WHEN D < 0",
+          "Fundamental Theorem of Algebra",
+          "INEQUALITIES (INEQUATIONS)",
+          "SOLUTIONS OF LINEAR INEQUALITIES IN ONE/TWO VARIABLES",
+          "GRAPHICAL REPRESENTATION OF LINEAR INEQUALITIES IN ONE OR TWO VARIABLES",
+          "GRAPHICAL SOLUTION OF A SYSTEM OF LINEAR INEQUATIONS IN TWO VARIABLES"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "PRINCIPLE OF MATHEMATICAL INDUCTION",
+        "topics": [
+          {
+            "Introduction to Reasoning": [
+              "Deductive Logic",
+              "Inductive Logic"
+            ],
+            "description": "An introduction to different forms of reasoning, contrasting deductive logic (applying general principles to specific cases) with inductive logic (formulating general rules from specific observations), and presenting mathematical induction as a precise form of inductive reasoning."
+          },
+          {
+            "10.1 WHAT IS A STATEMENT ?": [
+              "Definition of a Statement (Proposition)",
+              "P(n) Notation"
+            ],
+            "description": "Defines a mathematical statement as an assertion that is either true or false. It introduces the P(n) notation to represent statements involving a general natural number n."
+          },
+          {
+            "10.2 The Principle of Mathematical Induction": [
+              "The Base Step (Verifying for n=1)",
+              "The Inductive Step (Assuming P(k) is true and proving P(k+1) is true)"
+            ],
+            "description": "Formally states the principle of mathematical induction as a method to prove that a statement P(n) is true for every natural number n. This involves a two-step process: verifying the base case and proving the inductive step."
+          },
+          {
+            "Applications of Mathematical Induction": [
+              "Proving Summation Formulas",
+              "Proving Divisibility Statements",
+              "Proving Inequalities",
+              "Proving Statements for n ≥ a, where a > 1"
+            ],
+            "description": "Illustrates through various examples how to apply the principle of mathematical induction to prove different types of mathematical propositions, such as series summations, divisibility rules, and inequalities."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "PERMUTATIONS AND COMBINATIONS",
+        "topics": [
+          "Fundamental Principle of Counting",
+          {
+            "Permutations": [
+              "Permutation of r objects out of n objects",
+              "Permutations under some conditions"
+            ],
+            "description": "An arrangement of objects in a particular order. The section covers the concept of factorials (n!) and the formula for the number of permutations of r objects out of n objects (nPr)."
+          },
+          {
+            "Combinations": [
+              "Some Simple Properties of nCr"
+            ],
+            "description": "A selection of objects where the order does not matter. This section introduces the formula for the number of combinations of r objects out of n objects (nCr) and discusses its properties."
+          },
+          "Problems Involving Both Permutations and Combinations"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "BINOMIAL THEOREM",
+        "topics": [
+          {
+            "The Binomial Theorem for a Natural Exponent": [
+              "Statement of the theorem for a positive integral index",
+              "Proof by the principle of mathematical induction",
+              "Applications in expanding expressions and evaluating numbers"
+            ],
+            "description": "Introduction to the binomial theorem for expanding expressions of the form (x+y)^n, where n is a natural number, including its statement and proof."
+          },
+          "General Term in a Binomial Expansion",
+          {
+            "Middle Term(s) in a Binomial Expansion": [
+              "Case 1: When the exponent n is even",
+              "Case 2: When the exponent n is odd"
+            ],
+            "description": "Methods for finding the middle term or terms in a binomial expansion, which differs based on whether the exponent is an even or odd integer."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "CARTESIAN SYSTEM OF RECTANGULAR CO-ORDINATES",
+        "topics": [
+          {
+            "Rectangular Coordinate Axes": [
+              "Cartesian Coordinates of a Point",
+              "Quadrants"
+            ],
+            "description": "Introduction to the Cartesian coordinate system, including the origin, x-axis, y-axis, and the four quadrants. Defines how to locate a point using an ordered pair (abscissa, ordinate)."
+          },
+          "Distance Between Two Points",
+          {
+            "Section Formula": [
+              "Internal Division",
+              "External Division"
+            ],
+            "description": "Formulas to find the coordinates of a point dividing a line segment in a given ratio, both internally and externally. Includes the midpoint formula."
+          },
+          "Area of a Triangle",
+          "Condition for Collinearity of Three Points",
+          "Inclination and Slope of a Line",
+          "Slope of a Line Joining Two Distinct Points",
+          {
+            "Conditions for Parallelism and Perpendicularity of Lines": [
+              "Slope of Parallel Lines",
+              "Slopes of Perpendicular Lines"
+            ],
+            "description": "Discusses the relationship between the slopes of parallel lines (m1 = m2) and perpendicular lines (m1 * m2 = -1)."
+          },
+          "Intercepts Made by a Line on Axes",
+          "Angle Between Two Lines",
+          "Shifting of Origin"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "STRAIGHT LINES",
+        "topics": [
+          "Objectives",
+          "Expected Background Knowledge",
+          "Straight Line Parallel to an Axis",
+          {
+            "Derivation of the Equation of a Straight Line in Various Standard Forms": [
+              "Slope-Intercept Form",
+              "Point-Slope Form",
+              "Two Point Form",
+              "Intercept Form",
+              "Perpendicular Form (Normal Form)"
+            ],
+            "description": "This section covers the derivation of the equation of a straight line in various standard forms based on given conditions like slope, intercepts, and points."
+          },
+          {
+            "General Equation of First Degree": [
+              "Conversion of General Equation of a Line into Various Forms",
+              "Conversion into Slope-Intercept Form",
+              "Conversion into Intercept Form",
+              "Conversion into Perpendicular Form"
+            ],
+            "description": "Discusses the general form of a linear equation (Ax + By + C = 0) and methods to convert it into other standard forms of a straight line."
+          },
+          "Distance of a Given Point from a Given Line",
+          {
+            "Equation of Parallel (or Perpendicular) Lines": [
+              "Equation of a Straight Line Parallel to the Given Line",
+              "Straight Line Perpendicular to the Given Line"
+            ],
+            "description": "Methods to find the equation of a line that is either parallel or perpendicular to another given line."
+          },
+          "Equation of Family of Lines Passing Through the Point of Intersection of Two Lines"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "CIRCLES",
+        "topics": [
+          {
+            "15.1 DEFINITION OF THE CIRCLE": [],
+            "description": "Defines a circle as the locus of a point moving in a plane at a constant distance (radius) from a fixed point (centre)."
+          },
+          {
+            "15.2 EQUATION OF A CIRCLE": [
+              "15.2.1 WHEN COORDINATES OF THE CENTRE AND RADIUS ARE GIVEN"
+            ],
+            "description": "Derives the standard form of the equation of a circle, (x-h)² + (y-k)² = a², where (h,k) is the centre and 'a' is the radius. It also explores special cases, such as when the circle passes through the origin or touches the axes."
+          },
+          {
+            "15.3 GENERAL EQUATION OF THE CIRCLE IN SECOND DEGREE IN TWO VARIABLES": [
+              "15.3.1 CONDITONS UNDER WHICH THE GENERAL EQUATION OF SECOND DEGREE IN TWO VARIABLES REPRESENTS A CIRCLE"
+            ],
+            "description": "Introduces the general form of a circle's equation, x² + y² + 2gx + 2fy + c = 0. It explains how to determine the centre (-g, -f) and radius (sqrt(g² + f² - c)) from this equation and lists the conditions for a general second-degree equation to represent a circle."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "CONIC SECTIONS",
+        "topics": [
+          {
+            "CONIC SECTION": [],
+            "description": "Introduces the mathematical definition of a conic section as the locus of a point based on its distance from a fixed point (focus) and a fixed line (directrix), governed by a constant ratio called eccentricity (e)."
+          },
+          {
+            "ELLIPSE": [
+              "STANDARD EQUATION OF AN ELLIPSE"
+            ],
+            "description": "Defines an ellipse as a conic where e < 1. Covers the derivation of its standard equation and defines key properties such as major axis, minor axis, latus rectum, and foci."
+          },
+          {
+            "PARABOLA": [
+              "STANDARD EQUATION OF A PARABOLA",
+              "OTHER FORMS OF THE PARABOLA"
+            ],
+            "description": "Defines a parabola as a conic where e = 1. Derives the standard equation y² = 4ax and discusses other forms (y² = -4ax, x² = 4ay, x² = -4ay) along with their corresponding properties."
+          },
+          {
+            "HYPERBOLA": [
+              "Equation of Hyperbola in Standard from",
+              "RECTANGULAR HYPERBOLA"
+            ],
+            "description": "Defines a hyperbola as a conic where e > 1. Details the derivation of its standard equation and related concepts like transverse axis, conjugate axis, foci, and the special case of a rectangular hyperbola."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "MEASURES OF DISPERSION",
+        "topics": [
+          "17.1 MEANING OF DISPERSION",
+          {
+            "17.2 DEFINITION OF VARIOUS MEASURES OF DISPERSION": [
+              "Range",
+              "Mean Deviation from Mean",
+              "Variance",
+              "Standard Deviation"
+            ],
+            "description": "Defines and introduces various statistical measures to quantify the spread or scatteredness of a dataset, including range, mean deviation, variance, and standard deviation."
+          },
+          "17.3 MEAN DEVIATION FROM MEAN OF RAW AND GROUPED DATA",
+          {
+            "17.4 MEDIAN": [
+              "17.4.1 MEDIAN OF GROUPED DATA",
+              "17.4.2 MEDIAN OF CONTINUOUS FREQUENCY DISTRIBUTION"
+            ],
+            "description": "Provides methods to calculate the median for both discrete and continuous frequency distributions of grouped data."
+          },
+          {
+            "17.5 MEAN DEVIATION FROM MEDIAN": [
+              "17.5.1 MEAN DEVIATION OF GROUPED DATA FROM MEDIAN"
+            ],
+            "description": "Explains the procedure to calculate the mean deviation of observations from the median for both raw and grouped data."
+          },
+          "17.6 VARIANCE AND STANDARD DEVIATION OF RAW DATA",
+          "17.7 STANDARD DEVIATION AND VARIANCE OF RAW DATA AN ALTERNATE METHOD",
+          "17.8 STANDARD DEVIATION AND VARIANCE OF GROUPED DATA: METHOD - I",
+          "17.9 STANDARD DEVIATION AND VARIANCE OF GROUPED DATA: METHOD - II",
+          "17.10 STANDARD DEVIATION AND VARIANCE: STEP DEVIATION METHOD",
+          {
+            "17.11 PROPERTIES OF VARIANCE AND STANDARD DEVIATION": [
+              "Property I: Independence of change of origin",
+              "Property II: Dependence on the change of scale",
+              "Property III: Standard deviation is the least possible root mean square deviation",
+              "Property IV: Combining standard deviations of two sets"
+            ],
+            "description": "Discusses the key mathematical properties of variance and standard deviation, such as their behavior with changes in origin and scale, and how to combine them for multiple datasets."
+          },
+          "17.12 ANALYSIS OF FREQUENCY DISTRIBUTIONS WITH EQUAL MEANS"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "RANDOM EXPERIMENTS AND EVENTS",
+        "topics": [
+          {
+            "18.1 Random Experiment": [],
+            "description": "Defines an experiment as an activity that yields a result or an outcome. A random experiment is one that can be repeated under identical conditions, but whose outcome is not predictable beforehand due to the role of chance."
+          },
+          {
+            "18.2 Sample Space": [],
+            "description": "Introduces the concept of a sample space (S) as the set of all possible outcomes of an experiment. The elements of the sample space are called sample points. Examples include tossing coins, rolling dice, and combinations of these activities, often visualized with tree diagrams."
+          },
+          {
+            "18.3 Definition of Various Terms": [
+              "Event",
+              "18.3.1 Equally Likely Events",
+              "18.3.2 Mutually Exclusive Events",
+              "18.3.3 Exhaustive Events",
+              "18.3.4 Independent and Dependent Events"
+            ],
+            "description": "Defines an event as a subset of the sample space. It further classifies events based on their properties: equally likely (no outcome is preferred), mutually exclusive (cannot happen simultaneously), exhaustive (their union covers the entire sample space), and independent/dependent (the occurrence of one does or does not affect the other)."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "PROBABILITY",
+        "topics": [
+          "OBJECTIVES",
+          "EXPECTED BACKGROUND KNOWLEDGE",
+          {
+            "19.1 EVENTS AND THEIR PROBABILITY": [],
+            "description": "Defines the classical probability of an event as the ratio of the number of favorable outcomes to the total number of equally likely outcomes."
+          },
+          {
+            "19.2 CALCULATION OF PROBABILITY USING COMBINATORICS (PERMUTATIONS AND COMBINATIONS)": [
+              "Without replacement",
+              "With replacement"
+            ],
+            "description": "Utilizes permutations and combinations to determine the number of possible and favorable outcomes, especially in scenarios with large sample spaces."
+          },
+          {
+            "19.3 EVENT RELATIONS": [
+              "19.3.1 Complement of an event",
+              "19.3.2 Event 'A or B'",
+              "19.3.3 Event 'A and B'"
+            ],
+            "description": "Describes the relationships between different events using set theory concepts like complement, union (or), and intersection (and)."
+          },
+          "19.4 ADDITIVE LAW OF PROBABILITY",
+          "19.5 ADDITIVE LAW OF PROBABILITY FOR MUTUALLY EXCLUSIVE EVENTS",
+          "19.6 MULTIPLICATION LAW OF PROBABILITY FOR INDEPENDENT EVENTS",
+          "19.7 CONDITIONAL PROBABILITY",
+          "19.8 THEOREMS ON MULTIPLICATION LAW OF PROBABILITY AND CONDITIONAL PROBABILITY",
+          {
+            "19.9 INTRODUCTION TO BAYES' THEOREM": [
+              "19.10 THEOREM OF TOTAL PROBABILITY",
+              "19.11 BAYE'S THEOREM"
+            ],
+            "description": "Introduces the concept of finding the probability of an event that occurred prior to another given event. It covers the theorem of total probability and the formal statement and application of Baye's theorem."
+          },
+          {
+            "19.12 PROBABILITY DISTRIBUTION OF RANDOM VARIABLE": [
+              "19.12.1 Variables",
+              "19.12.2 Definition",
+              "19.12.3 Probability Distribution of a Random Variable"
+            ],
+            "description": "Defines a random variable and explains how to create its probability distribution, which lists all possible values of the variable and their corresponding probabilities."
+          },
+          {
+            "19.13 MEAN AND VARIANCE OF A RANDOM VARIABLE": [
+              "19.13.1 Mean",
+              "19.13.2 VARIANCE"
+            ],
+            "description": "Defines and provides formulas for calculating the mean (expected value) and variance of a discrete random variable."
+          },
+          "19.14 BERNOULLI TRIALS",
+          {
+            "19.15 BINOMIAL DISTRIBUTION": [],
+            "description": "Describes the probability distribution for the number of successes in a fixed number of independent Bernoulli trials."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_20",
+        "title": "MATRICES",
+        "topics": [
+          {
+            "Matrices and their Representations": [
+              "Order of a Matrix"
+            ],
+            "description": "Introduction to the concept of matrices, how they are represented, and their order."
+          },
+          {
+            "Types of Matrices": [
+              "Row Matrix",
+              "Column Matrix",
+              "Square Matrix",
+              "Rectangular Matrix",
+              "Zero or Null Matrix",
+              "Diagonal Matrix",
+              "Scalar Matrix",
+              "Unit or Identity Matrix",
+              "Equal Matrices"
+            ],
+            "description": "Classification of matrices based on their structure and elements."
+          },
+          {
+            "Transpose of a Matrix": [
+              "Symmetric Matrix",
+              "Skew-Symmetric Matrix"
+            ],
+            "description": "Discusses the transpose of a matrix and special types like symmetric and skew-symmetric matrices."
+          },
+          "Scalar Multiplication of a Matrix",
+          {
+            "Addition of Matrices": [
+              "Properties of Addition"
+            ],
+            "description": "Covers the process of adding matrices and the properties associated with matrix addition."
+          },
+          "Subtraction of Matrices",
+          "Multiplication of Matrices",
+          "Invertible Matrices",
+          {
+            "Elementary Transformations or Elementary Operations of a Matrix": [
+              "Inverse of a Matrix by Elementary Operations"
+            ],
+            "description": "Explains the elementary row and column operations and their application in finding the inverse of a matrix."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_21",
+        "title": "DETERMINANTS",
+        "topics": [
+          "OBJECTIVES",
+          "EXPECTED BACKGROUND KNOWLEDGE",
+          "21.1 DETERMINANT OF ORDER 2",
+          "21.2 EXPANSION OF A DETERMINANT OF ORDER 2",
+          "21.3 DETERMINANT OF ORDER 3",
+          "21.4 DETERMINANT OF A SQUARE MATRIX",
+          "21.5 EXPANSION OF A DETERMINANT OF ORDER 3",
+          {
+            "21.6 MINORS AND COFACTORS": [
+              "21.6.1 Minor of a_ij in |A|",
+              "21.6.2 Cofactors of a_ij in |A|"
+            ],
+            "description": "Introduces the concepts of minors and cofactors of elements within a determinant. The minor is the value of the determinant obtained by deleting the row and column of an element, while the cofactor is the signed minor."
+          },
+          {
+            "21.7 PROPERTIES OF DETERMINANTS": [
+              "Property 1: The value of a determinant remains unchanged if its rows and columns are interchanged.",
+              "Property 2: If two rows (or columns) of a determinant are interchanged, then the value of the determinant changes in sign only.",
+              "Property 3: If any two rows (or columns) of a determinant are identical then the value of the determinant is zero.",
+              "Property 4: If each element of a row (or column) of a determinant is multiplied by the same constant, then the value of the determinant is multiplied by that constant.",
+              "Property 5: If each element of a row (or of a column) is expressed as the sum of two or more terms, then the determinant can be expressed as the sum of two or more determinants.",
+              "Property 6: The value of a determinant does not change if a multiple of one row (or column) is added to another row (or column)."
+            ],
+            "description": "Details the fundamental properties that simplify the evaluation of determinants."
+          },
+          "21.8 EVALUATION OF A DETERMINANT USING PROPERTIES",
+          {
+            "21.11 Application of Determinants": [
+              "21.11.1 Area of a Triangle",
+              "21.11.2 Condition of collinearity of three points",
+              "21.11.2 Equation of a line passing through the given two points"
+            ],
+            "description": "Covers the practical applications of determinants, including calculating the area of a triangle, determining if three points lie on the same line, and finding the equation of a line."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_22",
+        "title": "INVERSE OF A MATRIX AND ITS APPLICATIONS",
+        "topics": [
+          {
+            "DETERMINANT OF A SQUARE MATRIX": [
+              "Singular and Non-Singular Matrices"
+            ],
+            "description": "Introduction to the determinant associated with a square matrix and the classification of matrices as singular (|A| = 0) or non-singular (|A| ≠ 0)."
+          },
+          "MINORS AND COFACTORS OF THE ELEMENTS OF SQUARE MATRIX",
+          "ADJOINT OF A SQUARE MATRIX",
+          "INVERSE OF A MATRIX",
+          {
+            "SOLUTION OF A SYSTEM OF LINEAR EQUATIONS": [
+              "MATRIX METHOD",
+              "CRITERION FOR CONSISTENCY OF A SYSTEM OF EQUATIONS"
+            ],
+            "description": "Application of matrices to solve systems of linear equations using the matrix inversion method (AX = B gives X = A⁻¹B). It also covers the criteria to determine if a system of equations is consistent (has a solution) or inconsistent."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_23",
+        "title": "RELATIONS AND FUNCTIONS-II",
+        "topics": [
+          "Objectives",
+          "Expected Background Knowledge",
+          {
+            "Relation": [
+              "Definition of a Relation",
+              "Types of Relations (Reflexive, Symmetric, Transitive)"
+            ],
+            "description": "Defines a relation as a subset of the Cartesian product of sets and introduces key types of relations: reflexive, symmetric, and transitive."
+          },
+          "Equivalence Relation",
+          {
+            "Classification of Functions": [
+              "One-to-one function",
+              "Many-to-one function",
+              "Onto/Into functions",
+              "Bijective function"
+            ],
+            "description": "Categorizes functions based on their mapping properties, such as one-to-one, many-to-one, onto, and bijective functions."
+          },
+          "Graphical Representation of Functions",
+          "Composition of Functions",
+          "Inverse of a Function",
+          {
+            "Binary Operations": [
+              "Closure Property",
+              "Commutativity",
+              "Associativity",
+              "Identity Element",
+              "Inverse of an Element"
+            ],
+            "description": "Introduces the concept of a binary operation on a set and its fundamental properties like commutativity, associativity, identity, and inverse elements."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_24",
+        "title": "INVERSE TRIGONOMETRIC FUNCTIONS",
+        "topics": [
+          "Introduction to Inverse Functions",
+          {
+            "OBJECTIVES": [
+              "define inverse trigonometric functions",
+              "state the condition for the inverse of trigonometric functions to exist",
+              "define the principal value of inverse trigonometric functions",
+              "find domain and range of inverse trigonometric functions",
+              "state the properties of inverse trigonometric functions",
+              "simplify expressions involving inverse trigonometric functions"
+            ]
+          },
+          "24.1 IS INVERSE OF EVERY FUNCTION POSSIBLE ?",
+          {
+            "Domain and Range (Principal Value) of Inverse Trigonometric Functions": [
+              "y = sin⁻¹x",
+              "y = cos⁻¹x",
+              "y = tan⁻¹x",
+              "y = cot⁻¹x",
+              "y = sec⁻¹x",
+              "y = cosec⁻¹x"
+            ],
+            "description": "Discussion on restricting the domain of trigonometric functions to make them invertible, leading to the concept of the principal value branch for each inverse trigonometric function."
+          },
+          "24.2 GRAPH OF INVERSE TRIGONOMETRIC FUNCTIONS",
+          {
+            "24.3 PROPERTIES OF INVERSE TRIGONOMETRIC FUNCTIONS": [
+              "Property 1: sin⁻¹(sin θ) = θ, etc.",
+              "Property 2: Reciprocal relationships, e.g., cosec⁻¹x = sin⁻¹(1/x)",
+              "Property 3: Properties of negative arguments, e.g., sin⁻¹(-x) = -sin⁻¹x and cos⁻¹(-x) = π - cos⁻¹x",
+              "Property 4: Complementary function relationships, e.g., sin⁻¹x + cos⁻¹x = π/2",
+              "Property 5: Sum and difference formulas for tan⁻¹x",
+              "Property 6: Formulas for 2tan⁻¹x in terms of sin⁻¹, cos⁻¹, and tan⁻¹",
+              "Property 7: Interconversion between inverse trigonometric functions, e.g., expressing sin⁻¹x in terms of other inverse functions"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_25",
+        "title": "LIMIT AND CONTINUITY",
+        "topics": [
+          {
+            "25.1 LIMIT OF A FUNCTION": [
+              "Finding limits from tables",
+              "Methods for calculating limits (Substitution, Factorization, Rationalization)"
+            ],
+            "description": "Introduction to the concept of the limiting value of a function as the independent variable approaches a specific point."
+          },
+          "25.2 LEFT AND RIGHT HAND LIMITS",
+          "25.3 LIMIT OF FUNCTION y = f(x) AT x = a",
+          {
+            "25.4 BASIC THEOREMS ON LIMITS": [
+              "Limit of a constant multiple of a function",
+              "Limit of a sum or difference of functions",
+              "Limit of a product of functions",
+              "Limit of a quotient of functions"
+            ],
+            "description": "Theorems governing the calculation of limits for functions combined through basic arithmetic operations."
+          },
+          {
+            "25.5 FINDING LIMITS OF SOME OF THE IMPORTANT FUNCTIONS": [
+              "Limit of (x^n - a^n)/(x-a)",
+              "Limits of trigonometric functions (sin x, cos x, sin x/x)",
+              "Limit of (1+x)^(1/x)",
+              "Limit of log(1+x)/x",
+              "Limit of (e^x-1)/x"
+            ],
+            "description": "Derivation and application of standard limits for algebraic, trigonometric, exponential, and logarithmic functions."
+          },
+          "25.6 CONTINUITY OF A FUNCTION AT A POINT",
+          "25.7 DISCONTINUITY OF A FUNCTION AT A POINT",
+          "25.8 PROPERTIES OF CONTINUOUS FUNCTIONS",
+          {
+            "25.9 IMPORTANT RESULTS ON CONTINUITY": [
+              "Continuity of Polynomial Functions",
+              "Continuity of Rational Functions",
+              "Continuity of Modulus Function",
+              "Continuity of Signum Function",
+              "Continuity of Greatest Integer Function"
+            ],
+            "description": "Examining the continuity of standard types of functions and their properties."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_26",
+        "title": "DIFFERENTIATION",
+        "topics": [
+          "OBJECTIVES",
+          "26.1 DERIVATIVE OF A FUNCTION",
+          "26.2 VELOCITY AS LIMIT",
+          "26.3 GEOMETRICAL INTERPRETATION OF dy/dx",
+          "26.4 DERIVATIVE OF CONSTANT FUNCTION",
+          "26.5 DERIVATIVE OF A FUNCTION FROM FIRST PRINCIPLE",
+          {
+            "ALGEBRA OF DERIVATIVES": [
+              "26.7 DERIVATIVES OF SUM AND DIFFERENCE OF FUNCTIONS",
+              "26.8 DERIVATIVE OF PRODUCT OF FUNCTIONS",
+              "26.9 QUOTIENT RULE",
+              "26.10 CHAIN RULE"
+            ],
+            "description": "This section introduces the rules for finding derivatives of functions that are combinations (sum, difference, product, quotient) of other functions, as well as the rule for composite functions (function of a function)."
+          },
+          "Second Order Derivative"
+        ]
+      },
+      {
+        "chapter_id": "chapter_27",
+        "title": "DIFFERENTIATION OF TRIGONOMETRIC FUNCTIONS",
+        "topics": [
+          {
+            "OBJECTIVES": [],
+            "description": "Outlines the learning goals for the chapter, including finding derivatives of trigonometric and inverse trigonometric functions from first principles, applying differentiation rules, and finding second-order derivatives."
+          },
+          "EXPECTED BACKGROUND KNOWLEDGE",
+          {
+            "27.1 DERIVATIVE OF TRIGONOMETRIC FUNCTIONS FROM FIRST PRINCIPLE": [
+              "Derivative of y = sin x",
+              "Derivative of y = cos x",
+              "Derivative of y = tan x",
+              "Derivative of y = sec x",
+              "Derivative of cot x and cosec x (mentioned)"
+            ],
+            "description": "This section explains how to find the derivatives of basic trigonometric functions using the fundamental definition of a derivative (the first principle)."
+          },
+          {
+            "27.2 DERIVATIVES OF TRIGONOMETRIC FUNCTIONS": [],
+            "description": "This section covers finding the derivatives of more complex trigonometric functions by applying standard differentiation rules such as the product rule, quotient rule, and chain rule."
+          },
+          {
+            "27.3 DERIVATIVES OF INVERSE TRIGONOMETRIC FUNCTIONS FROM FIRST PRINCIPLE": [
+              "Derivative of sin⁻¹ x",
+              "Derivative of cos⁻¹ x",
+              "Derivative of tan⁻¹ x",
+              "Derivative of cot⁻¹ x",
+              "Derivative of sec⁻¹ x",
+              "Derivative of cosec⁻¹ x"
+            ],
+            "description": "This section demonstrates how to derive the formulas for the derivatives of standard inverse trigonometric functions starting from the first principle."
+          },
+          {
+            "27.4 DERIVATIVES OF INVERSE TRIGONOMETRIC FUNCTIONS": [],
+            "description": "Focuses on applying the established derivative formulas for inverse trigonometric functions to solve problems, often in combination with the chain rule."
+          },
+          {
+            "27.5 SECOND ORDER DERIVATIVES": [],
+            "description": "Explains the concept of finding the second derivative of a function, which is the derivative of the first derivative, with examples involving trigonometric and inverse trigonometric functions."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_28",
+        "title": "DIFFERENTIATION OF EXPONENTIAL AND LOGARITHMIC FUNCTIONS",
+        "topics": [
+          {
+            "Derivative of Exponential Functions": [
+              "Derivative of e^x",
+              "Derivative of e^(ax+b)"
+            ],
+            "description": "This section covers the derivation from first principles and the working rule for finding the derivatives of exponential functions, particularly for e^x and e^(ax+b)."
+          },
+          {
+            "Derivative of Logarithmic Functions": [
+              "Derivative of log(x)",
+              "Derivative of log(ax+b)",
+              "Using logarithm properties to simplify differentiation"
+            ],
+            "description": "This section explains how to find the derivative of logarithmic functions. It also demonstrates the technique of taking logarithms on both sides to simplify the differentiation of complex products and quotients."
+          },
+          {
+            "Derivative of Logarithmic Function (Continued)": [
+              "Derivative of a^x",
+              "Derivative of functions in the form [f(x)]^g(x)"
+            ],
+            "description": "Focuses on the technique of logarithmic differentiation, which is used when the exponent in a function is a variable. This method is applied to find the derivative of functions like a^x and x^x."
+          },
+          "Second Order Derivatives",
+          {
+            "Derivative of Parametric Functions": [
+              "First Order Derivative of Parametric Functions",
+              "Second Order Derivative of Parametric Functions"
+            ],
+            "description": "Introduces parametric functions and the chain rule method to find their first and second order derivatives with respect to a variable."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_29",
+        "title": "APPLICATIONS OF DERIVATIVES",
+        "topics": [
+          {
+            "RATE OF CHANGE OF QUANTITIES": [],
+            "description": "Using derivatives to find the rate at which one quantity changes with respect to another, including concepts like marginal revenue and marginal cost."
+          },
+          {
+            "APPROXIMATIONS": [
+              "Absolute Error",
+              "Relative Error",
+              "Percentage Error",
+              "Using differentials to find approximate values"
+            ],
+            "description": "Understanding and calculating small changes and errors in dependent variables corresponding to small changes in independent variables."
+          },
+          "SLOPE OF TANGENT AND NORMAL",
+          "EQUATIONS OF TANGENT AND NORMAL TO A CURVE",
+          "Mathematical formulation of Rolle's Theorem",
+          {
+            "LANGRANGE'S MEAN VALUE THEOREM": [
+              "Mathematical Formulation of the Theorem"
+            ],
+            "description": "An extension of Rolle's Theorem stating that for a continuous and differentiable function, there exists a point where the tangent is parallel to the secant line through the endpoints."
+          },
+          {
+            "INCREASING AND DECREASING FUNCTIONS": [
+              "Monotonic Functions"
+            ],
+            "description": "Defining and identifying intervals where a function is increasing or decreasing based on the sign of its derivative."
+          },
+          "RELATION BETWEEN THE SIGN OF THE DERIVATIVE AND MONOTONICITY OF FUNCTION",
+          {
+            "MAXIMUM AND MINIMUM VALUES OF A FUNCTION": [
+              "Conditions for Maximum or Minimum",
+              "Method of Finding Maxima or Minima (First Derivative Test)"
+            ],
+            "description": "Finding local maxima and minima (extreme values) of a function by analyzing the sign change of the first derivative around stationary points."
+          },
+          "USE OF SECOND DERIVATIVE FOR DETERMINATION OF MAXIMUM AND MINIMUM VALUES OF A FUNCTION",
+          "APPLICATIONS OF MAXIMA AND MINIMA TO PRACTICAL PROBLEMS"
+        ]
+      },
+      {
+        "chapter_id": "chapter_30",
+        "title": "INTEGRATION",
+        "topics": [
+          "INTEGRATION AS INVERSE OF DIFFERENTIATION",
+          "PROPERTIES OF INTEGRALS",
+          {
+            "TECHNIQUES OF INTEGRATION": [
+              "Integration By Substitution",
+              "Integration of Function of The Type f'(x) / f(x)",
+              "Integration of tan x, cot x, sec x, and cosec x",
+              "Integration of standard algebraic and trigonometric forms"
+            ],
+            "description": "This section covers various methods to find integrals, including the substitution method, integration of specific trigonometric functions, and evaluation of integrals for standard algebraic expressions like 1/(x² ± a²), 1/√(a² ± x²), etc."
+          },
+          "INTEGRATION BY PARTS",
+          "INTEGRAL OF THE FORM ∫e^x [f(x) + f'(x)]dx",
+          "INTEGRATION BY USING PARTIAL FRACTIONS"
+        ]
+      },
+      {
+        "chapter_id": "chapter_31",
+        "title": "DEFINITE INTEGRALS",
+        "topics": [
+          {
+            "Definite Integral as a Limit of Sum": [
+              "Average Value of a Function in an Interval"
+            ],
+            "description": "Defining and interpreting the definite integral geometrically as the limit of a sum, which involves dividing an area into an infinite number of subintervals."
+          },
+          "Fundamental Theorem of Integral Calculus",
+          "Evaluation of Definite Integral by Substitution",
+          "Properties of Definite Integrals",
+          {
+            "Applications of Integration": [
+              "Area Bounded by the Curve, x-axis and the Ordinates",
+              "Area Bounded by the Curve x = f(y) between y-axis and Lines",
+              "Area between two Curves"
+            ],
+            "description": "Using definite integrals to calculate the area of regions bounded by curves, axes, and lines."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_32",
+        "title": "DIFFERENTIAL EQUATIONS",
+        "topics": [
+          {
+            "Fundamentals of Differential Equations": [
+              "Definition of a differential equation",
+              "Order and Degree of a differential equation",
+              "Linear and Non-Linear Differential Equations"
+            ],
+            "description": "An introduction to differential equations, covering their definition, the concepts of order and degree, and the distinction between linear and non-linear forms."
+          },
+          "Formation of a Differential Equation",
+          "General and Particular Solutions",
+          {
+            "Techniques of Solving a Differential Equation": [
+              "When Variables are Separable",
+              "Homogeneous Differential Equations",
+              "Linear Differential Equation of the type dy/dx + P(x)y = Q(x)"
+            ],
+            "description": "Covers various methods for finding the solution to first-order differential equations, including the method of separation of variables, solving homogeneous equations, and solving linear equations using an integrating factor."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_33",
+        "title": "INTRODUCTION TO THREE DIMENSIONAL GEOMETRY",
+        "topics": [
+          {
+            "Coordinate System and Coordinates of a Point in Space": [
+              "Coordinate Axes and Coordinate Planes",
+              "Octants",
+              "Coordinates of a point in XY-plane, YZ-plane, and ZX-plane",
+              "Coordinates of a point on X-axis, Y-axis, and Z-axis"
+            ],
+            "description": "Introduction to the three-dimensional Cartesian coordinate system, defining the origin, axes, and planes. It explains how to determine the coordinates of a point in space and identifies the eight octants."
+          },
+          {
+            "Distance Between Two Points": [
+              "The Distance Formula",
+              "Distance of a Point from the Origin"
+            ],
+            "description": "Derivation and application of the formula to calculate the distance between two points in three-dimensional space, and a special case for calculating the distance of a point from the origin."
+          },
+          {
+            "Coordinates of a Point of Division of a Line Segment": [
+              "Internal Division Formula",
+              "External Division Formula",
+              "Mid-point Formula"
+            ],
+            "description": "Derivation of the section formula to find the coordinates of a point that divides a line segment joining two points in a given ratio, both internally and externally, including the formula for the mid-point."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_34",
+        "title": "VECTORS",
+        "topics": [
+          "34.1 SCALARS AND VECTORS",
+          "34.2 VECTOR AS A DIRECTED LINE SEGMENT",
+          {
+            "34.3 CLASSIFICATION OF VECTORS": [
+              "34.3.1 Zero Vector (Null Vector)",
+              "34.3.2 Unit Vector",
+              "34.3.3 Equal Vectors",
+              "34.3.4 Like Vectors",
+              "34.3.5 Negative of a Vector",
+              "34.3.6 Co-initial Vectors",
+              "34.3.7 Collinear Vectors",
+              "34.3.8 Co-planar Vectors"
+            ],
+            "description": "Classification of vectors based on their magnitude, direction, and initial points."
+          },
+          {
+            "34.4 ADDITION OF VECTORS": [
+              "34.4.1 Triangle Law of Addition of Vectors",
+              "34.4.2 Addition of more than two Vectors",
+              "34.4.3 Parallelogram Law of Addition of Vectors",
+              "34.4.4 Negative of a Vector",
+              "34.4.5 The Difference of Two Given Vectors"
+            ],
+            "description": "Explains the rules and methods for adding and subtracting vectors, including the triangle and parallelogram laws."
+          },
+          "34.5 POSITION VECTOR OF A POINT",
+          "34.6 MULTIPLICATION OF A VECTOR BY A SCALAR",
+          "34.7 CO-PLANARITY OF VECTORS",
+          "34.8 RESOLUTION OF A VECTOR ALONG TWO PERPENDICULAR AXES",
+          "34.9 RESOLUTION OF A VECTOR IN THREE DIMENSIONS ALONG THREE MUTUALLY PERPENDICULAR AXES",
+          "34.10 SECTION FORMULA",
+          {
+            "34.11 DIRECTION COSINES OF A VECTOR": [
+              "34.11.1 DIRECTION COSINES OF A VECTOR JOINING TWO POINTS",
+              "34.11.2 DIRECTION RATIOS OF A VECTOR"
+            ],
+            "description": "Defines direction cosines and direction ratios of a vector in space."
+          },
+          "34.12 PRODUCT OF VECTORS",
+          "34.13 SCALAR PRODUCT OF TWO VECTORS",
+          {
+            "34.14 VECTOR PRODUCT OF TWO VECTORS": [
+              "34.14.1 Right Handed Screw",
+              "34.14.2 Left handed Screw",
+              "34.14.3 VECTOR (CROSS) PRODUCT OF THE VECTORS"
+            ],
+            "description": "Defines the vector or cross product of two vectors, its properties, and applications."
+          },
+          "34.15 SCALAR TRIPLE PRODUCT"
+        ]
+      },
+      {
+        "chapter_id": "chapter_35",
+        "title": "PLANE",
+        "topics": [
+          "Introduction to Planes and their Properties",
+          "VECTOR EQUATION OF A PLANE",
+          "EQUATION OF PLANE IN NORMAL FORM",
+          "CONVERSION OF VECTOR FORM INTO CARTESIAN FORM",
+          {
+            "EQUATION OF A PLANE PASSING THROUGH A GIVEN POINT AND PERPENDICULAR TO A GIVEN VECTOR": [
+              "CARTESIAN FORM"
+            ],
+            "description": "Derivation of the vector and Cartesian equations of a plane that passes through a specified point and is normal to a given vector."
+          },
+          {
+            "EQUATION OF A PLANE PASSING THROUGH THREE NON COLLINEAR POINTS": [
+              "Vector Form",
+              "Cartesian Form"
+            ],
+            "description": "Establishing the vector and Cartesian equations of a plane defined by three distinct points that do not lie on the same line."
+          },
+          "EQUATION OF A PLANE IN THE INTERCEPT FORM",
+          {
+            "ANGLE BETWEEN TWO PLANES": [
+              "Condition for perpendicular planes",
+              "Condition for parallel planes"
+            ],
+            "description": "Defining the angle between two intersecting planes as the angle between their normal vectors and deriving the conditions for perpendicularity and parallelism."
+          },
+          "DISTANCE OF A POINT FROM A PLANE"
+        ]
+      },
+      {
+        "chapter_id": "chapter_36",
+        "title": "STRAIGHT LINES",
+        "topics": [
+          {
+            "VECTOR EQUATION OF A LINE": [
+              "Equation of a line through a given point and parallel to a given vector",
+              "Conversion of Vector form into Cartesian form",
+              "EQUATION OF THE LINE PASSING THROUGH TWO GIVEN POINTS",
+              "CONVERSION OF VECTOR FORM INTO CARTESIAN FORM"
+            ],
+            "description": "A line is uniquely determined if, it passes through a given point and it has a given direction or it passes through two given points. This section explores the vector and cartesian equations of a line under these conditions."
+          },
+          "REDUCTION OF THE EQUATIONS OF A LINE INTO SYMMETRIC FORM",
+          "PERPENDICULAR DISTANCE OF A POINT FROM A LINE",
+          "ANGLE BETWEEN A LINE AND A PLANE",
+          "CONDITION OF COPLANARITY OF TWO LINES"
+        ]
+      },
+      {
+        "chapter_id": "chapter_37",
+        "title": "LINEAR PROGRAMMING",
+        "topics": [
+          "37.1 INTRODUTION TO LINEAR PROGRAMMING PROBLEMS",
+          {
+            "37.2 DEFINITIONS OF VARIOUS TERMS INVOLVED IN LINEAR PROGRAMMING": [
+              "37.2.1 OBJECTIVE FUNCTION",
+              "37.2.2 CONSTRAINTS",
+              "37.2.3 NON-NEGATIVE RESTRICTIONS"
+            ],
+            "description": "Defines the fundamental components of a linear programming problem, including the objective function to be optimized, the constraints or limitations on resources, and the non-negative restrictions on decision variables."
+          },
+          "37.3 FORMULATION OF A LINEAR PROGRAMMING PROBLEM",
+          "37.4 GEOMETRIC APPORACH OF LINEAR PROGRAMMING PROBLEM",
+          {
+            "37.5 SOLUTION OF LINEAR PROGRAMMING PROBLEMS": [
+              "37.5.1 Feasible Solution",
+              "37.5.2 Optimal Solution"
+            ],
+            "description": "Explains the graphical method for solving linear programming problems, introducing the concepts of a feasible solution that satisfies all constraints, and an optimal solution that optimizes the objective function."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_38",
+        "title": "MATHEMATICAL REASONING",
+        "topics": [
+          "38.1 INTRODUCTION",
+          {
+            "38.2 STATEMENT (OR PROPOSITION)": [],
+            "description": "Defines a mathematically acceptable statement as a sentence that is either true or false, but not both. Differentiates between valid (true) and invalid (false) statements."
+          },
+          "38.3 NEGATION OF A STATEMENT",
+          {
+            "38.4 COMPOUND STATEMENTS": [
+              "Simple Statements",
+              "Compound Statement"
+            ],
+            "description": "Explains the two types of statements in mathematical reasoning: simple statements that cannot be broken down, and compound statements formed by combining two or more simple statements using connecting words like 'and' or 'or'."
+          },
+          "38.5 IMPLICATIONS",
+          "38.6 CONTRAPOSITIVE AND CONVERSE",
+          "38.7 IF AND ONLY IF IMPLICATION",
+          {
+            "38.8 VALIDATING STATEMENTS": [
+              "Statements with 'And'",
+              "Statements with 'or'",
+              "Validity of statements with 'if-then'",
+              "Statements with 'if and only if'",
+              "38.8.1 Contrapositive Method",
+              "38.8.2 Validity of Statements by Contradiction"
+            ],
+            "description": "Discusses techniques and rules to determine the validity (truth) of mathematical statements, including compound statements with 'and'/'or', 'if-then' implications, and 'if and only if' conditions. It covers validation through direct method, contrapositive method, and method of contradiction."
+          }
+        ]
+      }
+    ]
+  }
+]

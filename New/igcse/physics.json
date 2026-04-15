@@ -1,0 +1,537 @@
+[
+  {
+    "grade": 10,
+    "subject": "physics",
+    "board": "IGCSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Motion, forces and energy",
+        "topics": [
+          {
+            "1.1 Physical quantities and measurement techniques": [
+              "Units and basic quantities (length, mass, time)",
+              "Powers of ten (Standard notation)",
+              "Measuring Length, Area and Volume",
+              "Parallax error and reading a meniscus",
+              "Significant figures",
+              "Measuring Time and improving accuracy",
+              "Systematic errors",
+              "Vernier scales and Micrometer screw gauge",
+              {
+                "Scalars and vectors": [
+                  "Scalar quantities",
+                  "Vector quantities",
+                  "Resultant of two perpendicular vectors (calculation and graphical method)"
+                ],
+                "description": "Distinguishes between scalar quantities which have magnitude only, and vector quantities which have both magnitude and direction. It explains how to find the resultant of two perpendicular vectors using mathematical calculation and graphical methods."
+              }
+            ],
+            "description": "Introduces fundamental physical quantities, SI units, and measurement techniques. It covers measuring length, area, volume, and time, emphasizing accuracy through concepts like parallax error, significant figures, and the use of precise instruments like vernier calipers and micrometers. The topic also differentiates between scalar and vector quantities."
+          },
+          {
+            "1.2 Motion": [
+              "Speed, velocity and displacement",
+              "Acceleration, deceleration and retardation",
+              {
+                "Graphical representation of motion": [
+                  "Distance–time graphs",
+                  "Speed–time graphs",
+                  "Calculating acceleration from the gradient of a speed-time graph",
+                  "Calculating distance from the area under a speed-time graph"
+                ],
+                "description": "Covers the use of distance-time and speed-time graphs to analyze motion. The gradient of a distance-time graph represents speed, while the gradient and area under a speed-time graph represent acceleration and distance travelled, respectively."
+              },
+              "Equations for constant acceleration",
+              {
+                "Falling bodies": [
+                  "Acceleration of free fall (g)",
+                  "Motion with and without air resistance",
+                  "Terminal velocity",
+                  "Projectiles"
+                ],
+                "description": "Explores the motion of objects under gravity. It defines the acceleration of free fall (g) and discusses motion with and without air resistance, leading to the concept of terminal velocity. The independent horizontal and vertical motions of projectiles are also covered."
+              }
+            ],
+            "description": "Defines and differentiates between key concepts of motion such as speed, velocity, and acceleration. It introduces graphical methods for analyzing motion, the equations of motion for constant acceleration, and the specific case of falling bodies under gravity."
+          },
+          {
+            "1.3 Mass and weight": [
+              "Definition of mass and weight",
+              "Difference between mass and weight",
+              "Gravitational field and gravitational field strength (g)",
+              "The relationship W = mg"
+            ],
+            "description": "Distinguishes between mass as the amount of matter and weight as the gravitational force on an object. It introduces the concept of a gravitational field and defines gravitational field strength (g), establishing the relationship W = mg."
+          },
+          {
+            "1.4 Density": [
+              "Definition of density (ρ = m/V)",
+              {
+                "Measuring Density": [
+                  "Regularly shaped solids",
+                  "Irregularly shaped solids (displacement method)",
+                  "Liquids"
+                ],
+                "description": "Outlines methods for determining the density of various substances. This includes direct measurement for regular solids and liquids, and using the displacement method to find the volume of irregular solids."
+              },
+              "Floating and sinking related to density"
+            ],
+            "description": "Defines density as mass per unit volume and covers methods for its measurement. The topic explains the principle of flotation, where an object's ability to float or sink is determined by comparing its density to that of the fluid it is in."
+          },
+          {
+            "1.5 Forces": [
+              {
+                "1.5.1 Effects of forces": [
+                  "Stretching Springs, Hooke's Law and the Limit of Proportionality",
+                  "Spring Constant (F = kx)",
+                  "Resultant Forces and the Parallelogram Law",
+                  "Newton’s First Law of Motion (Inertia)",
+                  "Newton’s Second Law of Motion (F = ma)",
+                  "Friction, Drag and Air Resistance",
+                  "Newton’s Third Law of Motion",
+                  "Circular motion and Centripetal force",
+                  "Motion of satellites"
+                ],
+                "description": "Details the various effects of forces, including changing an object's shape (Hooke's Law) and motion (Newton's Laws). Key concepts like resultant forces, friction, mass vs inertia, and the centripetal force required for circular motion are explained."
+              },
+              {
+                "1.5.2 Turning effect of forces": [
+                  "Moment of a force",
+                  "Principle of moments",
+                  "Levers (Effort, Load, Fulcrum)",
+                  "Conditions for equilibrium"
+                ],
+                "description": "Focuses on the rotational effect of a force, known as its moment. It introduces the principle of moments for balanced systems and describes the conditions for an object to be in equilibrium (no resultant force and no resultant moment)."
+              },
+              {
+                "1.5.3 Centre of gravity": [
+                  "Definition of Centre of gravity",
+                  "Stability, Toppling and Base Area",
+                  "Types of Equilibrium (Stable, Unstable, Neutral)"
+                ],
+                "description": "Defines the centre of gravity as the point where an object's weight appears to act. It explains how the position of the centre of gravity relative to the base affects an object's stability and describes the different states of equilibrium."
+              }
+            ]
+          },
+          {
+            "1.6 Momentum": [
+              "Definition of Momentum (p = mv)",
+              "Principle of conservation of momentum in collisions and explosions",
+              "Impulse (FΔt)",
+              "Resultant force as the rate of change of momentum",
+              "Relationship between collision time and impact force"
+            ],
+            "description": "Introduces momentum and the principle of its conservation in isolated systems like collisions and explosions. It explores the relationship between force, momentum, and time through the concept of impulse, explaining how impact forces can be managed by altering collision time."
+          },
+          {
+            "1.7 Energy, work and power": [
+              {
+                "1.7.1 Energy": [
+                  "Energy stores (Kinetic, Potential, Chemical, etc.)",
+                  "Energy transfers and the Principle of Conservation of Energy",
+                  "Kinetic energy (Ek = 1/2 mv^2)",
+                  "Gravitational potential energy (ΔEp = mgΔh)",
+                  "Energy transfer diagrams (Flow and Sankey diagrams)",
+                  "Car safety features (Crumple zones, seat belts, stopping distances)"
+                ],
+                "description": "Introduces various energy stores and the principle of energy conservation. It provides formulas for kinetic and gravitational potential energy and explains how energy transfers are represented in flow and Sankey diagrams. Applications in car safety are also discussed."
+              },
+              {
+                "1.7.2 Work": [
+                  "Definition of Work (W = Fd)",
+                  "Work as a measure of energy transfer (W = ΔE)"
+                ],
+                "description": "Defines mechanical work as the product of force and distance. It establishes the relationship between work done and energy transferred, with both being measured in joules."
+              },
+              {
+                "1.7.3 Energy resources and Efficiency": [
+                  "Renewable and Non-renewable energy sources",
+                  "Methods of generating electricity (Solar, Wind, Fossil Fuels, Nuclear etc.)",
+                  "Advantages and disadvantages of different energy sources",
+                  "Efficiency of energy transfers"
+                ],
+                "description": "Provides an overview of various energy resources, classifying them as renewable or non-renewable. It discusses different methods of electricity generation, their impacts, and introduces the concept of efficiency to quantify useful energy output."
+              },
+              {
+                "1.7.4 Power": [
+                  "Definition of Power (P = W/t)",
+                  "Power as the rate of energy transfer (P = ΔE/t)"
+                ],
+                "description": "Defines power as the rate at which work is done or energy is transferred. The unit of power, the watt (W), is defined as one joule per second."
+              }
+            ]
+          },
+          {
+            "1.8 Pressure": [
+              "Definition of Pressure (P = F/A)",
+              {
+                "Pressure in Liquids": [
+                  "Variation with depth and density",
+                  "Calculation of liquid pressure (Δp = ρgΔh)",
+                  "Pressure acting equally in all directions"
+                ],
+                "description": "Explores the properties of pressure in liquids. It establishes that liquid pressure increases with depth and density, and provides the formula Δp = ρgΔh for its calculation. It also notes that pressure at a certain depth acts equally in all directions."
+              },
+              "Hydraulic machines and force multiplication",
+              "Pressure Gauges (Manometer, Barometer)"
+            ],
+            "description": "Defines pressure as force per unit area. The topic focuses on pressure in liquids, explaining its dependence on depth and density and its application in hydraulic systems for force multiplication. Instruments for measuring pressure, like manometers and barometers, are also introduced."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Thermal physics",
+        "topics": [
+          {
+            "2.1 Kinetic particle model of matter": [
+              "2.1.1 States of matter",
+              "2.1.2 Particle model",
+              "2.1.3 Gases and the absolute scale of temperature"
+            ],
+            "description": "Explores the three states of matter (solids, liquids, gases) through the kinetic particle model. It covers particle arrangement, motion, and energy. Key concepts include changes of state, Brownian motion as evidence for the model, the relationship between temperature and kinetic energy, absolute zero, the Celsius and Kelvin scales, and the gas laws (Boyle's Law, Charles' Law, Pressure Law) describing the behavior of gases under changes in pressure, volume, and temperature."
+          },
+          {
+            "2.2 Thermal properties and temperature": [
+              "2.2.1 Thermal expansion of solids, liquids and gases",
+              "2.2.2 Specific heat capacity",
+              "2.2.3 Melting, boiling and evaporation"
+            ],
+            "description": "Focuses on how substances respond to thermal energy. It discusses thermal expansion in solids, liquids, and gases, including practical applications like bimetallic strips and the anomalous expansion of water. It defines internal energy and specific heat capacity, providing the formula for calculations. The topic also covers changes of state—melting, boiling, and evaporation—explaining the concepts of latent heat of fusion and vaporisation and differentiating between boiling and evaporation."
+          },
+          {
+            "2.3 Transfer of thermal energy": [
+              "2.3.1 Conduction",
+              "2.3.2 Convection",
+              "2.3.3 Radiation",
+              "2.3.4 Consequences of thermal energy transfer"
+            ],
+            "description": "Details the three mechanisms of thermal energy transfer: conduction, convection, and radiation. Conduction is explained via particle vibrations and free electrons in solids. Convection is described as energy transfer through the movement of fluids (liquids and gases) due to density changes. Radiation is identified as infrared energy transfer that requires no medium, with properties dependent on surface color and texture. The topic concludes with everyday applications and consequences, such as insulation, the greenhouse effect, and devices like the vacuum flask."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Waves",
+        "topics": [
+          {
+            "3.1 General properties of waves": [
+              "Types of wave motion",
+              "Transverse waves",
+              "Longitudinal waves",
+              {
+                "Describing waves": [
+                  "Wavelength",
+                  "Frequency",
+                  "Wave speed",
+                  "Amplitude",
+                  "Phase"
+                ]
+              },
+              "The wave equation (v = fλ)",
+              "The ripple tank",
+              "Wavefronts and rays",
+              "Reflection at a plane surface",
+              "Refraction",
+              {
+                "Diffraction": [
+                  "Diffraction through a narrow gap",
+                  "Diffraction due to an edge or wide gap",
+                  "Effect of wavelength and gap size on diffraction"
+                ]
+              },
+              "Wave theory (Huygens’ construction)",
+              "Interference",
+              "Polarisation"
+            ],
+            "description": "This topic introduces the fundamental concepts of wave motion, establishing that waves transfer energy without transferring matter. It differentiates between transverse and longitudinal waves with examples. Key wave characteristics such as wavelength, frequency, amplitude, and speed are defined, leading to the wave equation v = fλ. The ripple tank is presented as a tool to demonstrate wave phenomena including reflection, refraction, and diffraction. Advanced concepts like Huygens' construction, interference, and polarisation are also explained."
+          },
+          {
+            "3.2 Light": [
+              {
+                "3.2.1 Reflection of light": [
+                  "Sources of light (luminous and non-luminous)",
+                  "Rays and beams",
+                  "The pinhole camera",
+                  "Shadows (umbra and penumbra)",
+                  "Law of reflection",
+                  "Regular and diffuse reflection",
+                  "Image formation by a plane mirror",
+                  "Real and virtual images",
+                  "Lateral inversion",
+                  "Periscope"
+                ]
+              },
+              {
+                "3.2.2 Refraction of light": [
+                  "Refraction and optically denser mediums",
+                  "Real and apparent depth",
+                  "Refractive index (n = sin i / sin r)",
+                  "Critical angle and total internal reflection",
+                  "Totally reflecting prisms",
+                  "Light pipes and optical fibres"
+                ]
+              },
+              {
+                "3.2.3 Thin lenses": [
+                  "Converging (convex) and diverging (concave) lenses",
+                  "Principal axis, principal focus, and focal length",
+                  "Ray diagrams for lenses",
+                  "Images formed by a converging lens",
+                  "Magnifying glass",
+                  "Correction of short sight and long sight"
+                ]
+              },
+              {
+                "3.2.4 Dispersion of light": [
+                  "Refraction by a prism",
+                  "Dispersion and the visible spectrum",
+                  "Monochromatic light"
+                ]
+              }
+            ],
+            "description": "This topic explores the wave properties of light. It covers reflection, including the law of reflection, and image formation in plane mirrors. Refraction is detailed, introducing concepts like refractive index, critical angle, total internal reflection, and their application in optical fibres. The behaviour of thin converging and diverging lenses is explained through ray diagrams, covering image formation, magnification, and their use in correcting vision defects. Finally, the dispersion of white light into a spectrum by a prism is described."
+          },
+          {
+            "3.3 Electromagnetic spectrum": [
+              "Properties of electromagnetic waves",
+              "Speed of electromagnetic waves in a vacuum",
+              "Radio waves",
+              "Microwaves",
+              "Infrared radiation",
+              "Visible light",
+              "Ultraviolet radiation",
+              "X-rays",
+              "Gamma rays",
+              "Dangers of electromagnetic radiation",
+              "Communication systems",
+              "Analogue and digital signals"
+            ],
+            "description": "This topic covers the full range of the electromagnetic spectrum, ordered by wavelength and frequency. It establishes that all electromagnetic waves travel at the speed of light in a vacuum. The sources, properties, typical uses, and harmful effects of each region are described, including radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays. The section also discusses the application of these waves in communication systems and explains the difference between analogue and digital signals."
+          },
+          {
+            "3.4 Sound": [
+              "Origin and transmission of sound",
+              "Longitudinal nature of sound waves",
+              "Compression and rarefaction",
+              "Limits of audibility",
+              "Reflection and echoes",
+              "Speed of sound in different materials",
+              "Measurement of the speed of sound",
+              {
+                "Musical notes": [
+                  "Pitch and frequency",
+                  "Loudness and amplitude",
+                  "Quality (timbre)"
+                ]
+              },
+              "Ultrasound",
+              "Ultrasound echo techniques (Sonar and medical imaging)",
+              "Seismic waves (P-waves and S-waves)"
+            ],
+            "description": "This topic explains that sound is produced by vibrating sources and travels as a longitudinal wave, consisting of compressions and rarefactions, which requires a medium for transmission. It covers the properties of sound such as pitch (determined by frequency) and loudness (determined by amplitude). The speed of sound in various media, the concept of echoes, and the audible frequency range for humans are discussed. The topic also introduces ultrasound, its production, and its applications in sonar and medical imaging, along with a brief explanation of seismic waves."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Electricity and magnetism",
+        "topics": [
+          {
+            "4.1 Simple phenomena of magnetism": [
+              "Properties of magnets",
+              "Magnetic materials",
+              "Magnetic poles (North and south poles)",
+              "Law of magnetic poles",
+              "Induced magnetism",
+              "Magnetisation of iron and steel",
+              "Temporary and Permanent magnets",
+              "Magnetic and non-magnetic materials",
+              "Magnetic fields",
+              "Strength and interaction of magnetic fields",
+              "Plotting lines of force",
+              "Magnetisation and demagnetisation",
+              "Electromagnets",
+              "Uses of permanent magnets and electromagnets",
+              "Magnetic shielding",
+              "Earth’s magnetic field"
+            ],
+            "description": "This topic covers the fundamentals of magnetism, including the properties of magnets, magnetic materials, and magnetic poles. It explains the law of magnetic poles (like poles repel, unlike poles attract), induced magnetism, and the difference between temporary (soft iron) and permanent (hard steel) magnets. Key concepts include magnetic fields, field lines, and methods for plotting them using compasses or iron filings. The principles and applications of electromagnets, magnetic shielding, and the Earth's magnetic field are also discussed."
+          },
+          {
+            "4.2 Electrical quantities": [
+              "4.2.1 Electric charge",
+              "4.2.2 Electric current",
+              "4.2.3 Electromotive force and potential difference",
+              "4.2.4 Resistance",
+              "4.2.5 Electrical working"
+            ],
+            "description": "This section introduces fundamental electrical quantities. It begins with static electricity, covering positive and negative charges, charging by friction, conductors, insulators, and electric fields. It then defines electric current as the flow of charge (I=Q/t), distinguishing between conventional current and electron flow, and d.c. vs a.c. The concepts of electromotive force (e.m.f.) and potential difference (p.d.) as energy transferred per unit charge (V=W/Q) are explained. Resistance is defined by Ohm's law (R=V/I), exploring factors affecting wire resistance and I-V graphs for various components. Finally, it covers electrical power (P=IV) and energy (E=IVt), and the calculation of electricity cost using the kilowatt-hour (kWh)."
+          },
+          {
+            "4.3 Electric circuits": [
+              "4.3.1 Circuit diagrams and components",
+              "4.3.2 Series and parallel circuits",
+              "4.3.3 Action and use of circuit components"
+            ],
+            "description": "This topic focuses on the construction and analysis of electric circuits. It starts with standard circuit diagram symbols and then delves into the rules for series and parallel circuits, covering how current, potential difference, and resistance behave in each configuration. The calculation of combined resistance for both series and parallel arrangements is explained. The action and use of various components are detailed, including potential dividers, thermistors, light-dependent resistors (LDRs), relays, light-emitting diodes (LEDs), and semiconductor diodes in switching and sensing circuits."
+          },
+          {
+            "4.4 Electrical safety": [
+              "Dangers of electricity",
+              "Electric shock",
+              "Fire risks",
+              "House circuits",
+              "Switches",
+              "Ring main circuit",
+              "Fuses",
+              "Trip switches (circuit breakers)",
+              "Earthing",
+              "Double insulation"
+            ],
+            "description": "This section addresses the critical aspects of electrical safety when using mains electricity. It outlines potential hazards such as damaged insulation, overheated cables, and damp conditions, which can lead to electric shock and fire. Safety features in domestic wiring are explained, including the purpose of fuses, trip switches (circuit breakers), the ring main circuit, and correct switch placement in the live wire. Appliance safety is covered through the principles of earthing metal casings and double insulation to prevent electric shock."
+          },
+          {
+            "4.5 Electromagnetic effects": [
+              "4.5.1 Electromagnetic induction",
+              "4.5.2 The a.c. generator",
+              "4.5.3 Magnetic effect of a current",
+              "4.5.4 Force on a current-carrying conductor",
+              "4.5.5 The d.c. motor",
+              "4.5.6 The transformer"
+            ],
+            "description": "This topic explores the relationship between electricity and magnetism. It covers electromagnetic induction, factors affecting induced e.m.f., and Fleming's right-hand (dynamo) rule, leading to the operation of the a.c. generator. It also examines the magnetic effect of a current, describing the magnetic fields around straight wires and solenoids, with applications like relays and loudspeakers. The motor effect is introduced, explaining the force on a current-carrying conductor using Fleming's left-hand (motor) rule, which is the principle behind the d.c. motor. Finally, the construction and operation of step-up and step-down transformers are detailed, including their crucial role in the high-voltage transmission of electrical power to minimize energy loss."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Nuclear physics",
+        "topics": [
+          {
+            "5.1 The nuclear model of the atom": [
+              "5.1.1 The atom",
+              "Scattering experiments",
+              "Ions",
+              "Rutherford–Bohr model of the atom",
+              "5.1.2 The nucleus",
+              "Protons and neutrons",
+              "Proton number (Z) and Nucleon number (A)",
+              "Isotopes and nuclides",
+              "Nuclear energy (E = mc²)",
+              "Fission",
+              "Chain reaction",
+              "Nuclear reactor",
+              "Fusion"
+            ],
+            "description": "This topic introduces the nuclear model of the atom, supported by the Geiger-Marsden alpha-particle scattering experiment. It details the atom's structure, consisting of a dense, positively charged nucleus with protons and neutrons, surrounded by orbiting electrons. Key concepts include proton number (Z), nucleon number (A), nuclide notation, and isotopes. The formation of ions by gaining or losing electrons is also explained. It covers nuclear energy, based on Einstein's E=mc² equation, and explores nuclear fission, chain reactions, the workings of a nuclear reactor, and nuclear fusion as the energy source of stars like the Sun."
+          },
+          {
+            "5.2 Radioactivity": [
+              "5.2.1 Detection of radioactivity",
+              "Background radiation",
+              "Ionising effect of radiation",
+              "Geiger–Müller (GM) tube",
+              "5.2.2 The three types of nuclear emission",
+              "Alpha, beta and gamma radiation",
+              "Penetrating power",
+              "Deflection in magnetic and electric fields",
+              "Particle tracks",
+              "5.2.3 Radioactive decay",
+              "a-decay",
+              "b-decay",
+              "γ-emission",
+              "Nuclear stability",
+              "5.2.4 Half-life",
+              "Decay curve",
+              "Random nature of decay",
+              "Uses of radioactivity",
+              "5.2.5 Safety precautions"
+            ],
+            "description": "This topic explores radioactivity, the spontaneous and random process of emission from unstable nuclei. It covers the detection of radiation using its ionising effect with devices like the Geiger-Müller tube, and discusses the sources of background radiation. The properties of alpha (α), beta (β), and gamma (γ) radiation are compared, including their nature, penetrating power, ionising ability, and deflection in fields. The process of radioactive decay through α-decay and β-decay is explained with decay equations. The concept of half-life is defined and calculated from decay curves. It also outlines various applications of radioisotopes, such as in smoke alarms, medical sterilisation, thickness gauging, tracers, and archaeology, concluding with the dangers of ionising radiation and essential safety measures."
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Space physics",
+        "topics": [
+          {
+            "6.1 Earth and the Solar System": [
+              {
+                "6.1.1 The Earth": [
+                  {
+                    "Motion of the Earth": [
+                      "Day and night",
+                      "Rising and setting of the Sun",
+                      "The seasons"
+                    ]
+                  },
+                  {
+                    "Motion of the Moon": [
+                      "Phases of the Moon",
+                      "Rising and setting of the Moon"
+                    ]
+                  },
+                  "Orbital speed"
+                ]
+              },
+              {
+                "6.1.2 The Solar System": [
+                  "The Solar System",
+                  "Elliptical orbits",
+                  "Origin of the Solar System",
+                  "Gravitational field strength of a planet",
+                  "Travel times",
+                  "The planets",
+                  "Gravity and planetary motion"
+                ]
+              }
+            ],
+            "description": "This section explains how the Earth's rotation causes day and night and the apparent motion of the Sun, while its orbit around the Sun leads to the seasons. It also describes the Moon's orbit, phases, and its motion. The topic details the components of the Solar System, including the star (Sun), planets (inner rocky and outer gaseous), asteroids, and comets. Key concepts covered are elliptical orbits, the accretion model for solar system formation, gravitational attraction, orbital speed calculations, and planetary data analysis."
+          },
+          {
+            "6.2 Stars and the Universe": [
+              {
+                "6.2.1 The Sun as a star": [
+                  "The Sun",
+                  "Nuclear reactions in stars"
+                ]
+              },
+              {
+                "6.2.2 Stars": [
+                  "Light-years",
+                  "Galaxies",
+                  "Origin of stars",
+                  {
+                    "Life cycle of stars": [
+                      "protostar",
+                      "stable star",
+                      "red giant and supergiant",
+                      "planetary nebula",
+                      "white dwarf star",
+                      "supernova",
+                      "neutron star",
+                      "black hole"
+                    ]
+                  }
+                ]
+              },
+              {
+                "6.2.3 The Universe": [
+                  "The expanding Universe",
+                  "The Big Bang theory",
+                  "Microwave background radiation",
+                  "Age of the Universe",
+                  "Hubble’s law"
+                ]
+              }
+            ],
+            "description": "This section describes the Sun as a star powered by nuclear fusion of hydrogen into helium. It discusses astronomical distances measured in light-years and the structure of galaxies like the Milky Way. The complete life cycle of stars is outlined, from their formation as protostars to their evolution into red giants and their eventual fates as white dwarfs, neutron stars, or black holes depending on their mass. It also covers the Big Bang theory as the origin of the Universe, supported by evidence from the redshift of distant galaxies and the existence of cosmic microwave background radiation (CMBR). The concept of the expanding Universe is explained through Hubble's Law."
+          }
+        ]
+      }
+    ]
+  }
+]

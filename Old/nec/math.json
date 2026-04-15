@@ -1,0 +1,2031 @@
+[
+  {
+    "grade": 6,
+    "subject": "math",
+    "board": "NEC",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Circles",
+        "topics": [
+          "Circles",
+          "Identifying Circular Objects",
+          "Drawing Circles",
+          "Circle Properties",
+          "Circle Designs and Patterns",
+          "Circle Activities",
+          "Circle Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Place Value",
+        "topics": [
+          "Place Value",
+          "Hindu-Arabic Number System",
+          "Number Periods and Zones",
+          "Reading and Writing Numbers",
+          "Place Value Applications",
+          "Additional Number Naming Systems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Mathematical Operations on Whole numbers",
+        "topics": [
+          "Mathematical Operations on Whole Numbers",
+          "Operations with 10, 100, and 1000",
+          "Advanced Division Methods",
+          "Numerical Place Values",
+          "Problem-Solving Applications",
+          "Mathematical Properties and Rules"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Time",
+        "topics": [
+          "Time Measurement",
+          "Reading 12-Hour Clock",
+          "24-Hour Clock System",
+          "Date Standards",
+          "Time Unit Relationships",
+          "Time Calculations",
+          "Time Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Number line",
+        "topics": [
+          "Number Line",
+          "Negative Numbers",
+          "Integers",
+          "Comparison of Integers",
+          "Finding Integers Between Non-consecutive Integers"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Estimation and Rounding off",
+        "topics": [
+          "Estimation",
+          "Rounding Off",
+          "Exercises",
+          "Miscellaneous Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Angles",
+        "topics": [
+          "Angles",
+          "Types of Angles",
+          "Activities and Exercises",
+          "Practical Applications",
+          "Measurement Methods"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Directions",
+        "topics": [
+          "Directions",
+          "Sub Directions",
+          "The Horizontal and Vertical",
+          "Tools and Instruments",
+          "Applications and Examples"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Fractions",
+        "topics": [
+          "Fractions",
+          "Denominator and Numerator",
+          "Equivalent Fractions",
+          "Comparison of Fractions",
+          "Addition and Subtraction of Fractions",
+          "Fractions of Collections",
+          "Problem Solving with Fractions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Selection",
+        "topics": [
+          "Selection",
+          "Animal Classification",
+          "Number Classification",
+          "Food Classification",
+          "Character Classification",
+          "Transportation Classification",
+          "Mathematical Groups",
+          "Grouping Principles"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Factors and Multiples",
+        "topics": [
+          "Factors and Multiples",
+          "Multiplicity and Multiples",
+          "Divisibility",
+          "Problem Solving",
+          "Number Properties"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Rectilinear Plane Figures",
+        "topics": [
+          "Rectilinear Plane Figures",
+          "Types of Quadrilaterals",
+          "Properties of Plane Figures",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Decimals",
+        "topics": [
+          "Decimals",
+          "Comparison of Decimals",
+          "Addition of Decimals",
+          "Subtraction of Decimals",
+          "Number Representation",
+          "Problem Solving"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Types of Numbers and Number Patterns",
+        "topics": [
+          "Types of Numbers",
+          "Number Patterns",
+          "Properties and Rules"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Length",
+        "topics": [
+          "Length",
+          "Measuring Tools",
+          "Unit Relationships",
+          "Perimeter",
+          "Length Calculations"
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "Liquid Measurements",
+        "topics": [
+          "Liquid Measurements",
+          "Mathematical Operations with Liquid Measurements",
+          "Practical Applications",
+          "Working with Mixed Units",
+          "Estimation and Approximation",
+          "Unit Relationships",
+          "Problem Solving"
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "Solids",
+        "topics": [
+          "Solids",
+          "Cube",
+          "Cuboid",
+          "Regular Tetrahedron",
+          "Compound Solids"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "Algebraic Symbols",
+        "topics": [
+          "Algebraic Symbols",
+          "Known and Unknown Terms",
+          "Variables",
+          "Exercises and Practice",
+          "Mathematical Expressions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "Constructing Algebraic Expressions and Substitution",
+        "topics": [
+          "Constructing Algebraic Expressions",
+          "Substitution",
+          "Practice Exercises",
+          "Summary and Key Concepts"
+        ]
+      },
+      {
+        "chapter_id": "chapter_20",
+        "title": "Mass",
+        "topics": [
+          "Mass",
+          "Measuring Instruments",
+          "Converting Units",
+          "Addition of Masses",
+          "Subtraction of Masses",
+          "Problem Solving",
+          "Mathematical Operations",
+          "Standards and Measurements"
+        ]
+      },
+      {
+        "chapter_id": "chapter_21",
+        "title": "Ratio",
+        "topics": [
+          "Ratio",
+          "Equivalent Ratios",
+          "Simplest Form of Ratio",
+          "Rate",
+          "Mixed Applications",
+          "Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_22",
+        "title": "Data Collection and Representation",
+        "topics": [
+          "Data Collection and Representation",
+          "Picture Graphs",
+          "Data Analysis Methods",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_23",
+        "title": "Data Interpretation",
+        "topics": [
+          "Data Interpretation in Tables",
+          "Data Interpretation in Picture Graphs",
+          "Types of Data Analysis",
+          "Methods of Data Representation",
+          "Practical Applications",
+          "Summary Points"
+        ]
+      },
+      {
+        "chapter_id": "chapter_24",
+        "title": "Indices",
+        "topics": [
+          "Indices",
+          "Writing Numbers Using Indices",
+          "Representing Numbers as Powers",
+          "Applications and Exercises",
+          "Properties and Rules"
+        ]
+      },
+      {
+        "chapter_id": "chapter_25",
+        "title": "Area",
+        "topics": [
+          "Area",
+          "Area Measurement Methods",
+          "Area Concepts",
+          "Practical Applications",
+          "Activities and Exercises"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 7,
+    "subject": "math",
+    "board": "NEC",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Symmetry",
+        "topics": [
+          "Symmetry",
+          "Bilateral Symmetry",
+          "Drawing Symmetric Figures",
+          "Creating Symmetric Designs",
+          "Properties of Symmetric Figures"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Sets",
+        "topics": [
+          "Sets",
+          "Elements of Sets",
+          "Writing Sets",
+          "Methods of Set Representation",
+          "Set Properties",
+          "Set Examples and Applications",
+          "Venn Diagrams"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Operations On whole numbers",
+        "topics": [
+          "Operations on Whole Numbers",
+          "Mathematical Operations on Two Whole Numbers",
+          "Order of Mathematical Operations",
+          "Simplifying Numerical Expressions",
+          "Expressions with Brackets",
+          "Convention Rules for Expression Simplification",
+          "Practice Examples",
+          "Exercise Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4a",
+        "title": "Factors and Multiples (Part I)",
+        "topics": [
+          "Factors and Multiples (Part I)",
+          "Divisibility Rules",
+          "Testing Divisibility",
+          "Exercises and Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4b",
+        "title": "Factors and Multiples (Part II)",
+        "topics": [
+          "Factors and Multiples",
+          "Prime Factors",
+          "Highest Common Factor (HCF)",
+          "Least Common Multiple (LCM)",
+          "Problem Solving"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Indices",
+        "topics": [
+          "Indices",
+          "Powers with Algebraic Symbols",
+          "Finding Value by Substitution",
+          "Rules and Properties",
+          "Index Form Conversion",
+          "Exercises and Practice"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Time",
+        "topics": [
+          "Time Units",
+          "Leap Years",
+          "Time Period Calculations",
+          "Standard Time Relationships",
+          "Calendar System",
+          "Time Period Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Parallel Straight Lines",
+        "topics": [
+          "Straight Line Segment",
+          "Parallel Straight Lines",
+          "Perpendicular Distance",
+          "Drawing Parallel Lines",
+          "Drawing Rectilinear Plane Figures",
+          "Construction Methods",
+          "Properties of Parallel Lines"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Directed Numbers",
+        "topics": [
+          "Directed Numbers",
+          "Addition of Integers Using Number Line",
+          "Adding Integers Without Number Line",
+          "Adding General Directed Numbers",
+          "Applications",
+          "Rules for Directed Number Operations"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Angles",
+        "topics": [
+          "Angles",
+          "Naming Angles",
+          "Measuring Angles",
+          "Drawing Angles",
+          "Classification of Angles",
+          "Measuring and Drawing Reflex Angles"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10a",
+        "title": "Fractions (Part I)",
+        "topics": [
+          "Fractions",
+          "Representing Mixed Numbers as Improper Fractions",
+          "Converting Improper Fractions to Mixed Numbers",
+          "Comparison of Fractions",
+          "Comparison of Mixed Numbers",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10b",
+        "title": "Fractions (Part II)",
+        "topics": [
+          "Addition of Fractions",
+          "Subtraction of Fractions",
+          "Problem Solving Techniques",
+          "Practice Exercises",
+          "Rules and Guidelines"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Decimals",
+        "topics": [
+          "Decimals",
+          "Writing Fractions as Decimal Numbers",
+          "Writing Decimal Numbers as Fractions",
+          "Multiplying Decimal Numbers",
+          "Dividing Decimal Numbers",
+          "Converting Units"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Algebraic Expressions",
+        "topics": [
+          "Algebraic Expressions",
+          "Constructing Expressions with Unknown Terms",
+          "Simplifying Terms",
+          "Substituting Values",
+          "Applications",
+          "Properties and Rules"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Mass",
+        "topics": [
+          "Units of Mass",
+          "Addition of Masses",
+          "Subtraction of Masses",
+          "Multiplication of Masses",
+          "Division of Masses",
+          "Mass Estimation",
+          "Mass Calculations",
+          "Nutrient Mass Analysis",
+          "Mass in Packaging",
+          "Transportation Mass Limits"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14a",
+        "title": "Rectilinear plane figures I",
+        "topics": [
+          "Polygons",
+          "Convex and Concave Polygons",
+          "Regular Polygons",
+          "Properties and Rules",
+          "Exercises and Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14b",
+        "title": "Rectilinear plane figures II",
+        "topics": [
+          "Rectilinear Plane Figures (Part II)",
+          "Activities and Exercises",
+          "Summary Points"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Equations and formulae",
+        "topics": [
+          "Equations and Formulae",
+          "Simple Equations",
+          "Formulae",
+          "Substituting Values",
+          "Exercise Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "Length",
+        "topics": [
+          "Length Units",
+          "Addition of Length Measurements",
+          "Subtraction of Length Measurements",
+          "Multiplication of Length Measurements",
+          "Division of Length Measurements",
+          "Perimeter",
+          "Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "Area",
+        "topics": [
+          "Area",
+          "Area Formulae",
+          "Composite Plane Figures",
+          "Area Estimation",
+          "Area Problem Solving",
+          "Review and Practice"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "Circles",
+        "topics": [
+          "Circles",
+          "Circle Components",
+          "Circle Properties",
+          "Circle Construction Methods",
+          "Circle Measurements",
+          "Circle Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "Volume",
+        "topics": [
+          "Volume",
+          "Properties of Cube and Cuboid",
+          "Volume Calculation Methods",
+          "Volume Units and Measurement",
+          "Volume Problem Solving",
+          "Volume Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_20",
+        "title": "Liquid measurements",
+        "topics": [
+          "Liquid Measurements",
+          "Multiplication of Liquid Quantities",
+          "Division of Liquid Quantities",
+          "Practice Exercises",
+          "Summary Points"
+        ]
+      },
+      {
+        "chapter_id": "chapter_21",
+        "title": "Ratios",
+        "topics": [
+          "Ratios and Equivalent Ratios",
+          "Dividing in a Ratio",
+          "Finding Values When One Term is Known",
+          "Real-World Applications",
+          "Methods and Techniques"
+        ]
+      },
+      {
+        "chapter_id": "chapter_22",
+        "title": "Percentages",
+        "topics": [
+          "Percentages",
+          "Introduction to Percentage Concept",
+          "Representing Fractions as Percentages",
+          "Decimal Numbers as Percentages",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_23",
+        "title": "Cartesian plane",
+        "topics": [
+          "Cartesian Plane",
+          "Identifying Locations",
+          "Structure of Cartesian Plane",
+          "Point Identification",
+          "Plotting Points",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_24",
+        "title": "Construction of rectilinear plane figures",
+        "topics": [
+          "Construction of Rectilinear Plane Figures",
+          "Straight Line Segment Construction",
+          "Equilateral Triangle Construction",
+          "Regular Hexagon Construction",
+          "Geometric Tools and Methods",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_25",
+        "title": "Solids",
+        "topics": [
+          "Solids",
+          "Construction and Modeling",
+          "Geometric Properties",
+          "Euler's Relationship",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_26",
+        "title": "Data representation and interpretation",
+        "topics": [
+          "Data Representation",
+          "Data Interpretation",
+          "Graph Components",
+          "Practical Applications",
+          "Graph Construction"
+        ]
+      },
+      {
+        "chapter_id": "chapter_27",
+        "title": "Scale diagrams",
+        "topics": [
+          "Scale Diagrams",
+          "The Scale of a Scale Diagram",
+          "Drawing Scale Diagrams",
+          "Obtaining Actual Measurements from Scale Diagrams",
+          "Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_28",
+        "title": "Tessellation",
+        "topics": [
+          "Tessellation",
+          "Pure Tessellation",
+          "Semi-pure Tessellation",
+          "Creating Tessellation Designs",
+          "Activities and Exercises",
+          "Mathematical Properties"
+        ]
+      },
+      {
+        "chapter_id": "chapter_29",
+        "title": "Likelihood of an event occurring",
+        "topics": [
+          "Likelihood of an Event Occurring",
+          "Experiments and Outcomes",
+          "Likelihood of Obtaining Possible Outcomes",
+          "Key Concepts Summary"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 8,
+    "subject": "math",
+    "board": "NEC",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Number Patterns",
+        "topics": [
+          "Number Patterns and Terms",
+          "General Term (nth term) of Number Patterns",
+          "Even Number Patterns",
+          "Odd Number Patterns",
+          "Square Numbers",
+          "Triangular Numbers",
+          "Pattern vs Set Properties",
+          "Problem Solving Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Perimeter",
+        "topics": [
+          "Perimeter",
+          "Perimeter of Composite Rectilinear Plane Figures",
+          "Practice Problems",
+          "Review Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Angles",
+        "topics": [
+          "Angles",
+          "Complementary and Supplementary Angles",
+          "Adjacent Angles",
+          "Vertically Opposite Angles",
+          "Angle Problems and Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Directed Numbers",
+        "topics": [
+          "Directed Numbers",
+          "Adding Directed Numbers",
+          "Subtracting Directed Numbers",
+          "Multiplying Directed Numbers",
+          "Dividing Directed Numbers"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Algebraic Expressions",
+        "topics": [
+          "Algebraic Expressions",
+          "Multiplying Algebraic Expressions",
+          "Simplifying Algebraic Expressions",
+          "Value Substitution",
+          "Word Problems",
+          "Properties of Algebraic Operations",
+          "Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Solids",
+        "topics": [
+          "Solids",
+          "Octahedron",
+          "Dodecahedron",
+          "Icosahedron",
+          "Euler's Relationship for Solids",
+          "Platonic Solids",
+          "Summary Table Properties"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Factors",
+        "topics": [
+          "Highest Common Factor (HCF)",
+          "Writing Algebraic Expressions as Products",
+          "Writing Expressions with Negative Factors",
+          "Advanced Factoring Concepts",
+          "Practice and Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Square Root",
+        "topics": [
+          "Square Numbers",
+          "Square Root",
+          "Units Place Patterns",
+          "Tens Place Rules",
+          "Methods for Finding Square Roots",
+          "Special Properties",
+          "Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Mass",
+        "topics": [
+          "Units Used to Measure Mass",
+          "Converting Between Units",
+          "Addition of Masses",
+          "Subtraction of Masses",
+          "Multiplication of Masses",
+          "Division of Masses",
+          "Problem Solving"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Indices",
+        "topics": [
+          "Indices",
+          "Expressing Power of Product as Product of Powers",
+          "Products of Powers as Power of Product",
+          "Power of Negative Integers",
+          "Exercises and Applications",
+          "Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Symmetry",
+        "topics": [
+          "Symmetry",
+          "Rotational Symmetry",
+          "Properties of Geometric Figures",
+          "Relationships between Symmetry Types",
+          "Mathematical Rules and Conditions",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Triangles and Quadrilaterals",
+        "topics": [
+          "Triangles",
+          "Exterior Angles of Triangles",
+          "Quadrilaterals",
+          "Angle Properties",
+          "Problem Solving"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Fractions (Part I)",
+        "topics": [
+          "Fractions I",
+          "Multiplying a Fraction by a Whole Number",
+          "Multiplying a Fraction by a Fraction",
+          "Multiplying a Fraction by a Mixed Number",
+          "Multiplying a Mixed Number by a Mixed Number",
+          "Practice and Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Fractions (Part II)",
+        "topics": [
+          "Reciprocal of a Number",
+          "Dividing a Fraction by a Whole Number",
+          "Dividing a Whole Number by a Fraction",
+          "Dividing a Fraction by a Fraction",
+          "Dividing a Whole Number by a Mixed Number",
+          "Dividing a Mixed Number by a Whole Number",
+          "Dividing a Fraction by a Mixed Number",
+          "Dividing a Mixed Number by a Fraction",
+          "Dividing a Mixed Number by a Mixed Number"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Decimal Numbers",
+        "topics": [
+          "Decimal Numbers",
+          "Multiplying Decimal Numbers",
+          "Dividing Decimal Numbers",
+          "Word Problems and Applications",
+          "Methods and Techniques",
+          "Practice Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "Ratios",
+        "topics": [
+          "Ratios",
+          "Ratio Representations",
+          "Dividing in Given Ratios",
+          "Continued Ratios",
+          "Business Applications",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "Equations",
+        "topics": [
+          "Equations",
+          "Construction of Simple Equations",
+          "Solving Methods",
+          "Equation Properties",
+          "Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "Percentages",
+        "topics": [
+          "Expressing Fractions as Percentages",
+          "Expressing Percentages as Fractions",
+          "Ratios and Percentages",
+          "Calculating Percentages from Given Quantities",
+          "Finding Quantities from Percentages",
+          "Finding Total Amounts from Partial Quantities",
+          "Mixed Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "Sets",
+        "topics": [
+          "Sets",
+          "Set Notation",
+          "Number of Elements in a Set",
+          "Null Set",
+          "Set Examples and Applications",
+          "Practice and Exercises",
+          "Set Notation Rules"
+        ]
+      },
+      {
+        "chapter_id": "chapter_20",
+        "title": "Area",
+        "topics": [
+          "Area",
+          "Area of Composite Plane Figures",
+          "Surface Area of Cubes and Cuboids",
+          "Area Measurement Applications",
+          "Review Exercises and Practice"
+        ]
+      },
+      {
+        "chapter_id": "chapter_21",
+        "title": "Time",
+        "topics": [
+          "Time",
+          "Longitudes",
+          "Local Time",
+          "Standard Time and Time Zones",
+          "International Date Line (IDL)",
+          "Special Time Considerations"
+        ]
+      },
+      {
+        "chapter_id": "chapter_22",
+        "title": "Volume and Capacity",
+        "topics": [
+          "Volume",
+          "Capacity",
+          "Review Exercises",
+          "Formulas & Relationships",
+          "Activities"
+        ]
+      },
+      {
+        "chapter_id": "chapter_23",
+        "title": "Circles",
+        "topics": [
+          "Circles",
+          "Arcs",
+          "Segments",
+          "Sectors",
+          "Activities",
+          "Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_24",
+        "title": "Location of a Place",
+        "topics": [
+          "Location of a Place",
+          "Direction Measurements",
+          "Illustrating Location Sketches",
+          "Practical Applications",
+          "Summary Concepts"
+        ]
+      },
+      {
+        "chapter_id": "chapter_25",
+        "title": "The Number line and Cartesian Plane",
+        "topics": [
+          "The Number Line",
+          "Cartesian Plane",
+          "Straight Lines on Cartesian Plane",
+          "Inequalities on Number Line",
+          "Coordinate Geometry",
+          "Number Systems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_26",
+        "title": "Construction of triangles",
+        "topics": [
+          "Construction of Triangles",
+          "Geometric Triangle Properties",
+          "Construction Methods and Tools",
+          "Practice Exercises",
+          "Summary Components"
+        ]
+      },
+      {
+        "chapter_id": "chapter_27",
+        "title": "Data Representation and Interpretation",
+        "topics": [
+          "Data Representation in Stem and Leaf Diagrams",
+          "Statistical Measures",
+          "Data Analysis and Interpretation",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_28",
+        "title": "Scale Diagrams",
+        "topics": [
+          "Scale Diagrams",
+          "Calculating Actual Lengths from Scale Diagrams",
+          "Drawing Scale Diagrams",
+          "Working with Scale Measurements",
+          "Scale Applications",
+          "Problem Solving with Scales"
+        ]
+      },
+      {
+        "chapter_id": "chapter_29",
+        "title": "Probability",
+        "topics": [
+          "Probability",
+          "Random Experiments",
+          "Experimental Probability",
+          "Theoretical Probability",
+          "Properties of Probability",
+          "Probability Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_30",
+        "title": "Tessellation",
+        "topics": [
+          "Tessellation",
+          "Regular Tessellation",
+          "Semi-regular Tessellation",
+          "Practical Applications",
+          "Geometric Requirements"
+        ]
+      }
+    ]
+  },
+    {
+    "grade": 9,
+    "subject": "math",
+    "board": "NEC",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Number Patterns",
+        "topics": [
+          "Number Patterns",
+          "General Term of Number Patterns",
+          "Developing Number Sequence",
+          "Expression for General Term (Tn)",
+          "Mathematical Problem Solving",
+          "Properties of Number Patterns"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Binary Numbers",
+        "topics": [
+          "Binary Numbers",
+          "Binary Number Operations",
+          "Binary Number Applications",
+          "Number System Concepts",
+          "Exercises & Practice"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Fractions",
+        "topics": [
+          "Fractions",
+          "Simplifying Expressions with \"of\"",
+          "BODMAS Rule for Fractions",
+          "Problem Solving"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Percentages",
+        "topics": [
+          "Profit and Loss",
+          "Profit Percentage and Loss Percentage",
+          "Discounts and Commissions",
+          "Summary Formulas",
+          "Practice Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Algebraic Expressions",
+        "topics": [
+          "Algebraic Expressions",
+          "Substitution",
+          "Product of Binomial Expressions",
+          "Review Exercises",
+          "Practical Applications",
+          "Miscellaneous Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Factors of Algebraic Expressions",
+        "topics": [
+          "Factors of Algebraic Expressions",
+          "Factors of Algebraic Expressions with Four Terms",
+          "Factors of Trinomial Quadratic Expressions",
+          "Factors of Expressions as Difference of Two Squares",
+          "Miscellaneous Topics"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Axioms",
+        "topics": [
+          "Axioms in Mathematics",
+          "The Five Fundamental Axioms",
+          "Geometric Applications",
+          "Algebraic Applications",
+          "Problem Types",
+          "Mathematical Reasoning"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Angles related to straight lines and parallel lines",
+        "topics": [
+          "Angles Related to Straight Lines",
+          "Corresponding, Alternate and Allied Angles",
+          "Angles Related to Parallel Lines",
+          "Theorems and Applications",
+          "Properties of Angles in Geometric Figures"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Liquid Measurements",
+        "topics": [
+          "Liquid Measurements",
+          "Volume Units Relationships",
+          "Container Volume Calculations",
+          "Practical Applications",
+          "Problem Solving",
+          "Review Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Direct proportion",
+        "topics": [
+          "Direct Proportion",
+          "Foreign Currency",
+          "Problem Types Covered",
+          "Practice Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "The Calculator",
+        "topics": [
+          "The Calculator",
+          "Scientific Calculator Keys and Functions",
+          "Using the % Key",
+          "Using the x² Key",
+          "Using the Square Root Key",
+          "Calculator Operation Guidelines"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Indices",
+        "topics": [
+          "Indices",
+          "Negative Indices",
+          "Zero Index",
+          "Power of a Power",
+          "Laws of Indices"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Rounding off and Scientific Notation",
+        "topics": [
+          "Rounding off and Scientific Notation",
+          "Scientific Notation",
+          "Converting Scientific Notation",
+          "Rounding Off Numbers",
+          "Decimal Rounding",
+          "Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Loci and Constructions",
+        "topics": [
+          "Loci",
+          "Constructions",
+          "Angles",
+          "Geometric Constructions",
+          "Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Equations",
+        "topics": [
+          "Linear Equations",
+          "Solving Linear Equations with Two Types of Brackets",
+          "Linear Equations Containing Fractions",
+          "Solving Simultaneous Linear Equations",
+          "Problem Solving Methods",
+          "Practice Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "Angles of a triangle",
+        "topics": [
+          "Angles of a Triangle",
+          "Interior Angles of a Triangle",
+          "Exterior Angles of a Triangle",
+          "Angle Relationships",
+          "Problem Solving Applications",
+          "Summary and Key Theorems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "Formulae",
+        "topics": [
+          "Formulae",
+          "Subject Changes in Formulae",
+          "Substitution in Formulae",
+          "Mathematical Examples & Applications",
+          "Practice Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "Circumference of circle",
+        "topics": [
+          "Circumference of a Circle",
+          "Measuring Circle Circumference",
+          "Circle Formulas and Properties",
+          "Applications and Problem Solving",
+          "Review Concepts"
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "Pythagorean relation",
+        "topics": [
+          "Pythagorean Relation",
+          "Pythagorean Theorem Application",
+          "Geometric Problems",
+          "Real World Applications",
+          "Exercise Types"
+        ]
+      },
+      {
+        "chapter_id": "chapter_21",
+        "title": "Inequalities",
+        "topics": [
+          "Inequalities",
+          "Properties of Inequalities",
+          "Application Problems",
+          "Number Line Representations",
+          "Solution Sets",
+          "Real-World Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_22",
+        "title": "Sets",
+        "topics": [
+          "Sets",
+          "Finite and Infinite Sets",
+          "Universal Sets and Subsets",
+          "Set Operations",
+          "Complement of Sets",
+          "Venn Diagrams",
+          "Special Cases",
+          "Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_23",
+        "title": "Area",
+        "topics": [
+          "Area",
+          "Area of a Parallelogram",
+          "Area of a Trapezium",
+          "Area of a Circle",
+          "Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_24",
+        "title": "Probability",
+        "topics": [
+          "Random Experiments",
+          "Sample Space",
+          "Equally Likely Outcomes",
+          "Probability",
+          "Types of Experiments",
+          "Applications of Probability"
+        ]
+      },
+      {
+        "chapter_id": "chapter_25",
+        "title": "Angles of polygon",
+        "topics": [
+          "Angles of a Polygon",
+          "Sum of Interior Angles",
+          "Sum of Exterior Angles",
+          "Regular Polygons",
+          "Problem-Solving Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_26",
+        "title": "Algebraic fractions",
+        "topics": [
+          "Algebraic Fractions",
+          "Review Exercise Components",
+          "Adding/Subtracting Algebraic Fractions with Equal Integral Denominators",
+          "Adding/Subtracting Algebraic Fractions with Unequal Integral Denominators",
+          "Adding/Subtracting Algebraic Fractions with Same Algebraic Denominator",
+          "Simplifying Algebraic Fractions with Algebraic Expressions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_27",
+        "title": "Scale diagrams",
+        "topics": [
+          "Scale Diagrams",
+          "Clinometer",
+          "Scale Diagrams in Horizontal Plane",
+          "Problem-Solving with Scale Diagrams",
+          "Map Reading and Navigation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_28",
+        "title": "Data representation and interpretation",
+        "topics": [
+          "Data Representation and Interpretation",
+          "Ungrouped Frequency Distribution",
+          "Grouped Frequency Distribution",
+          "Modal Class and Median Class",
+          "Statistical Calculations",
+          "Data Analysis Methods"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 10,
+    "subject": "math",
+    "board": "NEC",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Perimeter",
+        "topics": [
+          "Perimeter of Plane Figures",
+          "Sectors of a Circle",
+          "Arc Length Calculations",
+          "Perimeter of Sectors",
+          "Compound Figures with Sectors",
+          "Applications",
+          "Problem Solving Methods",
+          "Special Cases"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Square Root",
+        "topics": [
+          "Square Root",
+          "Division Method for Square Roots",
+          "Application Problems",
+          "Exercises",
+          "Number Patterns"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Fractions",
+        "topics": [
+          "Fractions",
+          "Operations with Fractions",
+          "Applications of Fractions",
+          "Further Applications of Fractions",
+          "Problem Solving"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Binomial Expressions",
+        "topics": [
+          "Binomial Expressions",
+          "Squares of Binomial Expressions",
+          "Review & Practice",
+          "Numerical Applications",
+          "Miscellaneous Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Congruence of Triangles",
+        "topics": [
+          "Congruence of Plane Figures",
+          "Congruence of Triangles",
+          "Cases of Triangle Congruence",
+          "Applications of Triangle Congruence",
+          "Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Area",
+        "topics": [
+          "Areas of Plane Figures",
+          "Area of Sector of Circle",
+          "Compound Plane Figures",
+          "Problem Types",
+          "Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Factors of Quadratic Expressions",
+        "topics": [
+          "Factors of Quadratic Expressions",
+          "Factors of Algebraic Expressions",
+          "Factors of Difference of Two Squares",
+          "Advanced Factoring Techniques",
+          "Applications",
+          "Special Cases and Extensions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Triangles I",
+        "topics": [
+          "Interior and Exterior Angles of a Triangle",
+          "Formal Proof of Exterior Angle Theorem",
+          "Interior Angles of a Triangle",
+          "Formal Proof of Interior Angles Sum",
+          "Problem Solving Applications",
+          "Exercise Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Triangles II",
+        "topics": [
+          "Triangles II",
+          "Formal Proof of Isosceles Triangle Theorem",
+          "Converse of Isosceles Triangle Theorem",
+          "Special Cases and Properties",
+          "Problem Solving Applications",
+          "Exercise Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Inverse Proportions",
+        "topics": [
+          "Ratios",
+          "Inverse Proportions",
+          "Algebraic Representation of Inverse Proportions",
+          "Applications",
+          "Practice Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Data Representation",
+        "topics": [
+          "Data Representation",
+          "Representing Data in Pie Charts",
+          "Extracting Information from Pie Charts",
+          "Practice Examples",
+          "Technical Skills"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Least Common Multiple of Algebraic Expressions",
+        "topics": [
+          "Least Common Multiple of Algebraic Expressions",
+          "LCM of Algebraic Terms",
+          "LCM of Complex Algebraic Expressions",
+          "Special Cases in Algebraic LCM",
+          "Application Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Algebraic Fractions",
+        "topics": [
+          "Algebraic Fractions",
+          "Simplifying Fractions with Unequal Algebraic Terms",
+          "Simplifying Fractions with Unequal Binomial Expressions",
+          "Practice Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Percentages",
+        "topics": [
+          "Percentages",
+          "Taxes",
+          "Interest",
+          "Mathematical Problem Solving",
+          "Financial Concepts"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Equations",
+        "topics": [
+          "Equations",
+          "Simultaneous Equations",
+          "Quadratic Equations",
+          "Practice Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "Parallelograms I",
+        "topics": [
+          "Parallelograms",
+          "Properties of Parallelograms",
+          "Theorems",
+          "Construction and Problem Solving",
+          "Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "Parallelograms II",
+        "topics": [
+          "Parallelograms II",
+          "Special Types of Parallelograms",
+          "Rectangle",
+          "Square",
+          "Rhombus",
+          "Proofs and Exercises",
+          "Construction Activities"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "Sets",
+        "topics": [
+          "Sets",
+          "Regions in a Venn Diagram",
+          "Relationship between Numbers of Elements in Sets",
+          "Problem Solving with Sets"
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "Logarithms I",
+        "topics": [
+          "Indices",
+          "Logarithms I",
+          "Laws of Logarithms",
+          "Exercise Topics",
+          "Historical Context"
+        ]
+      },
+      {
+        "chapter_id": "chapter_20",
+        "title": "Logarithms II",
+        "topics": [
+          "Logarithms II",
+          "Antilogarithm",
+          "Multiplying and Dividing Using Logarithms",
+          "Calculator Usage",
+          "Exercises and Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_21",
+        "title": "Graphs",
+        "topics": [
+          "Graphs of Linear Functions (y = mx + c)",
+          "Graph Functions of Form y = ax²",
+          "Graph Functions of Form y = ax² + b",
+          "Finding Intervals and Roots",
+          "Vertical Displacement of Graphs",
+          "Applications and Mixed Practice"
+        ]
+      },
+      {
+        "chapter_id": "chapter_22",
+        "title": "Rate",
+        "topics": [
+          "Speed",
+          "Distance-Time Graphs",
+          "Volume and Time",
+          "Rate of Change",
+          "Problem Types"
+        ]
+      },
+      {
+        "chapter_id": "chapter_23",
+        "title": "Formulae",
+        "topics": [
+          "Formulae",
+          "Changing Subject of Formulae",
+          "Substitution",
+          "Review Exercises",
+          "Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_24",
+        "title": "Arithmetic Progressions",
+        "topics": [
+          "Arithmetic Progressions",
+          "nth Term of Arithmetic Progression",
+          "Sum of the First n Terms",
+          "Problem Solving Types",
+          "Miscellaneous Applications",
+          "Special Cases",
+          "Practice Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_25",
+        "title": "Algebraic Inequalities",
+        "topics": [
+          "Algebraic Inequalities",
+          "Linear Inequalities",
+          "Regions and Inequalities",
+          "Inequalities of Form y ⋚ x",
+          "Compound Inequalities",
+          "Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_26",
+        "title": "Frequency Distributions",
+        "topics": [
+          "Frequency Distributions",
+          "Grouped Data",
+          "Mean Calculation Methods",
+          "Statistical Applications",
+          "Data Interpretation",
+          "Practical Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_27",
+        "title": "Chords of a Circle",
+        "topics": [
+          "Chords of a Circle",
+          "Line from Center to Chord Midpoint",
+          "Perpendicular from Center to Chord",
+          "Proofs and Riders",
+          "Problem Sets",
+          "Special Cases and Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_28",
+        "title": "Constructions",
+        "topics": [
+          "Construction of Basic Loci",
+          "Construction of Triangles",
+          "Constructions Related to Parallel Lines",
+          "Practice Exercises",
+          "Activities"
+        ]
+      },
+      {
+        "chapter_id": "chapter_29",
+        "title": "Surface Area and Volume",
+        "topics": [
+          "Surface Area and Volume",
+          "Cylinders",
+          "Prisms",
+          "Volume",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_30",
+        "title": "Probability",
+        "topics": [
+          "Probability",
+          "Events and Their Properties",
+          "Probability Representation Methods",
+          "Probability Rules and Formulas",
+          "Applications of Probability",
+          "Conditional Probability",
+          "Problem Solving Methods"
+        ]
+      },
+      {
+        "chapter_id": "chapter_31",
+        "title": "Angles in a Circle",
+        "topics": [
+          "Angles in a Circle",
+          "Angles in the Same Segment",
+          "Angles in a Semicircle",
+          "Proving Riders and Applications",
+          "Exercises and Problem Solving",
+          "Geometric Theory and Properties"
+        ]
+      },
+      {
+        "chapter_id": "chapter_32",
+        "title": "Scale Diagrams",
+        "topics": [
+          "Scale Diagrams",
+          "Clinometer",
+          "Scale Drawings in Vertical Plane",
+          "Scale Calculations",
+          "Exercise Problems",
+          "Logarithms Tables",
+          "Technical Terms & Definitions",
+          "Course Structure"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 11,
+    "subject": "math",
+    "board": "NEC",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Real Numbers",
+        "topics": [
+          "Real Numbers",
+          "Surds",
+          "Decimal Representations",
+          "Number Properties"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Indices and Logarithms I",
+        "topics": [
+          "Indices",
+          "Laws of Logarithms",
+          "Applications and Problem Solving",
+          "Properties and Rules"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Indices and Logarithms II",
+        "topics": [
+          "Indices and Logarithms II",
+          "Logarithms of Decimal Numbers Less Than One",
+          "Addition and Subtraction of Logarithms",
+          "Finding Powers and Roots Using Logarithms",
+          "Using a Calculator",
+          "Applications of Logarithms",
+          "Practice Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Surface Area of Solids",
+        "topics": [
+          "Surface Area of Solids",
+          "Practical Applications",
+          "Mathematical Concepts",
+          "Formulas and Calculations",
+          "Exercise Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Volume of Solids",
+        "topics": [
+          "Volume of Solids",
+          "Square Based Right Pyramid",
+          "Right Circular Cone",
+          "Sphere",
+          "Summary and Applications",
+          "Practice Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Binomial Expressions",
+        "topics": [
+          "Binomial Expressions",
+          "Cube of Binomial Expressions",
+          "Methods of Cube Expansion",
+          "Examples and Applications",
+          "Practice Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Algebraic Fractions",
+        "topics": [
+          "Algebraic Fractions",
+          "Multiplying Algebraic Fractions",
+          "Dividing Algebraic Fractions",
+          "Practice Exercises"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Areas of Plane Figures between Parallel Lines",
+        "topics": [
+          "Areas of Plane Figures between Parallel Lines",
+          "Parallelograms and Triangles on Same Base between Parallel Lines",
+          "Areas of Parallelograms and Triangles on Same Base",
+          "Triangles on Same Base between Parallel Lines",
+          "Miscellaneous Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Percentages",
+        "topics": [
+          "Percentages",
+          "Review Exercise",
+          "Capital vs Recurrent Expenses",
+          "Interest Calculation Methods",
+          "Compound Interest",
+          "Practical Applications",
+          "Exercises and Problem Solving"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Share Market",
+        "topics": [
+          "Share Market",
+          "Shares",
+          "Dividends",
+          "Trading in Stock Market",
+          "Capital Gains & Returns",
+          "Investment Strategies",
+          "Financial Calculations",
+          "Market Operations"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "The Midpoint Theorem",
+        "topics": [
+          "The Midpoint Theorem",
+          "Converse of Midpoint Theorem",
+          "Exercises and Applications",
+          "Geometric Constructions",
+          "Advanced Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Graphs",
+        "topics": [
+          "Graphs",
+          "Solving Simultaneous Equations Graphically",
+          "Quadratic Functions (y = ax² + bx + c)",
+          "Quadratic Functions in Special Forms",
+          "Graph Analysis Skills",
+          "Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Equations",
+        "topics": [
+          "Solving Simultaneous Equations",
+          "Solving Quadratic Equations by Factoring",
+          "Solving Quadratic Equations by Completing the Square",
+          "Solving Quadratic Equations Using the Quadratic Formula",
+          "Miscellaneous Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Equiangular Triangles",
+        "topics": [
+          "Ratios of Lengths",
+          "Dividing Triangle Sides by Parallel Lines",
+          "Similar Figures and Equiangular Triangles",
+          "Proving Triangle Theorems",
+          "Calculations with Similar Triangles",
+          "Exercises and Applications",
+          "Miscellaneous Topics"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Data representation and Interpretation",
+        "topics": [
+          "Data Representation and Interpretation",
+          "Histogram",
+          "Frequency Polygon",
+          "Cumulative Frequency Curve",
+          "Quartiles and Interquartile Range",
+          "Data Analysis Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "Geometric Progressions",
+        "topics": [
+          "Geometric Progressions",
+          "nth Term Formula",
+          "Sum of n Terms",
+          "Problem Solving",
+          "Exercise Sections"
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "Pythagoras' Theorem",
+        "topics": [
+          "Pythagoras' Theorem",
+          "Further Applications of Pythagoras' Theorem",
+          "Pythagorean Triples",
+          "Miscellaneous Applications",
+          "Exercises and Practice"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "Trigonometry",
+        "topics": [
+          "Right Angled Triangles",
+          "Trigonometric Ratios",
+          "Standard Angles (30°, 45°, 60°)",
+          "Using Trigonometric Tables",
+          "Angles in Vertical Plane",
+          "Angles in Horizontal Plane",
+          "Calculator Usage",
+          "Applications and Problem Solving"
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "Matrices",
+        "topics": [
+          "Matrices",
+          "Matrix Order",
+          "Matrix Operations",
+          "Special Matrices",
+          "Matrix Properties",
+          "Matrix Applications",
+          "Matrix Multiplication Methods"
+        ]
+      },
+      {
+        "chapter_id": "chapter_20",
+        "title": "Inequalities",
+        "topics": [
+          "Inequalities",
+          "Solving Problems Using Inequalities",
+          "Number Line Representation",
+          "Exercise Sets"
+        ]
+      },
+      {
+        "chapter_id": "chapter_21",
+        "title": "Cyclic Quadrilaterals",
+        "topics": [
+          "Cyclic Quadrilaterals",
+          "Exterior and Interior Angles",
+          "Theorems and Proofs",
+          "Problem Solving",
+          "Geometric Constructions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_22",
+        "title": "Tangents",
+        "topics": [
+          "Tangents",
+          "Tangents Drawn to a Circle from an External Point",
+          "Angles in the Alternate Segment",
+          "Related Problems and Applications",
+          "Exercise Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_23",
+        "title": "Constructions",
+        "topics": [
+          "Constructions Related to Straight Lines and Angles",
+          "Construction of Circles Related to Triangles",
+          "Construction of Tangents to Circles",
+          "Exercise Problems"
+        ]
+      },
+      {
+        "chapter_id": "chapter_24",
+        "title": "Sets",
+        "topics": [
+          "Venn Diagrams",
+          "Set Notation Representation",
+          "Problem Solving with Sets",
+          "Applications",
+          "Set Calculations",
+          "Data Representation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_25",
+        "title": "Probability",
+        "topics": [
+          "Probability",
+          "Grid/Cartesian Plane Method",
+          "Tree Diagrams",
+          "Exercise Problems",
+          "Practice Applications"
+        ]
+      }
+    ]
+  }
+]

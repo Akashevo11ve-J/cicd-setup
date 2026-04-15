@@ -1,0 +1,1249 @@
+[
+  {
+    "grade": 6,
+    "subject": "math",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Patterns in Mathematics",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Lines and Angles",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Number Play",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Data Handling and Presentation",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Prime Time",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Perimeter and Area",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Fractions",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Playing with Constructions",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Symmetry",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "The Other Side of Zero",
+        "topics": []
+      },
+      {
+        "chapter_id": "learning_material_sheets",
+        "title": "Learning Material Sheets",
+        "topics": []
+      }
+    ]
+  },
+  {
+    "grade": 7,
+    "subject": "math",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Integers",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Fractions and Decimals",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Data Handling",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Simple Equations",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Lines and Angles",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "The Triangle and its Properties",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Comparing Quantities",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Rational Numbers",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Perimeter and Area",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Algebraic Expressions",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Exponents and Powers",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Symmetry",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Visualising Solid Shapes",
+        "topics": []
+      }
+    ]
+  },
+  {
+    "grade": 8,
+    "subject": "math",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Rational Numbers",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Linear Equations in One Variable",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Understanding Quadrilaterals",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Data Handling",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Squares and Square Roots",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Cubes and Cube Roots",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Comparing Quantities",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Algebraic Expressions and Identities",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Mensuration",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Exponents and Powers",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Direct and Inverse Proportions",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Factorisation",
+        "topics": []
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Introduction to Graphs",
+        "topics": []
+      }
+    ]
+  },
+  {
+    "grade": 8,
+    "subject": "math",
+    "board": "IB",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Number",
+        "topics": [
+          "A Basic calculations",
+          "B Basic functions",
+          "C Secondary function and alpha keys",
+          "D Memory",
+          "E Lists",
+          "F Statistical graphs",
+          "G Working with functions",
+          "A Natural numbers",
+          "B Divisibility tests",
+          "C Integers",
+          "D Order of operations",
+          "E Fractions and rational numbers",
+          "F Decimal numbers",
+          "G Ratio",
+          "H Prime numbers and index notation",
+          "Review set 1A",
+          "Review set 1B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Algebraic Operations",
+        "topics": [
+          "A Algebraic notation",
+          "B The language of mathematics",
+          "C Changing words to symbols",
+          "D Generalising arithmetic",
+          "E Algebraic substitution",
+          "F Collecting like terms",
+          "G Product and quotient simplification",
+          "Review set 2A",
+          "Review set 2B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Percentage",
+        "topics": [
+          "A Percentage",
+          "B The unitary method in percentage",
+          "C Finding a percentage of a quantity",
+          "D Percentage increase and decrease",
+          "E Percentage change using a multiplier",
+          "F Finding the original amount",
+          "G Simple interest",
+          "H Compound interest",
+          "Review set 3A",
+          "Review set 3B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Algebraic Expansion",
+        "topics": [
+          "A The distributive law",
+          "B The expansion of",
+          "C The expansion rules",
+          "D Expansion of radical expressions",
+          "Review set 4A",
+          "Review set 4B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Interpreting and Drawing Graphs",
+        "topics": [
+          "A Interpreting graphs and charts",
+          "B Travel graphs",
+          "C Information from line graphs",
+          "D Using technology to graph data",
+          "Review set 5A",
+          "Review set 5B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Solving Equations",
+        "topics": [
+          "A The solution of an equation",
+          "B Maintaining balance",
+          "C Isolating the unknown",
+          "D Formal solution of linear equations",
+          "E Equations with a repeated unknown",
+          "F Fractional equations",
+          "G Unknown in the denominator",
+          "Review set 6A",
+          "Review set 6B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "The Geometry of Polygons",
+        "topics": [
+          "A Review of geometrical facts",
+          "B Triangles",
+          "C Isosceles triangles",
+          "D Quadrilaterals and other polygons",
+          "E Deductive geometry",
+          "F Special quadrilaterals",
+          "Review set 7A",
+          "Review set 7B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Indices",
+        "topics": [
+          "A Algebraic products and quotients in index notation",
+          "B Index laws",
+          "C Expansion laws",
+          "D Zero and negative indices",
+          "E Scientific notation (Standard form)",
+          "F Significant figures",
+          "Review set 8A",
+          "Review set 8B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Radicals and Pythagoras",
+        "topics": [
+          "A Square roots",
+          "B Rules for square roots",
+          "C Solving equations of the form",
+          "D The theorem of Pythagoras",
+          "E The converse of Pythagoras’ theorem",
+          "F Pythagorean triples",
+          "G Problem solving using Pythagoras",
+          "H Three dimensional problems (Extension)",
+          "I Cube roots",
+          "Review set 9A",
+          "Review set 9B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Length and Area",
+        "topics": [
+          "A Lengths and perimeters",
+          "B Circumference of a circle",
+          "C Area",
+          "D Areas of circles and ellipses",
+          "E Areas of composite figures",
+          "F Surface area",
+          "G Problem solving",
+          "Review set 10A",
+          "Review set 10B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Algebra",
+        "topics": [
+          "A Converting into algebraic form",
+          "B Forming equations",
+          "C Problem solving using equations",
+          "D Finding an unknown from a formula",
+          "E Linear inequations",
+          "F Solving linear inequations",
+          "Review set 11A",
+          "Review set 11B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Volume and Capacity",
+        "topics": [
+          "A Units of volume",
+          "B Volume formulae",
+          "C Capacity",
+          "D Problem solving",
+          "Review set 12A",
+          "Review set 12B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Coordinate Geometry",
+        "topics": [
+          "A Plotting points",
+          "B Linear relationships",
+          "C Plotting linear graphs",
+          "D The equation of a line",
+          "E Gradient or slope",
+          "F Graphing lines from equations",
+          "G Other line forms",
+          "H Finding equations from graphs",
+          "I Points on lines",
+          "Review set 13A",
+          "Review set 13B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Simultaneous Equations",
+        "topics": [
+          "A Trial and error solution",
+          "B Graphical solution",
+          "C Solution by substitution",
+          "D Solution by elimination",
+          "E Problem solving with simultaneous equations",
+          "Review set 14A",
+          "Review set 14B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Estimating Probabilities",
+        "topics": [
+          "A Probability by experiment",
+          "B Probabilities from tabled data",
+          "C Probabilities from two way tables",
+          "D Chance investigations",
+          "Review set 15A",
+          "Review set 15B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "Transformations, Similarity and Congruence",
+        "topics": [
+          "A Translations",
+          "B Reflections and line symmetry",
+          "C Rotations and rotational symmetry",
+          "D Enlargements and reductions",
+          "E Similar figures",
+          "F Similar triangles",
+          "G Areas and volumes of similar objects",
+          "H Congruence of triangles",
+          "Review set 16A",
+          "Review set 16B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "Algebraic Factorisation",
+        "topics": [
+          "A Common factors",
+          "B Factorising with common factors",
+          "C Difference of two squares factorising",
+          "D Perfect square factorisation",
+          "E Factorising quadratic trinomials",
+          "F Miscellaneous factorisation",
+          "Review set 17A",
+          "Review set 17B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "Comparing Categorical Data",
+        "topics": [
+          "A Categorical data",
+          "B Examining categorical data",
+          "C Comparing and reporting categorical data",
+          "D Data collection",
+          "E Misleading graphs",
+          "Review set 18A",
+          "Review set 18B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "Quadratic Equations",
+        "topics": [
+          "A The Null Factor law",
+          "B Equations of the form",
+          "C Solving equations using the difference of squares",
+          "D Solving equations of the form",
+          "E Problem solving with quadratic equations",
+          "F Simultaneous equations involving quadratic equations",
+          "Review set 19A",
+          "Review set 19B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_20",
+        "title": "Quantitative Statistics",
+        "topics": [
+          "A Quantitative data",
+          "B Grouped discrete data",
+          "C Measuring the centre",
+          "D Comparing and reporting discrete data",
+          "Review set 20A",
+          "Review set 20B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_21",
+        "title": "Algebraic Fractions",
+        "topics": [
+          "A Evaluating algebraic fractions",
+          "B Simplifying algebraic fractions",
+          "C Multiplying and dividing algebraic fractions",
+          "D Adding and subtracting algebraic fractions",
+          "E Simplifying more complicated fractions",
+          "Review set 21A",
+          "Review set 21B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_22",
+        "title": "Theoretical Probability",
+        "topics": [
+          "A Sample space",
+          "B Theoretical probability",
+          "C Using grids to find probabilities",
+          "D Multiplying probabilities",
+          "E Using tree diagrams",
+          "F Expectation",
+          "G Odds",
+          "Review set 22A",
+          "Review set 22B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_23",
+        "title": "Trigonometry",
+        "topics": [
+          "A Using scale diagrams in geometry",
+          "B Trigonometry",
+          "C The trigonometric ratios",
+          "D Problem solving with trigonometry",
+          "Review set 23A",
+          "Review set 23B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_24",
+        "title": "Introduction to Networks",
+        "topics": [
+          "A Network diagrams",
+          "B Constructing networks",
+          "C Precedence networks",
+          "D Counting pathways",
+          "Review set 24A",
+          "Review set 24B"
+        ]
+      },
+      {
+        "chapter_id": "chapter_25",
+        "title": "Locus",
+        "topics": [
+          "A Everyday applications of loci",
+          "B Experiments in locus",
+          "C Locus in geometry",
+          "Review set 25"
+        ]
+      },
+      {
+        "chapter_id": "activities",
+        "title": "Activities",
+        "topics": [
+          "1. Triangular numbers",
+          "2. Word maze",
+          "3. Cops and robbers",
+          "4. Translations on a chessboard",
+          "5. Shortest distance",
+          "6. Engaged couples",
+          "7. Number chains",
+          "8. Paper",
+          "9. Jockeying for truth"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 9,
+    "subject": "math",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Number Systems",
+        "topics": [
+          "1.1 Introduction",
+          "1.2 Irrational Numbers",
+          "1.3 Real Numbers and their Decimal Expansions",
+          "1.4 Operations on Real Numbers",
+          "1.5 Laws of Exponents for Real Numbers",
+          "1.6 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Polynomials",
+        "topics": [
+          "2.1 Introduction",
+          "2.2 Polynomials in One Variable",
+          "2.3 Zeroes of a Polynomial",
+          "2.4 Factorisation of Polynomials",
+          "2.5 Algebraic Identities",
+          "2.6 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Coordinate Geometry",
+        "topics": [
+          "3.1 Introduction",
+          "3.2 Cartesian System",
+          "3.3 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Linear Equations in Two Variables",
+        "topics": [
+          "4.1 Introduction",
+          "4.2 Linear Equations",
+          "4.3 Solution of a Linear Equation",
+          "4.4 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Introduction to Euclid’s Geometry",
+        "topics": [
+          "5.1 Introduction",
+          "5.2 Euclid’s Definitions, Axioms and Postulates",
+          "5.3 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Lines and Angles",
+        "topics": [
+          "6.1 Introduction",
+          "6.2 Basic Terms and Definitions",
+          "6.3 Intersecting Lines and Non-intersecting Lines",
+          "6.4 Pairs of Angles",
+          "6.5 Lines Parallel to the Same Line",
+          "6.6 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Triangles",
+        "topics": [
+          "7.1 Introduction",
+          "7.2 Congruence of Triangles",
+          "7.3 Criteria for Congruence of Triangles",
+          "7.4 Some Properties of a Triangle",
+          "7.5 Some More Criteria for Congruence of Triangles",
+          "7.6 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Quadrilaterals",
+        "topics": [
+          "8.1 Properties of a Parallelogram",
+          "8.2 The Mid-point Theorem",
+          "8.3 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Circles",
+        "topics": [
+          "9.1 Angle Subtended by a Chord at a Point",
+          "9.2 Perpendicular from the Centre to a Chord",
+          "9.3 Equal Chords and their Distances from the Centre",
+          "9.4 Angle Subtended by an Arc of a Circle",
+          "9.5 Cyclic Quadrilaterals",
+          "9.6 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Heron’s Formula",
+        "topics": [
+          "10.1 Area of a Triangle – by Heron’s Formula",
+          "10.2 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Surface Areas and Volumes",
+        "topics": [
+          "11.1 Surface Area of a Right Circular Cone",
+          "11.2 Surface Area of a Sphere",
+          "11.3 Volume of a Right Circular Cone",
+          "11.4 Volume of a Sphere",
+          "11.5 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Statistics",
+        "topics": [
+          "12.1 Graphical Representation of Data",
+          "12.2 Summary"
+        ]
+      },
+      {
+        "chapter_id": "appendix_1",
+        "title": "Appendix 1: Proofs in Mathematics",
+        "topics": [
+          "A1.1 Introduction",
+          "A1.2 Mathematically Acceptable Statements",
+          "A1.3 Deductive Reasoning",
+          "A1.4 Theorems, Conjectures and Axioms",
+          "A1.5 What is a Mathematical Proof?",
+          "A1.6 Summary"
+        ]
+      },
+      {
+        "chapter_id": "appendix_2",
+        "title": "Appendix 2: Introduction to Mathematical Modelling",
+        "topics": [
+          "A2.1 Introduction",
+          "A2.2 Review of Word Problems",
+          "A2.3 Some Mathematical Models",
+          "A2.4 The Process of Modelling, its Advantages and Limitations",
+          "A2.5 Summary"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 10,
+    "subject": "math",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Real Numbers",
+        "topics": [
+          "1.1 Introduction",
+          "1.2 The Fundamental Theorem of Arithmetic",
+          "1.3 Revisiting Irrational Numbers",
+          "1.4 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Polynomials",
+        "topics": [
+          "2.1 Introduction",
+          "2.2 Geometrical Meaning of the Zeroes of a Polynomial",
+          "2.3 Relationship between Zeroes and Coefficients of a Polynomial",
+          "2.4 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Pair of Linear Equations in Two Variables",
+        "topics": [
+          "3.1 Introduction",
+          "3.2 Graphical Method of Solution of a Pair of Linear Equations",
+          "3.3 Algebraic Methods of Solving a Pair of Linear Equations",
+          "3.3.1 Substitution Method",
+          "3.3.2 Elimination Method",
+          "3.4 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Quadratic Equations",
+        "topics": [
+          "4.1 Introduction",
+          "4.2 Quadratic Equations",
+          "4.3 Solution of a Quadratic Equation by Factorisation",
+          "4.4 Nature of Roots",
+          "4.5 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Arithmetic Progressions",
+        "topics": [
+          "5.1 Introduction",
+          "5.2 Arithmetic Progressions",
+          "5.3 nth Term of an AP",
+          "5.4 Sum of First n Terms of an AP",
+          "5.5 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Triangles",
+        "topics": [
+          "6.1 Introduction",
+          "6.2 Similar Figures",
+          "6.3 Similarity of Triangles",
+          "6.4 Criteria for Similarity of Triangles",
+          "6.5 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Coordinate Geometry",
+        "topics": [
+          "7.1 Introduction",
+          "7.2 Distance Formula",
+          "7.3 Section Formula",
+          "7.4 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Introduction to Trigonometry",
+        "topics": [
+          "8.1 Introduction",
+          "8.2 Trigonometric Ratios",
+          "8.3 Trigonometric Ratios of Some Specific Angles",
+          "8.4 Trigonometric Identities",
+          "8.5 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Some Applications of Trigonometry",
+        "topics": [
+          "9.1 Heights and Distances",
+          "9.2 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Circles",
+        "topics": [
+          "10.1 Introduction",
+          "10.2 Tangent to a Circle",
+          "10.3 Number of Tangents from a Point on a Circle",
+          "10.4 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Areas Related to Circles",
+        "topics": [
+          "11.1 Areas of Sector and Segment of a Circle",
+          "11.2 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Surface Areas and Volumes",
+        "topics": [
+          "12.1 Introduction",
+          "12.2 Surface Area of a Combination of Solids",
+          "12.3 Volume of a Combination of Solids",
+          "12.4 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Statistics",
+        "topics": [
+          "13.1 Introduction",
+          "13.2 Mean of Grouped Data",
+          "13.3 Mode of Grouped Data",
+          "13.4 Median of Grouped Data",
+          "13.5 Summary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Probability",
+        "topics": [
+          "14.1 Probability — A Theoretical Approach",
+          "14.2 Summary"
+        ]
+      },
+      {
+        "chapter_id": "appendix_a1",
+        "title": "Appendix A1: Proofs in Mathematics",
+        "topics": [
+          "A1.1 Introduction",
+          "A1.2 Mathematical Statements Revisited",
+          "A1.3 Deductive Reasoning",
+          "A1.4 Conjectures, Theorems, Proofs and Mathematical Reasoning",
+          "A1.5 Negation of a Statement",
+          "A1.6 Converse of a Statement",
+          "A1.7 Proof by Contradiction",
+          "A1.8 Summary"
+        ]
+      },
+      {
+        "chapter_id": "appendix_a2",
+        "title": "Appendix A2: Mathematical Modelling",
+        "topics": [
+          "A2.1 Introduction",
+          "A2.2 Stages in Mathematical Modelling",
+          "A2.3 Some Illustrations",
+          "A2.4 Why is Mathematical Modelling Important?"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 11,
+    "subject": "math",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Chapter 1: Sets",
+        "topics": [
+          "1.1 Introduction",
+          "1.2 Sets and their Representations",
+          "1.3 The Empty Set",
+          "1.4 Finite and Infinite Sets",
+          "1.5 Equal Sets",
+          "1.6 Subsets",
+          "1.7 Universal Set",
+          "1.8 Venn Diagrams",
+          "1.9 Operations on Sets",
+          "1.10 Complement of a Set"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Chapter 2: Relations and Functions",
+        "topics": [
+          "2.1 Introduction",
+          "2.2 Cartesian Product of Sets",
+          "2.3 Relations",
+          "2.4 Functions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Chapter 3: Trigonometric Functions",
+        "topics": [
+          "3.1 Introduction",
+          "3.2 Angles",
+          "3.3 Trigonometric Functions",
+          "3.4 Trigonometric Functions of Sum and Difference of Two Angles"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Chapter 4: Complex Numbers and Quadratic Equations",
+        "topics": [
+          "4.1 Introduction",
+          "4.2 Complex Numbers",
+          "4.3 Algebra of Complex Numbers",
+          "4.4 The Modulus and the Conjugate of a Complex Number",
+          "4.5 Argand Plane and Polar Representation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Chapter 5: Linear Inequalities",
+        "topics": [
+          "5.1 Introduction",
+          "5.2 Inequalities",
+          "5.3 Algebraic Solutions of Linear Inequalities in One Variable and their Graphical Representation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Chapter 6: Permutations and Combinations",
+        "topics": [
+          "6.1 Introduction",
+          "6.2 Fundamental Principle of Counting",
+          "6.3 Permutations",
+          "6.4 Combinations"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Chapter 7: Binomial Theorem",
+        "topics": [
+          "7.1 Introduction",
+          "7.2 Binomial Theorem for Positive Integral Indices"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Chapter 8: Sequences and Series",
+        "topics": [
+          "8.1 Introduction",
+          "8.2 Sequences",
+          "8.3 Series",
+          "8.4 Geometric Progression (G.P.)",
+          "8.5 Relationship Between A.M. and G.M."
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Chapter 9: Straight Lines",
+        "topics": [
+          "9.1 Introduction",
+          "9.2 Slope of a Line",
+          "9.3 Various Forms of the Equation of a Line",
+          "9.4 Distance of a Point From a Line"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Chapter 10: Conic Sections",
+        "topics": [
+          "10.1 Introduction",
+          "10.2 Sections of a Cone",
+          "10.3 Circle",
+          "10.4 Parabola",
+          "10.5 Ellipse",
+          "10.6 Hyperbola"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Chapter 11: Introduction to Three Dimensional Geometry",
+        "topics": [
+          "11.1 Introduction",
+          "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space",
+          "11.3 Coordinates of a Point in Space",
+          "11.4 Distance between Two Points"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Chapter 12: Limits and Derivatives",
+        "topics": [
+          "12.1 Introduction",
+          "12.2 Intuitive Idea of Derivatives",
+          "12.3 Limits",
+          "12.4 Limits of Trigonometric Functions",
+          "12.5 Derivatives"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Chapter 13: Statistics",
+        "topics": [
+          "13.1 Introduction",
+          "13.2 Measures of Dispersion",
+          "13.3 Range",
+          "13.4 Mean Deviation",
+          "13.5 Variance and Standard Deviation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Chapter 14: Probability",
+        "topics": [
+          "14.1 Event",
+          "14.2 Axiomatic Approach to Probability"
+        ]
+      },
+      {
+        "chapter_id": "appendix_1",
+        "title": "Appendix 1: Infinite Series",
+        "topics": [
+          "A.1.1 Introduction",
+          "A.1.2 Binomial Theorem for any Index",
+          "A.1.3 Infinite Geometric Series",
+          "A.1.4 Exponential Series",
+          "A.1.5 Logarithmic Series"
+        ]
+      },
+      {
+        "chapter_id": "appendix_2",
+        "title": "Appendix 2: Mathematical Modelling",
+        "topics": [
+          "A.2.1 Introduction",
+          "A.2.2 Preliminaries",
+          "A.2.3 What is Mathematical Modelling"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 12,
+    "subject": "math",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Chapter 1: Relations and Functions",
+        "topics": [
+          "1.1 Introduction",
+          "1.2 Types of Relations",
+          "1.3 Types of Functions",
+          "1.4 Composition of Functions and Invertible Function"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Chapter 2: Inverse Trigonometric Functions",
+        "topics": [
+          "2.1 Introduction",
+          "2.2 Basic Concepts",
+          "2.3 Properties of Inverse Trigonometric Functions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Chapter 3: Matrices",
+        "topics": [
+          "3.1 Introduction",
+          "3.2 Matrix",
+          "3.3 Types of Matrices",
+          "3.4 Operations on Matrices",
+          "3.5 Transpose of a Matrix",
+          "3.6 Symmetric and Skew Symmetric Matrices",
+          "3.7 Invertible Matrices"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Chapter 4: Determinants",
+        "topics": [
+          "4.1 Introduction",
+          "4.2 Determinant",
+          "4.3 Area of a Triangle",
+          "4.4 Minors and Cofactors",
+          "4.5 Adjoint and Inverse of a Matrix",
+          "4.6 Applications of Determinants and Matrices"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Chapter 5: Continuity and Differentiability",
+        "topics": [
+          "5.1 Introduction",
+          "5.2 Continuity",
+          "5.3 Differentiability",
+          "5.4 Exponential and Logarithmic Functions",
+          "5.5 Logarithmic Differentiation",
+          "5.6 Derivatives of Functions in Parametric Forms",
+          "5.7 Second Order Derivative"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Chapter 6: Application of Derivatives",
+        "topics": [
+          "6.1 Introduction",
+          "6.2 Rate of Change of Quantities",
+          "6.3 Increasing and Decreasing Functions",
+          "6.4 Maxima and Minima"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Chapter 7: Integrals",
+        "topics": [
+          "7.1 Introduction",
+          "7.2 Integration as an Inverse Process of Differentiation",
+          "7.3 Methods of Integration",
+          "7.4 Integrals of Some Particular Functions",
+          "7.5 Integration by Partial Fractions",
+          "7.6 Integration by Parts",
+          "7.7 Definite Integral",
+          "7.8 Fundamental Theorem of Calculus",
+          "7.9 Evaluation of Definite Integrals by Substitution",
+          "7.10 Some Properties of Definite Integrals"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Chapter 8: Application of Integrals",
+        "topics": [
+          "8.1 Introduction",
+          "8.2 Area under Simple Curves"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Chapter 9: Differential Equations",
+        "topics": [
+          "9.1 Introduction",
+          "9.2 Basic Concepts",
+          "9.3 General and Particular Solutions of a Differential Equation",
+          "9.4 Methods of Solving First Order, First Degree Differential Equations"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Chapter 10: Vector Algebra",
+        "topics": [
+          "10.1 Introduction",
+          "10.2 Some Basic Concepts",
+          "10.3 Types of Vectors",
+          "10.4 Addition of Vectors",
+          "10.5 Multiplication of a Vector by a Scalar",
+          "10.6 Product of Two Vectors"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Chapter 11: Three Dimensional Geometry",
+        "topics": [
+          "11.1 Introduction",
+          "11.2 Direction Cosines and Direction Ratios of a Line",
+          "11.3 Equation of a Line in Space",
+          "11.4 Angle between Two Lines",
+          "11.5 Shortest Distance between Two Lines"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Chapter 12: Linear Programming",
+        "topics": [
+          "12.1 Introduction",
+          "12.2 Linear Programming Problem and its Mathematical Formulation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Chapter 13: Probability",
+        "topics": [
+          "13.1 Introduction",
+          "13.2 Conditional Probability",
+          "13.3 Multiplication Theorem on Probability",
+          "13.4 Independent Events",
+          "13.5 Bayes' Theorem"
+        ]
+      },
+      {
+        "chapter_id": "appendix_1",
+        "title": "Appendix 1: Proofs in Mathematics",
+        "topics": [
+          "A.1.1 Introduction",
+          "A.1.2 What is a Proof?"
+        ]
+      },
+      {
+        "chapter_id": "appendix_2",
+        "title": "Appendix 2: Mathematical Modelling",
+        "topics": [
+          "A.2.1 Introduction",
+          "A.2.2 Why Mathematical Modelling?",
+          "A.2.3 Principles of Mathematical Modelling"
+        ]
+      }
+    ]
+  }
+]

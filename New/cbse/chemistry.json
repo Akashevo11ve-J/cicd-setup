@@ -1,0 +1,251 @@
+[
+  {
+    "grade": 6,
+    "subject": "chemistry",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_6",
+        "title": "Materials Around Us",
+        "topics": [
+          "6.1 Observing Objects Around Us",
+          "6.2 How to Group Materials?",
+          {
+            "6.3 What are the different Properties of Materials?": [
+              "6.3.1 Observe and identify appearance of materials",
+              "6.3.2 Which materials are hard?",
+              "6.3.3 Explore materials through which one can see or cannot see",
+              "6.3.4 What is soluble in water; what is not?",
+              "6.3.5 How heavy or light?",
+              "6.3.6 Space and volume"
+            ]
+          },
+          "6.4 What is Matter?"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "A Journey through States of Water",
+        "topics": [
+          {
+            "8.1 Investigating Water’s Disappearing Act": [
+              "Evaporation"
+            ]
+          },
+          {
+            "8.2 Another Mystery": [
+              "Condensation",
+              "Humidity"
+            ]
+          },
+          {
+            "8.3 What are the Different States of Water?": [
+              "Ice (solid state)",
+              "Water (liquid state)",
+              "Water vapour (gaseous state)"
+            ]
+          },
+          {
+            "8.4 How can We change the States of Water?": [
+              "Melting",
+              "Freezing"
+            ]
+          },
+          {
+            "8.5 How can Water be Evaporated Faster or Slower?": [
+              "Effect of Exposed Area",
+              "Effect of Sunlight and Temperature",
+              "Effect of Wind (Air Movement)",
+              "Effect of Humidity"
+            ]
+          },
+          "8.6 Cooling Effect",
+          {
+            "8.7 How Do clouds Give us Rain?": [
+              "Cloud Formation",
+              "The Water Cycle"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Methods of Separation in Everyday Life",
+        "topics": [
+          "Handpicking",
+          "Threshing",
+          "Winnowing",
+          "Sieving",
+          "Obtaining salt from seawater",
+          "Evaporation",
+          "Sedimentation",
+          "Decantation",
+          "Filtration",
+          "Churning",
+          "Magnetic separation"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 7,
+    "subject": "chemistry",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_2",
+        "title": "Exploring Substances: Acidic, Basic, and Neutral",
+        "topics": [
+          {
+            "2.1 Nature — Our Science Laboratory": [
+              "2.1.1 Litmus as an indicator",
+              "Acidic, Basic, and Neutral Substances",
+              "2.1.2 Red rose as an indicator",
+              "2.1.3 Turmeric as an indicator"
+            ]
+          },
+          "Olfactory indicators",
+          {
+            "2.2 What Happens When Acidic Substances Mix with Basic Substances?": [
+              "Neutralisation reactions"
+            ]
+          },
+          {
+            "2.3 Neutralisation in Daily Life": [
+              "Ant Bites",
+              "Soil Treatment",
+              "Factory Wastes"
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "The World of Metals and Non-metals",
+        "topics": [
+          {
+            "4.1 Properties of Materials": [
+              "4.1.1 Malleability",
+              "4.1.2 Ductility",
+              "4.1.3 Sonority",
+              "4.1.4 Conduction of heat",
+              "4.1.5 Conduction of electricity"
+            ]
+          },
+          "4.2 Eﬀect of Air and Water on Metals: Iron",
+          "4.3 Eﬀect of Air and Water on Other Metals",
+          "4.4 Substances that Behave Diﬀerently from Metals in Air and Water",
+          "4.5 Are Non-metals Essential in Everyday Life?"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Changes Around Us: Physical and Chemical",
+        "topics": [
+          "5.1 A Substance May Change in Appearance but Remain the Same!",
+          "5.2 A Substance May Change in Appearance and Not Remain the Same!",
+          {
+            "5.3 Some Other Processes Involving Chemical Changes": [
+              "5.3.1 Rusting",
+              "5.3.2 Combustion",
+              "Is the Presence of Air Enough for Combustion?",
+              "ignition temperature",
+              "Requirements for combustion"
+            ]
+          },
+          "5.4 Can Physical and Chemical Changes Occur in the Same Process?",
+          "5.5 Are Changes Permanent?",
+          "5.6 Are All Changes Desirable?",
+          {
+            "5.7 Some Slow Natural Changes": [
+              "5.7.1 Weathering of rocks",
+              "5.7.2 Erosion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 8,
+    "subject": "chemistry",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_id": "chapter_7",
+        "title": "Particulate Nature of Matter",
+        "topics": [
+          "7.1 What Is Matter Composed of?",
+          "Constituent particles",
+          "Interparticle spaces",
+          "Interparticle attractions",
+          {
+            "7.2 What Decides Different States of Matter?": [
+              {
+                "7.2.1 Solid state": [
+                  "Melting point"
+                ]
+              },
+              {
+                "7.2.2 Liquid state": [
+                  "Boiling point",
+                  "Evaporation"
+                ]
+              },
+              "7.2.3 Gaseous state",
+              "Fluids"
+            ]
+          },
+          "7.3 How Does the Interparticle Spacing Differ in the Three States of Matter?",
+          "7.4 How Particles Move in Different States of Matter?"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "8 Nature of Matter : Elements, Compounds, and Mixtures",
+        "topics": [
+          {
+            "8.1 What Are Mixtures?": [
+              "8.1.1 Is air a mixture?",
+              "8.1.2 Types of mixtures"
+            ]
+          },
+          "8.2 What Are Pure Substances?",
+          {
+            "8.3 What Are the Types of Pure Substances?": [
+              "8.3.1 Elements",
+              "8.3.2 Compounds"
+            ]
+          },
+          "8.4 How Do We Use Elements, Compounds, and Mixtures?",
+          "8.5 What Are Minerals?"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "The Amazing World of Solutes, Solvents, and Solutions",
+        "topics": [
+          "9.1 What Are Solute, Solvent, and Solution?",
+          {
+            "9.2 How Much Solute Can a Fixed Amount of Solvent Dissolve?": [
+              "Unsaturated and Saturated Solutions",
+              "Concentration",
+              "Solubility",
+              "9.2.1 How does temperature affect the solubility of a solute?"
+            ]
+          },
+          "9.3 Solubility of Gases",
+          "9.4 Why Do Objects Float or Sink in Water?",
+          {
+            "9.5 What Is Density?": [
+              "Relative density",
+              "9.5.1 Determination of density",
+              "9.5.2 Effect of temperature on density",
+              "9.5.3 Effect of pressure on density"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1080 @@
+[
+  {
+    "grade": 6,
+    "subject": "science",
+    "board": "NEC",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Wonders of the Living World",
+        "topics": [
+          "Environment",
+          "Characteristics of Living Organisms",
+          "Classification of Living Things",
+          "Plants",
+          "Animals",
+          "Differences Between Plants and Animals",
+          "Diversity in Living Things",
+          "Dichotomous Keys",
+          "Technical Terms and Vocabulary"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Things Around Us",
+        "topics": [
+          "Things Around Us",
+          "Matter and Energy",
+          "States of Matter",
+          "Physical Properties of Solids",
+          "Applications of Solids",
+          "Technical Terms",
+          "Experimental Activities"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Water as a Natural Resource",
+        "topics": [
+          "Water as a Natural Resource",
+          "Types of Water Based on Availability",
+          "Types of Water Based on Salinity",
+          "Importance of Water",
+          "Water as a Limited Resource",
+          "Water Pollution",
+          "Technical Aspects"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Energy in Day to Day Life",
+        "topics": [
+          "Energy in Day-to-Day Life",
+          "Energy Sources",
+          "Solar Energy Applications",
+          "Biomass Energy",
+          "Wind Energy Applications",
+          "Water-Based Energy",
+          "Sustainable Energy Use",
+          "Modern Energy Technologies"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Light and Vision",
+        "topics": [
+          "Light and Vision",
+          "Luminous and Non-Luminous Objects",
+          "Transmission of Light Through Objects",
+          "Light Rays and Light Beams",
+          "Applications of Light",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Sound and Hearing",
+        "topics": [
+          "Sound and Hearing Basics",
+          "Producing Sounds",
+          "Types of Sounds",
+          "Musical Instruments",
+          "DIY Sound Equipment",
+          "Sound Safety and Responsibility",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Magnets",
+        "topics": [
+          "Magnets in Daily Life",
+          "Effects of Magnets",
+          "Different Types of Magnets",
+          "Magnetic Poles",
+          "Magnetic Forces",
+          "Magnetic Behavior",
+          "Practical Applications",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Electricity for a Comfortable Life",
+        "topics": [
+          "Electricity for Day-to-Day Life",
+          "Generating Electricity",
+          "Preparation of Circuits",
+          "Conductors and Insulators",
+          "Electronic Appliances",
+          "Conservation of Electricity and Prevention of Accidents",
+          "Technical Components"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Heat and Its Effects",
+        "topics": [
+          "Heat and Its Sources",
+          "Effects of Heat",
+          "Heat and Environment",
+          "Heat Measurements and Properties",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Food Related Interactions",
+        "topics": [
+          "Food Related Interactions",
+          "Mode of Nutrition of Animals",
+          "Food Chains",
+          "Food Webs",
+          "Producers and Energy Flow",
+          "Environmental Balance",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Weather and Climate",
+        "topics": [
+          "Weather",
+          "Climate",
+          "Natural Disasters Related to Weather",
+          "Weather Measurement Tools",
+          "Weather Data Analysis",
+          "Technical Terms and Definitions"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 7,
+    "subject": "science",
+    "board": "NEC",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Plant Diversity",
+        "topics": [
+          "Plant Diversity",
+          "Morphological Features of Flowering Plants",
+          "Diversity of Plant Parts",
+          "Monocotyledonous and Dicotyledonous Plants",
+          "Plant Part Functions",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Static Electricity",
+        "topics": [
+          "Static Electricity",
+          "Phenomena Associated with Static Electricity",
+          "Capacitors",
+          "Experimental Activities",
+          "Technical Terms and Concepts"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Generation of Electricity",
+        "topics": [
+          "Generation of Electricity",
+          "Sources of Electricity",
+          "Electric Sources and Terminals",
+          "Solar Panels",
+          "Dynamo",
+          "Direct Current and Alternating Current",
+          "Technical Applications",
+          "Environmental Considerations",
+          "Technical Terms and Measurements"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Functions of Water",
+        "topics": [
+          "Functions of Water as a Solvent",
+          "Functions of Water as a Coolant",
+          "Functions of Water as Medium of Life",
+          "Technical Terms and Definitions",
+          "Exercises and Assignments"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Acids and Bases",
+        "topics": [
+          "Acids and Bases",
+          "Indicators for Testing",
+          "Classification of Substances",
+          "Color Changes with Indicators"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Animal Diversity",
+        "topics": [
+          "Animal Diversity",
+          "Adaptations of Organisms to Environment",
+          "Use of Dichotomous Key for Classification",
+          "Adaptations for Survival"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Forms of Energy and Uses",
+        "topics": [
+          "Forms of Energy and Uses",
+          "Kinetic Energy",
+          "Potential Energy",
+          "Electrical Energy",
+          "Sound Energy",
+          "Light Energy",
+          "Heat/Thermal Energy",
+          "Chemical Energy",
+          "Energy Transformations",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "The Nature of the Earth",
+        "topics": [
+          "The Structure of the Earth",
+          "Tectonic Plates and Plate Tectonics",
+          "Earth's Resources and Features",
+          "Technical Terms and Definitions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Light",
+        "topics": [
+          "Formation of Umbra and Penumbra",
+          "Images Formed by Plane Mirrors",
+          "Images Formed by Curved Mirrors",
+          "Technical Terms and Principles",
+          "Experimental Activities",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "The Correct Use of the Microscope",
+        "topics": [
+          "The Simple Microscope",
+          "Microscope Magnification and Resolution",
+          "The Compound Light Microscope",
+          "Microscopic Observations",
+          "The Electron Microscope",
+          "Historical Development",
+          "Laboratory Safety and Procedures"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Sound",
+        "topics": [
+          "Production of Sound",
+          "Propagation of Sound",
+          "Special Cases of Sound Propagation",
+          "Exercises and Activities"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Biological Processes",
+        "topics": [
+          "Organizational Levels of Life",
+          "Cell Structure and Organization",
+          "Plant Body Systems",
+          "Human Digestive System",
+          "Human Respiratory System",
+          "Energy Production in Living Things"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Atmosphere",
+        "topics": [
+          "Layers of Atmosphere",
+          "Temperature and Pressure Changes",
+          "Air Components",
+          "Functions of Atmosphere",
+          "Air Pollution",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Heat and Temperature",
+        "topics": [
+          "Heat and Temperature",
+          "Methods of Heat Transfer",
+          "Heat Conductors and Insulators",
+          "Applications of Heat Transfer",
+          "Temperature Measurement Devices",
+          "Heat Energy Properties"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Soil",
+        "topics": [
+          "Different Types of Soil",
+          "Composition of Soil",
+          "Soil Profile",
+          "Soil Erosion",
+          "Soil Conservation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "Force and Motion",
+        "topics": [
+          "Distance and Displacement",
+          "Force and Motion",
+          "Effects of Force",
+          "Gravitational Force",
+          "Practical Applications of Force",
+          "Measurement and Units",
+          "Force Characteristics"
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "Nutrients in Food",
+        "topics": [
+          "Food and Nutrients",
+          "Carbohydrates",
+          "Proteins",
+          "Lipids",
+          "Vitamins and Minerals",
+          "Tests to Identify Food",
+          "Balanced Diet",
+          "Dietary Deficiencies",
+          "Fiber in Diet",
+          "Water in Diet"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "Minerals and Rocks",
+        "topics": [
+          "Features of Minerals and Rocks",
+          "Types of Rocks",
+          "Rock Weathering",
+          "Rock Cycle",
+          "Minerals in Sri Lanka",
+          "Sustainable Usage",
+          "Rock Experimentation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "Sources of Energy",
+        "topics": [
+          "Sources of Energy",
+          "Renewable Energy Sources",
+          "Non-renewable Energy Sources",
+          "Sustainable Usage of Energy Sources",
+          "Extra Knowledge Topics"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 8,
+    "subject": "science",
+    "board": "NEC",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Importance of Microorganisms",
+        "topics": [
+          "Microorganisms",
+          "Effects of Microorganisms on Food",
+          "Impact of Microorganisms on Humans and Activities",
+          "Technical Terms and Definitions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Animal Classification",
+        "topics": [
+          "Animal Classification",
+          "Invertebrate Groups",
+          "Vertebrate Groups",
+          "Features of Cnidarians",
+          "Features of Annelids",
+          "Features of Molluscs",
+          "Features of Arthropods",
+          "Features of Birds (Aves)",
+          "Features of Mammals"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Diversity and Functions of Plant Parts",
+        "topics": [
+          "Diversity and Functions of Plant Parts",
+          "Leaf Diversity and Functions",
+          "Stem Diversity and Functions",
+          "Root Diversity and Functions",
+          "Plant Adaptations"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Properties of Matter",
+        "topics": [
+          "Discontinuous Nature of Matter",
+          "Physical Properties of Matter in Relation to Particulate Nature",
+          "Pure Substances and Non-Pure Substances",
+          "Physical Properties of Matter",
+          "Classification of Elements",
+          "Applications of Physical Properties"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Sound",
+        "topics": [
+          "Sound Sources",
+          "Natural and Artificial Sounds",
+          "Frequency of Vibrations",
+          "Musical Instruments by Vibration Type",
+          "Musical Tones and Noises",
+          "Historical Development of Musical Instruments",
+          "Musical Therapy",
+          "Limits of Hearing"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Magnets",
+        "topics": [
+          "Magnets and Magnetic Materials",
+          "Magnetic Poles",
+          "Magnetic Fields",
+          "Geomagnetism",
+          "Types of Magnets",
+          "Making Magnets",
+          "Magnetic Power Loss",
+          "Applications of Magnets",
+          "Technical Terms and Definitions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Measurements Associated with Electricity",
+        "topics": [
+          "Electric Current",
+          "Potential Difference (Voltage)",
+          "Resistance",
+          "Practical Applications",
+          "Circuit Components"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Changes in Matter",
+        "topics": [
+          "Physical Changes and Chemical Changes",
+          "Changes of State",
+          "Combustion",
+          "Tarnishing of Metals",
+          "Neutralization"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Human organ systems",
+        "topics": [
+          "Human Excretory System",
+          "Nervous System",
+          "Human Skin",
+          "Coordination",
+          "Protective Measures"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Electricity",
+        "topics": [
+          "Electricity",
+          "Simple Electric Circuits",
+          "Current Controlling Components",
+          "Household Electrical Appliances",
+          "Effects of Electric Current",
+          "Electromagnetic Applications",
+          "Current Control Systems",
+          "Circuit Safety"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Main biological processes in plants",
+        "topics": [
+          "Photosynthesis",
+          "Transportation",
+          "Transpiration",
+          "Guttation",
+          "Biological Processes Role in Plants"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Life cycles of living organisms",
+        "topics": [
+          "Life Cycles of Living Organisms",
+          "Types of Metamorphosis",
+          "Life Cycles of Plants",
+          "Importance of Life Cycle Knowledge",
+          "Pest Control Applications",
+          "Disease Vector Management",
+          "Conservation Applications",
+          "Environmental Considerations"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Food Preservation",
+        "topics": [
+          "Need of Food Preservation",
+          "Methods of Food Preservation",
+          "Food Preservatives",
+          "Information on Food Packaging",
+          "Advantages and Disadvantages",
+          "Food Processing Guidelines",
+          "Technical Information"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Phenomena and exploration associated with the solar system",
+        "topics": [
+          "The Solar System",
+          "Seasonal Changes",
+          "Phases of Moon",
+          "Eclipses",
+          "Space Exploration",
+          "Constellations",
+          "The Zodiac",
+          "Astronomical Measurements"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Natural Disasters",
+        "topics": [
+          "Natural Disasters",
+          "Drought",
+          "Floods",
+          "Landslides/Earth Slip",
+          "Lightning and Thundering"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 9,
+    "subject": "science",
+    "board": "NEC",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Applications of Micro-organisms",
+        "topics": [
+          "Micro-organisms",
+          "Beneficial Effects of Micro-organisms",
+          "Adverse Effects of Micro-organisms",
+          "Technical Terms and Concepts"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Eye and Ear",
+        "topics": [
+          "Eye and Its Structure",
+          "Vision and Visual Range",
+          "Defects of Vision",
+          "Eye Diseases",
+          "Ear and Its Structure",
+          "Hearing Process",
+          "Defects of Ear",
+          "Ear Protection",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Nature and Properties of Matter",
+        "topics": [
+          "Nature and Properties of Matter",
+          "Elements",
+          "Compounds",
+          "Mixtures"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Basic Concepts Associated with Force",
+        "topics": [
+          "Force",
+          "Magnitude of Force",
+          "Direction of Force and Point of Application",
+          "Graphical Representation of Force",
+          "Practical Applications",
+          "Vector Properties of Force"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Pressure Exerted by Solid",
+        "topics": [
+          "Pressure",
+          "Factors Affecting Pressure",
+          "Manipulating Pressure in Practice",
+          "Real-World Applications",
+          "Problem Solving with Pressure",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "The Human Circulatory System",
+        "topics": [
+          "The Human Circulatory System",
+          "Blood Vessels",
+          "Components of Blood",
+          "Blood Transfusion",
+          "Blood Clotting",
+          "Maintaining Healthy Circulation",
+          "Medical Documentation"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Plant Growth Substances",
+        "topics": [
+          "Plant Growth Substances",
+          "Auxins",
+          "Gibberellins",
+          "Cytokinins",
+          "Artificial Growth Substances",
+          "Plant Growth Processes",
+          "Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Support and Movements of Organisms",
+        "topics": [
+          "Support and Movements of Animals",
+          "Tropic Movements in Plants",
+          "Nastic Movements in Plants",
+          "Plant Support Systems",
+          "Conservation",
+          "Technical Terms Overview"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "The Evolutionary Process",
+        "topics": [
+          "The Evolutionary Process",
+          "Origin of Life",
+          "Evolution",
+          "Importance of Evolution in Bio-diversity",
+          "Fossil Studies",
+          "Human Evolution Evidence in Sri Lanka"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Electrolysis",
+        "topics": [
+          "Electrolysis",
+          "Changes Caused by Electric Current in Solutions",
+          "Electroplating",
+          "Applications",
+          "Technical Aspects",
+          "Practical Considerations"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Density",
+        "topics": [
+          "Introduction to Density",
+          "Units of Density",
+          "Hydrometers",
+          "Measurement of Density",
+          "Practical Applications",
+          "Problem Solving",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Bio-diversity",
+        "topics": [
+          "Introduction to Bio-diversity",
+          "Importance of Bio-diversity",
+          "Threats to Bio-diversity",
+          "Important Features of Ecosystems",
+          "Natural Ecosystems",
+          "Man-made Ecosystems",
+          "Technical Terms and Definitions"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "Artificial Environment and Green Concept",
+        "topics": [
+          "Artificial Environment",
+          "Green Concept",
+          "Agricultural Process",
+          "Industrial Process",
+          "Environmental Impact Concepts"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Reflection and Refraction of Waves",
+        "topics": [
+          "Reflection of Light",
+          "Sound",
+          "Refraction of Light",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Simple Machines",
+        "topics": [
+          "Simple Machines Overview",
+          "Lever",
+          "Inclined Plane",
+          "Wheel and Axle",
+          "Pulleys",
+          "Machine Calculations",
+          "Complex Machines",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "Nanotechnology and its Applications",
+        "topics": [
+          "Nanometer",
+          "Nanotechnology",
+          "Applications of Nanotechnology",
+          "Future Implications and Challenges",
+          "Technical Elements",
+          "Lotus Effect",
+          "Sri Lankan Context"
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "Lightning Accidents",
+        "topics": [
+          "Lightning Accidents",
+          "How Lightning Occurs",
+          "Prevention of Lightning Accidents",
+          "First Aid for Lightning Victims",
+          "Technical Information",
+          "Safety Guidelines"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "Natural Disasters",
+        "topics": [
+          "Natural Disasters",
+          "Cyclones",
+          "Earthquakes",
+          "Tsunami",
+          "Wild Fires",
+          "Global Warming and Natural Disasters",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "Sustainable Use of Natural Resources",
+        "topics": [
+          "Natural Resources",
+          "Water",
+          "Minerals and Rocks",
+          "Gems",
+          "Trees",
+          "Problems and Solutions"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 10,
+    "subject": "science",
+    "board": "NEC",
+    "chapters": [
+      {
+        "chapter_id": "chapter_1",
+        "title": "Chemical basis of life",
+        "topics": [
+          "Chemical Basis of Life",
+          "Biomolecules",
+          "Tests for Biomolecules",
+          "Water",
+          "Minerals",
+          "Vitamins",
+          "Enzymes"
+        ]
+      },
+      {
+        "chapter_id": "chapter_2",
+        "title": "Motion in a straight line",
+        "topics": [
+          "Motion in a Straight Line",
+          "Speed",
+          "Velocity",
+          "Acceleration",
+          "Displacement-Time Graphs",
+          "Velocity-Time Graphs",
+          "Gravitational Acceleration",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_3",
+        "title": "Structure of matter",
+        "topics": [
+          "Structure of Matter",
+          "Periodic Table",
+          "Types of Elements",
+          "Chemical Formulae",
+          "Isotopes",
+          "Trends in Properties"
+        ]
+      },
+      {
+        "chapter_id": "chapter_4",
+        "title": "Newton's laws of motion",
+        "topics": [
+          "Nature of Force and its Effects",
+          "Newton's Laws of Motion",
+          "Momentum",
+          "Mass and Weight",
+          "Technical Terms",
+          "Practice Problems",
+          "Summary Points"
+        ]
+      },
+      {
+        "chapter_id": "chapter_5",
+        "title": "Friction",
+        "topics": [
+          "Nature of Friction",
+          "Types of Frictional Forces",
+          "Factors Affecting Limiting Friction",
+          "Methods of Reducing Friction",
+          "Practical Applications of Friction",
+          "Benefits and Disadvantages"
+        ]
+      },
+      {
+        "chapter_id": "chapter_6",
+        "title": "Structure and functions of the plant and animal cell",
+        "topics": [
+          "Basic Unit of Life and Cell Concept",
+          "Structure of Cells",
+          "Cell Organelles",
+          "Cell Growth and Division",
+          "Differences Between Cell Types",
+          "Significance of Cell Division",
+          "Technical Terms and Concepts"
+        ]
+      },
+      {
+        "chapter_id": "chapter_7",
+        "title": "Quantification of elements and compounds",
+        "topics": [
+          "Relative Atomic Mass (Ar)",
+          "Relative Molecular Mass (Mr)",
+          "Avogadro Constant",
+          "Mole",
+          "Molar Mass",
+          "Technical Terms",
+          "Quantitative Calculations"
+        ]
+      },
+      {
+        "chapter_id": "chapter_8",
+        "title": "Characteristics of organisms",
+        "topics": [
+          "Characteristics of Organisms",
+          "Special Topics",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_9",
+        "title": "Resultant force",
+        "topics": [
+          "Resultant Force",
+          "Resultant of Several Forces",
+          "Collinear Forces",
+          "Parallel Forces",
+          "Inclined Forces",
+          "Force Measurement",
+          "Applications",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_10",
+        "title": "Chemical bonds",
+        "topics": [
+          "Chemical Bonds",
+          "Ionic Bonds",
+          "Covalent Bonds",
+          "Atomic Lattice",
+          "Polarity of Bonds",
+          "Intermolecular Bonds",
+          "Properties of Ionic and Covalent Compounds",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_11",
+        "title": "Turning effect of a force",
+        "topics": [
+          "Moment",
+          "Couple of Forces",
+          "Technical Terms",
+          "Practical Investigations",
+          "Mathematical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_12",
+        "title": "Equilibrium of forces",
+        "topics": [
+          "Equilibrium of Forces",
+          "Equilibrium of a Body Under Two Forces",
+          "Equilibrium of a Body Under Three Coplanar Parallel Forces",
+          "Equilibrium of a Body Under Three Forces That Are Not Parallel",
+          "Technical Terms and Concepts",
+          "Summary Points"
+        ]
+      },
+      {
+        "chapter_id": "chapter_13",
+        "title": "The world of life",
+        "topics": [
+          "Classification of Organisms",
+          "Three Domain System",
+          "Kingdom Protista",
+          "Kingdom Fungi",
+          "Kingdom Plantae",
+          "Kingdom Animalia",
+          "Nomenclature of Organisms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_14",
+        "title": "Continuity of life",
+        "topics": [
+          "Reproduction",
+          "Plant Reproduction",
+          "Flower Structure and Function",
+          "Pollination",
+          "Fertilization and Seed Development",
+          "Dispersal of Fruits and Seeds",
+          "Human Reproduction",
+          "Sexually Transmitted Diseases",
+          "Hormonal Coordination in Reproduction"
+        ]
+      },
+      {
+        "chapter_id": "chapter_15",
+        "title": "Hydrostatic pressure and its applications",
+        "topics": [
+          "Pressure",
+          "Hydrostatic Pressure",
+          "Pressure Transmission Applications",
+          "Gas Pressure",
+          "Atmospheric Pressure",
+          "Floatation",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_16",
+        "title": "Changes in matter",
+        "topics": [
+          "Changes in Matter",
+          "Reactivity of Metals",
+          "Gases - Preparation, Properties and Uses",
+          "Collection Methods for Gases"
+        ]
+      },
+      {
+        "chapter_id": "chapter_17",
+        "title": "Rate of reactions",
+        "topics": [
+          "Rate of Reactions",
+          "Factors Affecting Rate of Reactions",
+          "Industrial Applications",
+          "Experimental Activities",
+          "Technical Calculations",
+          "Practical Applications"
+        ]
+      },
+      {
+        "chapter_id": "chapter_18",
+        "title": "Work, energy and power",
+        "topics": [
+          "Work",
+          "Energy",
+          "Mechanical Energy",
+          "Power",
+          "Technical Terms"
+        ]
+      },
+      {
+        "chapter_id": "chapter_19",
+        "title": "Current electricity",
+        "topics": [
+          "Static and Current Electricity",
+          "Potential Difference and Electromotive Force",
+          "Ohm's Law",
+          "Factors Affecting Resistance",
+          "Types of Resistors",
+          "Resistor Combinations",
+          "Electrical Safety",
+          "Measuring Instruments"
+        ]
+      },
+      {
+        "chapter_id": "chapter_20",
+        "title": "Inheritance",
+        "topics": [
+          "Diversity Among Organisms",
+          "Mendel's Experiments About Inheritance",
+          "Basic Concepts of Genetics",
+          "Heredity of Human",
+          "Human Inherited Disorders",
+          "Genetic Engineering",
+          "Applications of Inheritance Knowledge"
+        ]
+      }
+    ]
+  }
+]
