@@ -76,7 +76,6 @@ pc_api_key = os.environ.get("PINECONE_API_KEY")
 
 # Initialize Pinecone
 pc = Pinecone(api_key=pc_api_key)
-#pc = Pinecone(api_key="pcsk_2QFSvn_PaPvwcny3N6TaR4NBbBXESScoKWiMm2VtWqJDdhDdVtWURkRGpQPJHUXegbKzuo")
 
 vertexai.init(project="ivory-streamer-473110-e4", location="us-central1")  # update region
 model = GenerativeModel('gemini-2.5-flash')
